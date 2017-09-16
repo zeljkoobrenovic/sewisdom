@@ -250,7 +250,11 @@ Hendler J., Shadbolt N., Wendy Hall, Tim Berners-Lee, and Daniel Weitzner (2008)
 **Web science: an interdisciplinary approach to understanding the web**, 
 *Commun. ACM 51 (7)*, (July 2008), 60-69.
   
-  
+{#Holmquist2017}
+Holmquist L. E. (2017):
+**Intelligence on tap: artificial intelligence as a new design material**,
+*interactions 24, 4*, pp. 28-33.
+
 {#Hutchins1995}
 Hutchins, E. (1995):  
 ***Cognition in the Wild***,    
