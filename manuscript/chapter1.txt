@@ -17,7 +17,7 @@ Our ambition is to provide a novel and more structured view on complexity in des
 Due to our personal backgrounds and interests, we have to limit our overview, to some degree, to discussions about complexity found in areas related to software and interaction design, in particular to those contributions that base their claims in observations of design practice (e.g. [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g. [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
-## Background and Definitions
+## A. Background and Definitions
 
 Before we start, it is important to examine the notion of "complexity", as it is a very broad and loaded term. The term "complexity" is often associated with “complexity science”, which deals with a quite  specific scientific usage of the term complexity. It is important to note that we do not aim at covering the meaning of complexity from this more scientific perspective. Instead we will explore and examine design complexity as a form of “complex circumstances”, that is, we take a quite commonsense and practical approach to the notion. We are trying to stay close to the more everyday way of experiencing and understanding complexity that might be found among designers.
 
@@ -35,7 +35,7 @@ Another aspect of the structural-cognitive division stems from the fact that our
 The object of analysis when it comes to design complexity must therefore include both cognition and structure, at least if the purpose is to develop a complete understanding of the phenomena. In other words, many of our cognitive skills are developed in interaction with objects and environments, and we cannot understand them without taking into account the context where such cognition takes place, and the objects with which humans interact. However, such an investigation would be too overwhelming for our purpose.
 
 
-## Analyzing Design Complexity with a Simple Model
+## B. Analyzing Design Complexity with a Simple Model
 
 In this book, and in line with the definition of complexity from the previous section, we will primarily focus on the qualitative, more subjective side of design complexity. Our goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities. We want to investigate why design is by many seen as difficult and why it is commonly attributed to the complexity of design. And what can be done to support our understanding of design complexity to make it less intimidating and maybe even possible to handle.
 
@@ -56,7 +56,7 @@ While the complexity of individual elements of design activities, such as intrin
 It is important to remember that elements in our model are abstract analytical concepts (or what is sometimes called ‘ideal types’). In reality, these elements are not clearly separated, instead they are all blended together. Reality is far from as clean and distinct as the model. In reality, we may struggle with determining what belongs to what element, what the interrelationships actually are. Nevertheless, these concepts are regularly used in design literature, and we believe that they help in structuring discussions on design complexity.
 
 
-## The Structure of the Book
+## C. The Structure of the Book
 
 The rest of this book is organized in two main parts.
 

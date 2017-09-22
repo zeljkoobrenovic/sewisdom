@@ -13,7 +13,7 @@ In this part we discussion our view of the main reasons behind instability of de
 Our main goal is to provide an initial categorization of these topics, and to relate them to the patterns from the previous chapter. Our overview of sources of design instability is not intended to be complete, and proposed classification is not a clear-cut.
 
 
-## The Moving Target Problem
+## A. The Moving Target Problem
 
 **Summary**: *Design situations change more rapidly than designers’ understanding of them. Consequently, designers need to work without having significant experience with, and understanding of the design situation. Waiting to obtain more experience and better understanding is risky as the issues may quickly become less important or obsolete.*
 
@@ -42,7 +42,7 @@ Constant change contributes significantly to instability of design activities be
 ![The snapshot from http://www.evolutionoftheweb.com/ website. The website illustrates the evolution of web technologies, like HTML5, CSS3 and WebGL and web browsers.](images/webevolution.png)
 
 
-## Increasing Interconnectivity
+## B. Increasing Interconnectivity
 
 **Summary**: *Design situations, design outcome and design techniques are increasingly more globally interconnected.*
 
@@ -64,7 +64,7 @@ Increasing interconnectivity leads to more instability of design activities, as 
 
 
 
-## Learning and Creativity
+## C. Learning and Creativity
 
 **Summary**: *Behaviors and expectations of people are constantly changing due to continuous learning and creativity of involved people.*
 
@@ -85,7 +85,7 @@ Learning and creativity contribute significantly to instability of design activi
 The *cherry picking* pattern may be viewed as an attempt to avoid extensive learning. In this pattern, designers know limitations of their techniques, and are applying them only in situations where they have proved their value and no surprises are expected.
 
 
-## Tacit Knowledge and Skills
+## D. Tacit Knowledge and Skills
 
 **Summary**: *Designers are relying on tacit knowledge and skills that they do not fully understand and cannot fully explain.*
 
@@ -100,7 +100,7 @@ Tacit knowledge is crucial in design, but because of its implicit nature, it is 
 ![A Pianist, Wikimedia Commons](images/Pianist.jpg)
 
 
-## Lack of Strong Principles, Theories and Laws
+## E. Lack of Strong Principles, Theories and Laws
 
 **Summary**: *Designers are dealing with poorly understood phenomena, for which we do not have strong underlying principles, theories and laws.*
 

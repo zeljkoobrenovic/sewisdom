@@ -24,7 +24,7 @@ Since working with all elements, even though few, at once would present some com
 * Interactions between design situations and design techniques.
 
 
-## Interactions Between Design Situations and Design Outcomes
+## A. Interactions Between Design Situations and Design Outcomes
 
 The relation between a design situation and a design outcome seems to be the most complex relation in any design activity. In the design literature, we have found several common and often interconnected views on this relation, which we describe in the following five patterns:
 
@@ -128,7 +128,7 @@ The puzzle solving pattern is also useful in education, where problems can be ar
 
 
 
-## Interactions Between Design Outcomes and Techniques
+## B. Interactions Between Design Outcomes and Techniques
 
 Similar to the relation between situation and outcome, the relation between design outcomes and design techniques is in design literature described as complex and bidirectional. The way the design process is set up when it comes to steps, phases, and activities has direct consequences on what can potentially be designed. On the other hand, design outcome may also influence design techniques. We discuss the following patterns of relations:
 
@@ -187,7 +187,7 @@ Closely related to opportunistic design is end-user development and meta-design 
 This pattern is related to the *a solution looking for a problem* pattern as new opportunities embedded in a design outcome may lead to new usages.
 
 
-## Interactions Between a Design Situation and a Design Technique
+## C. Interactions Between a Design Situation and a Design Technique
 
 The design situation and the design technique can influence each other in a number of ways. A designer is often pictured as a craftsman, that is, as someone who picks and chooses tools freely based on the situation and grounded in a judgment of overall benefits from using a specific technique ([Stolterman 2008](#Stolterman2008b)). Many of these factors are influenced by the specifics of the design situation at hand, and the designer has limited influence on them. Budget limitations, for instance, can influence the selection of materials and consequently tools and processes to work with these materials. The deadline imposed by clients may restrict the number of design iterations and limit the amount of testing and evaluation. Size and criticality of a situation may ask for different software development approaches (e.g. [Cockburn 2000](#Cockburn2000)). In some situations, the customer may ask a designer and his company to use some technique, for example, the Scrum software development methodology.
 
@@ -241,7 +241,7 @@ Cherry picking is not necessarily a negative phenomenon. [Ries and Ries (2002: p
 In domains where a rigor in applying a technique is valued more than the practical value of a design outcome, such as in academic environments, this issue can be even more elaborate. [Greenberg and Buxton (2008])(#Greenberg2008), for example, argued that the ACM CHI conference has a methodology bias, where certain kinds of methods are considered more ‘correct’ and thus acceptable than others, with the consequence that people now likely generate ‘research questions’ and ‘designs’ that are amenable to a chosen method, rather than the other way around: “*That is, they choose a method perceived as ‘favored’ by review committees, and then find or fit a problem to match it. … That is, researchers first choose the method (e.g., controlled study) and then concoct a problem that fits that method.*” In this case the domain and selection of situations that are of interest for that domain (in this example the interaction design domain) is more influenced and shaped by the tools and methods that we like than by the importance of the problems.
 
 
-## Complex Patterns of Interactions
+## D. Complex Patterns
 
 Patterns may facilitate describing complex influences among elements of design activities as a combination of several higher-level arrangements of such influences. In this way, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution* pattern. A novel or better technique may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *good carpenter* and *eating its own dog food* patterns the technique can further develop and gain popularity. Once stabile and popular the technique may become a de facto standard, and lead to the *technique conformity* pattern. The *technique conformity* may lead the *technique signature* pattern. The *technique signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
 
