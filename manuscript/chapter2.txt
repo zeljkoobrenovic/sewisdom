@@ -1,4 +1,6 @@
-# Interactions
+![](images/erasmus-bridge.jpg)
+
+# Part II: Interactions
 
 In this part of our notes we will discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex interactions among design situations, design outcomes and design techniques.
 

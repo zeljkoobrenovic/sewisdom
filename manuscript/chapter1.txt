@@ -1,6 +1,4 @@
-![](images/erasmus-bridge.jpg)
-
-# Introduction
+# Part I: Introduction
 
 The process of designing is complex. Any design process deals with an overwhelmingly rich reality, undetermined requirements, highly intricate social situations, lack of information, and not the least resource and time restrictions. Every designer[^fooDesigner] is faced and challenged by this complexity.
 
