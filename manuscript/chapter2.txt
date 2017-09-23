@@ -53,6 +53,8 @@ Simon ([1996](#Simon1996)) also stated that a goal of design might actually be t
 
 In the domain of software design, Brooks noted that the most difficult part of software design is deciding precisely what to build. In his view, it is really impossible for a client to specify completely, precisely, and correctly the exact requirements of a software product before trying some versions of the product ([Brooks 1995](#Brooks1995)). Brooks went further to claim that a core service offered by a designer is not only providing a solution but helping clients to discover what they want designed ([Brooks 2010](#Brooks2010), page 23). Studies of success of software projects confirm this observation, as badly defined system requirements are one of the main reasons for failure of software projects ([Charette 2005](#Charette2005)).
 
+![Hummingbirds and bird-pollinated flowers have co-evolved a mutualistic relationship, Wikimedia Commons](images/coevolution.jpg)
+
 
 {#Boomerang}
 ### PATTERN 2: BOOMERANG
@@ -179,21 +181,21 @@ This pattern is connected to the *good carpenter* pattern. Having tools and skil
 ![Hammer-heads optimized for different purposes, Wikimedia Commons](images/hammerheads.png)
 
 
-### PATTERN 8: OPPORTUNISTIC DESIGN
+### PATTERN 8: DESIGN-BY-BUZZWORD
 
-**Summary**: *New opportunities of a particular technique are shaping the design outcome. A designer is joining a growing trend in using some technology, often in an opportunist way.*
+**Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of a particular technique are shaping the design outcome.*
 
-**Alternative name**: *design-by-buzzword*
+**Alternative name**: *opportunistic design*
 
-Opportunistic design is a relation between design outcomes and design techniques where designers are attempting to produce useful application for some novel, not widely explored opportunities of their design techniques (e.g. [Ncube et al. 2008](#Ncube2008)). Opportunistic design is consequence of both, designer’s creativity, as well as changed expectations of users who are constantly learning about technology advances. Introduction an iPhone, for instance, radically changed user’s expectations of mobile applications ([e.g. see "How iPhone Changed the World"](http://www.cultofmac.com/103229/how-iphone-changed-the-world/)).
+Design-by-buzzword is a relation between design outcomes and design techniques where designers are attempting to produce useful application for some novel, not widely explored opportunities of their design techniques (e.g. [Ncube et al. 2008](#Ncube2008)). Design-by-buzzword is consequence of both, designer’s creativity, as well as changed expectations of users who are constantly learning about technology advances. Introduction an iPhone, for instance, radically changed user’s expectations of mobile applications ([e.g. see "How iPhone Changed the World"](http://www.cultofmac.com/103229/how-iphone-changed-the-world/)).
 
-![iPhone family. . Introduction an iPhone radically changed user’s expectations of mobile applications](images/iPhone-Family_US-EN-PRINT.png)
+![iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications](images/iPhone-Family_US-EN-PRINT.png)
 
 New technology opportunities are one of the main reasons for constant change of designs. [Brooks (1995)](#Brooks1995) noted that new opportunities in technology are often driving the changes of software design: “*If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity*” (page 12). [Boehm and Bhuta (2008)](#Boehm2008) argued that software projects that do not capitalize on new opportunities will generally find their products unable to compete.
 
-Opportunistic design may also lead to unnecessary complex and unsuccessful projects. [Roy Thomas Fielding (2000)](#Fielding2000), in what he called "design-by-buzzword", noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture.
+Design-by-buzzword may also lead to unnecessary complex and unsuccessful projects. [Roy Thomas Fielding (2000)](#Fielding2000), in what he called "design-by-buzzword", noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture.
 
-Closely related to opportunistic design is end-user development and meta-design ([Fischer et al. (2004)](#Fischer2004)). They elaborated that, rather than presenting users with closed systems, meta-design provides them with opportunities, tools, and social structures to adapt and extend the system to fit their needs.
+Closely related to design-by-buzzword is end-user development and meta-design ([Fischer et al. (2004)](#Fischer2004)). They elaborated that, rather than presenting users with closed systems, meta-design provides them with opportunities, tools, and social structures to adapt and extend the system to fit their needs.
 
 This pattern is related to the *a solution looking for a problem* pattern as new opportunities embedded in a design outcome may lead to new usages.
 
