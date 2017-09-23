@@ -29,8 +29,8 @@ Since working with all elements, even though few, at once would present some com
 The relation between a design situation and a design outcome seems to be the most complex relation in any design activity. In the design literature, we have found several common and often interconnected views on this relation, which we describe in the following five patterns:
 
 * Co-Evolution,
-* Boomerang,
 * A Solution Looking for a Problem,
+* Boomerang,
 * Collateral Damage, and
 * Puzzle Solving.
 
@@ -56,8 +56,28 @@ In the domain of software design, Brooks noted that the most difficult part of s
 ![Hummingbirds and bird-pollinated flowers have co-evolved a mutualistic relationship, Wikimedia Commons](images/coevolution.jpg)
 
 
+### PATTERN 2: A SOLUTION LOOKING FOR A PROBLEM
+
+**Summary**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
+
+**Motto**: *“When humans possess a tool, they excel at finding new uses for it”* ([Nye 2006](#Nye2006))
+
+
+Design solutions may exist before situations in which they are used. We often find new uses for things we already have. [Nye (2006, page 2)](#Nye2006) noted that when humans possess a tool, they excel at finding new uses for it. He argued that necessity is often not the mother of invention. He elaborated that in many cases, the opposite was the case. The tool often exists before the problem to be solved. Nye concluded that latent in every tool are unforeseen transformations.
+
+Similarly, [Pescio (1997)](#Pescio1997) discussed how existing design solution may become a part of a new problem domain:
+
+*“If we don't have a problem at hand to solve, we look for one—that's the emotional root of research and where our attention first focuses. We need a deliberate act of will to exclude solutions from our thinking at the analysis stage so that we can concentrate on fully describing the problem. More often than we'd like, we inject past solutions into the problem domain during the next development round. More precisely ... we inject part of the solution domain into the problem domain whenever the same or a similar project is revisited. When your system is maintained, ported, and reengineered over several years, it becomes harder and harder to properly recognize fragments of solutions that were injected earlier. They become accepted as part of the problem domain.”* ([Pescio 1997](#Pescio1997))
+
+Norman explored this issue as well, claiming that major innovations came from technologists who had little understanding of the problem domain ([Norman 2010](#Norman2010)). He stated that this is true for almost all of the powerful inventions that have changed society: the airplane, the automobile, the telephone, the radio, the television, the computer, the personal computer, the internet, SMS text messaging, and the cellphone. Norman claimed that with many of these inventions, the technology came first, the products second, and then the needs slowly appeared. New applications are first considered to be luxuries, after a while they become "needs," and finally, they may end up being seen as essential. In his earlier work, [Norman (2008)](#Norman2008) similarly explored how unordinary usages of ordinary products may lead to new requirements (change in design situation) and new products. Norman provided an example of Nokia's designers, who added a penlight to some of their phones after visiting China and noticing that people were using displays of their mobile phones as a source of light.
+
+Once a new usage of a design “solution” emerges, the new situation often starts to influence further evolution of the original “solution”. Brooks, for instance noted that all successful software gets changed partially because as a software product is found to be useful, people try it in new cases at the edge of, or beyond, the original domain ([Brooks 1995, page 12](#Brooks1995)).
+
+![SMS messages sent monthly in the United States (in billions), Wikipedia](images/sms.png)
+
+
 {#Boomerang}
-### PATTERN 2: BOOMERANG
+### PATTERN 3: BOOMERANG
 
 **Summary**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes unsuccessful, obsolete or irrelevant. Such reactions would normally not occur without the design activity.*.
 
@@ -76,24 +96,6 @@ The boomerang may also occur even before any observable design activity has star
 In software design a similar effect we may find in ["vaporware"](https://en.wikipedia.org/wiki/Vaporware) or other practices of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products (e.g. [Heiko 2004](#Heiko2004); [Richard 1995](#Richard1995)). Such, often very simple announcements, may radically change the market and clients’ expectations.
 
 ![The U.S. Justice Department accused IBM of intentionally announcing its System/360 Model 91 computer (pictured) three years early to hurt sales of its competitor's computer, Wikimedia Commons](images/360-91-Panel.jpg)
-
-
-### PATTERN 3: A SOLUTION LOOKING FOR A PROBLEM
-
-**Summary**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
-
-**Motto**: *“When humans possess a tool, they excel at finding new uses for it”* ([Nye 2006](#Nye2006))
-
-
-Design solutions may exist before situations in which they are used. We often find new uses for things we already have. [Nye (2006, page 2)](#Nye2006) noted that when humans possess a tool, they excel at finding new uses for it. He argued that necessity is often not the mother of invention. He elaborated that in many cases, the opposite was the case. The tool often exists before the problem to be solved. Nye concluded that latent in every tool are unforeseen transformations.
-
-Similarly, [Pescio (1997)](#Pescio1997) discussed how existing design solution may become a part of a new problem domain:
-
-*“If we don't have a problem at hand to solve, we look for one—that's the emotional root of research and where our attention first focuses. We need a deliberate act of will to exclude solutions from our thinking at the analysis stage so that we can concentrate on fully describing the problem. More often than we'd like, we inject past solutions into the problem domain during the next development round. More precisely ... we inject part of the solution domain into the problem domain whenever the same or a similar project is revisited. When your system is maintained, ported, and reengineered over several years, it becomes harder and harder to properly recognize fragments of solutions that were injected earlier. They become accepted as part of the problem domain.”* ([Pescio 1997](#Pescio1997))
-
-Norman explored this issue as well, claiming that major innovations came from technologists who had little understanding of the problem domain ([Norman 2010](#Norman2010)). He stated that this is true for almost all of the powerful inventions that have changed society: the airplane, the automobile, the telephone, the radio, the television, the computer, the personal computer, the internet, SMS text messaging, and the cellphone. Norman claimed that with many of these inventions, the technology came first, the products second, and then the needs slowly appeared. New applications are first considered to be luxuries, after a while they become "needs," and finally, they may end up being seen as essential. In his earlier work, [Norman (2008)](#Norman2008) similarly explored how unordinary usages of ordinary products may lead to new requirements (change in design situation) and new products. Norman provided an example of Nokia's designers, who added a penlight to some of their phones after visiting China and noticing that people were using displays of their mobile phones as a source of light.
-
-Once a new usage of a design “solution” emerges, the new situation often starts to influence further evolution of the original “solution”. Brooks, for instance noted that all successful software gets changed partially because as a software product is found to be useful, people try it in new cases at the edge of, or beyond, the original domain ([Brooks 1995, page 12](#Brooks1995)).
 
 
 
