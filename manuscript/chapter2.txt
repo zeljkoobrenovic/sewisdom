@@ -165,13 +165,13 @@ The main disadvantage of using tools with predefined elements and constraints is
 
 The technique signature pattern is also visible at the level of design processes and organizations. Established processes and organizational structures may influence the form of design outcomes. Melvin Conway, in what is nowadays known as *the Conway's law*, stated that organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations ([Conway 1968](#Conway1968), [http://www.design.caltech.edu/erik/Misc/Conway.html](http://www.design.caltech.edu/erik/Misc/Conway.html)). For instance, two software modules A and B cannot interface correctly with each other unless the designer and implementer of A communicates with the designer and implementer of B. Similarly, [Bass et al. (2012)](#Bass2012) reported a case in which a software architect was asked by the management to add a database component to the software solution, not because of its suitability, but because the database department of the company was overstaffed and underworked and they needed something to do (page 59). [MacCormack et al. 2012](#MacCormack2012) explored the duality between product and organizational architectures, highlighting the impact of organizational design decisions on the technical structure of the artifacts that these organizations develop.
 
-![Conway's Law in action, [Martin Fowler](https://martinfowler.com/articles/microservices.html)](images/conways-law.png)
+![Conway's Law in action, Martin Fowler, https://martinfowler.com/articles/microservices.html](images/conways-law.png)
 
 
 ### PATTERN 7: OUTCOME SIGNATURE
 
 **Summary**: *A design technique is adapted to the design outcome, sometime to the point that a design technique reflects in many aspects the intended shape of the outcome.*
-
+**Alternative names**: *Inverse Conway's law*
 
 The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. The design tools often need to be adapted to create a particular design outcome. For example, many software design tools are configurable so that frequently used functions are more easily accessible (e.g. via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult.
 

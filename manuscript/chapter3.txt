@@ -59,7 +59,7 @@ Increasing interconnectivity leads to more instability of design activities, as 
 
 ![Partial map of the Internet based on the January 15, 2005 data found on opte.org, Wikimedia Commons](images/Internet_map_1024_-_transparent,_inverted.png)
 
-![Increased mobile phone and internet usage, Source: [Source: International Telecommunications Union](http://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx)](images/connectivity-stats.png)
+![Increased mobile phone and internet usage, Source: International Telecommunications Union](images/connectivity-stats.png)
 
 
 
