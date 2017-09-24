@@ -32,7 +32,7 @@ The term "complexity" is often associated with “complexity science”, which d
 
 In this book, and in line with the definition of complexity from the previous section, we will primarily focus on the qualitative, more subjective side of design complexity. Our goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities. We want to investigate why design is by many seen as difficult and why it is commonly attributed to the complexity of design. And what can be done to support our understanding of design complexity to make it less intimidating and maybe even possible to handle.
 
-For these purposes, we adopt a simple analytic model. This model focuses on the analysis of complexity of design activities as a consequence of interactions among the elements design situations, design outcomes and design techniques (Figure 1). We are fully aware that our model is not comprehensive and does simplify the process of design into very crude and abstract elements, however, we believe that this is a necessary consequence of our aim to create and overview understanding that is both graspable and hopefully useful.
+For these purposes, we adopt a simple analytic model. This model focuses on the analysis of complexity of design activities as a consequence of interactions among the elements design situations, design outcomes and design techniques. We are fully aware that our model is not comprehensive and does simplify the process of design into very crude and abstract elements, however, we believe that this is a necessary consequence of our aim to create and overview understanding that is both graspable and hopefully useful.
 
 Our analytic model views complexity of design activities as originating from the designers’ difficulty to:
 
@@ -40,11 +40,11 @@ Our analytic model views complexity of design activities as originating from the
 * create and understand design outcomes (design solutions), and
 * understand, master and use design techniques (design methodologies, procedures and tools).
 
-![Figure 1: The Analytics Model for Design Complexity: Interactions among Design Situations, Outcomes and Techniques](images/Model.png)
+![The Analytics Model for Design Complexity: Interactions among Design Situations, Outcomes and Techniques](images/Model.png)
 
 Each of these elements can, of course, individually have a seriously complex structure. Designers are dealing with highly complex social, psychological and technological issues. With the highly developed technology, cultural diversity, and economically and socially intricate society we are facing today, final design outcomes seems to be getting more and more complex. Given this richness and complexity, it is in many cases impossible for one single individual to completely understand all aspects of the design. The design process has developed to include many individuals, teams, all with special skills and competences. At the same time, the design process is becoming increasingly complex due to the use of advanced and constantly changing tools and methodologies. Each of these tools and methodologies is supposed to make the design process easier (and to reduce complexity in some way). But because of their number and constant development, they seem to add to the complexity of the design process.
 
-While the complexity of individual elements of design activities, such as intrinsic complexity of design outcomes (e.g. systems) has been addressed by previous work (e.g. Simon 1996), the complex interdependence of these elements of design activities has received relatively little attention. We focus on this later aspect.
+While the complexity of individual elements of design activities, such as intrinsic complexity of design outcomes (e.g. systems) has been addressed by previous work (e.g. Simon 1996), complex interdependencies of these elements of design activities has received relatively little attention. We focus on this later aspect as we believe that these interdependencies are main sources of complexity characteristic for design activities.
 
 It is important to remember that elements in our model are abstract analytical concepts (or what is sometimes called ‘ideal types’). In reality, these elements are not clearly separated. Nevertheless, these concepts are regularly used in design literature, and we believe that they help in structuring discussions on design complexity.
 
