@@ -1,4 +1,4 @@
-# Part III: Sources of Design Complexity
+# Part III: Sources of Design Instability
 
 Many factors contribute to instability of design activities. Designers have to make decisions in a limited time based on the imperfect information that they have. They are working in situations that are constantly changing due to forces beyond their control. Designers are using and relying on knowledge and skills that they do not fully understand and cannot explain. And at the same time, they do not have any strong underlying principles, theories and laws to guide them.
 

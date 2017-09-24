@@ -1,6 +1,6 @@
 ![](images/erasmus-bridge.jpg)
 
-# Part II: Interactions
+# Part II: Patterns of Design Instability
 
 In this part of our notes we will discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex interactions among design situations, design outcomes and design techniques.
 
@@ -34,6 +34,7 @@ The relation between a design situation and a design outcome seems to be the mos
 * Collateral Damage, and
 * Puzzle Solving.
 
+![This section focuses on Interactions among Design Situations and Outcomes](images/Model_Situation_Outcome.png)
 
 ### PATTERN 1: CO-EVOLUTION
 
@@ -140,8 +141,9 @@ Similar to the relation between situation and outcome, the relation between desi
 
 * Technique Signature,
 * Outcome Signature, and
-* Opportunistic Design.
+* Design-by-Buzzword.
 
+![This section focuses on Interactions among Design Outcomes and Techniques](images/Model_Outcome_Technique.png)
 
 ### PATTERN 6: TECHNIQUE SIGNATURE
 
@@ -213,6 +215,8 @@ We discuss the following patterns of these relations between the design techniqu
 * Good Carpenter, and
 * Cherry Picking.
 
+![This section focuses on Interactions among Design Situation and Techniques](images/Model_Situation_Technique.png)
+
 
 ### PATTERN 9: TECHNIQUE CONFORMITY
 
@@ -267,5 +271,5 @@ When describing design activity as a combination of relational patterns, it is i
 
 This difference in temporality and location of patterns suggest the need for techniques to estimate the long-term impact of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software engineers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support these types of reasoning. For example, the *co-evolution* pattern is normally intrinsic to the design activity and people involved in it, and the pattern exists during a concrete project. The *boomerang pattern*, on the other hand is primarily a consequence of indirect interaction though a number of elements outside the main design activity. Some patterns reflect both short-term and long-term relations. For example, the *eating its own dog food* pattern has immediate short-term effect on the project where it is being used, but it also promotes particular techniques, which, on the long-term, will influence many other design projects.
 
-Lastly, the proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *good carpenter* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *opportunistic design* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *collateral damage* patterns, as we are dealing with more novel and unknown elements.
+Lastly, the proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *good carpenter* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *collateral damage* patterns, as we are dealing with more novel and unknown elements.
 
