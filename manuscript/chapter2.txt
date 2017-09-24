@@ -26,6 +26,8 @@ Since working with all elements, even though few, at once would present some com
 
 ## A. Interactions Between Design Situations and Design Outcomes
 
+![This section focuses on Interactions among Design Situations and Outcomes](images/Model_Situation_Outcome.png)
+
 The relation between a design situation and a design outcome seems to be the most complex relation in any design activity. In the design literature, we have found several common and often interconnected views on this relation, which we describe in the following five patterns:
 
 * Co-Evolution,
@@ -33,8 +35,6 @@ The relation between a design situation and a design outcome seems to be the mos
 * Boomerang,
 * Collateral Damage, and
 * Puzzle Solving.
-
-![This section focuses on Interactions among Design Situations and Outcomes](images/Model_Situation_Outcome.png)
 
 ### PATTERN 1: CO-EVOLUTION
 
@@ -90,11 +90,11 @@ A similar story is the development of the IBM PC ([Goth 2011](#Goth2011)). IBM u
 
 *“And management said, ‘Okay, fine. It won't hurt anything. It's not going to mess up our business. You're not trying to replace us. You have 10 or 12 people. When you find it's really not much of anything, you'll come back and we'll do real computing.’ That was the attitude. They weren't afraid. They thought it would be, maybe, interesting. It might actually be a follow-on to Displaywriter and Datamaster. We'd sell maybe 100,000 or 200,000 units, and then we'd keep doing computing as we had always done it. So that's why they left us alone. We were off the radar.”* ([Goth 2011](#Goth2011), page 26)
 
-![IBM Personal Computer, 1981, mit Handbüchern; Museum für Angewandte Kunst, Frankfurt am Main, Wikimedia Commons](images/IBM_PC_1981_makffm.jpg)
-
 The boomerang may also occur even before any observable design activity has started. The mere decision to work on some design situation may cause a number of reactions that may change that situation. Lawson noted that once a design situation has been identified it is no longer possible to avoid making a decision about design outcome ([Lawson 2005](#Lawson2005), page 115). He elaborated that in many real-life design situations it is not possible to take no action because the very process of avoiding or delaying a decision has an effect. For example, if a new road is planned but the route remains under debate for any lengthy period, the property in the region of the various routes will likely change value. Lawson concluded that procrastination as a strategy in design is deeply flawed.
 
 In software design a similar effect we may find in ["vaporware"](https://en.wikipedia.org/wiki/Vaporware) or other practices of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products (e.g. [Heiko 2004](#Heiko2004); [Richard 1995](#Richard1995)). Such, often very simple announcements, may radically change the market and clients’ expectations.
+
+![IBM Personal Computer, 1981, Wikimedia Commons](images/IBM_PC_1981_makffm.jpg)
 
 ![The U.S. Justice Department accused IBM of intentionally announcing its System/360 Model 91 computer (pictured) three years early to hurt sales of its competitor's computer, Wikimedia Commons](images/360-91-Panel.jpg)
 
@@ -137,13 +137,13 @@ The puzzle solving pattern is also useful in education, where problems can be ar
 
 ## B. Interactions Between Design Outcomes and Techniques
 
+![This section focuses on Interactions among Design Outcomes and Techniques](images/Model_Outcome_Technique.png)
+
 Similar to the relation between situation and outcome, the relation between design outcomes and design techniques is in design literature described as complex and bidirectional. The way the design process is set up when it comes to steps, phases, and activities has direct consequences on what can potentially be designed. On the other hand, design outcome may also influence design techniques. We discuss the following patterns of relations:
 
 * Technique Signature,
 * Outcome Signature, and
 * Design-by-Buzzword.
-
-![This section focuses on Interactions among Design Outcomes and Techniques](images/Model_Outcome_Technique.png)
 
 ### PATTERN 6: TECHNIQUE SIGNATURE
 
@@ -205,6 +205,8 @@ This pattern is related to the *a solution looking for a problem* pattern as new
 
 ## C. Interactions Between a Design Situation and a Design Technique
 
+![This section focuses on Interactions among Design Situation and Techniques](images/Model_Situation_Technique.png)
+
 The design situation and the design technique can influence each other in a number of ways. A designer is often pictured as a craftsman, that is, as someone who picks and chooses tools freely based on the situation and grounded in a judgment of overall benefits from using a specific technique ([Stolterman 2008](#Stolterman2008b)). Many of these factors are influenced by the specifics of the design situation at hand, and the designer has limited influence on them. Budget limitations, for instance, can influence the selection of materials and consequently tools and processes to work with these materials. The deadline imposed by clients may restrict the number of design iterations and limit the amount of testing and evaluation. Size and criticality of a situation may ask for different software development approaches (e.g. [Cockburn 2000](#Cockburn2000)). In some situations, the customer may ask a designer and his company to use some technique, for example, the Scrum software development methodology.
 
 The choice of design tool is never trivial and never a sole function of the situation requirements. The ‘benefits’ of using some tools also depend on the level of skill and mastery required, external pressure about standards, personal style of expression. The designer is also almost never in full control about which techniques will be used and how they will be adapted to a particular situation.
@@ -214,8 +216,6 @@ We discuss the following patterns of these relations between the design techniqu
 * Technique Conformity,
 * Good Carpenter, and
 * Cherry Picking.
-
-![This section focuses on Interactions among Design Situation and Techniques](images/Model_Situation_Technique.png)
 
 
 ### PATTERN 9: TECHNIQUE CONFORMITY
