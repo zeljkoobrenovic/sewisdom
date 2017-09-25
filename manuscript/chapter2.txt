@@ -1,8 +1,6 @@
-![](images/erasmus-bridge.jpg)
+# Part II: Patterns of Influences
 
-# Part II: Patterns of Design Instability
-
-In this part of our notes we will discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex interactions among design situations, design outcomes and design techniques.
+In this part of our notes we will discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex influences among design situations, design outcomes and design techniques.
 
 We want to achieve two goals. Firstly, we want to show that, in design, it makes no sense to treat design situations, design outcomes and design techniques as stable elements and in isolation of each other. Furthermore, we want to challenge the common idea that the design process moves from a problem to a solution in a linear and causal fashion. Instead the relations and influences between design situations, design outcomes and design techniques are highly diverse and bidirectional. Of course, we realize that there already exists a significant diversity in how these relations have been described in design literature. We are no alone to argue against this common idea and not the first to promote a more intricate understanding of the process. However, we still find it necessary to contribute to this ongoing debate by providing another perspective and hopefully useful model.
 
@@ -54,7 +52,7 @@ Simon ([1996](#Simon1996)) also stated that a goal of design might actually be t
 
 In the domain of software design, Brooks noted that the most difficult part of software design is deciding precisely what to build. In his view, it is really impossible for a client to specify completely, precisely, and correctly the exact requirements of a software product before trying some versions of the product ([Brooks 1995](#Brooks1995)). Brooks went further to claim that a core service offered by a designer is not only providing a solution but helping clients to discover what they want designed ([Brooks 2010](#Brooks2010), page 23). Studies of success of software projects confirm this observation, as badly defined system requirements are one of the main reasons for failure of software projects ([Charette 2005](#Charette2005)).
 
-![Pittsburg Golden Traingle. In 1950s, an extensive renewal program was begun in the city of Pittsburgh, a principal goal of the program was to rebuild the center of the city, the so-called Golden Triangle. Herbert Simon Noted that the main consequence of the initial step of redevelopment was to demonstrate the possibility of creating an attractive and functional central city on this site, a demonstration that was followed by many subsequent construction activities that have changed the whole face of the city and the attitudes of its inhabitants. Each step of implementation created a new situation; and the new situation provided a starting point for fresh design activity (Simon 1995, p. 162-163). Photo from Wikimedia Commons](images/Pittsburgh_Golden_Triangle.jpg)
+![Pittsburg's Golden Traingle. In 1950s, an extensive renewal program begun in the city of Pittsburgh, with a principal goal of rebuild the center of the city, the so-called Golden Triangle. Herbert Simon noted that the main consequence of the initial step of redevelopment was to demonstrate the possibility of creating an attractive and functional central city on this site. This demonstration was followed by many subsequent construction activities that have changed the whole face of the city and the attitudes of its inhabitants. Each step of implementation created a new situation. The new situation provided a starting point for fresh new design activity (Simon 1995, p. 162-163). Photo from Wikimedia Commons](images/Pittsburgh_Golden_Triangle.jpg)
 
 ### PATTERN 2: A SOLUTION LOOKING FOR A PROBLEM
 
@@ -93,7 +91,7 @@ The boomerang may also occur even before any observable design activity has star
 
 In software design a similar effect we may find in ["vaporware"](https://en.wikipedia.org/wiki/Vaporware) or other practices of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products (e.g. [Heiko 2004](#Heiko2004); [Richard 1995](#Richard1995)). Such, often very simple announcements, may radically change the market and clients’ expectations.
 
-![IBM Personal Computer, 1981, Wikimedia Commons](images/IBM_PC_1981_makffm.jpg)
+![IBM Personal Computer, 1981. IBM introduction of PC changed the market and lead to less demand for IBM mainframe computers. Photo from Wikimedia Commons](images/IBM_PC_1981_makffm.jpg)
 
 ![The U.S. Justice Department accused IBM of intentionally announcing its System/360 Model 91 computer (pictured) three years early to hurt sales of its competitor's computer, Wikimedia Commons](images/360-91-Panel.jpg)
 
@@ -114,7 +112,7 @@ Spam is another example of problems created by success of messaging and social m
 
 In software design, one of the most prominent examples of problems caused by previous design solutions was the “year 2000 (Y2K) problem” (e.g. [Neumann and McCullagh 1999](#Neuman1999); [Berghel 1999](#Berghel1999)). This problem was caused by a shortcut taken by early software designers. To conserve memory space, early software designers used a solution that recorded the year using the last two digits rather than four. Computers using this system would then recognize the year 2000 as the year 1900 instead, potentially causing serious problems in many sectors. It was estimated that costs of fixing the Y2K problem exceeded $3 trillion worldwide ([Brown et al. 2000](#Brown2000)).
 
-![Traffic Jam in Maputo, Wikimedia Commons](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
+![Traffic Jam in Maputo. A car is a wonderfully design solution to the problem of personal transportation, but when that solution is applied to the whole population it creates other problems, such as traffic jams. Photo from Wikimedia Commons](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
 
 
 ### (ANTI-)PATTERN 5: PUZZLE SOLVING
@@ -130,13 +128,13 @@ Nevertheless, the puzzle solving pattern has its value in a limited number of pr
 
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates).
 
-![British Crossword, Wikimedia Commons](images/British_crossword.png)
+![A crossword. Solving clearly defined problems, such as crosswords, is often seen as an anti-pattern in design. Image from Wikimedia Commons](images/British_crossword.png)
 
 
 
 ## B. Interactions Between Design Outcomes and Techniques
 
-![This section focuses on Interactions among Design Outcomes and Techniques](images/Model_Outcome_Technique.png)
+![](images/Model_Outcome_Technique.png)
 
 Similar to the relation between situation and outcome, the relation between design outcomes and design techniques is in design literature described as complex and bidirectional. The way the design process is set up when it comes to steps, phases, and activities has direct consequences on what can potentially be designed. On the other hand, design outcome may also influence design techniques. We discuss the following patterns of relations:
 
@@ -154,7 +152,7 @@ The strengths and limitations of design techniques directly influence design out
 
 Mary Collins, in her post ["Web Design Trends: Why Do All Websites Look the Same?"](https://www.friday.ie/journal/why-do-all-websites-look-the-same/) argued that many of the modern websites style-wise look very similar: "large full width background image or video in the header, overlaid text, followed by a block of short text, and then the obligatory icon columns". Collins argued that this uniformity has its origins in popularity of UI frameworks, in particular [Bootstrap](http://getbootstrap.com/), as well as availability of pre-designed website themes, such as those in [WordPress](https://wordpress.com/).
 
-![Several popular WordPress themes](images/wordpress-themes.png)
+![Several popular WordPress themes, all having very similar style.](images/wordpress-themes.png)
 
 Having design tools that impose strong constraints, while limiting designers, also can simplify design of new design outcomes. Tools without such constraints may lead designers to create unnecessarily complex and difficult to use designs. This issue is nicely illustrated in the Nielsen’s 2010 report on usability of iPad applications:
 
@@ -164,7 +162,7 @@ The main disadvantage of using tools with predefined elements and constraints is
 
 The technique signature pattern is also visible at the level of design processes and organizations. Established processes and organizational structures may influence the form of design outcomes. Melvin Conway, in what is nowadays known as *the Conway's law*, stated that organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations ([Conway 1968](#Conway1968), [http://www.design.caltech.edu/erik/Misc/Conway.html](http://www.design.caltech.edu/erik/Misc/Conway.html)). For instance, two software modules A and B cannot interface correctly with each other unless the designer and implementer of A communicates with the designer and implementer of B. Similarly, [Bass et al. (2012)](#Bass2012) reported a case in which a software architect was asked by the management to add a database component to the software solution, not because of its suitability, but because the database department of the company was overstaffed and underworked and they needed something to do (page 59). [MacCormack et al. 2012](#MacCormack2012) explored the duality between product and organizational architectures, highlighting the impact of organizational design decisions on the technical structure of the artifacts that these organizations develop.
 
-![Conway's Law in action, Martin Fowler, https://martinfowler.com/articles/microservices.html](images/conways-law.png)
+![Illustration of the Conway's Law by Martin Fowler, https://martinfowler.com/articles/microservices.html](images/conways-law.png)
 
 
 ### PATTERN 7: OUTCOME SIGNATURE
@@ -180,7 +178,7 @@ The outcome signature pattern also happens at the process and organizational lev
 
 This pattern is connected to the *good carpenter* pattern. Having tools and skills optimized for creating a particular type of a design outcome, may stimulate designers to reuse their tools and skills in new design situations. But this optimization may also lead to the *cherry picking* pattern, and stimulate designers to choose only those situations where a specific type of design outcome is required.
 
-![Hammer-heads optimized for different purposes, Wikimedia Commons](images/hammerheads.png)
+![Hammer-heads optimized for different purposes. Photo from Wikimedia Commons](images/hammerheads.png)
 
 
 ### PATTERN 8: DESIGN-BY-BUZZWORD
@@ -193,7 +191,7 @@ Design-by-buzzword is a relation between design outcomes and design techniques w
 
 New technology opportunities are one of the main reasons for constant change of designs. [Brooks (1995)](#Brooks1995) noted that new opportunities in technology are often driving the changes of software design: “*If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity*” (page 12). [Boehm and Bhuta (2008)](#Boehm2008) argued that software projects that do not capitalize on new opportunities will generally find their products unable to compete.
 
-![iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications](images/iPhone-Family_US-EN-PRINT.png)
+![The iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications.](images/iPhone-Family_US-EN-PRINT.png)
 
 Design-by-buzzword may also lead to unnecessary complex and unsuccessful projects. [Roy Thomas Fielding (2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture.
 
@@ -204,7 +202,7 @@ This pattern is related to the *a solution looking for a problem* pattern as new
 
 ## C. Interactions Between a Design Situation and a Design Technique
 
-![This section focuses on Interactions among Design Situation and Techniques](images/Model_Situation_Technique.png)
+![](images/Model_Situation_Technique.png)
 
 The design situation and the design technique can influence each other in a number of ways. A designer is often pictured as a craftsman, that is, as someone who picks and chooses tools freely based on the situation and grounded in a judgment of overall benefits from using a specific technique ([Stolterman 2008](#Stolterman2008b)). Many of these factors are influenced by the specifics of the design situation at hand, and the designer has limited influence on them. Budget limitations, for instance, can influence the selection of materials and consequently tools and processes to work with these materials. The deadline imposed by clients may restrict the number of design iterations and limit the amount of testing and evaluation. Size and criticality of a situation may ask for different software development approaches (e.g. [Cockburn 2000](#Cockburn2000)). In some situations, the customer may ask a designer and his company to use some technique, for example, the Scrum software development methodology.
 
@@ -272,3 +270,4 @@ This difference in temporality and location of patterns suggest the need for tec
 
 Lastly, the proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *good carpenter* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *collateral damage* patterns, as we are dealing with more novel and unknown elements.
 
+![](images/erasmus-bridge.jpg)
