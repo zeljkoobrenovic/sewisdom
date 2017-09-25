@@ -71,7 +71,10 @@ Norman explored this issue as well, claiming that major innovations came from te
 
 Once a new usage of a design “solution” emerges, the new situation often starts to influence further evolution of the original “solution”. Brooks, for instance noted that all successful software gets changed partially because as a software product is found to be useful, people try it in new cases at the edge of, or beyond, the original domain ([Brooks 1995, page 12](#Brooks1995)).
 
+![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Photo by Hinman, Rachel. 2012](images/first_mobile_phone.jpg)
+
 ![SMS messages sent monthly in the United States (in billions), Wikipedia](images/sms.png)
+
 
 
 {#Boomerang}
