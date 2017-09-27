@@ -15,7 +15,7 @@ For convenience and clarity, each pattern is described with the same format:
 * an optional “motto” and alternative names, and
 * a more detailed discussion based on examples from the design literature.
 
-Since working with all elements, even though few, at once would present some complexity challenges, we have limited our analysis and presentation. We have chosen to  structure our review and organized this part of our notes around three “axis” of interactions between a pair of  “elements” of design activities:
+Since working with all elements at once would present some complexity challenges, we have limited our analysis and presentation. We have chosen to  structure our review and organized this part of our notes around three “axis” of interactions between a pair of  “elements” of design activities:
 
 * Interactions between design situations and design outcomes,
 * Interactions between design outcomes and design techniques,
@@ -73,8 +73,6 @@ Once a new usage of a design “solution” emerges, the new situation often sta
 
 ![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Photo by Hinman, Rachel. 2012](images/first_mobile_phone.jpg)
 
-![SMS messages sent monthly in the United States (in billions), Wikipedia](images/sms.png)
-
 
 
 {#Boomerang}
@@ -116,8 +114,9 @@ Spam is another example of problems created by success of messaging and social m
 
 In software design, one of the most prominent examples of problems caused by previous design solutions was the “year 2000 (Y2K) problem” (e.g. [Neumann and McCullagh 1999](#Neuman1999); [Berghel 1999](#Berghel1999)). This problem was caused by a shortcut taken by early software designers. To conserve memory space, early software designers used a solution that recorded the year using the last two digits rather than four. Computers using this system would then recognize the year 2000 as the year 1900 instead, potentially causing serious problems in many sectors. It was estimated that costs of fixing the Y2K problem exceeded $3 trillion worldwide ([Brown et al. 2000](#Brown2000)).
 
-![Traffic Jam in Maputo. A car is a wonderfully design solution to the problem of personal transportation, but when that solution is applied to the whole population it creates other problems, such as traffic jams. Photo from Wikimedia Commons](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
+![Traffic Jam in Maputo. A car is an excellent design solution to the problem of personal transportation, but when applied to the whole population it creates other problems, such as traffic jams. Photo from Wikimedia Commons](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
 
+![This illustration by Karl Jilg (commissioned by the Swedish Road Administration) emphasizes the dominance of car traffic in an urban environment.](images/karl_jilg_roads.jpg)
 
 ### (ANTI-)PATTERN 5: PUZZLE SOLVING
 
@@ -273,5 +272,3 @@ When describing design activity as a combination of relational patterns, it is i
 This difference in temporality and location of patterns suggest the need for techniques to estimate the long-term impact of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software engineers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support these types of reasoning. For example, the *co-evolution* pattern is normally intrinsic to the design activity and people involved in it, and the pattern exists during a concrete project. The *boomerang pattern*, on the other hand is primarily a consequence of indirect interaction though a number of elements outside the main design activity. Some patterns reflect both short-term and long-term relations. For example, the *eating its own dog food* pattern has immediate short-term effect on the project where it is being used, but it also promotes particular techniques, which, on the long-term, will influence many other design projects.
 
 Lastly, the proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *good carpenter* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *collateral damage* patterns, as we are dealing with more novel and unknown elements.
-
-![The Erasmus Bridge, a combined cable-stayed and bascule bridge in Rotterdam.](images/erasmus-bridge.jpg)

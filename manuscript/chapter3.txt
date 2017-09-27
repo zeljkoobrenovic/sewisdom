@@ -56,10 +56,7 @@ Increasing interconnectivity on a global scale may lead to significant changes i
 
 Increasing interconnectivity leads to more instability of design activities, as there are more ways or channels through which a design activity may be influenced. The *boomerang* pattern is a direct consequence of impact of design outcomes on external, globally connected context. As illustrated by OLPC project ([see the Section about the Boomerang pattern](#Boomerang)), a project in rural area in an undeveloped region is not a mere local project, but an action in a potentially interesting segment of an emerging global market. The *collateral damage* pattern is a consequence of a chain of unforeseen consequences of design outcome in interconnected environments. The *techniques conformity* pattern is in part a result of ability of design professionals to quickly learn the same globally accessible knowledge about design techniques. Increasing connectivity also means that design professional can quickly learn from each other. And the *opportunistic design* pattern as a possibility of existing solutions to be used in new contexts, may result from the design outcome entering the environment in which there are more people that may try to use design outcome in new situations.
 
-![Partial map of the Internet based on the January 15, 2005 data found on opte.org, Wikimedia Commons](images/Internet_map_1024_-_transparent,_inverted.png)
-
 ![Increased mobile phone and internet usage, Source: International Telecommunications Union](images/connectivity-stats.png)
-
 
 
 ## C. Learning and Creativity
