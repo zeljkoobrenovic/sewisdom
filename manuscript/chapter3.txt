@@ -108,5 +108,5 @@ Lack of strong theories and underlying principles means that it is not possible 
 
 The lack of strong theories contributes significantly to instability of design activities. *Boomerang* and *collateral damage* patterns, for instance, are partially a consequence of our inability to estimate the impact of our design efforts in a broader context. The *co-evolution* pattern partially happens as consequence of our inability to develop sufficient understanding of the design situation beforehand. On the other hand, the *opportunistic design* pattern, practically assumes that currently predicted usages of some design outcome are limited, and new unpredicted usages will emerge.
 
-![A blackboard used by Albert Einstein in a 1931 lecture in Oxford. The blackboard is on permanent display in the Museum of the History of Science, Oxford. Einstein repeatedly argued that there must be simplified explanations of nature. Wikimedia Commons.](images/Einstein_blackboard.jpg)
+![A blackboard used by Albert Einstein in a 1931 lecture in Oxford, on permanent display in the Museum of the History of Science, Oxford. Einstein repeatedly argued that there must be simplified explanations of nature. Wikimedia Commons.](images/Einstein_blackboard.jpg)
 
