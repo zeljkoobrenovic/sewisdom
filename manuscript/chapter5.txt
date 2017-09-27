@@ -318,6 +318,11 @@ MacCormack A., Carliss Y.B., and Rusnak J. (2012):
 **Exploring the Duality Between Product and Organizational Architectures: A Test of the 'Mirroring' Hypothesis**,  
 *Research Policy 41 (8), pp. 1309–1324.
 
+{#Mens2012}
+Mens T. (2012):
+**On the Complexity of Software Systems**,
+*Computer 45 (8)*, pp. 79-81.
+
 {#Montagne2010}
 Montagne K. (2010):
 **Tackling Architectural Complexity with Modeling**,

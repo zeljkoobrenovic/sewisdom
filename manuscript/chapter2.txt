@@ -171,7 +171,8 @@ The technique signature pattern is also visible at the level of design processes
 ### PATTERN 7: OUTCOME SIGNATURE
 
 **Summary**: *A design technique is adapted to the design outcome, sometime to the point that a design technique reflects in many aspects the intended shape of the outcome.*
-**Alternative names**: *Inverse Conway's law*
+
+**Alternative names**: "Specialization", "*Inverse Conway's law*
 
 The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. The design tools often need to be adapted to create a particular design outcome. For example, many software design tools are configurable so that frequently used functions are more easily accessible (e.g. via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult.
 
