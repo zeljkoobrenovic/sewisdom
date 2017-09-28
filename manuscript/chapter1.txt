@@ -8,7 +8,7 @@ Our ambition is to provide a novel and more structured view on complexity in des
 We address design in broader sense, in line with the  ([Herbert Simon's](#Simon1996)) definition of design as courses of action aimed at changing existing situations into preferred ones. Due to our personal backgrounds and interests, however, we limit our overview and examples, to some degree, to discussions about complexity to software and interaction design. In particular we are biased towards those contributions that base their claims in observations of design practice (e.g. [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g. [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
-![The Centaurus A/M83 Group is a complex group of galaxies. Wikimedia Commons.](images/complex_art_of_nature.jpg)
+![The Centaurus A/M83 Group, a complex group of galaxies. Wikimedia Commons.](images/complex_art_of_nature.jpg)
 
 ## A. Background and Definitions
 
@@ -73,6 +73,10 @@ In Part III we discuss sources of interactions among the elements of design acti
 
 We conclude the book with a general discussion.
 
+
+## D. About the Cover
+
+The cover shows the [Tropical Cyclone Gafilo](https://en.wikipedia.org/wiki/Cyclone_Gafilo) approaching Madagascar on March 6, 2004. We selected this image for cover as a symbol of the central concept of this book - the instability of design activities. The cyclone is a complex, dynamic, and partially unpredictable phenomena. Still, as with design instability, it is not a completely chaotic phenomena, as patterns are clearly visible.
 
 
 [^fooDesigner]: In this book, we use the notion of designer to mean anyone involved in a professional design process. In many cases a design process involves more than one designer.
