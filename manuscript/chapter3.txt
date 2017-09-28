@@ -78,7 +78,8 @@ Learning and creativity contribute significantly to instability of design activi
 
 The *cherry picking* pattern may be viewed as an attempt to avoid extensive learning. In this pattern, designers know limitations of their techniques, and are applying them only in situations where they have proved their value and no surprises are expected.
 
-![Iowa Departmant of Education (https://www.educateiowa.gov/): Core Universal Principles. Creativity, flexibility and adaptation are often seens as the core building blocks for success in 21st century. Denise Krebs, Flickr.](images/creativity_learning.jpg)
+![Creative usage of a pen as na emergency capo. People often find new and surprising usages of artifacts. Wikimedia Commons](images/creativity_learning.jpg)
+
 
 ## D. Tacit Knowledge and Skills
 
