@@ -93,7 +93,7 @@ A design activity can set in motion our intuitive and tacit knowledge accumulate
 
 Tacit knowledge is crucial in design, but because of its implicit nature, it is hard to predict what effects it will have. Consequently, tacit knowledge has significant influence on instability of design activities. The *co-evolution* pattern is often a consequence of actions based on “intuition”, judgment and tacit skills. For instance, tacit skills are crucial to identify design problems, especially in realm of complex human and social issues. The *solution looking for a problem* pattern is a consequence of people's creativity to develop new uses for existing solutions. The *technique signature* pattern is a consequence of obtaining tacit skills needed to apply some design technique. The similar applies for the *good carpenter pattern* as mastering your tools often requires extensive tacit knowledge and skills.
 
-![Designer sketching. Many skills relevant for design require tacit knowledge, type of knowledge not always known explicitly, even by expert practitioners, and which is difficult or impossible to explicitly transfer to other people. Wikimedia Commons](images/designer_drawing.jpg)
+![Designer sketching. Many skills relevant for design require tacit knowledge, type of knowledge not always known explicitly, even by expert practitioners, and which is difficult or impossible to explicitly transfer to other people. Photo by Hrvoje Abraham Milićević, Pexels](images/designer_drawing.jpg)
 
 
 ## E. Lack of Strong Principles, Theories and Laws
