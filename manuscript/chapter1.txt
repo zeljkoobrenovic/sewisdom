@@ -8,7 +8,7 @@ Our ambition is to provide a novel and more structured view on complexity in des
 We address design in broader sense, in line with the  ([Herbert Simon's](#Simon1996)) definition of design as courses of action aimed at changing existing situations into preferred ones. Due to our personal backgrounds and interests, however, we limit our overview and examples, to some degree, to discussions about complexity to software and interaction design. In particular we are biased towards those contributions that base their claims in observations of design practice (e.g. [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g. [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
-![The Centaurus A/M83 Group, a complex group of galaxies. Complexity is often views as expressing a condition of numerous elements in a system and relationships among the elements. Wikimedia
+![The Centaurus A/M83 Group, a complex group of galaxies. Complexity is often viewed as expressing a condition of numerous elements in a system and relationships among the elements. Wikimedia
 Commons.](images/complex_art_of_nature.jpg)
 
 ## A. Background and Definitions
