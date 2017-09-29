@@ -19,8 +19,7 @@ Before we start, it is important to examine our view on the notion of "complexit
 
 Looking at standard dictionaries we can find similar definitions, where complexity is being defined in relation to the terms complex and/or complicated. For example, [complex](https://www.merriam-webster.com/dictionary/complex) is commonly defined as (1) composed of two or more parts: composite, or (2) hard to separate, analyze, or solve. [Complicated](https://www.merriam-webster.com/dictionary/complicated) is commonly defined as (1) consisting of parts intricately combined (2) difficult to analyze, understand, or explain.
 
-While there are many other definitions of complexity, and subtle differences between the terms complex and complicated, for our discussion it is important to note that complexity is almost always
-defined as having two sides:
+While there are many other definitions of complexity, and subtle differences between the terms complex and complicated, for our discussion it is important to note that complexity is almost always defined as having two sides:
 
 * a structural, more quantitative, objective and measurable side, which reflects the organization of the elements of the object that we see as complex,
 * a cognitive, qualitative, more subjective side, which reflects the human capability to understand complex objects and to cope with complexity.

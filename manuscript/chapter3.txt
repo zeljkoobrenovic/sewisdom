@@ -35,7 +35,7 @@ In addition to the high pace of external changes, constant changing of design ou
 
 Constant change contributes significantly to instability of design activities because it forces designers to work without extensive experience with and deep understanding of a design situation. The *boomerang* pattern, for instance, is often a consequence of rapid changes in the external world as a reaction to a design effort, as well as designer's lack of understanding and experience with similar situations. The *co-evolution* pattern partially happens due to designer’s lack of experiences in dealing with the situation. On the other hand, the *design-by-buzzword* pattern, may contribute to the constant change, as it may introduce new opportunities and needs that may significantly change many design situations.
 
-![The snapshot from http://www.evolutionoftheweb.com/ website. The website illustrates the evolution of web technologies, like HTML5, CSS3 and WebGL and web browsers.](images/webevolution.png)
+![The snapshot from http://www.evolutionoftheweb.com/ website. The website illustrates the constant evolution and introduction of new of web technologies.](images/webevolution.png)
 
 
 ## B. Increasing Interconnectivity
