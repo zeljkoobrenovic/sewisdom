@@ -131,8 +131,7 @@ Nevertheless, the puzzle solving pattern has its value in a limited number of pr
 
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates).
 
-![A puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Photo from pizabay.]
-(images/British_crossword.png)
+![A jigsaw puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Photo from pixabay.](images/puzzle.jpg)
 
 
 
