@@ -254,19 +254,19 @@ In all of these three patterns there is the commitment to some technique. On a p
 
 ### PATTERN 11: CHERRY PICKING
 
-**Summary**: *Design situations are selected based on how easily they can be approached with a preferred technique. Other situations are avoided.*
+**Summary**: *Design situations are selected based on how easily they can be approached with a preferred technique or available resources. Other situations are avoided.*
 
 In domains where designers can choose the situation to work on, they may select situations by how they match the methods and tools that they are familiar and comfortable with ([Stolterman and Pierce 2012](#Stolterman2012)). Many designers may decide to specialize, and avoid designing in unfamiliar situations where they may not be able to use tools that they are familiar with.
 
 Cherry picking is not necessarily a negative phenomenon. [Ries and Ries (2002: p 8)](#Ries2002), for instance, claimed that companies are likely to be more successful if they focus their energies on one specific skill instead of trying to master a number of different ones.
 
-Similarly, in [the business context](https://strategicthinker.wordpress.com/cherry-picking/), “cherry-picking” refers to the practice of identifying and targeting the most profitable customers in a market, rather than serving them all. Cherry-picking the most attractive customers is a common approach for new entrants, since they can focus their limited resources and not disperse them over the whole segment.
-In [the financial world](http://www.investopedia.com/terms/c/cherrypicking.asp), "cherry picking" is used as a strategy by investors to choose investments that have performed well within another portfolio in anticipation that the trend will continue. Here, cherry picking reduces the amount of time required for researching stocks because the pool of securities in which investors pick from is
+Limitation in resources may also stimulate designers to select a limited set of problems to work on. Similarly, in [the business context](https://strategicthinker.wordpress.com/cherry-picking/),
+“cherry-picking” refers to the practice of identifying and targeting the most profitable customers in a market, rather than serving them all. Cherry-picking the most attractive customers is a common approach for new entrants, since they can focus their limited resources and not disperse them over the whole segment. In [the financial world](http://www.investopedia.com/terms/c/cherrypicking.asp), "cherry picking" is used as a strategy by investors to choose investments that have performed well within another portfolio in anticipation that the trend will continue. Here, cherry picking reduces the amount of time required for researching stocks because the pool of securities in which investors pick from is
 significantly narrowed.
 
 In domains where a rigor in applying a technique is valued more than the practical value of a design outcome, such as in academic environments, this issue can be even more elaborate and sometimes negative. [Greenberg and Buxton 2008](#Greenberg2008), for example, argued that the ACM CHI conference has a methodology bias, where certain kinds of methods are considered more ‘correct’ and thus acceptable than others, with the consequence that people now likely generate ‘research questions’ and ‘designs’ that are amenable to a chosen method, rather than the other way around: “*That is, they choose a method perceived as ‘favored’ by review committees, and then find [cherry pick] or fit a problem to match it. … That is, researchers first choose the method (e.g., controlled study) and then concoct a problem that fits that method.*” In this case the domain and selection of situations that are of interest for that domain (in this example the interaction design domain) is more influenced and shaped by the tools and methods that we like than by the importance of the problems.
 
-![Cherry picking. Wikimedia Commons.](images/cherry_picking.jpg)
+![Cherry picking. Designers may chose problems based on their specialization or due to resource limitations. Wikimedia Commons.](images/cherry_picking.jpg)
 
 
 ## D. Complex Patterns

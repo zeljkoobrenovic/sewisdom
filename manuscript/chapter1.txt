@@ -8,23 +8,12 @@ Our ambition is to provide a novel and more structured view on complexity in des
 We address design in broader sense, in line with the  ([Herbert Simon's](#Simon1996)) definition of design as courses of action aimed at changing existing situations into preferred ones. Due to our personal backgrounds and interests, however, we limit our overview and examples, to some degree, to discussions about complexity to software and interaction design. In particular we are biased towards those contributions that base their claims in observations of design practice (e.g. [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g. [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
-![The Centaurus A/M83 Group, a complex group of galaxies. Wikimedia Commons.](images/complex_art_of_nature.jpg)
+![The Centaurus A/M83 Group, a complex group of galaxies. Complexity is often views as expressing a condition of numerous elements in a system and relationships among the elements. Wikimedia
+Commons.](images/complex_art_of_nature.jpg)
 
 ## A. Background and Definitions
 
-Before we start, it is important to examine the notion of "complexity", as it is a very broad and loaded term. In most work on design complexity, definitions are tied to or based on the concept of a "system". Such definitions postulate or assume that complexity expresses a condition of numerous elements in a system and relationships among the elements. Herbert Simon, for example, defined a complex system as *“one made up of a large number of parts that interact in a non-simple way"*, where *"the whole is more than the sum of the parts"* ([Simon 1996](#Simon1996), page 183). [Hendler et al. (2008)](#Hendler2008) also noted that complex systems have emergent properties that are not predictable by analyzing micro technical and/or social effects. Definitions of complex systems often emphasize that the number of parts in the system and the number of relations between the parts would have to be non-trivial. However, there does not seem to exist any general rule that could help us to separate "trivial" from "non-trivial" ([Neil 2007](#Neil2007)).
-
-
-Mitchell Waldrop, in the book Complexity (Simon and Schuster, 1992), observes that all complex natural systems have several things in common (pp. 11–12):
-
-* “A great many independent agents are interacting with each other in a great many ways.”
-
-* “The very richness of these interactions allows the system as a whole to undergo spontaneous self-organization.”
-
-* “These complex, self-organizing systems are adaptive.”
-
-* “All these complex systems have somehow acquired the ability to bring order and chaos into a special kind of balance.”
-
+Before we start, it is important to examine our view on the notion of "complexity", as it is a very broad and loaded term. In most work on design complexity, definitions are tied to or based on the concept of a "system". Such definitions postulate or assume that complexity expresses a condition of numerous elements in a system and relationships among the elements. Herbert Simon, for example, defined a complex system as *“one made up of a large number of parts that interact in a non-simple way"*, where *"the whole is more than the sum of the parts"* ([Simon 1996](#Simon1996), page 183). [Hendler et al. (2008)](#Hendler2008) also noted that complex systems have emergent properties that are not predictable by analyzing micro technical and/or social effects. Definitions of complex systems often emphasize that the number of parts in the system and the number of relations between the parts would have to be non-trivial. However, there does not seem to exist any general rule that could help us to separate "trivial" from "non-trivial" ([Neil 2007](#Neil2007)).
 
 Looking at standard dictionaries we can find similar definitions, where complexity is being defined in relation to the terms complex and/or complicated. For example, complex is commonly defined as (1) composed of two or more parts: composite, or (2) hard to separate, analyze, or solve. Complicated is commonly defined as (1) consisting of parts intricately combined (2) difficult to analyze, understand, or explain.
 
