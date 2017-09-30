@@ -1,14 +1,14 @@
-# Part III: Sources of Design Instability
+# Part III: Sources of Dynamics
 
-In this part we discussion our view of the main reasons behind instability of design activities and complex interactions among design situations, design outcomes and design resources. We address the following topics:
+Dynamics of design activities are caused and influences by many factors. Designers have to make decisions in a limited time based on the imperfect information they have. They are working in situations that are constantly changing due to forces beyond their control. Designers are using and relying on knowledge and skills that they do not fully understand and cannot explain. And at the same time, they do not have any strong underlying principles, theories and laws to guide them.
+
+In this part we discussion our view on the main reasons behind instability of design activities and complex dynamics between design situations, design outcomes and design resources. We address the following topics:
 
 * The moving target problem,
 * Increasing interconnectivity,
 * Learning and creativity,
 * Reliance on tacit knowledge and skills, and
 * Lack of strong theories and principles.
-
-Designers have to make decisions in a limited time based on the imperfect information they have. They are working in situations that are constantly changing due to forces beyond their control. Designers are using and relying on knowledge and skills that they do not fully understand and cannot explain. And at the same time, they do not have any strong underlying principles, theories and laws to guide them.
 
 Our main goal is to provide an initial categorization of these topics, and to relate them to the patterns from the previous chapter. Our overview of sources of design instability is not intended to be complete, but rather a starting point, and proposed classification is not a clear-cut.
 
@@ -72,7 +72,7 @@ Learning is also related to discovery and creativity. [Boden (2004)](#Boden2004)
 
 In addition to designers' creativity, users and clients may use design solutions in unexpected ways. As discussed in Section “Situation - Process Interaction”, people may find new, often surprising usages for design tools and methods.
 
-Learning and creativity contribute significantly to instability of design activities, and are one of the main sources behind a number of patterns of relations among elements of design activities. The *co-evolution* pattern is often a consequence of learning and creativity of both designers and their clients (e.g. [Dorst and Cross 2001](#Dorst2001)). As designers engage in design activities they will discover new things about design situations. As design outcome begins to emerge, new implications of design outcomes may be discovered. When clients see initial sketches, prototypes, or some version of design outcome, they may discover what they actually want, but also learn about new possibilities of used materials and technologies, and as a consequence they may change their wishes. The *boomerang* pattern is a consequence of people outside the design activity learning about value of the design outcome. The *solution looking for a problem* pattern is a consequence of people's creativity in developing new uses for existing solutions. The *resources precommitment* pattern is related to designers ability to learn and master their tools. The *resources conformity* pattern is a consequence of many design professionals learning how to use the same popular design resource. The *resources precommitment* pattern is a consequence of good skills in usage of design resources. The *eating its own dog food* pattern is an attempt to stimulate intensive learn within the design company about some design outcome.
+Learning and creativity contribute significantly to instability of design activities, and are one of the main sources behind a number of patterns of dynamics between elements of design activities. The *co-evolution* pattern is often a consequence of learning and creativity of both designers and their clients (e.g. [Dorst and Cross 2001](#Dorst2001)). As designers engage in design activities they will discover new things about design situations. As design outcome begins to emerge, new implications of design outcomes may be discovered. When clients see initial sketches, prototypes, or some version of design outcome, they may discover what they actually want, but also learn about new possibilities of used materials and technologies, and as a consequence they may change their wishes. The *boomerang* pattern is a consequence of people outside the design activity learning about value of the design outcome. The *solution looking for a problem* pattern is a consequence of people's creativity in developing new uses for existing solutions. The *resources precommitment* pattern is related to designers ability to learn and master their tools. The *resources conformity* pattern is a consequence of many design professionals learning how to use the same popular design resource. The *resources precommitment* pattern is a consequence of good skills in usage of design resources. The *eating its own dog food* pattern is an attempt to stimulate intensive learn within the design company about some design outcome.
 
 The *cherry picking* pattern may be viewed as an attempt to avoid extensive learning. In this pattern, designers know limitations of their resources, and are applying them only in situations where they have proved their value and no surprises are expected.
 

@@ -1,32 +1,42 @@
-# Part II: Patterns of Relations
+# Part II: Patterns of Dynamics
 
-In this part of our notes we discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex relations among design situations, design outcomes and design resources. We believe that these relations are main sources of complexity characteristic for design activities. As mentioned in the introduction, while design situations, outcomes and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are relations among these structures. These interactions challenge designers' ability to deal with complexity as any of these structure is subject to change, in a difficult to predict way.
+In this part of our notes we discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex and dynamic relations among design situations, design outcomes and design resources. We believe that these dynamic relations are main sources of complexity characteristic for design activities. As mentioned in the introduction, while design situations, outcomes and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are relations among these structures. Dynamics of these relations challenge designers' ability to deal with complexity as any of the structures is subject to change, in a difficult to predict way.
 
-We want to achieve two goals. Firstly, we want to show that, in design, it makes no sense to treat design situations, design outcomes and design resources as stable elements and in isolation of each other. Furthermore, we want to challenge the common idea that the design process moves from a problem to a solution in a linear and causal fashion. Instead, the relations and relations between design situations, design outcomes and design resources are highly diverse and bidirectional. Of course, there already exists a significant diversity in how these relations have been described in design literature. We are no alone to argue against this common idea and not the first to promote a more intricate understanding of the process. However, we still find it necessary to contribute to this ongoing debate by providing another perspective and hopefully useful, more structured model.
+We want to achieve two goals. Firstly, we want to show that, in design, it makes no sense to treat design situations, design outcomes and design resources as stable elements and in isolation of each other. Furthermore, we want to challenge the common idea that the design process moves from a problem to a solution in a linear and causal fashion. Instead, the dynamics of the network connecting design situations, design outcomes and design resources are highly diverse. Of course, there already exists a significant diversity in how these dynamics have been described in design literature. However, we still find it necessary to contribute to this ongoing debate by providing another perspective and hopefully useful, more structured model.
 
-Secondly, we want to show that regardless of the seemingly arbitrariness and complexity of interactions between design situations, outcomes and resources, it is still possible to constructively portray, investigate and discuss such relations. In other words, we want to argue that in many cases these relations show signs of "organized complexity", where some patterns may be observed. As a mean to achieve this goal, we introduce a concept of patterns of relations among elements of a design activity. A pattern is a recurring arrangement of relations among elements of a design activity. By studying contemporary design literature, we have found several common patterns of these relations. We have chosen the notion of pattern as our main concept since it points to relationships and influences that can be both simple and complex and that can be seen as both distinct and flexible. A pattern has to be revealed, described and named. It has to be stable enough to lead to intersubjective understanding while at the same time not be too limiting and rigid. It is important to understand the notion of patterns in our context as conceptual tools (as ‘ideal types’) with the purpose to support analytic and reflective thinking for practical purposes and not as definite scientific definitions of existing elements.
+Secondly, we want to show that regardless of the seemingly arbitrariness and complexity of interactions between design situations, outcomes and resources, it is still possible to constructively portray, investigate and discuss such dynamics. In other words, we want to argue that in many cases these dynakics show signs of "organized complexity", where some patterns may be observed. As a mean to achieve this goal, we introduce a concept of patterns of dynamics between elements of a design activity. A pattern is a recurring arrangement of interactions among elements of a design activity. By studying contemporary design literature, we have found several common patterns of these dynamics. We have chosen the notion of pattern as our main concept since it points to relationships and influences that can be both simple and complex and that can be seen as both distinct and flexible. A pattern has to be revealed, described and named. It has to be stable enough to lead to intersubjective understanding while at the same time not be too limiting and rigid. It is important to understand the notion of patterns in our context as conceptual tools (as ‘ideal types’) with the purpose to support analytic and reflective thinking for practical purposes and not as definite scientific definitions of existing elements.
 
-We provide an initial categorization and descriptions of the kind of relations or patterns that we have identified between design situations, outcomes and resources. We are aware that it is not possible to capture all patterns that may be involved in design processes. But we do beleive that it is possible to abstract some core patterns by examining findings from contemporary seminal design research into a format that can support discussions and a deeper understanding about design as a complex activity.
+We provide an initial categorization and descriptions of the kind of dynamics that we have identified between design situations, outcomes and resources. We are aware that it is not possible to capture all patterns that may be involved in design processes. But we do beleive that it is possible to abstract some core patterns by examining findings from contemporary seminal design research into a format that can support discussions and a deeper understanding about design as a complex activity.
 
-For convenience and clarity, each pattern of relations is described with the same format:
+For convenience and clarity, each pattern of dynamics is described with the same format:
 
 * a brief descriptive name,
 * a brief summary,
 * an optional “motto” and alternative names, and
 * a more detailed discussion based on examples from the design literature.
 
-We have chosen to  structure our review and organized this part of our notes around three “axis” of relations between a pair of  “elements” of design activities:
+We structured our review and organize patterns of dynamics and around three “axis” of relations between a pair of “elements” of design activities (base don [our analytics model](#Model)):
 
-* relations between design situations and design outcomes,
-* relations between design outcomes and design resources,
-* relations between design situations and design resources.
+* dynamics between design situations and design outcomes,
+* dynamics between design outcomes and design resources,
+* dynamics between design situations and design resources.
+
+Each pattern may be viewed as the description of dynamics that shape design decisions during design activities. In any design activity, designers make a number of decisions, trying to answer the following questions [(Obrenovic 2008)](#Obrenovic2008):
+
+* How will the design process advance?
+* What needs and opportunities will the design address?
+* What form will the resulting outcome take?
+
+Our patterns provide description of dynamics that influence decisions that designers make when trying to answer these questions. When we look at the result of some design activity, with a hindsight we normally can clearly describe what the design outcome is, how it has changed the original design situation, and what design resources have been used. However, a route to the design result may be very complex, and with very diverse starting points. As we will illustrate with our patterns, sometimes, we may start with a problematic situation that we want to improve. Sometime we may not have a problematic situation, but a technology that people suddenly start to use. And sometime the sheer availability of some design resource may be the primary driver of change. And frequently, multiple of these patterns of dynamics will co-occur.
 
 
-## A. Patterns of Relations Between Design Situations and Design Outcomes
+
+
+## A. Patterns of Dynamics Between Design Situations and Design Outcomes
 
 ![](images/Model_Situation_Outcome.png)
 
-The relation between a design situation and a design outcome seems to be the most complex relation in any design activity. In the design literature, we have found several common and often interconnected views on this relation, which we describe in the following five patterns:
+The dynamics between a design situation and a design outcome seems to be the most complex dynamics in any design activity. In the design literature, we have found several common and often interconnected views on this relation, which we describe in the following five patterns:
 
 * Co-Evolution,
 * A Solution Looking for a Problem,
@@ -54,6 +64,7 @@ Simon ([1996](#Simon1996)) also stated that a goal of design might actually be t
 In the domain of software design, Brooks noted that the most difficult part of software design is deciding precisely what to build. In his view, it is really impossible for a client to specify completely, precisely, and correctly the exact requirements of a software product before trying some versions of the product ([Brooks 1995](#Brooks1995)). Brooks went further to claim that a core service offered by a designer is not only providing a solution but helping clients to discover what they want designed ([Brooks 2010](#Brooks2010), page 23). Studies of success of software projects confirm this observation, as badly defined system requirements are one of the main reasons for failure of software projects ([Charette 2005](#Charette2005)).
 
 ![Pittsburg's Golden Traingle. In 1950s, an extensive renewal program begun in the city of Pittsburgh, with a principal goal of rebuild the center of the city, the so-called Golden Triangle. Herbert Simon noted that the main consequence of the initial step of redevelopment was to demonstrate the possibility of creating an attractive and functional central city on this site. This demonstration was followed by many subsequent construction activities that have changed the whole face of the city and the attitudes of its inhabitants. Each step of implementation created a new situation. The new situation provided a starting point for fresh design activity (Simon 1995, p. 162). Photo from Wikimedia Commons](images/Pittsburgh_Golden_Triangle.jpg)
+
 
 ### PATTERN 2: A SOLUTION LOOKING FOR A PROBLEM
 
@@ -119,6 +130,7 @@ In software design, one of the most prominent examples of problems caused by pre
 
 ![This illustration by Karl Jilg (commissioned by the Swedish Road Administration) emphasizes the dominance of car traffic in an urban environment.](images/karl_jilg_roads.jpg)
 
+
 ### (ANTI-)PATTERN 5: PUZZLE SOLVING
 
 **Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
@@ -136,11 +148,11 @@ The puzzle solving pattern is also useful in education, where problems can be ar
 
 
 
-## B. Patterns of Relations Between Design Outcomes and Resources
+## B. Patterns of Dynamics Between Design Outcomes and Resources
 
 ![](images/Model_Outcome_Technique.png)
 
-Similar to the relation between situation and outcome, the relation between design outcomes and design resources is in design literature described as complex and bidirectional. The way the design process is set up when it comes to steps, phases, and activities has direct consequences on what can potentially be designed. On the other hand, design outcome may also influence design resources. We discuss the following patterns of relations:
+Similar to the dynamics between situation and outcome, the dynamics between design outcomes and design resources are in design literature described as complex and bidirectional. The way the design process is set up when it comes to steps, phases, and activities has direct consequences on what can potentially be designed. On the other hand, design outcome may also influence design resources. We discuss the following patterns of dynamics:
 
 * Resource Signature,
 * Outcome Signature, and
@@ -209,7 +221,7 @@ Closely related to design-by-buzzword is end-user development and meta-design. [
 This pattern is related to the *a solution looking for a problem* pattern as new opportunities embedded in a design outcome may lead to new usages.
 
 
-## C. Patterns of Relations Between Design Situations and Design Resources
+## C. Patterns of Dynamics Between Design Situations and Design Resources
 
 ![](images/Model_Situation_Technique.png)
 
@@ -217,7 +229,7 @@ Design situations and design resources are related in a number of ways. A design
 
 The choice of design resources is never trivial and never a sole function of the situation requirements. The ‘benefits’ of using some tools also depend on the level of skill and mastery required, external pressure about standards, personal style of expression. The designer is also almost never in full control about which resources will be used and how they will be adapted to a particular situation.
 
-We discuss the following patterns of these relations between design resources and situations:
+We discuss the following patterns of these dynamics between design resources and situations:
 
 * Resources Conformity,
 * Resources Precommitment, and
@@ -261,6 +273,7 @@ In all of these patterns there is the pre-commitment to some resource. On a posi
 
 ![Mike Scott Memo - No More Typewritters, archive.org](images/Apple_Memo_No_Typewriters.jpg)
 
+
 ### PATTERN 11: CHERRY PICKING
 
 **Summary**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
@@ -274,19 +287,19 @@ In domains where a rigor in applying a particular methodology is valued more tha
 ![Cherry picking. Designers may chose problems based on their specialization or due to resource limitations. Wikimedia Commons.](images/cherry_picking.jpg)
 
 
-## D. Emergence of Complex Patterns of Relations
+## D. Emergence of Complex Patterns of Dynamics
 
-Patterns may facilitate describing complex relations among elements of design activities as a combination of several higher-level arrangements of such relations. In this way, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution* pattern. Novel or better resources may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *resources precommitment* and *eating its own dog food* patterns the resources can further develop and gain popularity. Once stabile and popular the resources may become a de facto standard, and lead to the *resources conformity* pattern. The *resources conformity* may lead the *resource signature* pattern. The *resource signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
+Patterns may facilitate describing complex dynamics between elements of design activities as a combination of several higher-level arrangements of such dynamics. In this way, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution* pattern. Novel or better resources may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *resources precommitment* and *eating its own dog food* patterns the resources can further develop and gain popularity. Once stabile and popular the resources may become a de facto standard, and lead to the *resources conformity* pattern. The *resources conformity* may lead the *resource signature* pattern. The *resource signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
 
-When describing design activity as a combination of relational patterns, it is important to note that the described patterns are not all of the same kind when it comes to temporality and duration, as well as location or scope. We may distinguish between, at least, two groups of patterns:
+When describing design activity as a combination of patterns of dynamics, it is important to note that the described patterns are not all of the same kind when it comes to temporality and duration, as well as location or scope. We may distinguish between, at least, two groups of patterns:
 
-* Patterns of short-term relations, normally occurring within a particular project in a limited period of time, and
-* Patterns of long-term relations, normally occurring over a longer period of time among multiple projects.
+* Patterns of short-term dynamics, normally occurring within a particular project in a limited period of time, and
+* Patterns of long-term dynamics, normally occurring over a longer period of time among multiple projects.
 
-For example, the *co-evolution* pattern is normally intrinsic to the design activity and people involved in it, and the pattern exists during a concrete project. The *boomerang pattern*, on the other hand is primarily a consequence of indirect interaction though a number of elements outside the main design activity. Some patterns reflect both short-term and long-term relations. For example, the *eating its own dog food* pattern has immediate short-term effect on the project where it is being used, but it also promotes particular design resources, which, on the long-term, will influence many other design projects.
+For example, the *co-evolution* pattern is normally intrinsic to the design activity and people involved in it, and the pattern exists during a concrete project. The *boomerang pattern*, on the other hand is primarily a consequence of indirect interaction though a number of elements outside the main design activity. Some patterns reflect both short-term and long-term dynamics. For example, the *eating its own dog food* pattern has immediate short-term effect on the project where it is being used, but it also promotes particular design resources, which, on the long-term, will influence many other design projects.
 
 This difference in temporality and location of patterns suggest the need for techniques to estimate both the short-term and long-term impacts of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software engineers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support these types of reasoning.
 
 The proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resources precommitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *collateral damage* patterns, as we are dealing with more novel and unknown elements.
 
-![The formation of complex symmetrical and fractal patterns in snowflakes exemplifies emergence in a physical system. In philosophy, systems theory, science, and art, emergence is a phenomenon whereby larger entities arise through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller/simpler entities do not exhibit. Wikipedia](images/SnowflakesWilsonBentley.jpg)
+![The formation of complex symmetrical and fractal patterns in snowflakes exemplifies emergence in a physical system. In philosophy, systems theory, science, and art, emergence is a phenomenon whereby larger entities arise through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller/simpler entities do not exhibit. Wikipedia.](images/SnowflakesWilsonBentley.jpg)
