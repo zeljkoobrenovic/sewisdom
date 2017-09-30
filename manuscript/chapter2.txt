@@ -22,7 +22,7 @@ Since working with all elements at once would present some complexity challenges
 * Interactions between design situations and design resources.
 
 
-## A. Interactions Between Design Situations and Design Outcomes
+## A. Patterns of Relations Between Design Situations and Design Outcomes
 
 ![](images/Model_Situation_Outcome.png)
 
@@ -135,7 +135,7 @@ The puzzle solving pattern is also useful in education, where problems can be ar
 
 
 
-## B. Interactions Between Design Outcomes and Resources
+## B. Patterns of Relations Between Design Outcomes and Resources
 
 ![](images/Model_Outcome_Technique.png)
 
@@ -205,7 +205,7 @@ Closely related to design-by-buzzword is end-user development and meta-design. [
 This pattern is related to the *a solution looking for a problem* pattern as new opportunities embedded in a design outcome may lead to new usages.
 
 
-## C. Interactions Between a Design Situation and Design Resources
+## C. Patterns of Relations Between Design Situations and Design Resources
 
 ![](images/Model_Situation_Technique.png)
 
@@ -224,7 +224,7 @@ We discuss the following patterns of these relations between design resources an
 
 **Definition:** *Design resources are used in a design situation out conformity, because such resources are popular or have often been used in similar situations. This usage of design resources further contributes to popularity of a tool and its usage in similar design situations.*
 
-The designer’s selection of tools is related to a number of external factors. Often, designers will select a tool out of conformity, because other designers use it. Popularity of some design tool or methodology is often the main reason for its usage. For instance, in the domain of graphic design, [Adobe](http://www.adobe.com) tools (e.g. Photoshop, Illustrator and InDesign) are the most popular tools, and are often described as *de facto* industry standard for graphics editing.
+The designer’s selection of tools is related to a number of external factors. Often, designers will select a resource out of conformity, because other designers use it often in similar situations. Popularity of some design tool or methodology is often the main reason for its usage. For instance, in the domain of graphic design, [Adobe](http://www.adobe.com) tools (e.g. Photoshop, Illustrator and InDesign) are the most popular tools, and are often described as *de facto* industry standard for graphics editing.
 
 Tool usage also influences the future tool development. By using and buying a particular tool, designer’s increase the popularity of the tool and the profit of the producer, which can further stimulate the spread and use of the tool. Successful project are good references for tools used in them, and may be the main reason why others will select this tools for new projects.
 
@@ -243,7 +243,7 @@ Resources conformity may also have its downsides. One negative issue is the “l
 
 **Motto**: *“it is a poor carpenter that blames his tools”*
 
-Designers may precommit to using a particular resource due to a number of reasons. Such commitment may be based on experience. If some tool or approach has been successful in previous design activities, it makes sense to use these tools again, instead of taking a risk with some new untried tool. Using familiar and proven tools and methods in new design situations usually enables more efficient design and gives more predictability because designers know more about limits and possibilities of these tools.
+Designers may precommit to using a particular resource due to a number of reasons. Such commitment may be based on desiners' experience. If some tool or approach has been successful in previous design activities, it makes sense to use these tools again, instead of taking a risk with some new untried tool. Using familiar and proven tools and methods in new design situations usually enables more efficient design and gives more predictability because designers know more about limits and possibilities of these tools.
 
 Commitment to a particular resource can also enable development of mastery in using this resource. Learning to use a new design tool, for instance requires time, and initial results may be discouraging. Without the precommitment, a designer may give up learning too early, and never master the tool.
 
@@ -270,7 +270,7 @@ In domains where a rigor in applying a particular methodology is valued more tha
 ![Cherry picking. Designers may chose problems based on their specialization or due to resource limitations. Wikimedia Commons.](images/cherry_picking.jpg)
 
 
-## D. Emergence of Complex Patterns
+## D. Emergence of Complex Patterns of Relations
 
 Patterns may facilitate describing complex relations among elements of design activities as a combination of several higher-level arrangements of such relations. In this way, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution* pattern. Novel or better resources may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *resources precommitment* and *eating its own dog food* patterns the resources can further develop and gain popularity. Once stabile and popular the resources may become a de facto standard, and lead to the *resources conformity* pattern. The *resources conformity* may lead the *resources signature* pattern. The *resources signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
 
