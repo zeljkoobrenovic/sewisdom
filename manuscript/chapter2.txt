@@ -17,9 +17,9 @@ For convenience and clarity, each pattern of relations is described with the sam
 
 We have chosen to  structure our review and organized this part of our notes around three “axis” of relations between a pair of  “elements” of design activities:
 
-* Relations between design situations and design outcomes,
-* Relations between design outcomes and design resources,
-* Relations between design situations and design resources.
+* relations between design situations and design outcomes,
+* relations between design outcomes and design resources,
+* relations between design situations and design resources.
 
 
 ## A. Patterns of Relations Between Design Situations and Design Outcomes
@@ -33,6 +33,7 @@ The relation between a design situation and a design outcome seems to be the mos
 * Boomerang,
 * Collateral Damage, and
 * Puzzle Solving.
+
 
 ### PATTERN 1: CO-EVOLUTION
 

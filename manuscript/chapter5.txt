@@ -372,7 +372,8 @@ Nielsen, J. (1993):
 {#Nielsen2010}
 Nielsen, J. (2010):  
 **iPad Usability: First Findings From User Testing**,  
-Jakob Nielsen's Alertbox, April 26, 2010. http://www.useit.com/alertbox/ipad.html
+Jakob Nielsen's Alertbox, April 26, 2010.
+http://www.useit.com/alertbox/ipad.html
   
   
 {#Norman2008}
