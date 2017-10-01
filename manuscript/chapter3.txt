@@ -35,7 +35,7 @@ In addition to the high pace of external changes, constant changing of design ou
 
 Constant change contributes significantly to instability of design activities because it forces designers to work without extensive experience with and deep understanding of a design situation. The *boomerang* pattern, for instance, is often a consequence of rapid changes in the external world as a reaction to a design effort, as well as designer's lack of understanding and experience with similar situations. The *co-evolution* pattern partially happens because, due to the fast pace of change, designers are often dealing with new situations for which there are have little  previouse projects and experiences. On the other hand, the *design-by-buzzword* pattern, may contribute to the constant change, as it aims at introducing new opportunities and needs that may significantly change many design situations.
 
-![The snapshot from http://www.evolutionoftheweb.com/ website. The website illustrates the constant evolution and introduction of new of web technologies.](images/webevolution.png)
+![The snapshot from the http://www.evolutionoftheweb.com/ website. The website illustrates the constant evolution existing web technologies, and frequent introduction of new web technologies.](images/webevolution.png)
 
 
 ## B. Increasing Interconnectivity
@@ -55,7 +55,7 @@ Increasing interconnectivity on a global scale may lead to significant changes i
 
 Increasing interconnectivity leads to more instability of design activities, as there are more ways or channels through which a design activity may be influenced. The *boomerang* pattern is often a direct consequence of impact of design outcomes on external, globally connected context. As illustrated by OLPC project ([see the Section about the Boomerang pattern](#Boomerang)), a project in rural area in an undeveloped region is not a mere local project, but an action in a potentially interesting segment of an emerging global market. The *collateral damage* pattern is a consequence of a chain of unforeseen consequences of design outcome in interconnected environments. Increasing connectivity also means that design professional can quickly learn from each other. The *resources conformity* pattern is in part a result of ability of design professionals to quickly obtain globally accessible knowledge about some popular design resources. And the *design-by-buzzword* pattern may lead to successful design outcomes because of existence of globally connected environments, are these environments enable more people to use design outcome and find useful applications of it.
 
-![Increased mobile phone and internet usage, Source: International Telecommunications Union](images/connectivity-stats.png)
+![Increased mobile phone and internet usage. Source: International Telecommunications Union.](images/connectivity-stats.png)
 
 
 ## C. Learning and Creativity
@@ -76,7 +76,7 @@ Learning and creativity contribute significantly to instability of design activi
 
 The *cherry picking* pattern may be viewed as an attempt to avoid extensive learning. In this pattern, designers know limitations of their resources, and are applying them only in situations where they have proved their value and no surprises are expected.
 
-![Creative usage of a pen as an "emergency" capo. People often find new and surprising usages of artifacts. Wikimedia Commons](images/creativity_learning.jpg)
+![Creative usage of a pen as an "emergency" capo. People often find new and surprising usages of artifacts. Credit: Larry Jacobsen (ljguitar) / Wikimedia Commons / CC-BY-2.0.](images/creativity_learning.jpg)
 
 
 ## D. Tacit Knowledge and Skills
@@ -91,7 +91,7 @@ A design activity can set in motion our intuitive and tacit knowledge accumulate
 
 Tacit knowledge is crucial in design, but because of its implicit nature, it is hard to predict what effects it will have. Consequently, tacit knowledge has significant influence on instability of design activities. The *co-evolution* pattern is often a consequence of actions based on “intuition”, judgment and tacit skills. For instance, tacit skills are crucial to identify design problems, especially in realm of complex human and social issues. The similar applies for the *resources precommitment* pattern as mastering your tools often requires extensive tacit knowledge and skills.
 
-![A designer sketching. Many skills relevant for design require tacit knowledge, type of knowledge not always known explicitly, even by expert practitioners, and which is difficult or impossible to explicitly transfer to other people. Photo by Hrvoje Abraham Milićević, Pexels](images/designer_drawing.jpg)
+![A designer sketching. Many skills relevant for design require tacit knowledge, type of knowledge not always known explicitly, even by expert practitioners, and which is difficult or impossible to explicitly transfer to other people. Credit: Hrvoje Abraham Milićević / Pexels.](images/designer_drawing.jpg)
 
 
 ## E. Lack of Strong Principles, Theories and Laws
@@ -110,5 +110,5 @@ The lack of strong theories contributes significantly to instability of design a
 
 On the other hand, the *design-by-buzzword* pattern, practically assumes that our current understanding and predicted usages of some design outcome are limited, and that new unpredicted usages will emerge.
 
-![Albert Einstein, Paul Ehrenfest, Paul Langevin, Heike Kamerlingh Onnes, and Pierre Weiss at Onnes's home in Leiden, the Netherlands (1920). Einstein repeatedly argued that there must be simplified explanations of nature. Wikimedia Commons.](images/Einstein_blackboard.jpg)
+![Albert Einstein, Paul Ehrenfest, Paul Langevin, Heike Kamerlingh Onnes, and Pierre Weiss at Onnes's home in Leiden, the Netherlands (1920). Einstein repeatedly argued that there must be simplified explanations of nature. Credit: Wikimedia Commons.](images/Einstein_blackboard.jpg)
 
