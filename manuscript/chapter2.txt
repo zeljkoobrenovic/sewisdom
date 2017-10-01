@@ -21,7 +21,7 @@ We structured our review and organize patterns of dynamics and around three “a
 * dynamics between design outcomes and design resources,
 * dynamics between design situations and design resources.
 
-Each pattern may be viewed as the description of dynamics that shape design decisions during design activities. In any design activity, designers make a number of decisions, trying to answer the following questions [(Obrenovic 2008)](#Obrenovic2008):
+Each pattern may be viewed as the description of dynamics that shape design decisions during design activities. In any design activity, designers make a number of decisions, trying to answer the following questions [(Obrenovic 2008)](#Obrenovic2011):
 
 * How will the design process advance?
 * What needs and opportunities will the design address?
@@ -248,7 +248,7 @@ Mere popularity of some design tool or methodology is often the main reason for 
 
 Conformity may also be a result of legal regulations. Physical materials, for instance, need to satisfy a number of regulations about safety and environmental impact and there is an often a limited list of "certified" or recommended materials. Here conformity is often more than a question of style. Failure to use recommended materials may have serious consequences and put lives of people in danger, as in case of fire safety standards. In software design, many companies also have a list of approved resources, tools or libraries that are allowed to be used. Security concerns are often the main driver for these limitations. For instance, recently the US Government banned Kaspersky Security software, limiting designers of network and application security to other options.
 
-The most popular design resources are often introduced at schools and universities, further contributing to the popularity and widespread use of these resources. Adobe, for example, offers [educational resources and discounts](http://www.adobe.com/education.edu.html) on their products for teachers and students. In software design schools, Java, one of the most popular programming languages, is often used as the first programming languages that students learn. Before that, popularity of C++ in industry has led to it being often used for teaching as well [Kölling (1999)](#Kolling1999).
+The most popular design resources are often introduced at schools and universities, further contributing to the popularity and widespread use of these resources. Adobe, for example, offers [educational resources and discounts](http://www.adobe.com/education.edu.html) on their products for teachers and students. In software design schools, Java, one of the most popular programming languages, has often used as the first programming languages that students learn [Hadjerrouit 1998](#Hadjerrouit1998). Before that, popularity of C++ in industry has led to it being often used for teaching as well [Kölling (1999)](#Kolling1999).
 
 Resource conformity has a number of practical advantages for designers. Well known tools normally have strong community and learning resources, enabling a designer to easier master the tool. Tool conformity also has advantages for design companies. It is easier to find new employees for popular tools.
 
