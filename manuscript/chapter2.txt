@@ -121,7 +121,7 @@ Any design outcome may introduce unexpected and undesired effects. Design litera
 
 *“Design solutions are not panaceas and most usually have some undesirable effects as well as the intended good effects. The modern motor car is a wonderfully sophisticated design solution to the problem of personal transportation in a world which requires people to be very mobile over short and medium distances on an unpredictable basis. However, when that solution is applied to the whole population and is used by them even for the predictable journeys we find ourselves designing roads, which tear apart our cities and rural areas. The pollution which results have become a problem in its own right, but even the car is now beginning not to work well as it sits in traffic jams! This is a very dramatic illustration of the basic principle that everything we design has the potential not only to solve problems but also to create new ones!"* ([Lawson 2005: p 122](#Lawson2005))
 
-![Traffic Jam in Maputo. A car is an excellent design solution to the problem of personal transportation, but when applied to the whole population it creates other problems, such as traffic jams. Credit: A Verdade from Maputo, Moçambique / Wikimedia Commons / CC BY 2.0.](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
+![Traffic Jam in Maputo. A car is an excellent design solution to the problem of personal transportation, but when applied to the whole population it creates other problems, such as traffic jams. Credit: A Verdade / Wikimedia Commons / CC BY 2.0.](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
 
 
 Spam is another example of problems created by success of messaging and social media technologies, such as email, SMS, Twitter and Facebook.
@@ -142,7 +142,7 @@ The puzzle solving pattern has its value in a limited number of practical cases.
 
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates).
 
-![A jigsaw puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Credit: MeHe / pixabay / CC0.](images/puzzle.jpg)
+![A jigsaw puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Credit: MeHe / pixabay.](images/puzzle.jpg)
 
 
 
@@ -168,7 +168,7 @@ The strengths and limitations of design resources directly influence design outc
 
 Design tools empower designers but they also constraint designers’ actions. These constraints often leave a typical signature on a design outcome. Mary Collins, in her post ["Web Design Trends: Why Do All Websites Look the Same?"](https://www.friday.ie/journal/why-do-all-websites-look-the-same/) argued that many of the modern websites style-wise look very similar: "*large full width background image or video in the header, overlaid text, followed by a block of short text, and then the obligatory icon columns*". Collins argued that this uniformity has its origins in popularity of UI frameworks, in particular [Bootstrap](http://getbootstrap.com/), as well as availability of pre-designed website themes, such as those in [WordPress](https://wordpress.com/). The main disadvantage of this uniformity is lack of clear distinction in style among sites, which may cause user dissatisfaction or users' perception of the company features on the website as less innovative or less original.
 
-![The screenshot of several popular WordPress themes with similar style.](images/wordpress-themes.png)
+![The screenshot of several popular WordPress themes with similar styles.](images/wordpress-themes.png)
 
 Impact of constraints of design tools on design outcome is not necessarily a disadvantage. Myers argued that since all user interfaces created with the same tool will be similar, such tools help achieving a consistent look and feel ([Myers et al. 2000](#Myers2000)). For instance, the [Google Material Design](https://material.google.com/) is a design language for creating unified user experiences across diverse platforms and devices. While being very flexible, this language also comes with a number of standard [predefined elements and resources](https://design.google.com/resources/), such as [material icons](https://design.google.com/icons/), which can give applications a distinctive Google material look and feel.
 
