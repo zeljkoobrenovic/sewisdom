@@ -3,7 +3,13 @@
 {#Adelson1986}
 Adelson B., Soloway E. (1986):  
 **A model of software design**,  
-*International Journal of Intelligent Systems 1 (3)*, pp. 195-213.  
+*International Journal of Intelligent Systems 1 (3)*, pp. 195-213.
+
+{#Bach2010}
+Bach P.M and Twidale M. (2010):
+**Social participation in open source: what it means for designers**,
+*interactions 17 (3)*, pp. 70-74.
+
 
 {#Bacon1620}
 Bacon, Francos (1620):  
@@ -328,6 +334,11 @@ Montagne K. (2010):
 **Tackling Architectural Complexity with Modeling**,
 *Communication of the ACM 53 (10)*, pp. 46-52.
 
+{#Marcus2003}
+Marcus A. (2003):
+**User-interface design and China: a great leap forward**,
+*interactions 10 (1)*, pp. 21-25.
+
 {#Myers2000}
 Myers B., Scott E. Hudson, & Randy Pausch. (2000):  
 **Past, present, and future of user interface software tools**,  
@@ -405,6 +416,15 @@ Obrenovic Z. (2011):
 **Design-Based Research: What We Learn When We Engage in Design of Interactive Systems**, 
 *interactions 18 (5)*, pp. 56-59.
   
+{#Obrenovic2014}
+Obrenovic Z. (2014):
+**The Hawthorne Studies and Their Relevance to HCI Research**,
+*interactions 21 (6)*, pp. 46-51.
+
+{#Obrenovic2015}
+Obrenovic Z. (2015):
+**Design as a Political Activity: Borrowing From Classical Political Theories**,
+*interactions 22 (6)*, pp. 56-59.
 
 {#Penzenstadler2014}
 Penzenstadler B., Raturi A., Richardson D., and Tomlinson B. (2014):  

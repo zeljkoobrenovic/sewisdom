@@ -7,7 +7,8 @@ In this part we discussion our view on the main reasons behind instability of de
 * The moving target problem,
 * Increasing interconnectivity,
 * Learning and creativity,
-* Reliance on tacit knowledge and skills, and
+* Reliance on tacit knowledge and skills,
+* Social dynamics, and
 * Lack of strong theories and principles.
 
 Our main goal is to provide an initial categorization of these topics, and to relate them to the patterns from the previous chapter. Our overview of sources of design instability is not intended to be complete, but rather a starting point, and proposed classification is not a clear-cut.
@@ -94,7 +95,29 @@ Tacit knowledge is crucial in design, but because of its implicit nature, it is 
 ![A designer sketching. Many skills relevant for design require tacit knowledge, type of knowledge not always known explicitly, even by expert practitioners, and which is difficult or impossible to explicitly transfer to other people. Credit: Hrvoje Abraham Milićević / Pexels.](images/designer_drawing.jpg)
 
 
-## E. Lack of Strong Principles, Theories and Laws
+
+## E. Social Dynamics
+
+**Summary**: *Design situations, resources and outcomes are complex socio-technical systems, with complex dynamics.*
+
+More than 80 years ago, the Hawthorne studies effectively demonstrated that no one interested in the behavior of people could consider them as isolated individuals [Obrenovic 2014](#Obrenovic2014). These studies originally aimed at studying the impact of material conditions (e.g. lighting) on the productivity of workers. They discovered that it makes no sense to study the productivity of workers without taking into account factors such as motivational and group influences, social status, informal communication, roles, norms, job satisfaction, resistance to change, group norms, worker participation, and leadership.
+
+Everything designers do is related to people and their social relations. Every design activity is a field of complex social dynamics. Social dynamics manifests itself through multiple mechanisms, such as culture, values, norms, ethics, peer pressure, charisma, honor, prestige, and so on. Social dynamics affects design activates at all levels. Design situations are complex social contexts, where people and their connection are of primary importance. Design outcomes are never mere material products, but always change social dynamics of original design situations. Sometimes changing the social dynamics may be the main goal of a design activity, such as when we are designing new processes or methods of works in organizations. And design resources are not mere material things, but they come with associated communities of producers, marketers, distributors, practitioners, and education institutions.
+
+Understanding the social context of design is crucial for its success. There are many examples of products that failed due to lack of understanding of the social context, and success of some product in one country or culture, does not guarantee its success in another country or culture. Aaron Marcus, for example, discussed that there are major differences between Western and Asian, specifically Chinese, ways of communicating and interacting pervade all aspects of how each group understands daily life and how each group behaves in daily activities [(Marcus 2003)](#Marcus2003).
+
+Clients perception of values and culture of companies and their leaders can have a significant impact on adoption or rejection of designed products. Success of Apple products, for instance, is often associated with the charisma and legacy of Steve Jobs. But there are also negative examples. In 2014, for example, a number of users boycotted the Firefox Web browser because of the CEO's stance on gay rights. This boycott significantly contributed to the pressure that led to the CEO's resignation [Obrenovic 2015](#Obrenovic2015). Similarly, in 2017 The Uber CEO stepped down, due to the pressure cause by negative publicity, such as the #DeleteUber campaign and [the reported incidents of sexual harassment](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber).
+
+The community in which designers operate may have significant impact on their design decisions. Such communities promote certain values and norms, and define what is acceptable and not acceptable. For instance, certain practices of user involvement are considered unethical, even though they are not illegal.
+
+Design resources also have their social dynamics. Producers of these resources may use different forms of social activates and pressure to promote usage of their products. Organizing social events, such as sponsored conferences and parties, are all the part of carefully planned promotional activities. Each design resource also has a community behind it, with its own culture. Open-source projects, for instance have and elaborate and complex network of people working and involved in them [(Bach & Twidale 2010)](#Bach2010). Many of these communities also organize various social events, such as conferences or "meetups", and promote particular ideas, values and best practices through social networks, blog posts, journals and books. And each of these communities also has its though leaders and influencers. Recommendations of some of the popular and charismatic thought leaders in some community may have more impact on design decision than any other factors.
+
+Many patterns of dynamics of design activities are influences by social factors. The "boomerang" pattern is often a consequence of complex social dynamics on the market. The "design-by-buzzword" patterns is in many ways a consequence of social dynamics when people adopt new technologies. Adoption of a new technology is in many ways a complex social phenomenon. Peer pressure may be a strong motivator to buy some new product. And some users see it as a matter of prestige to be among first adopters of some product. The "cherry picking" may be associated to executing a social pressure to buy some design product. The *resource conformity* pattern may be viewed as a consequence of workings of social mechanisms, such as peer-pressure in the community of designers, popularity and fashion. The "resource commitment" pattern may be influences by social dynamics related to promotion of some design resource.
+
+
+
+
+## F. Lack of Strong Principles, Theories and Laws
 
 **Summary**: *Designers are dealing with poorly understood phenomena, for which we do not have strong underlying principles, theories and laws.*
 
