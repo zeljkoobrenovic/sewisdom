@@ -207,7 +207,12 @@ Gero J.S. (1990):
 Glass R. L. (2006):   
 ***Software Creativity 2.0***,   
 developer.* Books. 
-  
+
+{#Goodman2014}
+Goodman E. (2014):
+**Design and ethics in the era of big data**,
+*interactions 21 (3)*, pp. 22-24.
+
   
 {#Goth2011}
 Goth G. (2011):  
@@ -562,5 +567,9 @@ Wilde E. and Glushko R.J. 2008:
 **XML fever**,   
 *Commun. ACM 51 (7)*, pp. 40-46.
 
+{#Williamson2016}
+Williamson J.R. and Sundén D. (2016):
+**Deep cover HCI: the ethics of covert research**,
+*interactions 23 (3)*, pp. 45-49.
 
 
