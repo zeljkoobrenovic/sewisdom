@@ -18,7 +18,7 @@ Many experienced designers already understand that many of the "conventional" wa
 
 *“One of the key misassumptions in modern systems engineering and systems analysis is that the total problem can, and frequently is, decomposed into sub-problems; the sub-problems can be solved more or less independently, and the total solution can be synthesized by combination of the sub-solutions, treating the interactions of the parts as 'interfaces.' The real world is, however, highly nonlinear, and unless real attention is paid to this fact, the linear decomposition treatment will fail catastrophically, because the interaction terms may be as large as the sub-problems and not reducible to simple interfaces. The result may well remain decomposed.”*
 
-Similarly, Rick Nason, in his discussion on complexity in business, noted that complex problems involve too many unknowns and too many interrelated factors to reduce to rules and processes [Nason 2017](#Nason2017).
+Similarly, Rick Nason, in his discussion on complexity in business, noted that complex problems involve too many unknowns and too many interrelated factors to reduce to rules and processes [Nason 2017](#Nason2017). [Hendler et al. (2008)](#Hendler2008) also noted that complex systems have emergent properties that are not predictable by analyzing micro technical and/or social effects.
 
 Design complexity, thus, needs to be addressed with other approaches than decomposition and reductionism (e.g. [Sommerville et al. 2012](#Sommerville2012); [Stolterman 2008](#Stolterman2008a)).
 

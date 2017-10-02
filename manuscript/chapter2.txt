@@ -1,3 +1,4 @@
+{#Patterns}
 # Part II: Patterns of Dynamics
 
 In this part of our notes we discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex and dynamic relations among design situations, design outcomes and design resources. We believe that these dynamic relations are main sources of complexity characteristic for design activities. As mentioned in the introduction, while design situations, outcomes and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are relations among these structures. Dynamics of these relations challenge designers' ability to deal with complexity as any of the structures is subject to change, in a difficult to predict way.
