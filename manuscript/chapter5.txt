@@ -101,11 +101,6 @@ Chua J. (2015):
 **Design Without Final Goals: Getting Around Our Bounded Rationality**,  
 *Artifact 3 (4)*, pp. 2.1-2.7, http://dx.doi.org/10.14434/artifact.v3i4.12787.
   
-{#Clark2008}
-Clark, A., (2008):  
-***Supersizing the Mind: Embodiment, Action and Cognitive Extension***,  
-Oxford University Press.  
-  
 {#Cockburn2000}
 Cockburn A. (2000):  
 **Selecting a Project's Methodology**,  
@@ -274,12 +269,6 @@ Holmquist L. E. (2017):
 **Intelligence on tap: artificial intelligence as a new design material**,
 *interactions 24, 4*, pp. 28-33.
 
-{#Hutchins1995}
-Hutchins, E. (1995):  
-***Cognition in the Wild***,    
-MIT Press, Cambridge, MA.
-  
-  
 {#Janlert2008}
 Janlert L.E. and Stolterman E. (2008):  
 **Complex interaction**,   
