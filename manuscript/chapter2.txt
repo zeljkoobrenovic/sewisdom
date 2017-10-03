@@ -183,7 +183,7 @@ elements in an user interface was a typical signature of the Flash tool.
 
 The resource signature pattern may also be visible at the level of design processes and organizations. Established processes and organizational structures may influence the form of design outcomes. Melvin Conway, in what is nowadays known as *the Conway's law*, stated that organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations ([Conway 1968](#Conway1968)[^fooConwayLink]). For instance, two software modules A and B cannot interface correctly with each other unless the designer and implementer of A communicates with the designer and implementer of B. Similarly, [Bass et al. (2012)](#Bass2012) reported a case in which a software architect was asked by the management to add a database component to the software solution, not because of its suitability, but because the database department of the company was overstaffed and underworked and they needed something to do (page 59). [MacCormack et al. 2012](#MacCormack2012) explored the duality between product and organizational architectures, highlighting the impact of organizational design decisions on the technical structure of the artifacts that these organizations develop.
 
-![Illustration of the Conway's Law. Credit: Martin Fowler (https://martinfowler.com/articles/microservices.html).](images/conways-law.png)
+![Illustration of the Conway's Law. Credit: Martin Fowler (https://martinfowler.com/articles/microservices.html).](images/conways-law.jpg)
 
 [^fooConwayLink]: [http://www.design.caltech.edu/erik/Misc/Conway.html](http://www.design.caltech.edu/erik/Misc/Conway.html)
 
@@ -203,7 +203,7 @@ The outcome signature pattern also happens at the process and organizational lev
 This pattern is connected to the *resource commitment* pattern. Having tools, skills, and organizational structures optimized for creating a particular type of a design outcome, may stimulate
 designers to reuse their tools and skills in new design situations. But this optimization may also lead to the *cherry picking* pattern, and stimulate designers to choose only those situations where a specific type of design outcome is required.
 
-![Hammer-heads optimized for different purposes. Credit: Wikimedia Commons.](images/hammerheads.png)
+![Hammer-heads optimized for different purposes. Credit: Wikimedia Commons.](images/hammerheads.jpg)
 
 
 ### PATTERN 8: DESIGN-BY-BUZZWORD
