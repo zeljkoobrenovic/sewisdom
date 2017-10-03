@@ -1,13 +1,12 @@
 # About the Authors
 
-**Željko Obrenović** (http://obren.info) is a principal consultant with the Software Improvement Group in Amsterdam. Before joining SIG he worked as a consultant at Backbase, an assistant professor at the Technical University in Eindhoven, and a researcher at CWI. In his work he aims at bridging design research and practice.
+**Željko Obrenović** is a principal consultant with the Software Improvement Group in Amsterdam. Before joining SIG he worked as a consultant at Backbase, an assistant professor at the Technical University in Eindhoven, and a researcher at CWI. In his work he aims at bridging design research and practice.
 
 **Website**: [obren.info](http://obren.info/)
 **Twitter**: [@zeljko_obren](https://twitter.com/zeljko_obren)
 
 
-**Erik Stolterman** is Professor of Informatics and Senior Executive Associate Dean at the School of Informatics, Computing, and Engineering, Indiana University, Bloomington. He is also a professor
-at the Institute of Design at Umeå University, Sweden. Stolterman is co-Editor for the Design Thinking/Design Theory book series by MIT Press, and on several editorial boards for international journals (The HCI journal, International Journal of Design, Design Studies, Design, Economics and Innovation, International Journal of Designs for Learning, Studies in Material Thinking, Human Computation: An Interdisciplinary Journal, Artifact). Stolterman’s main work is within the areas of interfaces, interactivity, interaction design, design practice, philosophy and theory of design. Stolterman has published a large number of articles and five books, including “Thoughtful Interaction Design” (MIT Press) and “The Design Way” (MIT Press) and the forthcoming “Things That Keep Us Busy--The Elements of Interaction” (MIT Press, 2017).
+**Erik Stolterman** is Professor of Informatics and Senior Executive Associate Dean at the School of Informatics, Computing, and Engineering, Indiana University, Bloomington. He is also a professor at the Institute of Design at Umeå University, Sweden. Stolterman is co-Editor for the Design Thinking/Design Theory book series by MIT Press, and on several editorial boards for international journals (The HCI journal, International Journal of Design, Design Studies, Design, Economics and Innovation, International Journal of Designs for Learning, Studies in Material Thinking, Human Computation: An Interdisciplinary Journal, Artifact). Stolterman’s main work is within the areas of interfaces, interactivity, interaction design, design practice, philosophy and theory of design. Stolterman has published a large number of articles and five books, including “Thoughtful Interaction Design” (MIT Press) and “The Design Way” (MIT Press) and the forthcoming “Things That Keep Us Busy--The Elements of Interaction” (MIT Press, 2017).
 
 **Website**: [transground.blogspot.com](http://transground.blogspot.com)
 **Twitter**: [@estolter](https://twitter.com/estolter)
