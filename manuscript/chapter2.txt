@@ -218,7 +218,7 @@ situation or experiences of using the resource in similar situations.
 
 New technology opportunities are one of the main reasons for constant change of designs. [Brooks (1995)](#Brooks1995) noted that new opportunities in technology are often driving the changes of software design: “*If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity*” (page 12). [Boehm and Bhuta (2008)](#Boehm2008) argued that software projects that do not capitalize on new opportunities will generally find their products unable to compete.
 
-![The iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications. Credit: Apple.](images/iPhone-Family_US-EN-PRINT.png)
+![The iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications. Credit: Apple.](images/iPhone-Family_US-EN-PRINT.jpg)
 
 Design-by-buzzword may also lead to unnecessary complex and unsuccessful projects. [Roy Thomas Fielding (2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture.
 
@@ -264,7 +264,7 @@ Usage of some resources also influences its future development. By using and buy
 
 Resource conformity may also have its downsides. One negative issue is the “lock-in”, as artifacts created with some design tool may not be moved to or further developed and maintained with another tool. Popular tools may also constrain a designer as they need to stay relevant for a number of users and may decide to focus on developing only the most common features.
 
-![Three examples of buildings in the Amsterdam School style, a style of architecture popular from 1910 through about 1930 in the Netherlands. Buildings of the Amsterdam School are characterized by brick construction with complicated masonry with a rounded or organic appearance, relatively traditional massing, and the integration of an elaborate scheme of building elements inside and out. Credit: Amsterdam Municipal Department for the Preservation and Restoration of Historic Buildings and Sites (bMA) / Wikimedia Commons.](images/Amsterdamse school.png)
+![Three examples of buildings in the Amsterdam School style, a style of architecture popular from 1910 through about 1930 in the Netherlands. Buildings of the Amsterdam School are characterized by brick construction with complicated masonry with a rounded or organic appearance, relatively traditional massing, and the integration of an elaborate scheme of building elements inside and out. Credit: Amsterdam Municipal Department for the Preservation and Restoration of Historic Buildings and Sites (bMA) / Wikimedia Commons.](images/Amsterdamse school.jpg)
 
 
 ### PATTERN 10: RESOURCE COMMITMENT
