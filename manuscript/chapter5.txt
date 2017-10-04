@@ -115,7 +115,12 @@ Computer 38 (10), pp. 10-12.
 Conway, M.E. (1968):  
 **How do Committees Invent?**,  
 *Datamation 14 (5)*, pp. 28–31.
-  
+
+{#Coplien1999}
+Coplien J.O (1999):
+**Guest Editor's Introduction: Reevaluating the Architectural Metaphor-Toward Piecemeal Growth**,
+*IEEE Software 19 (5)*, pp. 40-44.
+
 {#Coyne2005}
 Coyne R. (2005):  
 **Wicked problems revisited**,  
