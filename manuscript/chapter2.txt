@@ -287,7 +287,7 @@ Resource conformity may also have its downsides. One negative issue is the “lo
 
 **Motto**: *“it is a poor carpenter that blames his tools”*
 
-Designers may commit to using a particular resource due to reasons other than conformity. Commitment to a particular resource, for instance, can also enable development of mastery in using this resource. Learning to use a new design tool, for instance, requires time and effort, and initial results may be discouraging. Without the commitment, a designer may give up learning too early, and never master the tool.
+Designers may commit to using a particular resource due to reasons other than conformity. Commitment to a particular resource, for instance, can also enable development of mastery in using this resource. Learning to use a new design tool requires time and effort, and initial results may be discouraging. Without the commitment, a designer may give up learning too early, and never master the tool.
 
 Most design companies have a set of their standard or recommended resources. If a whole organization commits to using a particular resource, it may have a positive effect on their operations. Many people will share the same knowledge and skills, learn from each other, and in general easier communicate and collaborate. [Ken Britton](http://queue.acm.org/detail.cfm?id=3131240), for instance, argued for the value of keeping the number of technologies organizations use to a minimum, so that the organizations can more easily train new people, maintain code, and support moves between teams.
 
