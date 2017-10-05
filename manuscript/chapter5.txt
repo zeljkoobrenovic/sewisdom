@@ -5,6 +5,11 @@ Adelson B., Soloway E. (1986):
 **A model of software design**,  
 *International Journal of Intelligent Systems 1 (3)*, pp. 195-213.
 
+{#Aste2017}
+Aste T., Tasca P., Di Matteo T. (2017):
+**Blockchain Technologies: The Foreseeable Impact on Society and Industry**,
+*IEEE Computer 50(9), pp. 18-28.
+
 {#Bach2010}
 Bach P.M and Twidale M. (2010):
 **Social participation in open source: what it means for designers**,
@@ -177,7 +182,12 @@ Dissertation. University of California, Irvine.
 Fischer G., Giaccardi E., Ye Y., Sutcliffe A.G., and Mehandjiev N. (2004):  
 **Meta-design: a manifesto for end-user development**,  
 *Commun. ACM 47 (9)*, pp. 33-37. 
-  
+
+{#Fonseca2016}
+Fonseca O., Fazzion E., Cunha I., Las-Casas P.H.B., Guedes D., Meira W., Hoepers C., Steding-Jessen K., Chaves M.H.P. (2016):
+**Measuring, Characterizing, and Avoiding Spam Traffic Costs**,
+*IEEE Internet Computing 20 (4)*, pp. 16-24.
+
 {#Frosh1969}
 Frosh, R.A. (1969):  
 **A new look at systems engineering**,   
