@@ -54,7 +54,7 @@ The dynamics between a design situation and a design outcome seems to be the mos
 
 **Alternative names**: "*problem–solution flux*"
 
-Design authors generally agree that design situations are never clearly defined problems. Rather, the model commonly used to describe design problems and their solutions is that of a co-evolution, where understanding of what the actual problem is evolves together with designers' attempts to create a solution ([Dorst & Cross 2001](#Dorst 2001)).
+Design authors generally agree that design situations are never clearly defined problems. Rather, the model commonly used to describe design problems and their solutions is that of a co-evolution, where understanding of what the actual problem is evolves together with designers' attempts to create a solution ([Dorst & Cross 2001](#Dorst2001)).
 
 Donald Schön ([1983](#Schon1983)) was among first to argue that design is not a straightforward problem-solving activity. He elaborated that real-world problems do not present themselves to practitioners as givens (page 40). Rather, they must be constructed from the materials of problematic situations, which are puzzling, troubling, and uncertain[^foowicked]. Practitioners must make sense of uncertain situations that initially makes no sense. Schön emphasized that in design practice, *problem setting* is equally important as *problem solving*.
 
