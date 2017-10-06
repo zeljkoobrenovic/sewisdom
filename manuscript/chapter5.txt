@@ -348,6 +348,11 @@ Marcus A. (2003):
 **User-interface design and China: a great leap forward**,
 *interactions 10 (1)*, pp. 21-25.
 
+{#Murray2004}
+Murray, P. (2004). T
+***The Saga of the Sydney Opera House***,
+London: Spon Press.
+
 {#Myers2000}
 Myers B., Scott E. Hudson, & Randy Pausch. (2000):  
 **Past, present, and future of user interface software tools**,  
