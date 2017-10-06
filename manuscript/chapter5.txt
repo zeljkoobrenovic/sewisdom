@@ -435,6 +435,11 @@ Obrenovic Z. (2015):
 **Design as a Political Activity: Borrowing From Classical Political Theories**,
 *interactions 22 (6)*, pp. 56-59.
 
+{#Obrenovic2017}
+Obrenovic Z. (2017):
+**Insights from the Past: The IEEE Software History Experiment**,
+*IEEE Software 34 (4)*, pp. 71-78.
+
 {#Penzenstadler2014}
 Penzenstadler B., Raturi A., Richardson D., and Tomlinson B. (2014):  
 **Safety, Security, Now Sustainability: The Nonfunctional Requirement for the 21st Century**,  

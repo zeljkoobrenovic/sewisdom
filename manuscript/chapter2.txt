@@ -40,11 +40,12 @@ The dynamics between a design situation and a design outcome seems to be the mos
 
 * Co-Evolution,
 * A Solution Looking for a Problem,
-* Boomerang,
-* Problematic Solution, and
+* A Problematic Solution,
+* Boomerang, and
 * Puzzle Solving.
 
 
+{#CoEvolution}
 ### PATTERN 1: CO-EVOLUTION
 
 **Summary**: *A design situation and designer’s understanding of the design situation changes and evolves in parallel and under influence of design outcome and designer’s understating of potential design outcomes.*
@@ -65,6 +66,8 @@ In the domain of software design, Brooks noted that the most difficult part of s
 
 In software development, co-evolution is the primary pattern of dynamics behind the [agile software development](https://www.agilealliance.org/agile101/), nowadays a mainstream software development methodology. Agile software development methods promote iterative and incremental development, with continuous feedback mechanisms to refine and deliver a software system. One of the central values behind agile software development is responding to change over following a plan, acknowledging that requirements (problem definition) cannot be fully known in advance and will change during the project.
 
+One of the main side effects of the co-evolution is increased knowledge about a design situation. Co-evolution is particularly useful pattern in new domains, for which there is little experience. The co-evolution, however, may be an anti-pattern when applied in well established domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" syndroms (e.g. see [Obrenovic 2017](#Obrenovic2017)). In well established domains, there are normally lots of documented experiences and best practices, and main pitfalls are known. In well established domains there are often standard solutions that can reused. For example, for most organizations it is normally much more cost effective, especially on lognterm, to use standard solutions for internal communication, such as off-the-shelf email and messaging platforms, rather than to implement (co-evolve) their own custom communication solutions. Custom solutions may be a better match for the organisations' internal ways of communicating, but may require significant investments.
+
 ![Pittsburg's Golden Triangle. In 1950s, an extensive renewal program begun in the city of Pittsburgh, with a principal goal of rebuild the center of the city, the so-called Golden Triangle. Credit: U.S. National Archives and Records Administration / Wikimedia Commons.](images/Pittsburgh_Golden_Triangle.jpg)
 
 
@@ -75,11 +78,17 @@ In software development, co-evolution is the primary pattern of dynamics behind 
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it”* ([Nye 2006](#Nye2006))
 
 
-Design solutions may exist before situations in which they are used. We often find new uses for things we already have. [Nye (2006, page 2)](#Nye2006) noted that when humans possess a tool, they excel at finding new uses for it. He argued that necessity is often not the mother of invention. He elaborated that in many cases, the opposite was the case. The tool often exists before the problem to be solved. Nye concluded that latent in every tool are unforeseen transformations.
+Design solutions may exist before situations in which they are used. We often find new uses for things we already have.
+
+Nye [(2006)](#Nye2006) noted that when humans possess a tool, they excel at finding new uses for it. He argued that necessity is often not the mother of invention. He elaborated that in many cases, the opposite was the case (page 2). The tool often exists before the problem to be solved. Nye concluded that latent in every tool are unforeseen transformations.
 
 Norman explored this issue as well, claiming that major innovations came from technologists who had little understanding of the problem domain ([Norman 2010](#Norman2010)). He stated that this is true for almost all of the powerful inventions that have changed society: the airplane, the automobile, the telephone, the radio, the television, the computer, the personal computer, the internet, SMS text messaging, and the cellphone. Norman claimed that with many of these inventions, the technology came first, the products second, and then the needs slowly appeared. New applications are first considered to be luxuries, after a while they become "needs," and finally, they may end up being seen as essential. In his earlier work, [Norman (2008)](#Norman2008) similarly explored how unordinary usages of ordinary products may lead to new requirements (change in design situation) and new products. Norman provided an example of Nokia's designers, who added a penlight to some of their phones after visiting China and noticing that people were using displays of their mobile phones as a source of light.
 
 Nowadays, bitcoin and blockchain are examples of technologies that [some see are solutions looking for a problem](https://qz.com/844507/bitcoin-and-blockchain-seem-more-and-more-like-solutions-looking-for-a-problem/). Blockchain is a technology that uses community validation to keep synchronized the content of ledgers replicated across multiple users ([Aste et al. 2017](#Aste2017)). Blockchain derives its origins from technologies introduced decades ago, but it has gained popularity with Bitcoin. Blockchain opens a range of new possibilities for businesses in which value can be directly transferred between participants over the Internet without intermediaries or centralized points of control. While many argue that the blockchain technology has enormous potential, at the time of writing of this book, practical applications of these technologies were limited. Blockchain is still looking for problems to solve.
+
+The main problem with the solution looking for a problem pattern is that it, at least in early stages, may require significant developmental costs without any tangible benefit. This may be a problem if a company invests most of its resources in development of such solution. The [analysis of Forbes] (https://www.forbes.com/sites/groupthink/2016/03/02/top-20-reasons-why-startups-fail-infographic/) on reasons for failure of startup companies, showed that 42% of startups fail due to lack for marketing need for the solutions startups offered.
+
+While the solution looking for a problem pattern introduces significant risks, it may be a conscious strategy to innovate within a company. Being an early adopter of some technology may be a crucial competitive advantage. Waiting to invest in the technology only after its value has been demonstrated on the market may be too late. Consequently, such as in the case of blockchain, many companies are investing in development of innovative solutions not because of clear marketing need, but to be in a good starting position to exploit this technology if and when marketing needs appear.
 
 Once a new usage of a design “solution” emerges, the new situation often starts to influence further evolution of the original “solution”. Brooks, for instance noted that all successful software gets changed partially because as a software product is found to be useful, people try it in new cases at the edge of, or beyond, the original domain ([Brooks 1995, page 12](#Brooks1995)).
 
@@ -87,15 +96,39 @@ Once a new usage of a design “solution” emerges, the new situation often sta
 ![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Credit: Hinman, Rachel. 2012. The Mobile Frontier. New York: Rosenfeld Media. / Flickr / CC-BY-2.0](images/first_mobile_phone.jpg)
 
 
+### PATTERN 3: A PROBLEMATIC SOLUTION
+
+**Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
+
+**Moto**: *“Everything we design has the potential not only to solve problems but also to create new ones”* ([Lawson 2005](#Lawson2005))
+
+**Alternative names**: "collateral damage"
+
+Any design outcome may, in good faith, introduce unexpected and undesired effects. Design literature provides numerous examples of designers having to deal with issues of unintended consequences of their designs (e.g. [Janlert and Stolterman 2008](#Janlert2008)). Lawson nicely illustrates this issue on an example of a motorcar:
+
+*“Design solutions are not panaceas and most usually have some undesirable effects as well as the intended good effects. The modern motor car is a wonderfully sophisticated design solution to the problem of personal transportation in a world which requires people to be very mobile over short and medium distances on an unpredictable basis. However, when that solution is applied to the whole population and is used by them even for the predictable journeys we find ourselves designing roads, which tear apart our cities and rural areas. The pollution which results have become a problem in its own right, but even the car is now beginning not to work well as it sits in traffic jams! This is a very dramatic illustration of the basic principle that everything we design has the potential not only to solve problems but also to create new ones!"* ([Lawson 2005: p 122](#Lawson2005))
+
+![Traffic Jam in Maputo. A car is an excellent design solution to the problem of personal transportation, but when applied to the whole population it creates other problems, such as traffic jams. Credit: A Verdade / Wikimedia Commons / CC BY 2.0.](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
+
+A success of [Uber](https://www.uber.com/), a smartphone-enabled 'ride-hailing' service alternative to taxi cabs, has resulted in complex and significant changes in the taxi drivers job market, leading to job losses and associated social issues in many cities. This becomes a problem for Uber as many city resist introducing its services, and several cities have banned it after the introduction.
+
+In software design, one of the most prominent examples of problems caused by previous design solutions was the “year 2000 (Y2K) problem” (e.g. [Neumann and McCullagh 1999](#Neuman1999); [Berghel 1999](#Berghel1999); [Pescio 1997](#Pescio1997)). This problem was caused by a shortcut taken by early software designers. To conserve memory space, early software designers used a solution that recorded the year using the last two digits rather than four. Computers using this system would then recognize the year 2000 as the year 1900 instead, potentially causing serious problems in many sectors. It was estimated that costs of fixing the Y2K problem exceeded $3 trillion worldwide ([Brown et al. 2000](#Brown2000)).
+
+Spam is another example of problems created by success of messaging and social media technologies, such as email, SMS, Twitter and Facebook. Here the ease and low price of sending messages (a solution) is being misused to send huge volumes of messages that propagate malware, disseminate phishing exploits, and advertise illegal products. Spam messages generate significant costs for users and network operators ([Fonseca et al. 2016](#Fonseca2016)). Furthermore, spam has required significant investments in spam detection and prevention tools, which are now core tools of any messaging platform.
+
+If a design outcome will be perceived as problematic is also a function of expectations. Marketing and other expectation management techniques may have a significant impact on how the design outcome will be perceived. Don Normam, in his [talk and Main Event in 2004](https://mprove.de/script/04/nng/expectationdesign.html), said that expectations are connected to hope, fear, satisfaction and anger. Norma elaborated that delivering on positive expectations leads to people experiencing pleasure, delivering something different than expected (but equally satisfying) leads to people having fun. But failure to deliver on positive expectations (or leaving people feeling out of control) may lead to negative emotions and seaing a product as a problem. While such reactipns may be interpreted as "only" a matter of perception, this perception and associated reactions may significantly change the design situation, such as people starting to use a competing product.
+
+
+
 
 
 
 {#Boomerang}
-### PATTERN 3: BOOMERANG
+### PATTERN 4: BOOMERANG
 
 **Summary**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes unsuccessful, obsolete or irrelevant. Such reactions would normally not occur without the design activity.*.
 
-**Alternative names**: *shoot oneself in the foot, own goal*
+**Alternative names**: "*blowback, ricochet, own goal, shoot oneself in the foot*
 
 The interaction between a design outcome and design situation can occur indirectly, especially if the design enters the mass market or can have significant influence on the society. In some cases, this interaction may change the original design situation so much that intended outcome of designers’ effort may become obsolete.
 
@@ -116,29 +149,7 @@ In software design a similar effect we may find in ["vaporware"](https://en.wiki
 
 
 
-### PATTERN 4: PROBLEMATIC SOLUTION
-
-**Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
-
-**Moto**: *“Everything we design has the potential not only to solve problems but also to create new ones”* ([Lawson 2005](#Lawson2005))
-
-**Alternaative names**: "collateral damage"
-
-Any design outcome may introduce unexpected and undesired effects. Design literature provides numerous examples of designers having to deal with issues of unintended consequences of their designs (e.g. [Janlert and Stolterman 2008](#Janlert2008)). Lawson nicely illustrates this issue on an example of a motorcar:
-
-*“Design solutions are not panaceas and most usually have some undesirable effects as well as the intended good effects. The modern motor car is a wonderfully sophisticated design solution to the problem of personal transportation in a world which requires people to be very mobile over short and medium distances on an unpredictable basis. However, when that solution is applied to the whole population and is used by them even for the predictable journeys we find ourselves designing roads, which tear apart our cities and rural areas. The pollution which results have become a problem in its own right, but even the car is now beginning not to work well as it sits in traffic jams! This is a very dramatic illustration of the basic principle that everything we design has the potential not only to solve problems but also to create new ones!"* ([Lawson 2005: p 122](#Lawson2005))
-
-![Traffic Jam in Maputo. A car is an excellent design solution to the problem of personal transportation, but when applied to the whole population it creates other problems, such as traffic jams. Credit: A Verdade / Wikimedia Commons / CC BY 2.0.](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
-
-A success of [Uber](https://www.uber.com/), a smartphone-enabled 'ride-hailing' service alternative to taxi cabs, has resulted in complex and significant changes in the taxi drivers job market, leading to job losses and associated social issues in many cities.
-
-In software design, one of the most prominent examples of problems caused by previous design solutions was the “year 2000 (Y2K) problem” (e.g. [Neumann and McCullagh 1999](#Neuman1999); [Berghel 1999](#Berghel1999); [Pescio 1997](#Pescio1997)). This problem was caused by a shortcut taken by early software designers. To conserve memory space, early software designers used a solution that recorded the year using the last two digits rather than four. Computers using this system would then recognize the year 2000 as the year 1900 instead, potentially causing serious problems in many sectors. It was estimated that costs of fixing the Y2K problem exceeded $3 trillion worldwide ([Brown et al. 2000](#Brown2000)).
-
-Spam is another example of problems created by success of messaging and social media technologies, such as email, SMS, Twitter and Facebook. Here the ease and low price of sending messages (a solution) is being misused to send huge volumes of messages that propagate malware, disseminate phishing exploits, and advertise illegal products. Spam messages generate significant costs for users and network operators ([Fonseca et al. 2016](#Fonseca2016)). Furthermore, spam has required significant investments in spam detection and prevention tools, which are now core tools of any messaging platform.
-
-
-
-### (ANTI-)PATTERN 5: PUZZLE SOLVING
+### PATTERN 5: PUZZLE SOLVING
 
 **Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
@@ -273,11 +284,13 @@ Conformity may also be a result of legal regulations. Physical materials, for in
 
 The most popular design resources are often introduced at schools and universities, further contributing to the popularity and widespread use of these resources. Adobe, for example, offers [educational resources and discounts](http://www.adobe.com/education.edu.html) on their products for teachers and students. In software design schools, Java, one of the most popular programming languages, has often used as the first programming languages that students learn [Hadjerrouit 1998](#Hadjerrouit1998). Before that, popularity of C++ in industry has led to it being often used for teaching as well [Kölling (1999)](#Kolling1999).
 
-Resource conformity has a number of practical advantages for designers. Well known tools normally have strong community and learning resources, enabling a designer to easier master the tool. Tool conformity also has advantages for design companies. It is easier to find new employees for popular tools.
-
 Usage of some resources also influences its future development. By using and buying a particular resource, designer’s increase the popularity of the resource and the profit of the producer, which can further stimulate the spread and use of the tool. Successful projects are good references for resources used in them, and may be the main reason why others will select this resource for new projects.
 
-Resource conformity may also have its downsides. One negative issue is the “lock-in”, as artifacts created with some design tool may not be moved to or further developed and maintained with another tool. Popular tools may also constrain a designer as they need to stay relevant for a number of users and may decide to focus on developing only the most common features.
+Resource conformity has a number of practical advantages for designers. Well known tools normally have strong community and learning resources, enabling a designer to easier master the tool. Tool conformity also has advantages for design companies. It is easier to find new employees for popular tools.
+
+Resource conformity is also useful in standard, well established domains. As discussed in the [co-evolution pattern](#CoEvolution) desiging custom solutions may lead to "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g. see [Obrenovic 2017](#Obrenovic2017)). In well established domains there are often standard solutions that can used as design resources. For example, for most organizations it is normally much more cost effective to use standard solutions (resource conformity) for internal communication, such as off-the-shelf email and messaging platforms, rather than to implement (co-evolve) their own custom communication solutions.
+
+Resource conformity may also have its downsides. One negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as customer dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for a number of users and may decide to focus on developing only the most common features.
 
 ![Three examples of buildings in the Amsterdam School style, a style of architecture popular from 1910 through about 1930 in the Netherlands. Buildings of the Amsterdam School are characterized by brick construction with complicated masonry with a rounded or organic appearance, relatively traditional massing, and the integration of an elaborate scheme of building elements inside and out. Credit: Amsterdam Municipal Department for the Preservation and Restoration of Historic Buildings and Sites (bMA) / Wikimedia Commons.](images/Amsterdamse school.jpg)
 
