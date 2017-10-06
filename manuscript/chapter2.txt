@@ -41,7 +41,7 @@ The dynamics between a design situation and a design outcome seems to be the mos
 * Co-Evolution,
 * A Solution Looking for a Problem,
 * Boomerang,
-* Collateral Damage, and
+* Problematic Solution, and
 * Puzzle Solving.
 
 
@@ -116,12 +116,13 @@ In software design a similar effect we may find in ["vaporware"](https://en.wiki
 
 
 
-### PATTERN 4: COLLATERAL DAMAGE
+### PATTERN 4: PROBLEMATIC SOLUTION
 
 **Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
 **Moto**: *“Everything we design has the potential not only to solve problems but also to create new ones”* ([Lawson 2005](#Lawson2005))
 
+**Alternaative names**: "collateral damage"
 
 Any design outcome may introduce unexpected and undesired effects. Design literature provides numerous examples of designers having to deal with issues of unintended consequences of their designs (e.g. [Janlert and Stolterman 2008](#Janlert2008)). Lawson nicely illustrates this issue on an example of a motorcar:
 
@@ -328,7 +329,7 @@ For example, the *co-evolution* pattern is normally intrinsic to the design acti
 
 This difference in temporality and location of patterns suggest the need for techniques to estimate both the short-term and long-term impacts of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software engineers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support these types of reasoning.
 
-The proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resource commitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *collateral damage* patterns, as we are dealing with more novel and unknown elements.
+The proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resource commitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *problematic solution* patterns, as we are dealing with more novel and unknown elements.
 
 ![The formation of complex symmetrical and fractal patterns in snowflakes exemplifies emergence in a physical system. In philosophy, systems theory, science, and art, emergence is whereby larger entities arise through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller/simpler entities do not exhibit. Credit: Wikimedia Commons.](images/SnowflakesWilsonBentley.jpg)
 
