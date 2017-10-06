@@ -127,11 +127,6 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 
 
-
-
-
-
-
 {#Boomerang}
 ### PATTERN 4: BOOMERANG
 
@@ -141,7 +136,7 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 **Alternative names**: "*ricochet, own goal, shoot oneself in the foot*
 
-The interaction between a design outcome and design situation can occur indirectly, especially if the design enters the mass market or can have significant influence on the society. In some cases, this interaction may change the original design situation so much that intended outcome of designers’ effort may become obsolete.
+The boomerang situation described dynamics of design activities in which designers’ efforts to create a design outcome lead to radical changes of the original design situation. Often such change can make intended design outcomes unsuccessful, obsolete or irrelevant.  This type of patters of dynamics can occur particularly strongly if the design enters the mass market or can have significant influence on the society.
 
 An example of the boomerang pattern is the one laptop per child (OLPC) project ([Kraemer et al. 2009](#Kraemer2009)). The OLPC project created a novel technology, the XO laptop, developed with close attention to the needs of students in poor rural areas. The project failed to reach many of its original goals, in huge part due to the aggressive reaction of the PC industry to the perceived threat of a $100 laptop being widely distributed in places the industry saw as emerging markets for its own products ([Kraemer et al. 2009](#Kraemer2009)). Soon after the OLPC project started, the PC industry begun to introduce their own educational computers with low price. This reaction of the PC industry would not occur without the OLPC project. And OLPC project probably would not start, or would have different goals if there were available educational PCs with low price.
 
@@ -154,7 +149,10 @@ The boomerang may also occur even before any observable design activity has star
 ![IBM Personal Computer, 1981. IBM introduction of PC changed the market and lead to less demand for IBM mainframe computers. Credit: Wikimedia Commons.](images/IBM_PC_1981.jpg)
 
 
-In software design a similar effect we may find in ["vaporware"](https://en.wikipedia.org/wiki/Vaporware) or other practices of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products (e.g. [Heiko 2004](#Heiko2004); [Richard 1995](#Richard1995)). Designers' intention to address particular situation may be seriously harmed by announcements of the competitors. Such, often very simple announcements, may radically change the market, original situation, and clients’ expectations.
+In software design a similar effect we may find in ["vaporware"](https://en.wikipedia.org/wiki/Vaporware) or other practices of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products (e.g. [Heiko 2004](#Heiko2004); [Richard 1995](#Richard1995)). Designers' intention to address particular situation may be seriously harmed by announcements of the competitors. Such, often very simple announcements, may radically change the market and clients’ expectations.
+
+The *boomerang pattern* is connected to the *problematic solution* pattern, as both of these patterns describe dynamics that are a consequence of unexpected and undesirable effects of design decisions. The *boomerang pattern* may lead to the *solution looking for a problem* pattern if a failure to create an outcome in original design situation leads to usage of the a (part of) design outcome in another situation.
+
 
 ![The U.S. Justice Department accused IBM of intentionally announcing its System/360 Model 91 computer (pictured) three years early to hurt sales of its competitor's computer. Credit: Wikimedia Commons.](images/360-91-Panel.jpg)
 
@@ -168,13 +166,14 @@ In software design a similar effect we may find in ["vaporware"](https://en.wiki
 **Motto**: "*A problem well put is half solved.*" (John Dewey, The Pattern of Inquiry)
 
 
-The puzzle solving patterns views design as a problem-solving activity, an activity that leads to a solution for a particular existing problem. Interaction design is, according to [Norman (2010)](#Norman2010), sometimes naively viewed as a problem-solving activity. In such view, interaction designers are capturing and understanding the hidden unmet needs of potential users/customers, that is, to identify “the” problem, with the intention to design an outcome that fulfills those needs.
+The puzzle solving patterns views designing as a problem-solving activity, an activity that leads to a solution for a clear existing problem.
+This pattern is of limited use in design practice because very few of design problems are clearly understood before design activity starts (see [Section Co-Evolution](#CoEvolution)). Lawson even called such view on design “the puzzle trap” ([Lawson 2005, page 221](#Lawson2005)). Norman ([2010](#Norman2010)) similarly explained that interactions design is sometimes naively viewed as a problem-solving activity. In such naïve view, interaction designers are capturing and understanding the hidden unmet needs of potential users/customers, that is, to identify “the” problem, with the intention to design an outcome that fulfills those needs.
 
-This pattern is of limited use in design practice because very few of design problems are clearly understood before design activity starts (e.g. Buchanan 1992). Lawson even called such view on design “the puzzle trap” ([Lawson 2005, page 221](#Lawson2005)).
-
-The puzzle solving pattern has its value in a limited number of practical cases. Many design sub-tasks can be addressed as problem solving activities. Design of computing algorithms can be described as a puzzle solving pattern. There the goal is to find efficient algorithmic solution for a clear computing problem. However, design of algorithms is only a small part of the system design, and designing systems requires different approach. This is nicely described in the Butler W. Lampson's article on system design [Lampson (1984)](#Lampson1984). Lampson argued that designing a computer system is very different from designing an algorithm because the requirements are less precisely defined, more complex, and more subject to change. The measure of success is much less clear. And the designer usually finds himself in "a sea of possibilities", where it is not clear how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system.
+The puzzle solving pattern has its value in a limited number of practical cases. Many design sub-tasks can be addressed as problem solving activities. Design of computing algorithms can be described as a puzzle solving pattern. Here, the goal is to find an efficient algorithmic solution for a clearly defined computing problem. However, design of algorithms is only a small part of the system design, and designing systems requires different approach. This is nicely described in the Butler W. Lampson's article on system design [Lampson (1984)](#Lampson1984). Lampson argued that designing a computer system is very different from designing an algorithm because the requirements are less precisely defined, more complex, and more subject to change. The measure of success is much less clear. And the designer usually finds himself in "a sea of possibilities", where it is not clear how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system.
 
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates).
+
+The puzzle solving pattern may be present within the *co-evolution* pattern, as a way to find a answers for specific research questions.
 
 ![A jigsaw puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Credit: MeHe / pixabay.](images/puzzle.jpg)
 
