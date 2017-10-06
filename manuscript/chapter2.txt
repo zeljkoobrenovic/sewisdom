@@ -158,7 +158,7 @@ In software design a similar effect we may find in ["vaporware"](https://en.wiki
 
 **Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Motto**: "A problem well put is half solved." (John Dewey, “The Pattern of Inquiry”)
+**Motto**: "*A problem well put is half solved.*" (John Dewey, The Pattern of Inquiry)
 
 
 The puzzle solving patterns views design as a problem-solving activity, an activity that leads to a solution for a particular existing problem. Interaction design is, according to [Norman (2010)](#Norman2010), sometimes naively viewed as a problem-solving activity. In such view, interaction designers are capturing and understanding the hidden unmet needs of potential users/customers, that is, to identify “the” problem, with the intention to design an outcome that fulfills those needs.
@@ -188,7 +188,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 **Definition:** *Possibilities and constraints of design resources are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used.*
 
-**Motto**: "Enough ketchup and it all tastes the same!" (Jim Davis, [Garfield, Aug 6, 2002](https://garfield.com/comic/2002/08/06))
+**Motto**: "Every contact leaves a trace." (Edmond Locard)
 
 **Alternative names**: *Conway's law*
 
@@ -224,7 +224,7 @@ The resources signature pattern is a consequence of inertia of design resources.
 
 **Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
 
-**Motto**: "We are what we repeatedly do. Excellence is not an act, but a habit." (Will Durant, The Story of Philosophy: The Lives and Opinions of the World’s Greatest Philosophers)
+**Motto**: "We are what we repeatedly do." (Will Durant, The Story of Philosophy: The Lives and Opinions of the World’s Greatest Philosophers)
 
 **Alternative names**: "*Specialization*", "*Inverse Conway's law*
 
@@ -239,9 +239,12 @@ This pattern is connected to the *resource commitment* pattern. Having tools, sk
 ![Hammer-heads optimized for different purposes. Credit: Wikimedia Commons.](images/hammerheads.jpg)
 
 
+
 ### PATTERN 8: DESIGN-BY-BUZZWORD
 
 **Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
+
+**Motto**: "Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)
 
 **Alternative name**: *"opportunistic design"*
 
@@ -282,7 +285,7 @@ We discuss the following patterns of these dynamics between design resources and
 
 **Definition:** *Design resources are used in a design situation out conformity, because such resources are popular or have often been used in similar situations. This usage of design resources further contributes to popularity of a tool and its usage in similar design situations.*
 
-**Motto**: "*when in Rome, do as the Roman's do*", "*don't reinvent the wheel*".
+**Mottos**: "*When in Rome, do as the Roman's do.*", "*Don't reinvent the wheel.*".
 
 The designer’s selection of tools is related to a number of external factors. Frequently, designers will select a resource out of conformity, because other designers used, or it is required by regulations or clients.
 
@@ -310,7 +313,7 @@ Resource conformity may also have its downsides. One negative issue is the [vend
 
 **Summary**: *In a new design situation designers use tools they committed to beforehand.*
 
-**Motto**: *“it is a poor craftsman that blames his tools”*
+**Motto**: *“It is a poor craftsman that blames his tools.”*
 
 Designers may commit to using a particular resource due to reasons other than conformity. Commitment to a particular resource, for instance, can also enable development of mastery in using this resource. Learning to use a new design tool requires time and effort, and initial results may be discouraging. Without the commitment, a designer may give up learning too early, and never master the tool.
 
@@ -332,6 +335,10 @@ In all of these patterns there is the pre-commitment to some resource. On a posi
 
 **Summary**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
 
+**Motto**: *"Do one thing and do it well."*
+
+**Alternative names**: *“low-hanging fruits”*, *"selective design"*
+
 In domains where designers can choose a design situation to work on, they may select, or cherry pick, situations based on how well they match the methods and tools that designers are familiar and comfortable with (e.g. [Stolterman and Pierce 2012](#Stolterman2012)). Many designers may decide to specialize, and avoid involving in unfamiliar situations where they may not be able to use resources that they are familiar with.
 
 Cherry picking may have positive effect on operations and success of designers and their organizations. [Ries and Ries (2002: p 8)](#Ries2002), for instance, claimed that companies are likely to be more successful if they focus their energies on one specific skill instead of trying to master a number of different ones. Limitation in resources may also stimulate designers to select situations where they expect more benefits or have less risk of failure. In [the business context](https://strategicthinker.wordpress.com/cherry-picking/) “cherry-picking” is used as a practice to identify and target the most profitable customers in a market, rather than serving them all. Cherry-picking the most attractive customers is a common approach for new entrants, such as startups, since they can focus their limited resources and not disperse them over the whole segment. In [the financial world](http://www.investopedia.com/terms/c/cherrypicking.asp), "cherry picking" is used as a strategy by investors to choose investments that have performed well within another portfolio in anticipation that the trend will continue. Here, cherry picking reduces the amount of time required for researching stocks because the pool of securities in which investors pick from is significantly narrowed.
@@ -343,9 +350,11 @@ Cherry picking also may have negative effects. One problem is that by cherry pic
 
 ## D. Emergence of Complex Patterns of Dynamics
 
-*Every place is given its character by certain patterns of events that keep on happening there.* (Christopher Alexander, The Timeless Way of Building)
+*"Every place is given its character by certain patterns of events that keep on happening there."* (Christopher Alexander, The Timeless Way of Building)
 
-Patterns may facilitate describing complex dynamics between elements of design activities as a combination of several higher-level arrangements of such dynamics. In this way, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution* pattern. Novel or better resources may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *resource commitment* and *eating its own dog food* patterns the resources can further develop and gain popularity. Once stabile and popular the resources may become a de facto standard, and lead to the *resource conformity* pattern. The *resource conformity* may lead the *resource signature* pattern. The *resource signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
+Patterns may facilitate describing complex dynamics between elements of design activities as a combination of several higher-level arrangements of such dynamics.
+
+With patterns, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution* pattern. Novel or better resources may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *resource commitment* and *eating its own dog food* patterns the resources can further develop and gain popularity. Once stabile and popular the resources may become a de facto standard, and lead to the *resource conformity* pattern. The *resource conformity* may lead the *resource signature* pattern. The *resource signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
 
 When describing design activity as a combination of patterns of dynamics, it is important to note that the described patterns are not all of the same kind when it comes to temporality and duration, as well as location or scope. We may distinguish between, at least, two groups of patterns:
 
@@ -356,7 +365,7 @@ For example, the *co-evolution* pattern is normally intrinsic to the design acti
 
 This difference in temporality and location of patterns suggest the need for techniques to estimate both the short-term and long-term impacts of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software engineers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support these types of reasoning.
 
-The proposed framework may be useful to discuss different levels of difficulties of design. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design, later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resource commitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *problematic solution* patterns, as we are dealing with more novel and unknown elements.
+The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design,  later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resource commitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution pattern*, with possibly the *design-by-buzzword* and *a solution looking for a problem* patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *problematic solution* patterns, as we are dealing with more novel and unknown elements.
 
 ![The formation of complex symmetrical and fractal patterns in snowflakes exemplifies emergence in a physical system. In philosophy, systems theory, science, and art, emergence is whereby larger entities arise through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller/simpler entities do not exhibit. Credit: Wikimedia Commons.](images/SnowflakesWilsonBentley.jpg)
 
