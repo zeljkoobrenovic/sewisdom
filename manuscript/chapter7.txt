@@ -1,3 +1,7 @@
+#APPENDIX
+
+## Patterns and Mottos
+
 **Co-Evolution**
 *“If you want to change something, you need to understand it, if you want to understand something you need to change it.”*
 
@@ -7,9 +11,36 @@
 
 
 **A Problematic Solution**
+*“Everything we design has the potential not only to solve problems but also to create new ones”*.
 
 
 **Boomerang**
+"*How can something seem so plausible at the time and so idiotic in retrospect?*"
 
 
 **Puzzle Solving**
+"*A problem well put is half solved.*"
+
+
+**Resource Signature**
+"*Every contact leaves a trace.*"
+
+
+**Outcome Signature**
+"*We are what we repeatedly do.*"
+
+
+**Design-by-Buzzword**
+"*Projects that do not capitalize on new opportunities will generally find their products unable to compete.*"
+
+**Resource Conformity**
+"*When in Rome, do as the Roman's do.*", "*Don't reinvent the wheel.*".
+
+
+**Resource Commitment**
+*“It is a poor craftsman that blames his tools.”*
+
+
+**Cherry Picking**
+**Motto**: *"Do one thing and do it well."*
+

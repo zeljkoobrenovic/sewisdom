@@ -105,7 +105,7 @@ Once a new usage of a design “solution” emerges, the new situation often sta
 
 **Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
-**Moto**: *“Everything we design has the potential not only to solve problems but also to create new ones”* ([Lawson 2005](#Lawson2005))
+**Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones”* ([Lawson 2005](#Lawson2005))
 
 **Alternative names**: "blowback, collateral damage"
 
