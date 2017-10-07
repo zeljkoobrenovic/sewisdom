@@ -1,3 +1,5 @@
+# PATTERS  AND MOTTOS
+
 |No.|Pattern                                   |Motto      |
 |---|------------------------------------------|-----------|
 !  1| Co-Evolution                             |*“If you want to change something, you need to understand it, if you want to understand something you need to change it.” |
