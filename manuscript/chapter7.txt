@@ -1,7 +1,7 @@
-#APPENDIX
+# Appendix
 
 
-## Patterns of Dynamics: Summaries
+## A. Patterns of Dynamics: Summaries
 
 **Co-Evolution**: *A design situation and designer’s understanding of the design situation changes and evolves in parallel and under influence of design outcome and designer’s understating of potential design outcomes.*
 
@@ -27,7 +27,7 @@
 
 
 
-## Patterns of Dynamics: Mottos
+## B. Patterns of Dynamics: Mottos
 
 **Co-Evolution**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.”*
 
@@ -53,7 +53,7 @@
 
 
 
-## Sources of Dynamics: Summaries
+## C. Sources of Dynamics: Summaries
 
 **The Moving Target Problem**: *Design situations, resources and outcomes change more rapidly than designers’ understanding of them. Consequently, designers need to work without having significant experience with, and understanding of the design situation, resources and outcomes. Waiting to obtain more experience and better understanding is risky as the issues may quickly become less important or obsolete.*
 
