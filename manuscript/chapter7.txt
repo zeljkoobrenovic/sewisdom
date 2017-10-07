@@ -45,7 +45,7 @@
 
 **Design-by-Buzzword**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete."*
 
-**Resource Conformity**: *"When in Rome, do as the Roman's do.*", "*Don't reinvent the wheel."*
+**Resource Conformity**: *"When in Rome, do as the Roman's do."*
 
 **Resource Commitment**: *“It is a poor craftsman that blames his tools.”*
 
