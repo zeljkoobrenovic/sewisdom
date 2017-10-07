@@ -1,9 +1,13 @@
-# PATTERS  AND MOTTOS
+# PATTERNS  AND MOTTOS
 
-|No.|Pattern                               |Motto                                                                                           |
-|---|--------------------------------------|------------------------------------------------------------------------------------------------|
-|  1| Co-Evolution                         |*“If you want to change something, you need to understand it, if you want to understand something you need to change it.” |
-|  2| A Solution Looking for a Problem     |*“When humans possess a tool, they excel at finding new uses for it”*|
-|  3| A Problematic Solution               ||
-|  4| Boomerang                            ||
-|  5| Puzzle Solving                       ||
+**Co-Evolution**
+*“If you want to change something, you need to understand it, if you want to understand something you need to change it.”*
+
+**A Solution Looking for a Problem**
+*“When humans possess a tool, they excel at finding new uses for it”*
+
+**A Problematic Solution**
+
+**Boomerang**
+
+**Puzzle Solving**
