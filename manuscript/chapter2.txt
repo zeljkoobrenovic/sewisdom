@@ -79,7 +79,7 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 
 **Summary**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
 
-**Motto**: *“When humans possess a tool, they excel at finding new uses for it”* ([Nye 2006](#Nye2006))
+**Motto**: *“When humans possess a tool, they excel at finding new uses for it.”* ([Nye 2006](#Nye2006))
 
 In the [previous section](#CoEvolution) we described a pattern in which designers’ understanding of design situations and design outcome gradually co-evolve. In the co-evolution pattern, we start with a problematic situation, which may not be clearly defined, and gradually proceed towards the final design outcome. In the pattern described in this section, we address examples of design activities where there was significant investment in development of a design “solutions”, without clear idea (or with wrong idea) about situations for which these “solutions” may be useful.
 
@@ -105,7 +105,7 @@ Once a new usage of a design “solution” emerges, the new situation often sta
 
 **Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
-**Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones”* ([Lawson 2005](#Lawson2005))
+**Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.”* ([Lawson 2005](#Lawson2005))
 
 **Alternative names**: "blowback, collateral damage"
 
