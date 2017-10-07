@@ -258,6 +258,11 @@ Hales C. (1985):
 **Designer as chameleon**,  
 *Design Studies 6 (2)*, pp. 111-114.
   
+{#Harrison2004}
+Harrison W. (2004):
+**From the Editor: Best Practices--Who Says?,**
+*IEEE Software 21 (1)*, pp. 8-11.
+
 {#Harrison2006}
 Harrison W. (2006):  
 **Eating Your Own Dog Food,**  

@@ -309,6 +309,9 @@ Mere popularity of some design tool or methodology is often the main reason for 
 
 Conformity may also be a result of legal regulations. Physical materials, for instance, need to satisfy a number of regulations about safety and environmental impact and there is often a limited list of "certified" or recommended materials. Here conformity is often more than a question of style. Failure to use recommended materials may have serious consequences and put lives of people in danger, as in the case of fire safety standards. In software design, many companies also have a list of approved resources, tools or libraries that are allowed to be used. Security concerns are often the main driver for these limitations. For instance, in 2017 the US Government banned Kaspersky Security software, limiting designers of network and application security to other options.
 
+Designers may conform to usage of some resources due to fear of legal and other consequences. Harrison ([2004](#Harrison2004)) for instance, argued that if a software system fails and customers sue, it may be viewed as negligence if the designer’s organization did not follow best practices. For this argument, Harrison draw a parallel between software design and criminal trial. In a criminal trial (at least in the US), the failure to follow an established best practice  could result in an acquittal.
+
+
 The most popular design resources are often introduced at schools and universities, further contributing to the popularity and widespread use of these resources. Adobe, for example, offers [educational resources and discounts](http://www.adobe.com/education.edu.html) on their products for teachers and students. In software design schools, Java, one of the most popular programming languages, has often used as the first programming languages that students learn [Hadjerrouit 1998](#Hadjerrouit1998). Before that, popularity of C++ in industry has led to it being often used for teaching as well [Kölling (1999)](#Kolling1999).
 
 Usage of some resources also influences the future development of that resource. By using and buying a particular resource, designer’s increase the popularity of the resource and the profit of the producer, which can further stimulate the use of the tool. Successful projects are good references for resources used in them, and may be the main reason why others will select this resource for new projects.
@@ -319,7 +322,11 @@ The resource conformity pattern is particularly useful in standard, well-known d
 
 Resource conformity may also have its downsides. One negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for a number of users and may decide to focus on developing only the most common features.
 
+The *resource conformity* pattern is related to the *resource commitment* pattern, as successful usage of some new design resources requires commitment and persistence. Design organizations may also commit to using some standard or popular resource. The *resource conformity* pattern is related to the *cherry picking* pattern, because a wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
+
+
 ![Three examples of buildings in the Amsterdam School style, a style of architecture popular from 1910 through about 1930 in the Netherlands. Buildings of the Amsterdam School are characterized by brick construction with complicated masonry with a rounded or organic appearance, relatively traditional massing, and the integration of an elaborate scheme of building elements inside and out. Credit: Amsterdam Municipal Department for the Preservation and Restoration of Historic Buildings and Sites (bMA) / Wikimedia Commons.](images/Amsterdamse school.jpg)
+
 
 
 
