@@ -119,7 +119,7 @@ A success of [Uber](https://www.uber.com/), a smartphone-enabled 'ride-hailing' 
 
 In software design, one of the most prominent examples of problems caused by previous design solutions was the “year 2000 (Y2K) problem” (e.g. [Neumann and McCullagh 1999](#Neuman1999); [Berghel 1999](#Berghel1999); [Pescio 1997](#Pescio1997)). This problem was caused by a shortcut taken by early software designers. To conserve memory space, early software designers used a solution that recorded the year using the last two digits rather than four. Computers using this system would then recognize the year 2000 as the year 1900 instead, potentially causing serious problems in many sectors. It was estimated that costs of fixing the Y2K problem exceeded $3 trillion worldwide ([Brown et al. 2000](#Brown2000)).
 
-Spam is another example of problems created by success of messaging and social media technologies, such as email, SMS, Twitter and Facebook. Spam misuese the ease and low price of sending messages (a solution) to distribute huge volumes of messages that propagate malware, disseminate phishing exploits, and advertise illegal products. Spam messages generate significant costs for users and network operators ([Fonseca et al. 2016](#Fonseca2016)). Furthermore, spam has required significant investments in spam detection and prevention tools, which are now core tools of any messaging platform.
+Spam is another example of problems created by success of messaging and social media technologies, such as email, SMS, Twitter and Facebook. Spam misuse the ease and low price of sending messages (a solution) to distribute huge volumes of messages that propagate malware, disseminate phishing exploits, and advertise illegal products. Spam messages generate significant costs for users and network operators ([Fonseca et al. 2016](#Fonseca2016)). Furthermore, spam has required significant investments in spam detection and prevention tools, which are now core tools of any messaging platform.
 
 The problematic solution is a consequence of designers’ inability to predict all effects of design outcomes. Unexpected and undesired effects of design outcomes are more likely to appear in more innovative domains. Sometimes this is a consequence of attempts to speed up a design process, leaving insufficient time for exploration and learning (the *co-evolution* pattern). For instance, building of the Sydney Opera House, due political pressures, started too early, before final designs were completed (the co-evolution pattern). This forced early start led to significant later problems, such as the discovery that the podium columns were not strong enough to support the roof structure, and had to be re-built ([Murray 2004](#Murray2004)). Due to a number unexpected and unintended effects, the Sydney Opera House project was completed ten years late and 1,357% over budget.
 
@@ -175,7 +175,7 @@ The puzzle solving pattern has its value in a limited number of practical cases.
 
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates).
 
-The puzzle solving pattern may be present within the *co-evolution* pattern, as a way to find an answers for specific research questions.
+The puzzle solving pattern may be present within the *co-evolution* pattern, as a way to find answers for specific research questions.
 
 ![A jigsaw puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Credit: MeHe / pixabay.](images/puzzle.jpg)
 
@@ -239,7 +239,7 @@ The resources signature pattern is a consequence of inertia of design resources.
 
 **Alternative names**: "*Specialization*", "*Inverse Conway's law*
 
-The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. This adaptation can happeon of all levels, from individual design resources to organizational structures.
+The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. This adaptation can happen of all levels, from individual design resources to organizational structures.
 
 The design tools often need to be adapted to create a particular design outcome. For example, many software design tools are configurable so that frequently used functions are more easily accessible (e.g. via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult.
 
