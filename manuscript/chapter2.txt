@@ -79,7 +79,7 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 
 **Summary**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
 
-**Motto**: *“When humans possess a tool, they excel at finding new uses for it.”* ([Nye 2006](#Nye2006))
+**Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
 In the [previous section](#CoEvolution) we described a pattern in which designers’ understanding of design situations and design outcome gradually co-evolve. In the co-evolution pattern, we start with a problematic situation, which may not be clearly defined, and gradually proceed towards the final design outcome. In the pattern described in this section, we address examples of design activities where there was significant investment in development of a design “solutions”, without clear idea (or with wrong idea) about situations for which these “solutions” may be useful.
 
@@ -105,7 +105,7 @@ Once a new usage of a design “solution” emerges, the new situation often sta
 
 **Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
-**Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.”* ([Lawson 2005](#Lawson2005))
+**Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
 **Alternative names**: "blowback, collateral damage"
 
@@ -133,7 +133,7 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 **Summary**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes unsuccessful, obsolete or irrelevant. Such reactions would normally not occur without the design activity.*.
 
-**Motto**: "*How can something seem so plausible at the time and so idiotic in retrospect?*" (Bill Watterson, Calvin and Hobbes)
+**Motto**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
 
 **Alternative names**: "*ricochet, own goal, shoot oneself in the foot*
 
@@ -164,7 +164,7 @@ The *boomerang pattern* is connected to the *problematic solution* pattern, as b
 
 **Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Motto**: "*A problem well put is half solved.*" (John Dewey, The Pattern of Inquiry)
+**Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
 
 The puzzle solving patterns views designing as a problem-solving activity, an activity that leads to a solution for a clear existing problem.
@@ -196,7 +196,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 **Definition:** *Possibilities and constraints of design resources are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used.*
 
-**Motto**: "*Every contact leaves a trace.*" (Edmond Locard)
+**Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
 **Alternative names**: *Conway's law*
 
@@ -235,7 +235,7 @@ The resources signature pattern is a consequence of inertia of design resources.
 
 **Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
 
-**Motto**: "*We are what we repeatedly do.*" (Will Durant, The Story of Philosophy)
+**Motto**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
 **Alternative names**: "*Specialization*", "*Inverse Conway's law*
 
@@ -257,7 +257,7 @@ This pattern is connected to the *resource commitment* pattern. Having tools, sk
 
 **Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
 
-**Motto**: "*Projects that do not capitalize on new opportunities will generally find their products unable to compete.*" [Boehm and Bhuta (2008)](#Boehm2008)
+**Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
 **Alternative name**: *"opportunistic design"*
 
@@ -299,7 +299,7 @@ We discuss the following patterns of these dynamics between design resources and
 
 **Definition:** *Design resources are used in a design situation out conformity, because such resources are popular or have often been used in similar situations. This usage of design resources further contributes to popularity of a tool and its usage in similar design situations.*
 
-**Mottos**: "*When in Rome, do as the Roman's do.*", "*Don't reinvent the wheel.*".
+**Mottos**: *"When in Rome, do as the Roman's do.", "*Don't reinvent the wheel."*
 
 The designer’s selection of tools is related to a number of external factors. One approach commonly found in practice is to make a selection of design resources based on the situation requirements and previous experiences of others. In this case designers, while often having other options, choose to conform to the situation at hand and the way of working of others.
 

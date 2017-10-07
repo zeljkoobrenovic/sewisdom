@@ -50,3 +50,26 @@
 **Resource Commitment**: *“It is a poor craftsman that blames his tools.”*
 
 **Cherry Picking**: *"Do one thing and do it well."*
+
+
+
+## Sources of Dynamics: Summaries
+
+**The Moving Target Problem**: *Design situations, resources and outcomes change more rapidly than designers’ understanding of them. Consequently, designers need to work without having significant experience with, and understanding of the design situation, resources and outcomes. Waiting to obtain more experience and better understanding is risky as the issues may quickly become less important or obsolete.*
+
+
+**Increasing Interconnectivity**: *Design situations, design outcome and design resources are increasingly more globally interconnected. Increasing interconnectivity means that there are more ways or channels through which a design activity may be influenced.*
+
+
+**Learning and Creativity**: *Behaviors and expectations of people are constantly changing due to their continuous learning and creativity.*
+
+
+**Tacit Knowledge and Skills**: *Designers are relying on tacit knowledge and skills that they do not fully understand and cannot fully explain.*
+
+
+**Social Dynamics**: *Design situations, resources and outcomes are complex socio-technical systems, with complex dynamics. Social context of design is crucial for its success.*
+
+
+
+**Lack of Strong Principles, Theories and Laws**: *Designers are dealing with poorly understood phenomena, for which we do not have strong underlying principles, theories and laws.*
+
