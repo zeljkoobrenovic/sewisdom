@@ -1,7 +1,7 @@
 # Part I: Introduction
 
 
-Designers deal with an overwhelmingly rich reality, undetermined requirements, highly intricate social situations, lack of information, as well as lack of resource and time restrictions. Every designer[^fooDesigner] is faced and challenged by this complexity. Discussing complexity in design, however, is difficult, as complexity is a very loaded and often vaguely defined term.
+Designers deal with an overwhelmingly rich reality, undetermined requirements, highly intricate social situations, lack of information, lack of resource and with time constraints. Every designer[^fooDesigner] is faced and challenged by the complexity resulting from these factors. Discussing complexity in design, however, is difficult, as complexity is a very loaded and often vaguely defined term.
 
 With this book, we want to better describe and give a structured definition of what design complexity may mean. We believe that such more structured overview can help researchers and practitioners to better understand some of the experiences designers are going through while designing. We also believe that in the education of designers it is useful to picture design complexity as an essential part of design. Design complexity has to be accepted and dealt with, and not treated as a problem to avoid. We believe that a more structured understanding of design complexity can facilitate such education.
 
