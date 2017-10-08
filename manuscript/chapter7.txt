@@ -13,7 +13,7 @@
 
 **Puzzle Solving**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Resource Signature**: *Possibilities and constraints of design resources are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used.*
+**Resource Signature**: *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used, and/or how the working with the resources was organized.*
 
 **Outcome Signature**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
 

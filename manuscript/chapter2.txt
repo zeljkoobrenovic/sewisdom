@@ -194,7 +194,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 ### PATTERN 6: RESOURCE SIGNATURE
 
-**Definition:** *Possibilities and constraints of design resources are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used.*
+**Definition:** *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used, and/or how the working with the resources was organized.*
 
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
