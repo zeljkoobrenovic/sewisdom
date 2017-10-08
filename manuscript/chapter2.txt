@@ -46,7 +46,7 @@ The dynamics between a design situation and a design outcome seems to be the mos
 
 
 {#CoEvolution}
-### PATTERN 1: CO-EVOLUTION
+### Co-Evolution
 
 **Summary**: *A design situation and designer’s understanding of the design situation changes and evolves in parallel and under influence of design outcome and designer’s understating of potential design outcomes.*
 
@@ -75,7 +75,7 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 
 
 
-### PATTERN 2: A SOLUTION LOOKING FOR A PROBLEM
+### A Solution Looking For a Problem
 
 **Summary**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
 
@@ -101,7 +101,7 @@ Once a new usage of a design “solution” emerges, the new situation often sta
 ![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Credit: Hinman, Rachel. 2012. The Mobile Frontier. New York: Rosenfeld Media. / Flickr / CC-BY-2.0](images/first_mobile_phone.jpg)
 
 
-### PATTERN 3: A PROBLEMATIC SOLUTION
+### A Problematic Solution
 
 **Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
@@ -129,7 +129,7 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 
 {#Boomerang}
-### PATTERN 4: BOOMERANG
+### Boomerang
 
 **Summary**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes unsuccessful, obsolete or irrelevant. Such reactions would normally not occur without the design activity.*.
 
@@ -160,7 +160,7 @@ The *boomerang pattern* is connected to the *problematic solution* pattern, as b
 
 
 
-### PATTERN 5: PUZZLE SOLVING
+### Puzzle Solving
 
 **Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
@@ -192,7 +192,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 * Design-by-Buzzword.
 
 
-### PATTERN 6: RESOURCE SIGNATURE
+### Resource Signature
 
 **Definition:** *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used, and/or how the working with the resources was organized.*
 
@@ -231,7 +231,7 @@ The resources signature pattern is a consequence of inertia of design resources.
 
 
 
-### PATTERN 7: OUTCOME SIGNATURE
+### Outcome Signature
 
 **Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
 
@@ -253,7 +253,7 @@ This pattern is connected to the *resource commitment* pattern. Having tools, sk
 
 
 
-### PATTERN 8: DESIGN-BY-BUZZWORD
+### Design-by-Buzzword
 
 **Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
 
@@ -295,7 +295,7 @@ We discuss the following patterns of these dynamics between design resources and
 * Cherry Picking.
 
 
-### PATTERN 9: RESOURCE CONFORMITY
+### Resource Conformity
 
 **Definition:** *Design resources are used in a design situation out conformity, because such resources are popular or have often been used in similar situations. This usage of design resources further contributes to popularity of a tool and its usage in similar design situations.*
 
@@ -332,7 +332,7 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
 
 
-### PATTERN 10: RESOURCE COMMITMENT
+### Rersource Commitment
 
   **Summary**: *In a new design situation designers use tools they committed to beforehand.*
 
@@ -362,7 +362,7 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
 
 
-### PATTERN 11: CHERRY PICKING
+### Cherry Picking
 
 **Summary**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
 
