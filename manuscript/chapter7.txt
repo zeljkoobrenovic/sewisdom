@@ -3,8 +3,7 @@
 
 ## A. Patterns of Dynamics: Summaries
 
-**Co-Evolution of Problem-Solution**: *A design situation and designer’s understanding of the design situation changes and evolves in parallel and under influence of design outcome and designer’s
-understating of potential design outcomes.*
+**Co-Evolution of Problem-Solution**: *A design situation and designer’s understanding of the design situation (problem definition) changes and evolves in parallel and under influence of design outcome and designer’s understating of potential design outcomes (design solutions).*
 
 **A Solution Looking for a Problem**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
 
