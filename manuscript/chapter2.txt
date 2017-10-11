@@ -83,7 +83,7 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
-In the [previous section](#CoEvolution) we described a pattern in which designers’ understanding of design problem and gradually co-evolve with design solution. In the pattern described in this section, we address examples of design activities in which there was a significant investment in the development of a design “solution”, without clear idea (or with wrong idea) about problems that these “solutions” may solve.
+In the pattern described in this section, we address examples of design activities in which there was a significant investment in the development of a design “solution”, without clear idea (or with wrong idea) about problems that these “solutions” could solve.
 
 The solution looking for a problem pattern may lead to successful results because people often find new uses for things that are built for some other purposes. David Nye [(2006)](#Nye2006) noted that when humans possess a tool, they excel at finding new uses for it. He argued that necessity is often not the mother of invention, and that in many cases the opposite was the case (page 2). The tool often exists before the problem to be solved. Nye concluded that latent in every tool are unforeseen transformations. Fred Brooks similarly noted that as a software product is found to be useful, people try it in new cases at the edge of, or beyond, the original domain ([Brooks 1995, page 12](#Brooks1995)).
 
