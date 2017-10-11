@@ -79,7 +79,7 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 
 ### A Solution Looking for a Problem
 
-**Summary**: *Understanding of a design outcome and its possibilities leads to usages of the same design in situations and for problems that were not initially envisioned.*
+**Summary**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
 
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
