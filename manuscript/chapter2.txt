@@ -13,7 +13,7 @@ For convenience and clarity, each pattern of dynamics is described with the same
 
 * a brief descriptive name,
 * a brief summary,
-* an optional “motto” and alternative names, and
+* an optional “motto” and alternative names,
 * a brief description about when the pattern is desirable and undesirable, and
 * a more detailed discussion based on examples from the design literature.
 
@@ -53,9 +53,9 @@ understating of potential design outcomes (design solutions).*
 
 **Motto**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
 
-**Alternative names**: "*problem–solution flux*"
+**Alternative names**: *Problem–Solution Flux*.
 
-**Desirable**: *In most complex real-world situations and in new domains, where is facilitates learning, stimulates communication among stakeholders, and minimizes the risk of failure.*
+**Desirable**: *In most complex real-world situations and in new domains, as this pattern facilitates learning, stimulates communication among stakeholders, and minimizes the risk of failure.*
 
 **Undesirable**: *In well-known domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns.*
 
@@ -122,7 +122,7 @@ The *solution looking for a problem* pattern is related to the *co-evolution of 
 
 **Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
-**Alternative names**: "collateral damage"
+**Alternative name**: *Collateral Damage*.
 
 **Desirable**: *In a very limited number of real-world situations, when a goal is to stimulate further development of some solution without immediately benefiting from it.*
 
@@ -156,7 +156,7 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 **Motto**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
 
-**Alternative names**: "*ricochet, own goal, shoot oneself in the foot*
+**Alternative names**: *Ricochet, Own Goal, Shoot Oneself in the Foot*.
 
 **Desirable**: *In a very limited number of real-world situations, when a goal is to stimulate further development of some solution without benefiting from it.*
 
@@ -230,7 +230,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
-**Alternative names**: *Conway's law*
+**Alternative names**: *Conway's Law*.
 
 **Desirable**: *In situations where consistency among design outcomes is important.*
 
@@ -274,7 +274,7 @@ The resources signature pattern is a consequence of inertia (resistance to chang
 
 **Motto**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
-**Alternative names**: "*Specialization*", "*Inverse Conway's law*
+**Alternative names**: *Specialization*, *Inverse Conway's Law*.
 
 **Desirable**: *In situations where efficiency of design work is important.*
 
@@ -302,7 +302,7 @@ This pattern is connected to the *resource commitment* pattern. Having tools, sk
 
 **Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
-**Alternative name**: *"opportunistic design"*
+**Alternative name**: *Opportunistic Design*.
 
 **Desirable**: *In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.*
 
@@ -429,7 +429,7 @@ The *resource commitment* pattern is related to the *resource conformity* patter
 
 **Motto**: *"Do one thing and do it well."*
 
-**Alternative names**: *“low-hanging fruits”*, *"selective design"*
+**Alternative names**: *Low-Hanging Fruits, Selective Design*.
 
 **Desirable**: *In new domains where there are plenty of opportunities and/or little competition, or when an organization needs to focus usage of scarce resources.*
 
