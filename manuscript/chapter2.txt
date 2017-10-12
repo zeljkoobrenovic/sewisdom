@@ -54,9 +54,9 @@ understating of potential design outcomes (design solutions).*
 
 **Alternative names**: "*problem–solution flux*"
 
-**Desirable**: In most complex real-world situations and in new domains, where is stimulates learning and minimizes the risk of failure.
+**Desirable**: *In most complex real-world situations and in new domains, where is stimulates learning and minimizes the risk of failure.*
 
-**Undesirable**: In well-known domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns.
+**Undesirable**: *In well-known domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns.*
 
 Design authors generally agree that design situations are never clearly defined problems. Rather, the model commonly used to describe design problems and their solutions is that of a co-evolution, where understanding of what the actual problem is evolves together with designers' attempts to create a solution ([Dorst & Cross 2001](#Dorst2001)).
 
@@ -87,9 +87,9 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
-**Desirable**: As a innovation strategy, when an organization wants to be an early adopter of an emerging technology and where the organization can afford associated risks.
+**Desirable**: *As an innovation strategy, when an organization wants to be an early adopter of an emerging technology and where the organization can afford associated risks.*
 
-**Undesirable**: In most other situations as it requires significant investments without tangible benefits.
+**Undesirable**: *In most other situations as it requires significant investments without tangible benefits.*
 
 In the pattern described in this section, we address examples of design activities in which there was a significant investment in the development of a design “solution”, without clear idea (or with wrong idea) about problems that these “solutions” could solve.
 
@@ -117,11 +117,13 @@ The *solution looking for a problem* pattern is related to the *co-evolution of 
 
 **Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
-**Alternative names**: "blowback, collateral damage"
+**Alternative names**: "collateral damage"
 
-**Desirable**: In a very limited number of real-world situations, when a goal is to stimulate further developments of some solution without immediately benefiting from it.
+**Desirable**: *In a very limited number of real-world situations, when a goal is to stimulate further development of some solution without immediately benefiting from it.*
 
-**Undesirable**: In most other real-world situations.
+**Undesirable**: *In most other real-world situations.*
+
+* * *
 
 Any design outcome may, in good faith, introduce unexpected and undesired effects. Design literature provides numerous examples of designers having to deal with issues of unintended consequences of their designs (e.g. [Janlert and Stolterman 2008](#Janlert2008)). Lawson nicely illustrated this issue on an example of a motorcar:
 
@@ -151,9 +153,9 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 **Alternative names**: "*ricochet, own goal, shoot oneself in the foot*
 
-**Desirable**: .
+**Desirable**: *In a very limited number of real-world situations, when a goal is to stimulate further development of some solution without benefiting from it.*
 
-**Undesirable**: .
+**Undesirable**: *In most other real-world situations.*
 
 The boomerang situation described dynamics of design activities in which designers’ efforts to create a design outcome lead to radical changes of the original design situation. Often such change can make intended design outcomes unsuccessful, obsolete or irrelevant.  This type of patters of dynamics can occur particularly strongly if the design enters the mass market or can have significant influence on the society.
 
@@ -184,9 +186,9 @@ The *boomerang pattern* is connected to the *problematic solution* pattern, as b
 
 **Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
-**Desirable**: In education, as well as in a limited number of practical cases for well-scoped design sub-tasks.
+**Desirable**: *In education, as well as in a limited number of practical cases for well-scoped design sub-tasks.*
 
-**Undesirable**: In most real-world situations, as few design problems are clearly understood before a design activity starts.
+**Undesirable**: *In most real-world situations, as few design problems are clearly understood before start of a design activity starts.*
 
 The puzzle solving patterns views designing as a problem-solving activity, an activity that leads to a solution for a clear existing problem.
 
@@ -221,9 +223,9 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 **Alternative names**: *Conway's law*
 
-**Desirable**: In situation where consistency among design outcomes is important.
+**Desirable**: *In situations where consistency among design outcomes is important.*
 
-**Undesirable**: In complex real-world situations and in new domains where it may lead to unnecessary limited and complex solutions.
+**Undesirable**: *In complex real-world situations and in new domains where it may lead to unnecessary limited or complex solutions.*
 
 The characteristics of design resources directly influence the design outcome’s form and possibilities. This influence can happen at all levels, from individual design resources to organizational structures. Selection of design materials, for instance, obviously leaves a clear signature on a design outcome. But all design resources, including tools, methods and organizational structures supporting a design activity may leave a typical signature on a design outcome.
 
@@ -263,9 +265,9 @@ The resources signature pattern is a consequence of inertia (resistance to chang
 
 **Alternative names**: "*Specialization*", "*Inverse Conway's law*
 
-**Desirable**: In situation where efficiency of design work is important.
+**Desirable**: *In situations where efficiency of design work is important.*
 
-**Undesirable**: In complex real-world situations and in new domains where it limits designers ability to apply different approaches.
+**Undesirable**: *In complex real-world situations and in new domains where it may limit designers' ability to apply other approaches.*
 
 The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. As in the case of the *resource signature* pattern, this adaptation can happen at all levels, from individual design resources to complex organizational structures.
 
@@ -289,9 +291,9 @@ This pattern is connected to the *resource commitment* pattern. Having tools, sk
 
 **Alternative name**: *"opportunistic design"*
 
-**Desirable**: In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.
+**Desirable**: *In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.*
 
-**Undesirable**: In complex real-world situations and in well-known domains where it may lead to unnecessary complex solutions.
+**Undesirable**: *In many real-world situations and in well-known domains where it may lead to unnecessary complex solutions.*
 
 Design-by-buzzword is a form of dynamics between design outcomes and design resources where designers use a design situation as an opportunity to try out some novel or upcoming design resource (e.g. [Ncube et al. 2008](#Ncube2008)).
 
@@ -333,9 +335,9 @@ We discuss the following patterns of these dynamics between design resources and
 
 **Mottos**: *"When in Rome, do as the Roman's do."*
 
-**Desirable**: When conformity is mandatory, and when designers can benefits from joining a broader community.
+**Desirable**: *When conformity is mandatory, or when designers can benefits from joining a broader community.*
 
-**Undesirable**: When efficiency of design work is important, as conformity may require significant adaptations of design organizations.
+**Undesirable**: *When efficiency of design work is important, as conformity may require significant adaptations of designers' organizations.*
 
 The designer’s selection of tools is related to a number of external factors. One approach commonly found in practice is to make a selection of design resources based on the situation requirements and previous experiences of others. In this case designers, while often having other options, choose to conform to the situation at hand and the way of working of others.
 
@@ -374,9 +376,9 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
   **Motto**: *“It is a poor craftsman that blames his tools.”*
 
-**Desirable**: In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.
+**Desirable**: *When designers waht to master resource usage or further improvethe resource itself.*
 
-**Undesirable**: In complex real-world situations and in well-known domains where it may lead to unnecessary complex solutions.
+**Undesirable**: *In complex real-world situations where over-commitment may lead to worse design outcomes and lost opportunities compared to the situation where some other resources are used.*
 
   The resource commitment pattern is a form of dynamics of design activities in which, in a new design situation, designers commit beforehand to using a particular resource, and persists in the usage of the resource even when they experience problems and difficulties to use the resource in  the design situation.
 
@@ -410,9 +412,9 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
 **Alternative names**: *“low-hanging fruits”*, *"selective design"*
 
-**Desirable**: In new domains where there are plenty of opportunities and little competition, as well as when an organization needs to focus usage of scarse resources.
+**Desirable**: *In new domains where there are plenty of opportunities and/or little competition, or when an organization needs to focus usage of scarce resources.*
 
-**Undesirable**: In many complex real-world situations as it may stimulate solving easy instead of important problems.
+**Undesirable**: *In many complex real-world situations as it may stimulate solving easy instead of important problems.*
 
 
 In domains where designers can choose a design situation to work on, they may select, or cherry pick, situations based on how well they match the resources that designers are familiar and comfortable with (e.g. [Stolterman and Pierce 2012](#Stolterman2012)). Many designers may decide to specialize, and avoid involving in unfamiliar situations where they may not be able to use familiar resources.
