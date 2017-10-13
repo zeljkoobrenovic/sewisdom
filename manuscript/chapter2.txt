@@ -14,6 +14,7 @@ For convenience and clarity, each pattern of dynamics is described with the same
 * a brief descriptive name,
 * a brief summary,
 * an optional “motto” and alternative names,
+  a brief list of topics discussed in relation to the pattern,
 * a brief description about when the pattern is desirable and undesirable, and
 * a more detailed discussion based on examples from the design literature.
 
@@ -55,7 +56,7 @@ understating of potential design outcomes (design solutions).*
 
 **Alternative names**: *Problem–Solution Flux*.
 
-**Topics**: *problems solving, problem setting, sketching, prototyping, iterative development, agile software development, reinventing the wheel anti-pattern*
+**Topics**: *problems solving, problem setting, prototyping, iterative development, agile software development, reinventing the wheel anti-pattern*
 
 **Desirable**: *In most complex real-world situations and in new domains, as this pattern facilitates learning, stimulates communication among stakeholders, and minimizes the risk of failure.*
 
