@@ -55,6 +55,8 @@ understating of potential design outcomes (design solutions).*
 
 **Alternative names**: *Problem–Solution Flux*.
 
+**Topics**: *problems solving, problem setting, sketching, prototyping, iterative development, agile software development, reinventing the wheel anti-pattern*
+
 **Desirable**: *In most complex real-world situations and in new domains, as this pattern facilitates learning, stimulates communication among stakeholders, and minimizes the risk of failure.*
 
 **Undesirable**: *In well-known domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns.*
@@ -83,12 +85,14 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 ![Pittsburg's Golden Triangle. In 1950s, an extensive renewal program begun in the city of Pittsburgh, with a principal goal of rebuild the center of the city, the so-called Golden Triangle. Credit: U.S. National Archives and Records Administration / Wikimedia Commons.](images/Pittsburgh_Golden_Triangle.jpg)
 
 
-### A Solution Looking for a Problem
 {#SolutionLookingForProblem}
+### A Solution Looking for a Problem
 
 **Summary**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
 
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
+
+**Topics**: *novelty, creativity, curiosity, unordinary usages of ordinary things, early adopters, bitcoin and blockchain*
 
 **Desirable**: *As an innovation strategy, when an organization wants to be an early adopter of an emerging technology and where the organization can afford associated risks.*
 
@@ -124,6 +128,8 @@ The *solution looking for a problem* pattern is related to the *co-evolution of 
 
 **Alternative name**: *Collateral Damage*.
 
+**Topics**: *unexpected and undesired effects, innovative domains, expectation management, year 2000 problem*
+
 **Desirable**: *In a very limited number of real-world situations, when a goal is to stimulate further development of some solution without immediately benefiting from it.*
 
 **Undesirable**: *In most other real-world situations.*
@@ -135,8 +141,6 @@ Any design outcome may, in good faith, introduce unexpected and undesired effect
 *“Design solutions are not panaceas and most usually have some undesirable effects as well as the intended good effects. The modern motor car is a wonderfully sophisticated design solution to the problem of personal transportation in a world which requires people to be very mobile over short and medium distances on an unpredictable basis. However, when that solution is applied to the whole population and is used by them even for the predictable journeys we find ourselves designing roads, which tear apart our cities and rural areas. The pollution which results have become a problem in its own right, but even the car is now beginning not to work well as it sits in traffic jams! This is a very dramatic illustration of the basic principle that everything we design has the potential not only to solve problems but also to create new ones!"* ([Lawson 2005: p 122](#Lawson2005))
 
 ![Traffic Jam in Maputo. A car is an excellent design solution to the problem of personal transportation, but when applied to the whole population it creates other problems, such as traffic jams. Credit: A Verdade / Wikimedia Commons / CC BY 2.0.](images/Chapa_traffic_jam_in_Maputo_(9717216968).jpg)
-
-A success of [Uber](https://www.uber.com/), a smartphone-enabled 'ride-hailing' service alternative to taxi cabs, has resulted in complex and significant changes in the taxi drivers job market, leading to job losses and associated social issues. This is now a part of the problem for Uber as many cities resist introducing its services, and several cities have banned it after the introduction.
 
 In software design, one of the most prominent examples of problems caused by previous design solutions was the “year 2000 (Y2K) problem” (e.g. [Neumann and McCullagh 1999](#Neuman1999); [Berghel 1999](#Berghel1999); [Pescio 1997](#Pescio1997)). This problem was caused by a shortcut taken by early software designers. To conserve memory space, early software designers used a solution that recorded the year using the last two digits rather than four. Computers using this system would then recognize the year 2000 as the year 1900 instead, potentially causing serious problems in many sectors. It was estimated that costs of fixing the Y2K problem exceeded $3 trillion worldwide ([Brown et al. 2000](#Brown2000)).
 
@@ -157,6 +161,8 @@ If a design outcome will be perceived as problematic is also a function of expec
 **Motto**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
 
 **Alternative names**: *Ricochet, Own Goal, Shoot Oneself in the Foot*.
+
+**Topics**: *social and political issues, mass market, competition, IBM PC, vaporware, one laptop per child (OLPC) project*
 
 **Desirable**: *In a very limited number of real-world situations, when a goal is to stimulate further development of some solution without benefiting from it.*
 
@@ -193,6 +199,8 @@ The *boomerang pattern* is connected to the *problematic solution* pattern, as b
 
 **Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
+**Topics**: *problem solving, the puzzle trap, education, well-scoped design sub-tasks*
+
 **Desirable**: *In education, as well as in a limited number of practical cases for well-scoped design sub-tasks.*
 
 **Undesirable**: *In most real-world situations, as few design problems are clearly understood before start of a design activity starts.*
@@ -203,7 +211,7 @@ The puzzle solving patterns views designing as a problem-solving activity, an ac
 
 This pattern is of limited use in design practice because very few of design problems are clearly understood before a design activity starts (see [Section Co-Evolution of Problem-Solution](#CoEvolution)). Lawson even called such view on design “the puzzle trap” ([Lawson 2005, page 221](#Lawson2005)). Norman ([2010](#Norman2010)) similarly explained that interactions design is sometimes naively viewed as a problem-solving activity. In such naïve view, interaction designers are capturing and understanding the hidden unmet needs of potential users/customers, that is, to identify “the” problem, with the intention to design an outcome that fulfills those needs.
 
-The puzzle solving pattern has its value in a limited number of practical cases. Many design sub-tasks can be addressed as problem solving activities. Design of computing algorithms can be described as a puzzle solving pattern. Here, the goal is to find an efficient algorithmic solution for a clearly defined computing problem. However, design of algorithms is only a small part of the system design, and designing systems requires different approach. This is nicely described in the Butler W. Lampson's article on system design [Lampson (1984)](#Lampson1984). Lampson argued that designing a computer system is very different from designing an algorithm because the requirements are less precisely defined, more complex, and more subject to change. The measure of success is much less clear. And the designer usually finds himself in "a sea of possibilities", where it is not clear how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system.
+The puzzle solving pattern has its value in a limited number of practical cases. Many design sub-tasks can be addressed as problem solving activities. Design of computing algorithms can be described as a puzzle solving pattern. Here, the goal is to find an efficient algorithmic solution for a clearly defined computing problem. However, design of algorithms is only a small part of the system design, and designing systems requires different approach. This is nicely described in the Butler Lampson's article on system design [Lampson (1984)](#Lampson1984). Lampson argued that designing a computer system is very different from designing an algorithm because the requirements are less precisely defined, more complex, and more subject to change. The measure of success is much less clear. And the designer usually finds himself in "a sea of possibilities", where it is not clear how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system.
 
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates).
 
@@ -230,7 +238,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
-**Alternative names**: *Conway's Law*.
+**Topics**: *constraints, consistency, templates, frameworks, convention-over-configuration, Conway's Law*
 
 **Desirable**: *In situations where consistency among design outcomes is important.*
 
@@ -274,7 +282,7 @@ The resources signature pattern is a consequence of inertia (resistance to chang
 
 **Motto**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
-**Alternative names**: *Specialization*, *Inverse Conway's Law*.
+**Topics**: *specialization, inverse Conway's law, work optimization*
 
 **Desirable**: *In situations where efficiency of design work is important.*
 
@@ -303,6 +311,8 @@ This pattern is connected to the *resource commitment* pattern. Having tools, sk
 **Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
 **Alternative name**: *Opportunistic Design*.
+
+**Topics**: *exploiting new opportunitites, hype, trends, end-user development and meta-design*
 
 **Desirable**: *In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.*
 
@@ -350,6 +360,8 @@ We discuss the following patterns of these dynamics between design resources and
 
 **Mottos**: *"When in Rome, do as the Roman's do."*
 
+**Topics**: *popularity, fashion, communities, fashion, peer pressure, legal requirements, education*
+
 **Desirable**: *When conformity is mandatory, or when designers can benefits from joining a broader community.*
 
 **Undesirable**: *When efficiency of design work is important, as conformity may require significant adaptations of designers' organizations.*
@@ -393,6 +405,8 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
 **Motto**: *“It is a poor craftsman that blames his tools.”*
 
+**Topics**: *learning, standardization of work, tool development, "eating its own dog food", "if all you have is a hammer, everything looks like a nail"*
+
 **Desirable**: *When designers want to master resource usage or further improve the resource itself.*
 
 **Undesirable**: *In complex real-world situations where over-commitment may lead to worse design outcomes and lost opportunities compared to the situation where some other resources are used.*
@@ -428,6 +442,8 @@ The *resource commitment* pattern is related to the *resource conformity* patter
 **Summary**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
 
 **Motto**: *"Do one thing and do it well."*
+
+**Topics**: *focusing usage of resources, work efficiency, minimizing risks*
 
 **Alternative names**: *Low-Hanging Fruits, Selective Design*.
 
