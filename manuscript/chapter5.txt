@@ -338,6 +338,11 @@ MacCormack A., Carliss Y.B., and Rusnak J. (2012):
 **Exploring the Duality Between Product and Organizational Architectures: A Test of the 'Mirroring' Hypothesis**,  
 *Research Policy 41 (8), pp. 1309–1324.
 
+{#Melnik2007}
+Melnik G., Jeffries R.,
+**Guest Editors' Introduction: TDD--The Art of Fearless Programming**,
+*IEEE Software 24(3)*, pp. 24-30.
+
 {#Mens2012}
 Mens T. (2012):
 **On the Complexity of Software Systems**,
@@ -435,6 +440,11 @@ Obrenovic Z. (2011):
 **Design-Based Research: What We Learn When We Engage in Design of Interactive Systems**, 
 *interactions 18 (5)*, pp. 56-59.
   
+{#Obrenovic2013}
+Obrenovic Z. (2013):
+**Software Sketchifying – Bringing Innovation into Software Development**,
+*IEEE Software 30 (3)*, pp. 80-86.
+
 {#Obrenovic2014}
 Obrenovic Z. (2014):
 **The Hawthorne Studies and Their Relevance to HCI Research**,
