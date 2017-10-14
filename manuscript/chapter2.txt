@@ -49,14 +49,14 @@ The dynamics between a design situation and a design outcome seems to be the mos
 {#CoEvolution}
 ### Co-Evolution of Problem-Solution
 
+**Motto**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
+
 **Summary**: *A design situation and designer’s understanding of the design situation (problem definition) changes and evolves in parallel and under influence of design outcome and designer’s
 understating of potential design outcomes (design solutions).*
 
-**Motto**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
-
 **Alternative names**: *Problem–Solution Flux*.
 
-**Topics**: *problems solving, problem setting, prototyping, iterative development, agile software development, reinventing the wheel anti-pattern*
+**Topics**: *problems solving, problem setting, prototyping, iterative development, agile software development, reinventing the wheel*
 
 **Desirable**: *In most complex real-world situations and in new domains, as this pattern facilitates learning, stimulates communication among stakeholders, and minimizes the risk of failure.*
 
@@ -83,7 +83,7 @@ Many classical design practices, such as extensive usages of sketches and protot
 
 In modern software development, a co-evolution is the primary pattern of dynamics behind the [agile software development](https://www.agilealliance.org/agile101/) movement, nowadays a mainstream software development methodology. Agile software development promotes iterative and incremental development, using continuous feedback to refine and deliver a software system. One of the central values behind agile software development is responding to change over following a plan, making explicit the expectation that requirements cannot be fully known in advance and will change during the project.
 
-Because it stimulates learning and end exploration, the co-evolution pattern is particularly useful in new domains, for which there are little known and documented experiences. The co-evolution of problem-solution, however, may be an anti-pattern when applied in well-known domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g. see [Obrenovic 2017](#Obrenovic2017)). In well-known domains, there are normally lots of documented experiences and best practices, and there are often standard solutions that can reused. For example, for most organizations it is very expensive and time consuming to implement their own custom solutions for tasks such as human resources management or communication (email, messaging). Normally, it is much easier and more cost effective to adapt organizational process to use standard off-the-shelf software solutions for these tasks.
+Because it stimulates learning and end exploration, the *[co-evolution](#CoEvolution)* pattern is particularly useful in new domains, for which there are little known and documented experiences. The co-evolution of problem-solution, however, may be an anti-pattern when applied in well-known domains, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g. see [Obrenovic 2017](#Obrenovic2017)). In well-known domains, there are normally lots of documented experiences and best practices, and there are often standard solutions that can reused. For example, for most organizations it is very expensive and time consuming to implement their own custom solutions for tasks such as human resources management or communication (email, messaging). Normally, it is much easier and more cost effective to adapt organizational process to use standard off-the-shelf software solutions for these tasks.
 
 
 ![Pittsburg's Golden Triangle. In 1950s, an extensive renewal program begun in the city of Pittsburgh, with a principal goal of rebuild the center of the city, the so-called Golden Triangle. Credit: U.S. National Archives and Records Administration / Wikimedia Commons.](images/Pittsburgh_Golden_Triangle.jpg)
@@ -92,9 +92,9 @@ Because it stimulates learning and end exploration, the co-evolution pattern is 
 {#SolutionLookingForProblem}
 ### A Solution Looking for a Problem
 
-**Summary**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
-
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
+
+**Summary**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
 
 **Topics**: *novelty, creativity, curiosity, unordinary usages of ordinary things, early adopters, bitcoin and blockchain*
 
@@ -118,17 +118,17 @@ A *solution looking for a problem* normally requires significant investments wit
 
 While the *solution looking for a problem* pattern introduces significant risks, it may be a successful innovation strategy. Being an early adopter of some technology may be a crucial competitive advantage. Waiting to invest in the technology after its value has been demonstrated on the market may be too late. Consequently, many organizations are investing in the development of innovative solutions not because of immediate marketing needs, but to be in a good starting position if such marketing needs appear.
 
-The *solution looking for a problem* pattern is related to the *co-evolution of problem-solution* pattern because once a new usage of a design “solution” emerges in a new situation, this new situation often starts to influence further evolution of the original “solution”.
+The *solution looking for a problem* pattern is related to the *[co-evolution of problem-solution](#CoEvolution)* pattern because once a new usage of a design “solution” emerges in a new situation, this new situation often starts to influence further evolution of the original “solution”.
 
 
 ![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Credit: Hinman, Rachel. 2012. The Mobile Frontier. New York: Rosenfeld Media. / Flickr / CC-BY-2.0](images/first_mobile_phone.jpg)
 
-
+{#ProblematicSolution}
 ### A Problematic Solution
 
-**Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
-
 **Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
+
+**Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
 **Alternative name**: *Collateral Damage*.
 
@@ -150,7 +150,7 @@ In software design, one of the most prominent examples of problems caused by pre
 
 Spam is another example of problems created by success of messaging and social media technologies, such as email, SMS, Twitter and Facebook. Spam misuse the ease and low price of sending messages (a solution) to distribute huge volumes of messages that propagate malware, disseminate phishing exploits, and advertise illegal products. Spam messages generate significant costs for users and network operators ([Fonseca et al. 2016](#Fonseca2016)). Furthermore, spam has required significant investments in spam detection and prevention tools, which are now core tools of any messaging platform.
 
-The problematic solution is a consequence of designers’ inability to predict all effects of design outcomes. Unexpected and undesired effects of design outcomes are more likely to appear in more innovative domains. Sometimes this is a consequence of attempts to speed up a design process, leaving insufficient time for exploration and learning (the *co-evolution of problem-solution* pattern). For instance, building of the Sydney Opera House, due political pressures, started too early, before final designs were completed. This forced early start led to significant later problems, such as the discovery that the podium columns were not strong enough to support the roof structure, and had to be re-built ([Murray 2004](#Murray2004)). Due to a number unexpected and unintended effects, the Sydney Opera House project was completed ten years late and 1,357% over budget.
+The problematic solution is a consequence of designers’ inability to predict all effects of design outcomes. Unexpected and undesired effects of design outcomes are more likely to appear in more innovative domains. Sometimes this is a consequence of attempts to speed up a design process, leaving insufficient time for exploration and learning (the *[co-evolution of problem-solution](#CoEvolution)* pattern). For instance, building of the Sydney Opera House, due political pressures, started too early, before final designs were completed. This forced early start led to significant later problems, such as the discovery that the podium columns were not strong enough to support the roof structure, and had to be re-built ([Murray 2004](#Murray2004)). Due to a number unexpected and unintended effects, the Sydney Opera House project was completed ten years late and 1,357% over budget.
 
 If a design outcome will be perceived as problematic is also a function of expectations. Marketing and other expectation management techniques may have a significant impact on how the design outcome will be accepted. Don Norman, in his [talk at Main Event in 2004](https://mprove.de/script/04/nng/expectationdesign.html), said that expectations are connected to hope, fear, satisfaction and anger. Norman elaborated that delivering on positive expectations leads to people experiencing pleasure. But failure to deliver on positive may lead to negative emotions and seeing of a product as a failure and a problem. While such reactions may be interpreted as "only" a matter of perception, these perceptions and associated reactions may significantly change the design situation, such as people starting to use a competing product.
 
@@ -160,9 +160,9 @@ If a design outcome will be perceived as problematic is also a function of expec
 {#Boomerang}
 ### Boomerang
 
-**Summary**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes unsuccessful, obsolete or irrelevant. Such reactions would normally not occur without the design activity.*.
-
 **Motto**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
+
+**Summary**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes unsuccessful, obsolete or irrelevant. Such reactions would normally not occur without the design activity.*.
 
 **Alternative names**: *Ricochet, Own Goal, Shoot Oneself in the Foot*.
 
@@ -176,7 +176,7 @@ If a design outcome will be perceived as problematic is also a function of expec
 
 The boomerang situation described dynamics of design activities in which designers’ efforts to create a design outcome lead to radical changes of the original design situation. Often such change can make intended design outcomes unsuccessful, obsolete or irrelevant.  This type of patters of dynamics can occur particularly strongly if the design enters the mass market or can have significant influence on the society.
 
-An example of the boomerang pattern is the one laptop per child (OLPC) project ([Kraemer et al. 2009](#Kraemer2009)). The OLPC project created a novel technology, the XO laptop, developed with close attention to the needs of students in poor rural areas. The project failed to reach many of its original goals, in huge part due to the aggressive reaction of the PC industry to the perceived threat of a $100 laptop being widely distributed in places the industry saw as emerging markets for its own products ([Kraemer et al. 2009](#Kraemer2009)). Soon after the OLPC project started, the PC industry begun to introduce their own educational computers with low price. This reaction of the PC industry would not occur without the OLPC project. And OLPC project probably would not start, or would have different goals if there were available educational PCs with low price.
+An example of the *boomerang* pattern is the one laptop per child (OLPC) project ([Kraemer et al. 2009](#Kraemer2009)). The OLPC project created a novel technology, the XO laptop, developed with close attention to the needs of students in poor rural areas. The project failed to reach many of its original goals, in huge part due to the aggressive reaction of the PC industry to the perceived threat of a $100 laptop being widely distributed in places the industry saw as emerging markets for its own products ([Kraemer et al. 2009](#Kraemer2009)). Soon after the OLPC project started, the PC industry begun to introduce their own educational computers with low price. This reaction of the PC industry would not occur without the OLPC project. And OLPC project probably would not start, or would have different goals if there were available educational PCs with low price.
 
 A similar story is the development of the IBM PC ([Goth 2011](#Goth2011)). IBM underestimated the influence that PC would have for their own future. On the one hand the introduction of the PC changed the market and lead to less demand for IBM mainframe computers. And while led the PC market in the beginning, as the IBM PC market grew IBM's influence diminished. In November 1985 PC Magazine stated *"Now that it has created the [PC] market, the market doesn't necessarily need IBM for the machines"*. The IBM management was also not able to predict the impact of their own design, as reported by Greg Goth:
 
@@ -189,19 +189,19 @@ The boomerang may also occur even before any observable design activity has star
 
 In software design a similar effect we may find in ["vaporware"](https://en.wikipedia.org/wiki/Vaporware) or other practices of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products (e.g. [Heiko 2004](#Heiko2004); [Richard 1995](#Richard1995)). Designers' intention to address particular situation may be seriously harmed by announcements of the competitors. Such, often very simple announcements, may radically change the market and clients’ expectations.
 
-The *boomerang pattern* is connected to the *problematic solution* pattern, as both of these patterns describe dynamics that are a consequence of unexpected and undesirable effects of design decisions. The *boomerang pattern* may lead to the [*solution looking for a problem*](#SolutionLookingForProblem) pattern if a failure to create an outcome in original design situation leads to usage of a (part of) design outcome in another situation.
+The *boomerang* pattern is connected to the *[problematic solution](#ProblematicSolution)* pattern, as both of these patterns describe dynamics that are a consequence of unexpected and undesirable effects of design decisions. The *boomerang pattern* may lead to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern if a failure to create an outcome in original design situation leads to usage of a (part of) design outcome in another situation.
 
 
 ![The U.S. Justice Department accused IBM of intentionally announcing its System/360 Model 91 computer (pictured) three years early to hurt sales of its competitor's computer. Credit: Wikimedia Commons.](images/360-91-Panel.jpg)
 
 
 
-
+{#PuzzleSolving}
 ### Puzzle Solving
 
-**Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
-
 **Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
+
+**Summary**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
 **Topics**: *problem solving, the puzzle trap, education, well-scoped design sub-tasks*
 
@@ -222,7 +222,7 @@ The puzzle solving pattern has its value in a limited number of practical cases.
 The puzzle solving pattern is also useful in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for a clearly defined problem (such as calculating the number of days between two dates). Similarly, Bill Buxton ([2007](#Buxton2007)) promoted an approach to interaction design education based on copying the classics, drawing a parallel with the traditional art education. In the traditional art education, drawing antiquities (a clearly defined problem), is often used to lay the foundation for building up the student’s skills. As students are not overwhelmed by trying to deal with issues such as thinking about an appropriate subject or composition (problem setting), they can focus on learning how to master the pencil, a prerequisite to high art.
 
 
-The puzzle solving pattern may be present within the *co-evolution of problem-solution* pattern, as a way to find answers for specific research questions.
+The puzzle solving pattern may be present within the *[co-evolution of problem-solution](#CoEvolution)* pattern, as a way to find answers for specific research questions.
 
 ![A jigsaw puzzle. Solving clearly defined problems, such as puzzles, is often seen as an anti-pattern in design, but may have the value in education. Credit: MeHe / pixabay.](images/puzzle.jpg)
 
@@ -238,12 +238,12 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 * Outcome Signature, and
 * Design-by-Buzzword.
 
-
+{#ResourceSignature}
 ### Resource Signature
 
-**Definition:** *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used, and/or how the working with the resources was organized.*
-
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
+
+**Definition:** *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used, and/or how the working with the resources was organized.*
 
 **Topics**: *constraints, consistency, templates, frameworks, convention-over-configuration, Conway's Law*
 
@@ -283,11 +283,12 @@ The resources signature pattern is a consequence of inertia (resistance to chang
 
 
 
+{#OutcomeSignature}
 ### Outcome Signature
 
-**Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
-
 **Motto**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
+
+**Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
 
 **Topics**: *specialization, inverse Conway's law, work optimization*
 
@@ -297,28 +298,28 @@ The resources signature pattern is a consequence of inertia (resistance to chang
 
 * * *
 
-The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. As in the case of the *resource signature* pattern, this adaptation can happen at all levels, from individual design resources to complex organizational structures.
+The structure of design outcomes may influence the tools, methods, processes and whole organizations that are used to build such outcomes. As in the case of the *[resource signature](#ResourceSignature)* pattern, this adaptation can happen at all levels, from individual design resources to complex organizational structures.
 
 Design tools often need to be adapted to create a particular design outcome. For example, many software design tools are configurable so that frequently used functions are more easily accessible (e.g. via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult. This tool configuration is a signature that a design outcome leaves on a design resource.
 
 Working on a particular types of design outcomes, also leads to improvements of designers’ skills and knowledge. Working with the same tool to create similar design outcomes (e.g. mobile applications, web applications), will lead designers to develop a specific set of skills, biased at efficient creation of such design outcomes. Once such skills are developed, designers are much more effectively create new similar design outcomes. This, in turn, may lead to other positive consequences, such as more rapid prototyping and more iterations of iterative design that is a crucial component of achieving high-quality user interfaces ([Myers et al. 2000](#Myers2000); [Nielsen 1993](#Nielsen1993)).
 
-The outcome signature pattern also happens at the process and organizational levels. [Bass et al. (2012)](#Bass2012), for instance, argued that software design often describes not only the structure of the design outcome, but that it can engrave the structure of the development project and sometimes the structure of the entire organization (page 33). They elaborated that a normal method for dividing up the labor is to assign to different groups different portions of the system to construct. Such work-breakdown structure in turn dictates units of planning, schedule and budget; inter-team communication channels; configuration control and file-system organization; test plans and procedures; and even minutiae such as how the project internet is organized and who sits with whom at the company picnic. Sam Newman similarly provides an example of an organizational structure that grew up around the product  architecture [(Newman 2005, page 201)](#Newman2015).
+The *outcome signature* pattern also happens at the process and organizational levels. [Bass et al. (2012)](#Bass2012), for instance, argued that software design often describes not only the structure of the design outcome, but that it can engrave the structure of the development project and sometimes the structure of the entire organization (page 33). They elaborated that a normal method for dividing up the labor is to assign to different groups different portions of the system to construct. Such work-breakdown structure in turn dictates units of planning, schedule and budget; inter-team communication channels; configuration control and file-system organization; test plans and procedures; and even minutiae such as how the project internet is organized and who sits with whom at the company picnic. Sam Newman similarly provides an example of an organizational structure that grew up around the product  architecture [(Newman 2005, page 201)](#Newman2015).
 
 Outcome signature may a consequence of a success of a product and the need to maintain and support the product in the long term. Bill Buxton ([2007](#Buxton2007)) claimed that, while the worst thing that can happen to a new product is that it is a failure, the second worst thing that can happen is that it is a huge success (page 208). Buxton elaborated that the more successful a product, the more of them are out there and the longer the company, clients, and successors have to live with the design and architectural decisions that were made. To be able to maintain and support successful products, organizations need to make long-term adaptations and optimizations. While such products may be profitable, they may also be a burden on the organization. Long-lived systems tend to grow in size and complexity over the time, and maintenance and support of such systems tend to consume more and more of the organization's resources. This may limit the ability of the organization to do other things and innovate. [Adam Schneider, for instance, noted(http://deloitte.wsj.com/cio/2013/10/01/when-companies-become-prisoners-of-legacy-systems/) that many companies are prisoners of their legacy systems, which prevent companies from surging ahead in the marketplace, introducing new products, moving into new geographies, or expanding services to customers on new platforms.
 
 
-This pattern is connected to the *resource commitment* pattern. Having tools, skills, and organizational structures optimized for creating a particular type of a design outcome, may encourage designers to reuse their tools and skills in new design situations. But this optimization may also lead to the *cherry picking* pattern, and stimulate designers to choose only those situations where a specific type of design outcome is required.
+The *outcome signature* pattern is connected to the *[resource commitment](#ResourceCommitment)* pattern. Having tools, skills, and organizational structures optimized for creating a particular type of a design outcome, may encourage designers to reuse their tools and skills in new design situations. But this optimization may also lead to the *[cherry picking](#CherryPicking)* pattern, and stimulate designers to choose only those situations where a specific type of design outcome is required.
 
 ![Hammer-heads optimized for different purposes. Credit: Wikimedia Commons.](images/hammerheads.jpg)
 
 
-
+{#DesignByBuzzword}
 ### Design-by-Buzzword
 
-**Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
-
 **Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
+
+**Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
 
 **Alternative name**: *Opportunistic Design*.
 
@@ -346,7 +347,7 @@ Design-by-buzzword is driven by novelty rather than experience. The lack of expe
 
 Closely related to design-by-buzzword is end-user development and meta-design. Rather than presenting users with closed systems, the goal of end-user development and meta-design is to provide users with *opportunities*, tools, to adapt and extend the system to fit their needs ([Fischer et al. (2004)](#Fischer2004)). In this case, system is built flexibly so that users can explore opportunities themselves.
 
-This pattern is related to the [*solution looking for a problem*](#SolutionLookingForProblem) pattern as new opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *co-evolution of problem-solution* pattern may also be related to the design-by-buzzword pattern as a way to develop better understanding of useful applications of new design resources.
+The *design-by-buzzword* pattern is related to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern as new opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *design-by-buzzword* pattern as a way to develop better understanding of useful applications of new design resources.
 
 
 ## C. Patterns of Dynamics Between Design Situations and Design Resources
@@ -363,43 +364,43 @@ We discuss the following patterns of these dynamics between design resources and
 * Resource Commitment, and
 * Cherry Picking.
 
-
+{#ResourceConformity}
 ### Resource Conformity
-
-**Definition:** *Design resources are used in a design situation out of conformity, because such resources are popular or have often been used in similar situations. This usage of design resources further contributes to popularity of a tool and its usage in similar design situations.*
 
 **Mottos**: *"When in Rome, do as the Roman's do."*
 
-**Topics**: *popularity, fashion, communities, fashion, peer pressure, legal requirements, education*
+**Definition:** *To minimize risks, in a new design situation designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and popularity of the resource and and its usage in new design situations.*
+
+**Topics**: *popularity, compliance, communities, fashion, peer pressure, legal requirements, education*
 
 **Desirable**: *When conformity is mandatory, or when designers can benefits from joining a broader community.*
 
-**Undesirable**: *When efficiency of design work is important, as conformity may require significant adaptations of designers' organizations.*
+**Undesirable**: *In new domains where there are no established best practices, or in domains where capitalization on new opportunities is crucial.*
 
 * * *
 
-The designer’s selection of tools is related to a number of external factors. One approach commonly found in practice is to make a selection of design resources based on the situation requirements and previous experiences of others. In this case designers, while often having other options, choose to conform to the situation at hand and the way of working of others.
+In the *resource conformity* pattern, designers select popular and proven resources with established best practices. In this pattern the selection of design resources is primarily driven by external factors, such as experiences of others, popularity, or regulations.
 
-One form of design conformity is to use design resources that other designers have used in similar situations. A common strategy to select design resources is to look at successful design projects addressing similar situations, and to use the same resources. This approach is normally less risky, as previous projects provide some evidence that the design resources are suitable for particular situations.
+
+The main driver behind conforming to established resources and best practices is the wish to minimize risks. Established and popular design resources and previous projects where such resources have been used provide some evidence that the design resources are suitable for particular situations. Consequently, a common strategy to select design resources is to look at successful design projects addressing similar situations, and to use the same resources.
+
+Resource conformity has a number of practical advantages for designers. Well known tools usually have strong communities of practitioners, plenty learning resources, enabling a designer to easier and in more predictable fashion master the resource usage. Resource conformity also has advantages for organizations, as it is easier to find new employees for popular tools.
 
 Mere popularity of some design tool or methodology is often the main reason for its usage. For instance, while there are hundreds of libraries and frameworks for development of web user interfaces, most new web user interfaces are build using few most popular frameworks: React, Angular and Bootstrap. In the domain of graphic design, similarly there are hundreds of available tools, but most designers use [Adobe](http://www.adobe.com) tools (e.g. Photoshop, Illustrator and InDesign) by far the most popular graphic design tools, which are often described as *de facto* industry standard for graphics editing.
-
-Conformity may also be a result of legal regulations. Physical materials, for instance, need to satisfy a number of regulations about safety and environmental impact and there is often a limited list of "certified" or recommended materials. Here conformity is often more than a question of style. Failure to use recommended materials may have serious consequences and put lives of people in danger, as in the case of fire safety standards. In software design, many companies also have a list of approved resources, tools or libraries that are allowed to be used. Security concerns are often the main driver for these limitations. For instance, in 2017 the US Government banned Kaspersky Security software, limiting designers of network and application security to other options.
-
-Designers may conform to usage of some resources due to fear of legal and other consequences. Harrison ([2004](#Harrison2004)) for instance, argued that if a software system fails and customers sue, it may be viewed as negligence if the designer’s organization did not follow best practices. For this argument, Harrison draw a parallel between software design and criminal trial. In a criminal trial (at least in the US), the failure to follow an established best practice  could result in an acquittal.
-
 
 The most popular design resources are often introduced at schools and universities, further contributing to the popularity and widespread use of these resources. Adobe, for example, offers [educational resources and discounts](http://www.adobe.com/education.edu.html) on their products for teachers and students. In software design schools, Java, one of the most popular programming languages, has often used as the first programming languages that students learn [Hadjerrouit 1998](#Hadjerrouit1998). Before that, popularity of C++ in industry has led to it being often used for teaching as well [Kölling (1999)](#Kolling1999).
 
 Usage of some resources also influences the future development of that resource. By using and buying a particular resource, designer’s increase the popularity of the resource and the profit of the producer, which can further stimulate the use of the tool. Successful projects are good references for resources used in them, and may be the main reason why others will select this resource for new projects.
 
-Resource conformity has a number of practical advantages for designers. Well known tools have strong communities and learning resources, enabling a designer to easier master the tool. Tool conformity also has advantages for design companies. It is easier to find new employees for popular tools.
+Conformity may also be a result of legal and other regulations regulations. Physical materials, for instance, need to satisfy a number of regulations about safety and environmental impact and there is often a limited list of "certified" or recommended materials. Here conformity is often more than a question of style. Failure to use recommended materials may have serious consequences and put lives of people in danger, as in the case of fire safety standards. In software design, many companies also have a list of approved resources, tools or libraries that are allowed to be used. Security concerns are often the main driver for these limitations. For instance, in 2017 the US Government banned Kaspersky Security software, limiting designers of network and application security to other options.
 
-The resource conformity pattern is particularly useful in standard, well-known domains. As discussed in the [co-evolution of problem-solution pattern](#CoEvolution) designing custom solutions may lead to "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g. see [Obrenovic 2017](#Obrenovic2017)). In well-established domains, there are often standard solutions that can be reused with minimal modifications. For example, for most organizations it is normally much more cost effective to adapt their organization processes to use standard off-the-shelf solutions for tasks such as human resources management and communication (email, messaging).
+Designers may conform to usage of some resources due to fear of legal and other consequences. Harrison ([2004](#Harrison2004)) for instance, argued that if a software system fails and customers sue, it may be viewed as negligence if the designer’s organization did not follow best practices. For this argument, Harrison draw a parallel between software design and criminal trial. In a criminal trial (at least in the US), the failure to follow an established best practice  could result in an acquittal.
 
-Resource conformity may also have its downsides. One negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for a number of users and may decide to focus on developing only the most common features.
+The *resource conformity* pattern is particularly useful in standard, well-known domains. As discussed in the *[co-evolution of problem-solution](#CoEvolution)*, pattern designing custom solutions may lead to "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g. see [Obrenovic 2017](#Obrenovic2017)). In well-established domains, there are often standard solutions that can be reused with minimal modifications. For example, for most organizations it is normally much more cost effective to adapt their organization processes to use standard off-the-shelf solutions for tasks such as human resources management and communication (email, messaging).
 
-The *resource conformity* pattern is related to the *resource commitment* pattern, as successful usage of some new design resources requires commitment and persistence. Design organizations may also commit to using some standard or popular resource. The *resource conformity* pattern is related to the *cherry picking* pattern, because a wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
+Resource conformity may also have its downsides. One negative issue is that by using established and proven resources, designers may not capitalized on some new emerging technology. As discussed in the *[design-by-buzzword](#DesignByBuzzword)*  pattern, projects that do not capitalize on new opportunities may find their products unable to compete. Another negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for a number of users and may decide to focus on developing only the most common features.
+
+The *resource conformity* pattern is related to the *[resource commitment](#ResourceCommitment)* pattern, as successful usage of some new design resources requires commitment and persistence. Design organizations may also commit to using some standard or popular resource. The *resource conformity* pattern is related to the *[cherry picking](#CherryPicking)* pattern, because a wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
 
 
 ![Three examples of buildings in the Amsterdam School style, a style of architecture popular from 1910 through about 1930 in the Netherlands. Buildings of the Amsterdam School are characterized by brick construction with complicated masonry with a rounded or organic appearance, relatively traditional massing, and the integration of an elaborate scheme of building elements inside and out. Credit: Amsterdam Municipal Department for the Preservation and Restoration of Historic Buildings and Sites (bMA) / Wikimedia Commons.](images/Amsterdamse school.jpg)
@@ -408,12 +409,12 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
 
 
-
+{#ResourceCommitment}
 ### Resource Commitment
 
-**Summary**: *In a new design situation designers use tools they committed to beforehand.*
-
 **Motto**: *“It is a poor craftsman that blames his tools.”*
+
+**Summary**: *In a new design situation designers use tools they committed to beforehand.*
 
 **Topics**: *learning, standardization of work, tool development, "eating its own dog food", "if all you have is a hammer, everything looks like a nail"*
 
@@ -423,7 +424,7 @@ The *resource conformity* pattern is related to the *resource commitment* patter
 
 * * *
 
-The resource commitment pattern is a form of dynamics of design activities in which, in a new design situation, designers commit beforehand to using a particular resource, and persists in the usage of the resource even when they experience problems and difficulties to use the resource in  the design situation.
+The *resource commitment* pattern is a form of dynamics of design activities in which, in a new design situation, designers commit beforehand to using a particular resource, and persists in the usage of the resource even when they experience problems and difficulties to use the resource in  the design situation.
 
 Designers may commit to and persist in using a particular resource due to a number of reasons. Such commitment, for instance, can facilitate development of design skills. Learning to use a new design tool requires time and effort, and initial results may be discouraging. Without the commitment and persistence, a designer may give up learning too early, and never master the tool.
 
@@ -437,7 +438,7 @@ An over-reliance on a familiar resource has its downsizes, famously expressed as
 
 In all of these patterns there is the pre-commitment to some resource. On a positive side, this commitment may enable development of mastery in resource's usage and stimulate improvements of the resource itself. On the negative side, the over-commitment may lead to worse design outcomes and lost opportunities compared to the situation where some other resources are used.
 
-The *resource commitment* pattern is related to the *resource conformity* pattern, as design organizations may commit to using some resource out of conformity. The *resource commitment* pattern is related to the *cherry picking* pattern, because a designer may choose situations in which resources he committed to may be more easily applied.
+The *resource commitment* pattern is related to the *[resource conformity](#ResourceConformity)* pattern, as design organizations may commit to using some resource out of conformity. The *resource commitment* pattern is related to the *[cherry picking](#CherryPicking)* pattern, because a designer may choose situations in which resources he committed to may be more easily applied.
 
 
 
@@ -446,12 +447,12 @@ The *resource commitment* pattern is related to the *resource conformity* patter
 
 
 
-
+{#CherryPicking}
 ### Cherry Picking
 
-**Summary**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
-
 **Motto**: *"Do one thing and do it well."*
+
+**Summary**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
 
 **Topics**: *focusing usage of resources, work efficiency, minimizing risks*
 
@@ -469,7 +470,7 @@ Cherry picking may have positive effect on operations and success of designers a
 
 Cherry picking also may have negative effects. One problem is that by cherry picking designers may be solving issues that are less relevant for the client. In domains where a rigor in applying a particular methodology is valued more than the practical value of a design outcome, such as in academic environments, this issue can be even more elaborate and sometimes negative. [Greenberg and Buxton 2008](#Greenberg2008), for example, argued that the ACM CHI conference has a methodology bias, where certain kinds of methods are considered more ‘correct’ and thus acceptable than others, with the consequence that people now likely generate ‘research questions’ and ‘designs’ that are amenable to a chosen method, rather than the other way around: “*That is, they choose a method perceived as ‘favored’ by review committees, and then find [cherry pick] or fit a problem to match it. … That is, researchers first choose the method (e.g., controlled study) and then concoct a problem that fits that method.*” In this case the domain and selection of situations that are of interest for that domain (in this example the interaction design domain) is more influenced and shaped by the tools and methods that we like than by the importance of the problems.
 
-The *cherry picking* pattern is related to the *resource commitment* pattern, because a designer may choose situations in which resources he committed to may be more easily applied. The *cherry picking* pattern is also related to the *resource conformity* pattern, because a wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
+The *cherry picking* pattern is related to the *[resource commitment](#ResourceCommitment)* pattern, because a designer may choose situations in which resources he committed to may be more easily applied. The *cherry picking* pattern is also related to the *[resource conformity](#ResourceConformity)* pattern, because a wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
 
 
 ![Cherry picking. Designers may choose problems based on their specialization or due to resource limitations. Credit: Charles Nadeau / Wikimedia Commons / CC-BY-2.0.](images/cherry_picking.jpg)
@@ -480,20 +481,21 @@ The *cherry picking* pattern is related to the *resource commitment* pattern, be
 
 *"Every place is given its character by certain patterns of events that keep on happening there."* (Christopher Alexander, The Timeless Way of Building)
 
-The patterns of dynamics of design activities may facilitate describing complex dynamics between elements of design activities as a combination of several higher-level arrangements of such dynamics.
+The patterns of dynamics of design activities may facilitate describing complex dynamics between elements of design activities as a combination of several higher-level arrangements of such dynamics. With patterns, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction.
 
-With patterns, we can describe, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction. We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *co-evolution of problem-solution* pattern. Novel or better resources may be needed for this situation, which will lead to the emergence of the *outcome signature* pattern. Through *resource commitment* and *eating its own dog food* patterns the resources can further develop and gain popularity. Once stable and popular the resources may become a de facto standard, and lead to the *resource conformity* pattern. The *resource conformity* may lead the *resource signature* pattern. The *resource signature* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
+We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *[co-evolution of problem-solution](#CoEvolution)* pattern. Novel or better resources may be needed for this situation, which will lead designers to change their way of working and to the emergence of the *outcome signature* pattern. Through *[resource commitment](#ResourceCommitment)* and *[eating its own dog food](#ResourceCommitment)* patterns the new resources can further develop and gain popularity. Once stable and popular the resources may become *de facto* standard, and lead to the *[resource conformity](#ResourceConformity)* pattern. The *[resource conformity](#ResourceConformity)* may lead the *[resource signature](#ResourceSignature)* pattern. The *[resource signature](#ResourceSignature)* pattern, on the other hand may trigger a reaction of customers wanting something new and original, which may result in new design situations.
+
+The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design,  later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resource commitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution of problem-solution* pattern, with possibly the *design-by-buzzword* and [*solution looking for a problem*](#SolutionLookingForProblem) patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *problematic solution* patterns, as we are dealing with more novel and unknown elements.
 
 When describing design activity as a combination of patterns of dynamics, it is important to note that the described patterns are not all of the same kind when it comes to temporality and duration, as well as location or scope. We may distinguish between, at least, two groups of patterns:
 
 * Patterns of short-term dynamics, normally occurring within a particular project in a limited period of time, and
 * Patterns of long-term dynamics, normally occurring over a longer period of time among multiple projects.
 
-For example, the *co-evolution of problem-solution* pattern is normally intrinsic to the design activity and people involved in it, and the pattern exists during a concrete project. The *boomerang pattern*, on the other hand is primarily a consequence of indirect interaction though a number of elements outside the main design activity. Some patterns reflect both short-term and long-term dynamics. For example, the *eating its own dog food* pattern has immediate short-term effect on the project where it is being used, but it also promotes particular design resources, which, on the long-term, will influence many other design projects.
+For example, the *[co-evolution of problem-solution](#CoEvolution)* pattern is normally intrinsic to the design activity and people involved in it, and the pattern exists during a concrete project. The *[boomerang pattern](#Boomerang)*, on the other hand is primarily a consequence of indirect interaction though a number of elements outside the main design activity. Some patterns reflect both short-term and long-term dynamics. For example, the *[eating its own dog food](#ResourceCommitment)* pattern has immediate short-term effect on the project where it is being used, but it also promotes particular design resources, which, on the long-term, will influence many other design projects.
 
-This difference in temporality and location of patterns suggest the need for techniques to estimate both the short-term and long-term impacts of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software engineers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support these types of reasoning.
+This difference in temporality and location of patterns suggest the need for techniques to estimate both the short-term and long-term impacts of design. [Penzenstadler et al. (2014)](#Penzenstadler2014), for instance, argued that software designers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. Our framework, could support such types of reasoning.
 
-The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative / creative design,  later generally considered more difficult. In routine designs, we normally have better defined situations and we are using familiar and proven tools. There we may primarily expect to see the *resource commitment* pattern and possibly the *puzzle solving* pattern, with little of other patterns occurring. Routine design may also be the consequence of the *cherry picking* pattern. In innovative design, on the other hand we may expect to see the *co-evolution of problem-solution* pattern, with possibly the *design-by-buzzword* and [*solution looking for a problem*](#SolutionLookingForProblem) patterns. Innovative / creative design is also more likely to lead to the *boomerang* and *problematic solution* patterns, as we are dealing with more novel and unknown elements.
 
 ![The formation of complex symmetrical and fractal patterns in snowflakes exemplifies emergence in a physical system. In philosophy, systems theory, science, and art, emergence is whereby larger entities arise through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller/simpler entities do not exhibit. Credit: Wikimedia Commons.](images/SnowflakesWilsonBentley.jpg)
 
