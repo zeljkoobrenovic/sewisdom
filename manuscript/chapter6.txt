@@ -1,6 +1,6 @@
 # About the Authors
 
-**Željko Obrenović** is a principal consultant with the Software Improvement Group in Amsterdam. Before joining SIG he worked as a consultant at Backbase, an assistant professor at the Technical University in Eindhoven, and a researcher at CWI. In his work he aims at bridging design research and practice.
+**Željko Obrenović** is a principal consultant with the [Software Improvement Group (SIG)](https://www.sig.eu/) in Amsterdam. Before joining SIG he worked as a consultant at Backbase, an assistant professor at the Technical University in Eindhoven, and a researcher at CWI. In his work he aims at bridging design research and practice.
 
 **Website**: [obren.info](http://obren.info/)
 **Twitter**: [@zeljko_obren](https://twitter.com/zeljko_obren)
@@ -10,3 +10,4 @@
 
 **Website**: [transground.blogspot.com](http://transground.blogspot.com)
 **Twitter**: [@estolter](https://twitter.com/estolter)
+
