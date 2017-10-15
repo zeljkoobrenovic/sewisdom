@@ -104,7 +104,7 @@ Charette R. N. (2005):
 {#Chua2015}
 Chua J. (2015):  
 **Design Without Final Goals: Getting Around Our Bounded Rationality**,  
-*Artifact 3 (4)*, pp. 2.1-2.7, http://dx.doi.org/10.14434/artifact.v3i4.12787.
+*Artifact 3 (4)*, pp. 2.1-2.7.
   
 {#Cockburn2000}
 Cockburn A. (2000):  
