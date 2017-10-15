@@ -73,7 +73,7 @@ We conclude the book with a general discussion.
 
 ## E. About the Cover
 
-The cover shows the [Tropical Cyclone Gafilo](https://en.wikipedia.org/wiki/Cyclone_Gafilo) approaching Madagascar on March 6, 2004. We selected this image for cover as a symbol of the central concept of this book - the instability of design activities. The cyclone is a complex, dynamic, and partially unpredictable phenomena. Still, as with design instability, it is not a completely chaotic phenomenon, as patterns are clearly visible.
+The cover shows an [extratropical cyclone](https://en.wikipedia.org/wiki/Cyclone) near Iceland on September 4, 2003. We selected this image for cover as a symbol of the central concept of this book - the instability of design activities. A cyclone is a complex, dynamic, and partially unpredictable phenomena. Still, as with design instability, it is not a completely chaotic phenomenon, as patterns are clearly visible.
 
 
 [^fooDesigner]: In this book, we use the notion of designer to mean anyone involved in a professional design process. In many cases a design process involves more than one designer.
