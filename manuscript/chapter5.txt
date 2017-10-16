@@ -539,12 +539,17 @@ Schön, D. (1987):
 San Francisco: Jossey-Bass.
 
 {#Schon1990}
-Schön, D. (1990):
+Schön D. (1990):
 **The Design Process,**
-Howard, V.A. (1990) Ed. *Varieties of Thinking: Essays from Harvard’s Philosophy of Education Research Center*. New York, Routledge, pp. 110-141.
+Howard V.A. (1990) Ed. *Varieties of Thinking: Essays from Harvard’s Philosophy of Education Research Center*. New York, Routledge, pp. 110-141.
+
+{#Schon1992}
+Schön D., Wiggins G. (1992):
+**Kinds of seeing and their functions in designing,**
+*Design Studies 13 (2)*, pp. 135-156.
 
 {#Simon1996}
-Simon. H. (1996):  
+Simon H. (1996):
 ***The Sciences of the Artificial***,  
 3rd ed. MIT Press.
 
