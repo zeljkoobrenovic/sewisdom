@@ -249,7 +249,8 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
-**Definition:** *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design outcome, which design resources were used, and/or how the working with the resources was organized.*
+**Summary**: *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design
+outcome, which design resources were used, and/or how the working with the resources was organized.*
 
 **Topics**: *constraints, consistency, templates, frameworks, convention-over-configuration, Conway's Law*
 
@@ -378,7 +379,8 @@ We discuss the following patterns of these dynamics between design resources and
 
 **Motto**: *"When in Rome, do as the Roman's do."*
 
-**Definition:** *To minimize risks, in a new design situation designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and popularity of the resource and its usage in new design situations.*
+**Summary**: *To minimize risks, in a new design situation designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of
+others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and popularity of the resource and its usage in new design situations.*
 
 **Topics**: *popularity, compliance, communities, fashion, peer pressure, legal requirements, education*
 

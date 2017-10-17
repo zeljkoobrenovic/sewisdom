@@ -1,6 +1,7 @@
 package nl.obren.wordutils;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.File;
 import java.io.IOException;
@@ -82,6 +83,12 @@ public class ExtractAppendixes {
                 "## A. Patterns of Dynamics: Summaries\n" +
                 "\n");
         patterns.forEach(pattern -> {
+            if (StringUtils.isBlank(pattern.getName())) {
+                throw new IllegalArgumentException("Pattern name is blank");
+            }
+            if (StringUtils.isBlank(pattern.getSummary())) {
+                throw new IllegalArgumentException("Pattern " +pattern.getName()+ " summary is blank");
+            }
             content.append("\n")
                     .append("**")
                     .append(pattern.getName())
@@ -91,6 +98,12 @@ public class ExtractAppendixes {
         });
         content.append("\n\n\n## B. Patterns of Dynamics: Mottos\n");
         patterns.forEach(pattern -> {
+            if (StringUtils.isBlank(pattern.getName())) {
+                throw new IllegalArgumentException("Pattern name is blank");
+            }
+            if (StringUtils.isBlank(pattern.getMotto())) {
+                throw new IllegalArgumentException("Pattern " +pattern.getName()+ " motto is blank");
+            }
             content.append("\n")
                     .append("**")
                     .append(pattern.getName())
@@ -101,6 +114,12 @@ public class ExtractAppendixes {
 
         content.append("\n\n\n## C. Sources of Dynamics: Summaries\n");
         sources.forEach(source -> {
+            if (StringUtils.isBlank(source.getName())) {
+                throw new IllegalArgumentException("Source name is blank");
+            }
+            if (StringUtils.isBlank(source.getSummary())) {
+                throw new IllegalArgumentException("Source summary is blank");
+            }
             content.append("\n")
                     .append("**")
                     .append(source.getName())

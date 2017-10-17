@@ -18,13 +18,13 @@
 
 **Puzzle Solving**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Resource Signature**: 
+**Resource Signature**: *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design
 
 **Outcome Signature**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
 
 **Design-by-Buzzword**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
 
-**Resource Conformity**: 
+**Resource Conformity**: *To minimize risks, in a new design situation designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of
 
 **Resource Commitment**: *In a new design situation designers use tools they committed to beforehand.*
 
