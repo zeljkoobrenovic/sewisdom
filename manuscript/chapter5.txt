@@ -178,11 +178,6 @@ Fielding, R.T. (2000):
 ***Architectural Styles and the Design of Network-based Software Architectures***.  
 Dissertation. University of California, Irvine.
   
-{#Fischer2004}
-Fischer G., Giaccardi E., Ye Y., Sutcliffe A.G., and Mehandjiev N. (2004):  
-**Meta-design: a manifesto for end-user development**,  
-*Commun. ACM 47 (9)*, pp. 33-37. 
-
 {#Fonseca2016}
 Fonseca O., Fazzion E., Cunha I., Las-Casas P.H.B., Guedes D., Meira W., Hoepers C., Steding-Jessen K., Chaves M.H.P. (2016):
 **Measuring, Characterizing, and Avoiding Spam Traffic Costs**,
@@ -410,18 +405,13 @@ Nielsen, J. (2010):
 Jakob Nielsen's Alertbox, April 26, 2010.
 http://www.useit.com/alertbox/ipad.html
   
-  
+
 {#Norman2008}
 Norman D.A. (2008):  
 ***Workarounds and hacks: the leading edge of innovation***,  
 *interactions 15 (4)*, pp. 47-48.
   
-  
-{#Norman2007}
-Norman, D. A. (2007):  
-***The Design of Future Things***,  
-New York: Basic Books.
-  
+
   
 {#Norman2010}
 Norman, D.A. (2010):  
