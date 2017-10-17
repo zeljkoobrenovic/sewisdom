@@ -11,8 +11,7 @@ A central thesis explored in this book is that complexity characteristic for des
 In our discussions of design complexity, we address design in a broader sense, in line with the Herbert Simon's ([1996](#Simon1996)) definition of design as courses of action aimed at changing existing situations into preferred ones. Due to our personal backgrounds and interests, however, we limit our overview and examples, to some degree, to discussions about complexity in software and interaction design. In particular we are biased towards those contributions that base their claims in observations of design practice (e.g. [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g. [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
-{#Model}
-## A. Analyzing Design Complexity: A Simple Model
+## A. Analyzing Design Complexity: A Simple Model {#Model}
 
 Our goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities. We want to investigate why design is by many seen as difficult and complex.
 

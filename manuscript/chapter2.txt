@@ -1,5 +1,4 @@
-{#Patterns}
-# Part II: Patterns of Dynamics
+# Part II: Patterns of Dynamics {#Patterns}
 
 In this part of our notes we discuss our central thesis. Namely, that design complexity emerges from the instability of design activities, which, in turn, is a consequence of complex and dynamic relations among design situations, design outcomes and design resources. We believe that these dynamic relations are main sources of complexity characteristic for design activities. As mentioned in the introduction, while design situations, outcomes and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are relations among these structures. Dynamics of these relations challenge designers' ability to deal with complexity as any of the structures is subject to change, in a difficult to predict ways.
 
@@ -47,8 +46,8 @@ The dynamics between a design situation and a design outcome seem to be the most
 * Puzzle Solving.
 
 
-{#CoEvolution}
-### Co-Evolution of Problem-Solution
+
+### Co-Evolution of Problem-Solution {#CoEvolution}
 
 **Motto**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
 
@@ -90,8 +89,8 @@ The *[co-evolution of problem-solution](#CoEvolution)* pattern may be connected 
 ![Pittsburg's Golden Triangle. In 1950s, an extensive renewal program begun in the city of Pittsburgh, with a principal goal of rebuild the center of the city, the so-called Golden Triangle. Credit: U.S. National Archives and Records Administration / Wikimedia Commons.](images/Pittsburgh_Golden_Triangle.jpg)
 
 
-{#SolutionLookingForProblem}
-### Solution Looking for a Problem
+
+### Solution Looking for a Problem {#SolutionLookingForProblem}
 
 **Motto**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
@@ -124,8 +123,8 @@ The *solution looking for a problem* pattern is related to the *[co-evolution of
 
 ![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Credit: Hinman, Rachel. 2012. The Mobile Frontier. New York: Rosenfeld Media. / Flickr / CC-BY-2.0](images/first_mobile_phone.jpg)
 
-{#ProblematicSolution}
-### Problematic Solution
+
+### Problematic Solution {#ProblematicSolution}
 
 **Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
@@ -162,8 +161,8 @@ The *problematic solution* pattern is related to the *[boomerang](#Boomerang)* p
 
 
 
-{#Boomerang}
-### Boomerang
+
+### Boomerang {#Boomerang}
 
 **Motto**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
 
@@ -202,8 +201,8 @@ The *boomerang* pattern is connected to the *[problematic solution](#Problematic
 
 
 
-{#PuzzleSolving}
-### Puzzle Solving
+
+### Puzzle Solving {#PuzzleSolving}
 
 **Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
@@ -244,8 +243,9 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 * Outcome Signature, and
 * Design-by-Buzzword.
 
-{#ResourceSignature}
-### Resource Signature
+
+
+### Resource Signature {#ResourceSignature}
 
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
@@ -294,8 +294,8 @@ The *resource signature* pattern is related to the *[resource conformity](#Resou
 
 
 
-{#OutcomeSignature}
-### Outcome Signature
+
+### Outcome Signature {#OutcomeSignature}
 
 **Motto**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
@@ -325,8 +325,8 @@ The *outcome signature* pattern is related to the *[resource commitment](#Resour
 ![Hammer-heads optimized for different purposes. Credit: Wikimedia Commons.](images/hammerheads.jpg)
 
 
-{#DesignByBuzzword}
-### Design-by-Buzzword
+
+### Design-by-Buzzword {#DesignByBuzzword}
 
 **Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
@@ -374,8 +374,8 @@ We discuss the following patterns of these dynamics between design resources and
 * Resource Commitment, and
 * Cherry Picking.
 
-{#ResourceConformity}
-### Resource Conformity
+
+### Resource Conformity {#ResourceConformity}
 
 **Motto**: *"When in Rome, do as the Roman's do."*
 
@@ -420,8 +420,8 @@ The *resource conformity* pattern is related to the *[resource commitment](#Reso
 
 
 
-{#ResourceCommitment}
-### Resource Commitment
+
+### Resource Commitment {#ResourceCommitment}
 
 **Motto**: *“It is a poor craftsman that blames his tools.”*
 
@@ -456,8 +456,8 @@ The *resource commitment* pattern is related to the *[resource conformity](#Reso
 
 
 
-{#CherryPicking}
-### Cherry Picking
+
+### Cherry Picking {#CherryPicking}
 
 **Motto**: *"Do one thing and do it well."*
 
