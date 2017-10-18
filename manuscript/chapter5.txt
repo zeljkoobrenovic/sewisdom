@@ -95,6 +95,10 @@ Buxton B. (2007):
 ***Sketching User Experiences: Getting the Design Right and the Right Design***,  
 Morgan Kaufmann Publishers Inc., San Francisco, CA.  
   
+{#Chan2001}
+Chan C.-S. (2001):
+**An examination of the forces that generate a style**,
+*Design Studies 22 (4)*, pp. 319-346.
 
 {#Charette2005}
 Charette R. N. (2005):  
