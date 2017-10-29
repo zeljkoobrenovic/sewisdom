@@ -8,53 +8,53 @@
 ## A. Patterns of Dynamics: Summaries
 
 
-**Co-Evolution of Problem-Solution**: *A design situation and designer’s understanding of the design situation (problem definition) changes and evolves in parallel and under influence of design outcome and designer’s understating of potential design outcomes (design solutions).*
+**Co-Evolution of Problem-Solution {#CoEvolution}**: *A design situation and designer’s understanding of the design situation (problem definition) changes and evolves in parallel and under influence of design outcome and designer’s understating of potential design outcomes (design solutions).*
 
-**Solution Looking for a Problem**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
+**Solution Looking for a Problem {#SolutionLookingForProblem}**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
 
-**Problematic Solution**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
+**Problematic Solution {#ProblematicSolution}**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design may become more known for the problems it caused than for the solution it provided.*
 
-**Boomerang**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation often to the point that the intended design outcome or a contribution of a designer becomes obsolete or irrelevant. Such reactions would normally not occur without the design activity.*
+**Boomerang {#Boomerang}**: *Designer’s efforts to address some situation triggers a number of reactions that radically change the original design situation. Often such change makes the intended design outcome or a contribution of a designer obsolete or irrelevant. Such reactions would normally not occur without the design activity.*
 
-**Puzzle Solving**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
+**Puzzle Solving {#PuzzleSolving}**: *A design situation is viewed as a clearly defined and static problem (i.e. a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Resource Signature**: *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design
+**Resource Signature {#ResourceSignature}**: *Design resources, as well as the way how working with these resources is organized, are leaving a typical signature on a design outcome. It is often possible to guess, from the design
 
-**Outcome Signature**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects in many aspects the intended shape of the outcome.*
+**Outcome Signature {#OutcomeSignature}**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
 
-**Design-by-Buzzword**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
+**Design-by-Buzzword {#DesignByBuzzword}**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New opportunities of particular design resources are shaping the design outcome.*
 
-**Resource Conformity**: *To minimize risks, in a new design situation designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of
+**Resource Conformity {#ResourceConformity}**: *To minimize risks, in a new design situation designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of
 
-**Resource Commitment**: *In a new design situation designers use tools they committed to beforehand.*
+**Resource Commitment {#ResourceCommitment}**: *In a new design situation designers use tools they committed to beforehand.*
 
-**Cherry Picking**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
+**Cherry Picking {#CherryPicking}**: *Design situations are selected based on how easily they can be approached with preferred or available resources. Other situations are avoided.*
 
 
 
 ## B. Patterns of Dynamics: Mottos
 
-**Co-Evolution of Problem-Solution**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
+**Co-Evolution of Problem-Solution {#CoEvolution}**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
 
-**Solution Looking for a Problem**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
+**Solution Looking for a Problem {#SolutionLookingForProblem}**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
-**Problematic Solution**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
+**Problematic Solution {#ProblematicSolution}**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
-**Boomerang**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
+**Boomerang {#Boomerang}**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin and Hobbes)*
 
-**Puzzle Solving**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
+**Puzzle Solving {#PuzzleSolving}**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
-**Resource Signature**: *"Every contact leaves a trace." (Edmond Locard)*
+**Resource Signature {#ResourceSignature}**: *"Every contact leaves a trace." (Edmond Locard)*
 
-**Outcome Signature**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
+**Outcome Signature {#OutcomeSignature}**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
-**Design-by-Buzzword**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
+**Design-by-Buzzword {#DesignByBuzzword}**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
-**Resource Conformity**: *"When in Rome, do as the Roman's do."*
+**Resource Conformity {#ResourceConformity}**: *"When in Rome, do as the Roman's do."*
 
-**Resource Commitment**: *“It is a poor craftsman that blames his tools.”*
+**Resource Commitment {#ResourceCommitment}**: *“It is a poor craftsman that blames his tools.”*
 
-**Cherry Picking**: *"Do one thing and do it well."*
+**Cherry Picking {#CherryPicking}**: *"Do one thing and do it well."*
 
 
 

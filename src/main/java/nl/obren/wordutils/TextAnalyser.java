@@ -64,7 +64,7 @@ public class TextAnalyser {
         text = text.replace("\t", " ");
         text = cleanInterpuncion(text, new String[]{",", "(", ")", "\r", "\t", "\"", "“", "”"});
 
-        String sentences[] = text.split("(\\. |\\! |\\? |\"|:|\\n|\\•)");
+        String sentences[] = text.split("(\\. |\\.\\*|\\! |\\? |\"|:|\\n|\\•)");
         StringCounter sentenceCounter = new StringCounter();
 
         for (String sentence : sentences) {
