@@ -19,7 +19,7 @@ public class TextAnalyser {
 
     private static String getText() {
         try {
-            return FileUtils.readFileToString(new File("manuscript/chapter1.txt"), StandardCharsets.UTF_8);
+            return FileUtils.readFileToString(new File("manuscript/chapter2.txt"), StandardCharsets.UTF_8);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -61,9 +61,10 @@ public class TextAnalyser {
         text = text.replace("i.e.", " ");
         text = text.replace("et. al", " ");
         text = text.replace("vs.", "vs");
-        text = cleanInterpuncion(text, new String[]{",", "!", "?", "(", ")", "\r", "\t", "\"", "“", "”"});
+        text = text.replace("\t", " ");
+        text = cleanInterpuncion(text, new String[]{",", "(", ")", "\r", "\t", "\"", "“", "”"});
 
-        String sentences[] = text.split("(\\. |\"|:|\\n|\\•)");
+        String sentences[] = text.split("(\\. |\\! |\\? |\"|:|\\n|\\•)");
         StringCounter sentenceCounter = new StringCounter();
 
         for (String sentence : sentences) {

@@ -10,37 +10,37 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ExtractReferences {
+public class FindBrokenReferences {
     private List<String> fromReferences = new ArrayList<>();
     private List<String> definedReferences = new ArrayList<>();
 
-    public ExtractReferences() {
+    public FindBrokenReferences() {
 
     }
 
     public static void main(String args[]) throws IOException {
-        ExtractReferences extractReferences = new ExtractReferences();
-        extractReferences.getFromReferences(new File("manuscript/chapter1.txt"));
-        extractReferences.getFromReferences(new File("manuscript/chapter2.txt"));
-        extractReferences.getFromReferences(new File("manuscript/chapter3.txt"));
-        extractReferences.getFromReferences(new File("manuscript/chapter4.txt"));
+        FindBrokenReferences brokenReferences = new FindBrokenReferences();
+        brokenReferences.getFromReferences(new File("manuscript/chapter1.txt"));
+        brokenReferences.getFromReferences(new File("manuscript/chapter2.txt"));
+        brokenReferences.getFromReferences(new File("manuscript/chapter3.txt"));
+        brokenReferences.getFromReferences(new File("manuscript/chapter4.txt"));
 
-        extractReferences.getDefinedReferences(new File("manuscript/chapter1.txt"));
-        extractReferences.getDefinedReferences(new File("manuscript/chapter2.txt"));
-        extractReferences.getDefinedReferences(new File("manuscript/chapter3.txt"));
-        extractReferences.getDefinedReferences(new File("manuscript/chapter4.txt"));
-        extractReferences.getDefinedReferences(new File("manuscript/chapter5.txt"));
+        brokenReferences.getDefinedReferences(new File("manuscript/chapter1.txt"));
+        brokenReferences.getDefinedReferences(new File("manuscript/chapter2.txt"));
+        brokenReferences.getDefinedReferences(new File("manuscript/chapter3.txt"));
+        brokenReferences.getDefinedReferences(new File("manuscript/chapter4.txt"));
+        brokenReferences.getDefinedReferences(new File("manuscript/chapter5.txt"));
 
         System.out.println("Broken References:");
-        extractReferences.fromReferences.stream()
-                .filter(reference -> !extractReferences.definedReferences.contains(reference)).forEach(reference -> {
+        brokenReferences.fromReferences.stream()
+                .filter(reference -> !brokenReferences.definedReferences.contains(reference)).forEach(reference -> {
             System.out.println(reference);
         });
         System.out.println("");
         System.out.println("");
         System.out.println("Orphan References:");
-        extractReferences.definedReferences.stream()
-                .filter(reference -> !extractReferences.fromReferences.contains(reference)).forEach(reference -> {
+        brokenReferences.definedReferences.stream()
+                .filter(reference -> !brokenReferences.fromReferences.contains(reference)).forEach(reference -> {
             System.out.println(reference);
         });
         System.out.println("");
