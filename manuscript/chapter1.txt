@@ -20,9 +20,9 @@ To structure our discussion, we adopt a simple analytic model. This model focuse
 * create and understand design outcomes (design solutions), and
 * understand and properly use design resources (tools, knowledge, methodologies, procedures, and organizational structures supporting designers during a design activity).
 
-![Our analytic model for design complexity: Design situations, design outcomes, design resources and relations among them.](images/Model.png)
-
 Later in the book, we use our analytic model to structure the description of the [patterns of dynamics](#Patterns) among design situations, outcomes and resources.
+
+![Our analytic model for design complexity: Design situations, design outcomes, design resources and relations among them.](images/Model.png)
 
 The complexity of individual elements of design activities, such as intrinsic complexity of design outcomes (systems) has been addressed by previous work (e.g. Simon 1996). However, complex and dynamic interdependencies of elements of design activities have received relatively little attention. With this book, we focus on these interdependencies. We believe that they are main sources of complexity characteristic for design activities. In other words, while design situations, outcomes and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are interactions among these structures. Such interactions challenge designers' ability to deal with complexity as the structures are unstable and subject to change in difficult to predict ways.
 
