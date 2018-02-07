@@ -87,7 +87,7 @@ public class ExtractAppendixes {
                 throw new IllegalArgumentException("Pattern name is blank");
             }
             if (StringUtils.isBlank(pattern.getSummary())) {
-                throw new IllegalArgumentException("Pattern " +pattern.getName()+ " summary is blank");
+                throw new IllegalArgumentException("Pattern " + pattern.getName() + " summary is blank");
             }
             content.append("\n")
                     .append("**")
@@ -102,7 +102,7 @@ public class ExtractAppendixes {
                 throw new IllegalArgumentException("Pattern name is blank");
             }
             if (StringUtils.isBlank(pattern.getMotto())) {
-                throw new IllegalArgumentException("Pattern " +pattern.getName()+ " motto is blank");
+                throw new IllegalArgumentException("Pattern " + pattern.getName() + " motto is blank");
             }
             content.append("\n")
                     .append("**")
@@ -128,7 +128,10 @@ public class ExtractAppendixes {
                     .append("\n");
         });
 
-        FileUtils.writeStringToFile(generatedAppendixes, content.toString(), StandardCharsets.UTF_8);
+        String result = content.toString().replaceAll(" \\{.*?\\}", "");
+        result = content.toString().replaceAll("\\{.*?\\}", "");
+
+        FileUtils.writeStringToFile(generatedAppendixes, result, StandardCharsets.UTF_8);
     }
 
 }
