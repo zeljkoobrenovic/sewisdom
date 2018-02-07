@@ -130,6 +130,9 @@ public class ExtractAppendixes {
 
         String result = content.toString().replaceAll(" \\{.*?\\}", "");
         result = content.toString().replaceAll("\\{.*?\\}", "");
+        result = content.toString().replace(" **", "**");
+        result = content.toString().replace(" **", "**");
+        result = content.toString().replace(" **", "**");
 
         FileUtils.writeStringToFile(generatedAppendixes, result, StandardCharsets.UTF_8);
     }
