@@ -128,11 +128,11 @@ public class ExtractAppendixes {
                     .append("\n");
         });
 
-        String result = content.toString().replaceAll(" \\{.*?\\}", "");
-        result = content.toString().replaceAll("\\{.*?\\}", "");
-        result = content.toString().replace(" **", "**");
-        result = content.toString().replace(" **", "**");
-        result = content.toString().replace(" **", "**");
+        String result = content.toString().replaceAll(" \\{#.*?\\}", "");
+        result = result.toString().replaceAll("\\{#.*?\\}", "");
+        result = result.toString().replace(" **", "**");
+        result = result.toString().replace(" **", "**");
+        result = result.toString().replace(" **", "**");
 
         FileUtils.writeStringToFile(generatedAppendixes, result, StandardCharsets.UTF_8);
     }
