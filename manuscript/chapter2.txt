@@ -84,7 +84,7 @@ In modern software development, a co-evolution is the primary pattern of dynamic
 
 Because it stimulates learning and exploration, the *[co-evolution of problem-solution](#CoEvolution)* pattern is particularly useful in new domains, for which there are little known and documented experiences. The co-evolution of problem-solution, however, may be an anti-pattern when applied in well-known areas, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g., see [Obrenovic 2017](#Obrenovic2017)). In well-known domains, there usually are lots of documented experiences and best practices, and there are often standard solutions that can be reused. For example, for most organizations, it is costly and time-consuming to implement their custom solutions for tasks such as human resources management or communication (email, messaging). Typically, it is much easier and more cost-effective to adapt the organizational process to use standard off-the-shelf software solutions for these tasks.
 
-The *[co-evolution of problem-solution](#CoEvolution)* pattern may be connected to the *[puzzle solving](#PuzzleSolving)* pattern. There it may occur during co-evolution of problem-solution as a way to find answers to specific well-scoped questions. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *[design-by-buzzword](#DesignByBuzzword)* pattern. There it may occur as a way to develop a better understanding of useful applications for new design resources.
+The *[co-evolution of problem-solution](#CoEvolution)* pattern may be connected to the *[puzzle solving](#PuzzleSolving)* pattern. There it may occur during co-evolution of problem-solution as a way to find answers to specific well-scoped questions. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *[your design is reflection of hype](#DesignByBuzzword)* pattern. There it may occur as a way to develop a better understanding of useful applications for new design resources.
 
 ![Pittsburg's Golden Triangle. In the 1950s, an extensive renewal program began in the city of Pittsburgh, with a principal goal of rebuild the center of the town, the so-called Golden Triangle. Credit: U.S. National Archives and Records Administration / Wikimedia Commons.](images/Pittsburgh_Golden_Triangle.jpg)
 
@@ -239,19 +239,19 @@ The *puzzle solving* pattern may be present within the *[co-evolution of problem
 
 Similar to the dynamics between design situations and outcomes, the dynamics between design outcomes and design resources are in design literature described as sophisticated and bidirectional. The way how designers set the design process when it comes to steps, phases, and activities has direct consequences on what they can design. On the other hand, design outcome may also influence design resources. We discuss the following patterns of dynamics:
 
-* Resource Signature,
-* Outcome Signature, and
-* Design-by-Buzzword.
+* Your Design Is Your Reflection,
+* You Are Reflection of Your Design, and
+* Your Design is Reflection of Hype.
 
 
 
-### Resource Signature {#ResourceSignature}
+### Your Design Is Your Reflection {#ResourceSignature}
 
 **Motto**: *"Every contact leaves a trace." (Edmond Locard)*
 
 **Summary**: *Design resources, as well as the way how working with these resources is organized, are leaving a characteristic signature on a design outcome. It is often possible to guess, from the design outcome, which design resources designers used, and how the working with the resources was organized.*
 
-**Alternative name**: *Design Style*.
+**Alternative names**: *Resource Signature, Design Style*.
 
 **Topics**: *constraints, consistency, templates, frameworks, convention-over-configuration, Conway's Law*
 
@@ -263,7 +263,13 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 The characteristics of design resources directly influence the design outcome’s form and possibilities. This influence can happen at all levels, from simple design tools to complex organizational structures. Selection of design materials, for instance, leaves a clear signature on a design outcome. But all design resources, including tools, methods and organizational structures supporting a design activity may leave a typical signature on a design outcome.
 
-At the tool level, the resource signature pattern is a consequence of strengths and limitations of used design tools. Design tools empower designers but at the same time, they may constraint designers’ actions. These restrictions often leave a typical signature on a design outcome. Mary Collins, in her post ["Web Design Trends: Why Do All Websites Look the Same?"](https://www.friday.ie/journal/why-do-all-websites-look-the-same/) noted that modern websites style-wise look very similar: "*large full-width background image or video in the header, overlaid text, followed by a block of short text, and then the obligatory icon columns*." Collins argued that this uniformity has its origins in popularity of UI frameworks, in particular [Bootstrap](http://getbootstrap.com/), as well as the availability of pre-designed website themes, such as those in [WordPress](https://wordpress.com/).
+|Level                  |Examples                                                                                 |
+|-----------------------|-----------------------------------------------------------------------------------------|
+|Technology and tools   |Templates or default tools settings drive the shape of outcome                           |
+|Individual designers   |Designer style, skills and preferences drive the shape of outcome                        |
+|Team and organization  |Team organization and communication structures drive the shape of outcome (Conway;s law) |
+
+At the tool level, the *your design is your reflection* pattern is a consequence of possibilities and limitations of used design tools. Design tools empower designers but at the same time, they may constraint designers’ actions. These restrictions often leave a typical signature on a design outcome. Mary Collins, in her post ["Web Design Trends: Why Do All Websites Look the Same?"](https://www.friday.ie/journal/why-do-all-websites-look-the-same/) noted that modern websites style-wise look very similar: "*large full-width background image or video in the header, overlaid text, followed by a block of short text, and then the obligatory icon columns*." Collins argued that this uniformity has its origins in popularity of UI frameworks, in particular [Bootstrap](http://getbootstrap.com/), as well as the availability of pre-designed website themes, such as those in [WordPress](https://wordpress.com/).
 
 ![The screenshot of several popular WordPress themes with similar styles.](images/wordpress-themes.jpg)
 
@@ -279,9 +285,9 @@ Having design tools that impose strong constraints, while limiting designers, al
 
 The main disadvantage of using tools with predefined elements is that they constraint the design outcome and may limit options and creativity of designers. Websites that use predefined templates may lack clear distinction in style from other sites, which may cause user dissatisfaction or users' perception of the company as unoriginal or amateurish. Consequently, tools with fewer constraints may lead to more innovative designs. As argued by [Shneiderman et al. (2007)](#Shneiderman2007), the success of [Flash](https://en.wikipedia.org/wiki/Adobe_Flash) user interface tool was partially based on the lack of predefined widgets. It stimulated innovative designs because it encouraged designers to explore different ways to control the interaction, instead of just using buttons and scroll bars. We may argue that lack of predefined elements in a user interface was a typical signature of the Flash tool.
 
-The *resource signature* pattern may also occur as a consequence of individual designer's background and preferences. In his examination of forces that generate a style in architecture, Chiu-Shui Chan ([2001](#Chan2001)) argued that an architectural style is not only a similarity of physical features in a designed object. Instead, a style also reflects designers' personal aspects, including operations of cognitive mechanisms, utilization of repeated procedures, personal preference for specific images, and manipulation of certain seasoned design knowledge. Designers have their own unique sets of skills, knowledge, and experiences, and often they have developed their design styles. Moreover, sometimes a designer may be invited to design something exactly because of this style. That means that different design outcomes produced by the same designers will often have some standard features.
+The *your design is your reflection* pattern may also occur as a consequence of individual designer's background and preferences. In his examination of forces that generate a style in architecture, Chiu-Shui Chan ([2001](#Chan2001)) argued that an architectural style is not only a similarity of physical features in a designed object. Instead, a style also reflects designers' personal aspects, including operations of cognitive mechanisms, utilization of repeated procedures, personal preference for specific images, and manipulation of certain seasoned design knowledge. Designers have their own unique sets of skills, knowledge, and experiences, and often they have developed their design styles. Moreover, sometimes a designer may be invited to design something exactly because of this style. That means that different design outcomes produced by the same designers will often have some standard features.
 
-The resource signature pattern may also be visible at the level of design processes and organizations. Established processes and organizational structures may influence the form of design outcomes. Melvin Conway, in what is nowadays known as *the Conway's law*, stated that organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations ([Conway 1968](#Conway1968)[^fooConwayLink]). Two software modules A and B cannot interface correctly with each other unless the designer and implementer of A can communicate with the designer and implementer of B. This pattern may have some negative consequences. For example, [Bass et al. (2012)](#Bass2012) reported a case in which a software architect was asked by the management to add a database component to the software solution. The reason was that database department was overstaffed and underworked and they needed something to do (page 59). [MacCormack et al. 2012](#MacCormack2012) explored the duality between product and organizational architectures, highlighting the impact of organizational design decisions on the technical structure of the artifacts that these organizations develop.
+The *your design is your reflection* pattern may also be visible at the level of design processes and organizations. Established processes and organizational structures may influence the form of design outcomes. Melvin Conway, in what is nowadays known as *the Conway's law*, stated that organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations ([Conway 1968](#Conway1968)[^fooConwayLink]). Two software modules A and B cannot interface correctly with each other unless the designer and implementer of A can communicate with the designer and implementer of B. This pattern may have some negative consequences. For example, [Bass et al. (2012)](#Bass2012) reported a case in which a software architect was asked by the management to add a database component to the software solution. The reason was that database department was overstaffed and underworked and they needed something to do (page 59). [MacCormack et al. 2012](#MacCormack2012) explored the duality between product and organizational architectures, highlighting the impact of organizational design decisions on the technical structure of the artifacts that these organizations develop.
 
 
 ![Illustration of the Conway's Law. Credit: Martin Fowler (https://martinfowler.com/articles/microservices.html).](images/conways-law.jpg)
@@ -289,7 +295,7 @@ The resource signature pattern may also be visible at the level of design proces
 
 The resources signature pattern is a consequence of inertia (resistance to change) of design resources. The opposition to change of design resources is not necessarily a problem. Having stable tools, habits, and organizational structures often make designing more comfortable, more predictable and faster. Such inertia may be a design decision, for example, if the goal is to create consistent design outcomes. But such inertia may happen implicitly, for instance, due to sheer size and complexity of used resources. Social dynamics in design teams and organizations also contribute to this pattern, such as in the case of the Conway's law. As noted by James Coplien ([1999](#Coplien1999)) in his discussion of Conway's law, "*[software] architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; ... But people do care about their coupling to other team members.*." The resistance to change means that the resources may be difficult or costly to change, often leading to a more manageable option of design outcome adaptations. However, too much inertia may lead to situations where design outcome becomes unnecessarily constraint or complex.
 
-The *resource signature* pattern is related to the *[outcome signature](#OutcomeSignature)* pattern. Design resources may get their "signature" form as a result of the need to support efficient creation of certain types of design outcomes. The *resource signature* pattern is also related to the *[resource conformity](#ResourceConformity)* pattern. Adopting popular design resources with established best-practices also means accepting particular constraints and ways of working with these resources.
+The *your design is your reflection* pattern is related to the *[you are reflection of your design](#OutcomeSignature)* pattern. Design resources may get their "signature" form as a result of the need to support efficient creation of certain types of design outcomes. The *your design is your reflection* pattern is also related to the *[conformity](#ResourceConformity)* pattern. Adopting popular design resources with established best-practices also means accepting particular constraints and ways of working with these resources.
 
 [^fooConwayLink]: [http://www.design.caltech.edu/erik/Misc/Conway.html](http://www.design.caltech.edu/erik/Misc/Conway.html)
 
@@ -298,13 +304,13 @@ The *resource signature* pattern is related to the *[outcome signature](#Outcome
 
 
 
-### Outcome Signature {#OutcomeSignature}
+### You Are Reflection of Your Design {#OutcomeSignature}
 
 **Motto**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
 **Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
 
-**Topics**: *specialization, inverse Conway's law, work optimization*
+**Topics**: *Outcome Signature, Specialization, Inverse Conway's Law, Work Optimization*
 
 **Desirable**: *In situations where efficiency of design work is essential.*
 
@@ -312,13 +318,14 @@ The *resource signature* pattern is related to the *[outcome signature](#Outcome
 
 * * *
 
-The structure of design outcomes may influence the tools, methods, processes and whole organizations that create such outcomes. As in the case of the *[resource signature](#ResourceSignature)* pattern, this adaptation can happen at all levels, from individual design tools to complex organizational structures.
+The structure of design outcomes may influence the tools, methods, processes and whole organizations that create such outcomes. As in the case of the *[your design is your reflection](#ResourceSignature)* pattern, this adaptation can happen at all levels, from individual design tools to complex organizational structures.
 
 Design tools often need to be adapted to create a particular design outcome. For example, most software design tools are configurable so that frequently used functions are more easily accessible (e.g., via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult. This tool configuration is a signature that working on a design outcome leaves on a design resource.
 
 Working on a particular type of design outcomes also leads to improvements in designers’ skills and knowledge. Working with the same tool to create similar design outcomes (e.g., mobile applications, web applications), will lead designers to develop a specific set of skills, biased at the efficient creation of such design outcomes. Once designers develop such skills, they are much more efficient in creating new similar design outcomes. This efficiency, in turn, may lead to other positive consequences, such as more rapid prototyping and more iterations of iterative design that is a crucial component of achieving high-quality user interfaces ([Myers et al. 2000](#Myers2000); [Nielsen 1993](#Nielsen1993)).
 
-The *outcome signature* pattern also happens at the process and organizational levels. [Bass et al. (2012)](#Bass2012), for instance, argued that software design often describes not only the structure of the design outcome. It can engrave the structure of the development project and sometimes the structure of the entire organization (page 33). They elaborated that a standard method for dividing up the labor is to assign to different groups different portions of the system to construct. Such work-breakdown structure in turn dictates:
+The *you are reflection of your design* pattern also happens at the process and organizational levels. [Bass et al. (2012)](#Bass2012), for instance, argued that software design often describes not
+ only the structure of the design outcome. It can engrave the structure of the development project and sometimes the structure of the entire organization (page 33). They elaborated that a standard method for dividing up the labor is to assign to different groups different portions of the system to construct. Such work-breakdown structure in turn dictates:
 
 * units of planning, schedule, and budget,
 * inter-team communication channels,
@@ -328,22 +335,23 @@ The *outcome signature* pattern also happens at the process and organizational l
 
 Sam Newman similarly provides an example of an organizational structure that grew up around the product architecture [(Newman 2005, page 201)](#Newman2015). The organization was tightly aligned with the parts of the product. To make changes to the product, they first had to change the organizational structure.
 
-*Outcome signature* may be a consequence of the success of a product and the need to maintain and support the product in the long term. Bill Buxton ([2007](#Buxton2007)) claimed that the second worst thing that can happen to a new product (after failure) is that it is a huge success (page 208). Buxton elaborated that the more successful a product, the more of them are going to be produced and used. That means that the company, clients, and successors have to deal longer with the design and architectural decisions that designers made. To be able to maintain and support successful products, organizations need to make long-term adaptations and optimizations. While such products may be profitable, they may also be a burden. Long-lived systems tend to grow in size and complexity over the time, and maintenance and support of such systems tend to consume more and more of the organization's resources. This consumption of resources may limit the ability of the organization to do other things and innovate. Adam Schneider, for instance, [noted](http://deloitte.wsj.com/cio/2013/10/01/when-companies-become-prisoners-of-legacy-systems/) that companies may become prisoners of their legacy systems. The need to support legacy systems prevents such companies from surging ahead in the marketplace, introducing new products, moving into new geographies, or expanding services to customers on new platforms.
+The *you are reflection of your design signature* pattern may be a consequence of the success of a product and the need to maintain and support the product in the long term. Bill Buxton ([2007]
+(#Buxton2007)) claimed that the second worst thing that can happen to a new product (after failure) is that it is a huge success (page 208). Buxton elaborated that the more successful a product, the more of them are going to be produced and used. That means that the company, clients, and successors have to deal longer with the design and architectural decisions that designers made. To be able to maintain and support successful products, organizations need to make long-term adaptations and optimizations. While such products may be profitable, they may also be a burden. Long-lived systems tend to grow in size and complexity over the time, and maintenance and support of such systems tend to consume more and more of the organization's resources. This consumption of resources may limit the ability of the organization to do other things and innovate. Adam Schneider, for instance, [noted](http://deloitte.wsj.com/cio/2013/10/01/when-companies-become-prisoners-of-legacy-systems/) that companies may become prisoners of their legacy systems. The need to support legacy systems prevents such companies from surging ahead in the marketplace, introducing new products, moving into new geographies, or expanding services to customers on new platforms.
 
 
-The *outcome signature* pattern is related to the *[resource signature](#ResourceSignature)* pattern. Adaptations of design resources to support efficient creation of certain types of design outcomes often lead to long-term changes in these design resources. These long-term changes, in turn, may affect the form of new design outcomes in new projects where designers use the same resources. The *outcome signature* pattern is also related to the *[resource commitment](#ResourceCommitment)* pattern. Having tools, skills, and organizational structures optimized for creating a particular type of a design outcome may encourage designers to reuse their tools and skills in new design situations. But this optimization may also lead to the *[cherry picking](#CherryPicking)* pattern, and stimulate designers to choose only those situations where a specific type of design outcome is required.
+The *you are reflection of your design* pattern is related to the *[your design is your reflection](#ResourceSignature)* pattern. Adaptations of design resources to support efficient creation of certain types of design outcomes often lead to long-term changes in these design resources. These long-term changes, in turn, may affect the form of new design outcomes in new projects where designers use the same resources. The *you are reflection of your design* pattern is also related to the *[commitment](#ResourceCommitment)* pattern. Having tools, skills, and organizational structures optimized for creating a particular type of a design outcome may encourage designers to reuse their tools and skills in new design situations. But this optimization may also lead to the *[cherry picking](#CherryPicking)* pattern, and stimulate designers to choose only those situations where a specific type of design outcome is required.
 
 ![Hammer-heads optimized for different purposes. Credit: Wikimedia Commons.](images/hammerheads.jpg)
 
 
 
-### Design-by-Buzzword {#DesignByBuzzword}
+### Your Design Is Reflection of Hype {#DesignByBuzzword}
 
 **Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
 **Summary**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New possibilities of design resources are shaping the design outcome.*
 
-**Alternative name**: *Opportunistic Design*.
+**Alternative names**: *Design-by-Buzzword, Opportunistic Design*.
 
 **Topics**: *exploiting new opportunities, hype, trends, end-user development and meta-design*
 
@@ -353,9 +361,11 @@ The *outcome signature* pattern is related to the *[resource signature](#Resourc
 
 * * *
 
-Design-by-buzzword is a form of dynamics between design outcomes and design resources where designers use a design situation as an opportunity to try out some novel or upcoming design resource (e.g. [Ncube et al. 2008](#Ncube2008)).
+The *your design is reflection of hype* pattern is a form of dynamics between design outcomes and design resources where designers use a design situation as an opportunity to try out some novel or
+upcoming design resource (e.g. [Ncube et al.
+2008](#Ncube2008)).
 
-Design-by-buzzword is a consequence of technology developments, designer’s creativity in using and applying new resources, as well as changing expectations of users who are continually learning about technology advances. Introduction an iPhone, for instance, radically changed user’s expectations of mobile applications ([e.g., see "How iPhone Changed the World"](http://www.cultofmac.com/103229/how-iphone-changed-the-world/)).
+The *your design is reflection of hype* pattern is a consequence of technology developments, designer’s creativity in using and applying new resources, as well as changing expectations of users who are continually learning about technology advances. Introduction an iPhone, for instance, radically changed user’s expectations of mobile applications ([e.g., see "How iPhone Changed the World"](http://www.cultofmac.com/103229/how-iphone-changed-the-world/)).
 
 
 ![The iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications. Credit: Apple.](images/iPhone-Family_US-EN-PRINT.jpg)
@@ -363,12 +373,13 @@ Design-by-buzzword is a consequence of technology developments, designer’s cre
 
 New technology opportunities are one of the main reasons for a constant change of designs, especially in software design. [Boehm and Bhuta (2008)](#Boehm2008) argued that software projects that do not capitalize on new opportunities will generally find their products unable to compete. Earlier [Brooks (1995)](#Brooks1995) noted that new opportunities in technology are one of the primary drivers behind constant changes of software designs: “*If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity*” (page 12).
 
-In the *design-by-buzzword* pattern, the primary driver for the use of some resources is the "hype" and high expectations of some new trend. Such usage usually is not directly driven by the requirements of the situation or experiences in using the resource in similar cases. Nowadays, bitcoin and blockchain technologies are examples of such hype. Financial institutions are investing in these technologies, but the actual value and practical utility of these technologies are still unclear.
+In the *your design is reflection of hype* pattern, the primary driver for the use of some resources is the "hype" and high expectations of some new trend. Such usage usually is not directly driven by the requirements of the situation or experiences in using the resource in similar cases. Nowadays, bitcoin and blockchain technologies are examples of such hype. Financial institutions are investing in these technologies, but the actual value and practical utility of these technologies are still unclear.
 
 
-Novelty rather than experience drives design-by-buzzword. The lack of experiences means that there are no clear guidelines and best practices, which may lead to unnecessary complex projects that are more likely to fail. Roy Thomas Fielding ([2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture. As usage of new resources may lead to more unexpected and undesired effects, projects based on the *design-by-buzzword* pattern are also more likely to fail.
+Novelty rather than experience drives the *your design is reflection of hype* pattern. The lack of experiences means that there are no clear guidelines and best practices, which may lead to
+unnecessary complex projects that are more likely to fail. Roy Thomas Fielding ([2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture. As usage of new resources may lead to more unexpected and undesired effects, projects based on the *your design is reflection of hype* pattern are also more likely to fail.
 
-The *design-by-buzzword* pattern is related to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern. New opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *design-by-buzzword* pattern as a way to develop a better understanding of useful applications for new design resources.
+The *your design is reflection of hype* pattern is related to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern. New opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *your design is reflection of hype* pattern as a way to develop a better understanding of useful applications for new design resources.
 
 
 ## C. Patterns of Dynamics Between Design Situations and Design Resources
@@ -381,12 +392,12 @@ The choice of design resources is never trivial and never a sole function of the
 
 We discuss the following patterns of these dynamics between design resources and situations:
 
-* Resource Conformity,
-* Resource Commitment, and
+* Conformity,
+* Commitment, and
 * Cherry Picking.
 
 
-### Resource Conformity {#ResourceConformity}
+### Conformity {#ResourceConformity}
 
 **Motto**: *"When in Rome, do as the Roman's do."*
 
@@ -419,7 +430,7 @@ Designers may conform to the usage of some resources due to fear of legal and ot
 
 The *resource conformity* pattern is particularly useful in standard, well-known domains. As discussed in the *[co-evolution of problem-solution](#CoEvolution)* pattern, designing custom solutions may lead to "reinventing-the-wheel" and "not-invented-here" anti-patterns. In well-established domains, designers often can use standard solutions with minimal modifications.
 
-Resource conformity also has its downsides. One negative issue is that by using established and proven resources, designers may not capitalize on some new emerging technology. As discussed in the *[design-by-buzzword](#DesignByBuzzword)*  pattern, projects that do not capitalize on new opportunities may find their products unable to compete. Another negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for many users and may decide to focus on developing only the most common features.
+Resource conformity also has its downsides. One negative issue is that by using established and proven resources, designers may not capitalize on some new emerging technology. As discussed in the *[your design is reflection of hype](#DesignByBuzzword)* pattern, projects that do not capitalize on new opportunities may find their products unable to compete. Another negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for many users and may decide to focus on developing only the most common features.
 
 The *resource conformity* pattern is related to the *[resource commitment](#ResourceCommitment)* pattern, as successful usages of some new design resources require some level of commitment. Design organizations may also commit to using some standard or favorite resource. The *resource conformity* pattern is also related to the *[cherry picking](#CherryPicking)* pattern. A wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
 
@@ -431,7 +442,7 @@ The *resource conformity* pattern is related to the *[resource commitment](#Reso
 
 
 
-### Resource Commitment {#ResourceCommitment}
+### Commitment {#ResourceCommitment}
 
 **Motto**: *“It is a poor craftsman that blames his tools.”*
 
@@ -504,9 +515,9 @@ The *cherry picking* pattern is related to the *[resource commitment](#ResourceC
 
 The patterns of dynamics of design activities may facilitate describing complex dynamics between elements of design activities as a combination of several higher-level arrangements of such dynamics. With patterns, we can explain, compare, and contrast, diverse and complex design activities in similar terms and on a higher level of abstraction.
 
-We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *[co-evolution of problem-solution](#CoEvolution)* pattern. Designers may need new or better resources for this situation, which will lead designers to change their ways of working and to the emergence of the *[outcome signature](#OutcomeSignature)* pattern. Through *[resource commitment](#ResourceCommitment)* and *[eating its own dog food](#ResourceCommitment)* patterns the new resources can further develop and gain popularity. Once stable and popular the resources may become a *de facto* standard, and lead to the *[resource conformity](#ResourceConformity)* pattern. The *[resource conformity](#ResourceConformity)* may lead to the *[resource signature](#ResourceSignature)* pattern. The *[resource signature](#ResourceSignature)* pattern, on the other hand, may trigger a reaction of customers wanting something new and original, which may result in new design situations.
+We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *[co-evolution of problem-solution](#CoEvolution)* pattern. Designers may need new or better resources for this situation, which will lead designers to change their ways of working and to the emergence of the *[you are reflection of your design](#OutcomeSignature)* pattern. Through *[commitment](#ResourceCommitment)* and *[eating its own dog food](#ResourceCommitment)* patterns the new resources can further develop and gain popularity. Once stable and popular the resources may become a *de facto* standard, and lead to the *[conformity](#ResourceConformity)* pattern. The *[conformity](#ResourceConformity)* pattern may lead to the *[your design is your reflection](#ResourceSignature)* pattern. The *[your design is your reflection](#ResourceSignature)* pattern, on the other hand, may trigger a reaction of customers wanting something new and original, which may result in new design situations.
 
-The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative design,  later generally considered more difficult. In routine designs, designers normally have better-defined situations, and they are using familiar and proven tools. There we may primarily expect to see the *[resource commitment](#ResourceCommitment)* pattern and possibly the *[puzzle solving](#PuzzleSolving)* pattern, with little of other patterns occurring. A routine design may also be the consequence of the *[cherry picking](#CherryPicking)* pattern. In innovative designs, on the other hand we may expect to see the *[co-evolution of problem-solution](#CoEvolution)* pattern, with possibly the *[design-by-buzzword](#DesignByBuzzword)* and *[solution looking for a problem](#SolutionLookingForProblem)* patterns. The innovative or creative design is also more likely to lead to the *[force awakens](#)* and *[problematic solution](#ProblematicSolution)* patterns, as we are dealing with more novel and unknown elements.
+The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative design,  later generally considered more difficult. In routine designs, designers normally have better-defined situations, and they are using familiar and proven tools. There we may primarily expect to see the *[resource commitment](#ResourceCommitment)* pattern and possibly the *[puzzle solving](#PuzzleSolving)* pattern, with little of other patterns occurring. A routine design may also be the consequence of the *[cherry picking](#CherryPicking)* pattern. In innovative designs, on the other hand we may expect to see the *[co-evolution of problem-solution](#CoEvolution)* pattern, with possibly the *[your design is reflection of hype](#DesignByBuzzword)* and *[solution looking for a problem](#SolutionLookingForProblem)* patterns. The innovative or creative design is also more likely to lead to the *[force awakens](#)* and *[problematic solution](#ProblematicSolution)* patterns, as we are dealing with more novel and unknown elements.
 
 The patterns of dynamics strongly suggest that designers need techniques to estimate both the short-term and long-term impacts of design. In this aspect, we support the view of [Penzenstadler et al. (2014)](#Penzenstadler2014), who argued that software designers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. We believe that our framework could support such reasoning. The patterns illustrate that design activities have both a short-term and long-term dynamics. The short-term dynamics are typically localized within a particular project and are occurring in a limited period. The long-term dynamics are happening over a more extended period and among multiple projects. For example, the *[co-evolution of problem-solution](#CoEvolution)* pattern usually is intrinsic to the design activity and people involved in it, and the pattern is occurring during a concrete project. The *[force awakens](#Boomerang)* pattern, on the other hand, is primarily a consequence of indirect interactions through many elements outside the main design activity. Some patterns reflect both short-term and long-term dynamics. For example, the *[eating its own dog food](#ResourceCommitment)* pattern has an immediate short-term effect on the project where it is being used. But because it promotes and stimulates the development of specific design resources, on the long-term it may influence other design projects.
 

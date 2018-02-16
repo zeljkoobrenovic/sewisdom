@@ -18,15 +18,15 @@
 
 **Puzzle Solving**: *A design situation is viewed as a clearly defined and static problem (i.e., a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Resource Signature**: *Design resources, as well as the way how working with these resources is organized, are leaving a characteristic signature on a design outcome. It is often possible to guess, from the design outcome, which design resources designers used, and how the working with the resources was organized.*
+**Your Design Is Your Reflection**: *Design resources, as well as the way how working with these resources is organized, are leaving a characteristic signature on a design outcome. It is often possible to guess, from the design outcome, which design resources designers used, and how the working with the resources was organized.*
 
-**Outcome Signature**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
+**You Are Reflection of Your Design**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
 
-**Design-by-Buzzword**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New possibilities of design resources are shaping the design outcome.*
+**Your Design Is Reflection of Hype**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New possibilities of design resources are shaping the design outcome.*
 
-**Resource Conformity**: *To minimize risks in a new design situation, designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and reputation of the resource and its usage in new design situations.*
+**Conformity**: *To minimize risks in a new design situation, designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and reputation of the resource and its usage in new design situations.*
 
-**Resource Commitment**: *In a new design situation designers use tools they committed to beforehand.*
+**Commitment**: *In a new design situation designers use tools they committed to beforehand.*
 
 **Cherry Picking**: *Design situations are selected based on how quickly designers can approach these situations with preferred or available resources. Other situations are avoided.*
 
@@ -44,15 +44,15 @@
 
 **Puzzle Solving**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
-**Resource Signature**: *"Every contact leaves a trace." (Edmond Locard)*
+**Your Design Is Your Reflection**: *"Every contact leaves a trace." (Edmond Locard)*
 
-**Outcome Signature**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
+**You Are Reflection of Your Design**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
-**Design-by-Buzzword**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
+**Your Design Is Reflection of Hype**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
-**Resource Conformity**: *"When in Rome, do as the Roman's do."*
+**Conformity**: *"When in Rome, do as the Roman's do."*
 
-**Resource Commitment**: *“It is a poor craftsman that blames his tools.”*
+**Commitment**: *“It is a poor craftsman that blames his tools.”*
 
 **Cherry Picking**: *"Do one thing and do it well."*
 
