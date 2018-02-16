@@ -40,10 +40,10 @@ Our patterns describe dynamics that influence decisions that designers make when
 The dynamics between of a design situation and a design outcome seem to be the most extensive in any design activity. In the design literature, we have found several common and often interconnected views on dynamics of this relation, which we describe in the following five patterns:
 
 * Co-Evolution of Problem-Solution,
+* Puzzle Solving,
 * Solution Looking for a Problem,
-* Problematic Solution,
-* The Force Awakens, and
-* Puzzle Solving.
+* Problematic Solution, and
+* The Force Awakens.
 
 
 
@@ -84,9 +84,41 @@ In modern software development, a co-evolution is the primary pattern of dynamic
 
 Because it stimulates learning and exploration, the *[co-evolution of problem-solution](#CoEvolution)* pattern is particularly useful in new domains, for which there are little known and documented experiences. The co-evolution of problem-solution, however, may be an anti-pattern when applied in well-known areas, where it may lead to the "reinventing-the-wheel" and "not-invented-here" anti-patterns (e.g., see [Obrenovic 2017](#Obrenovic2017)). In well-known domains, there usually are lots of documented experiences and best practices, and there are often standard solutions that can be reused. For example, for most organizations, it is costly and time-consuming to implement their custom solutions for tasks such as human resources management or communication (email, messaging). Typically, it is much easier and more cost-effective to adapt the organizational process to use standard off-the-shelf software solutions for these tasks.
 
-The *[co-evolution of problem-solution](#CoEvolution)* pattern may be connected to the *[puzzle solving](#PuzzleSolving)* pattern. There it may occur during co-evolution of problem-solution as a way to find answers to specific well-scoped questions. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *[your design is reflection of hype](#DesignByBuzzword)* pattern. There it may occur as a way to develop a better understanding of useful applications for new design resources.
+The *[co-evolution of problem-solution](#CoEvolution)* pattern may be connected to the *[puzzle solving](#PuzzleSolving)* pattern. There it may occur during co-evolution of problem-solution as a way to find answers to specific well-scoped questions. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *[fashionable design](#DesignByBuzzword)* pattern. There it may occur as a way to develop a better understanding of useful applications for new design resources.
 
 ![Pittsburg's Golden Triangle. In the 1950s, an extensive renewal program began in the city of Pittsburgh, with a principal goal of rebuild the center of the town, the so-called Golden Triangle. Credit: U.S. National Archives and Records Administration / Wikimedia Commons.](images/Pittsburgh_Golden_Triangle.jpg)
+
+
+
+### Puzzle Solving {#PuzzleSolving}
+
+**Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
+
+**Summary**: *A design situation is viewed as a clearly defined and static problem (i.e., a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
+
+**Topics**: *problem-solving, the puzzle trap, education, well-scoped design sub-tasks, test-driven development*
+
+**Desirable**: *In education, as well as in a limited number of practical cases for well-scoped design sub-tasks.*
+
+**Undesirable**: *In most real-world situations, because few design problems are fully understood before the start of design activity.*
+
+* * *
+
+The *puzzle solving* patterns views design as a problem-solving activity, an activity that leads to a solution for a precisely defined existing problem.
+
+This pattern is of limited use in design practice because very few of design problems are fully understood before a design activity starts (see [Section Co-Evolution of Problem-Solution](#CoEvolution)). Lawson even called such view on design “the puzzle trap” ([Lawson 2005, page 221](#Lawson2005)). Norman ([2010](#Norman2010)) similarly explained that interactions design is sometimes naively viewed as a problem-solving activity. In such naïve view, interaction designers are capturing and understanding the hidden unmet needs of potential users/customers. The intention of designers is then to design an outcome that fulfills those requirements. Norman noted that this view, however, does not reflect the everyday practice of interaction designers.
+
+The *puzzle solving* pattern has its value in a limited number of practical cases. A designer can approach some of the design sub-tasks as problem-solving activities. Design of computing algorithms, for example, can be viewed as an occurrence of the *puzzle solving* pattern. Here, the goal is to find an efficient algorithmic solution for a precisely defined computing problem[^LampsonNote]. In software design, [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) promotes an approach to designing and programming of software systems through series of mini problem-solving activities. In a TDD approach, a developer should write every line of new code in response to a test the developer writes just before coding ([Melnik & Jeffries 2007](#Melnik2007)). Creating such tests may be seen as an attempt to define a problem (problem setting). And writing new code may be seen as an attempt to find and implement a solution that is good enough to pass the test.
+
+[^LampsonNote]: Design of algorithms, however, is only a small part of the software design, and designing whole systems requires a different approach. Butler Lampson nicely described this issue in his article on system design [Lampson (1984)](#Lampson1984). Lampson argued that designing a computer system is very different from developing an algorithm because the requirements are less precisely defined, more complex, and more subject to change. The measure of success is much less clear. And the designer usually finds himself in "a sea of possibilities," where it is not clear how one choice will limit his freedom to take other decisions or affect the size and performance of the entire system.
+
+Teachers can also use the *puzzle solving* pattern in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for an explicitly defined problem (such as calculating the number of days between two dates). Similarly, Bill Buxton ([2007](#Buxton2007)) promoted an approach to interaction design education based on copying the classics, drawing a parallel with the traditional art education. In traditional art education, drawing antiquities (a clearly defined problem), is often used to lay the foundation for building up the student’s skills. In such exercises, students are not overwhelmed by trying to deal with issues such as thinking about an appropriate subject or composition (problem setting). Instead, they can focus on learning how to master the pencil, a prerequisite to high art.
+
+
+The *puzzle solving* pattern may be present within the *[co-evolution of problem-solution](#CoEvolution)* pattern, as a way to find answers to specific well-scoped questions.
+
+![A jigsaw puzzle. Solving problems, such as puzzles, is often seen as an anti-pattern in design but may have the value in education. Credit: MeHe / pixabay.](images/puzzle.jpg)
+
 
 
 
@@ -202,36 +234,6 @@ The *force awakens* pattern is connected to the *[problematic solution](#Problem
 
 
 
-### Puzzle Solving {#PuzzleSolving}
-
-**Motto**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
-
-**Summary**: *A design situation is viewed as a clearly defined and static problem (i.e., a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
-
-**Topics**: * problem-solving, the puzzle trap, education, well-scoped design sub-tasks*
-
-**Desirable**: *In education, as well as in a limited number of practical cases for well-scoped design sub-tasks.*
-
-**Undesirable**: *In most real-world situations, because few design problems are fully understood before the start of design activity.*
-
-* * *
-
-The *puzzle solving* patterns views design as a problem-solving activity, an activity that leads to a solution for a precisely defined existing problem.
-
-This pattern is of limited use in design practice because very few of design problems are fully understood before a design activity starts (see [Section Co-Evolution of Problem-Solution](#CoEvolution)). Lawson even called such view on design “the puzzle trap” ([Lawson 2005, page 221](#Lawson2005)). Norman ([2010](#Norman2010)) similarly explained that interactions design is sometimes naively viewed as a problem-solving activity. In such naïve view, interaction designers are capturing and understanding the hidden unmet needs of potential users/customers. The intention of designers is then to design an outcome that fulfills those requirements. Norman noted that this view, however, does not reflect the everyday practice of interaction designers.
-
-The *puzzle solving* pattern has its value in a limited number of practical cases. A designer can approach some of the design sub-tasks as problem-solving activities. Design of computing algorithms, for example, can be viewed as an occurrence of the *puzzle solving* pattern. Here, the goal is to find an efficient algorithmic solution for a precisely defined computing problem[^LampsonNote]. In software design, [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) promotes an approach to designing and programming of software systems through series of mini problem-solving activities. In a TDD approach, a developer should write every line of new code in response to a test the developer writes just before coding ([Melnik & Jeffries 2007](#Melnik2007)). Creating such tests may be seen as an attempt to define a problem (problem setting). And writing new code may be seen as an attempt to find and implement a solution that is good enough to pass the test.
-
-[^LampsonNote]: Design of algorithms, however, is only a small part of the software design, and designing whole systems requires a different approach. Butler Lampson nicely described this issue in his article on system design [Lampson (1984)](#Lampson1984). Lampson argued that designing a computer system is very different from developing an algorithm because the requirements are less precisely defined, more complex, and more subject to change. The measure of success is much less clear. And the designer usually finds himself in "a sea of possibilities," where it is not clear how one choice will limit his freedom to take other decisions or affect the size and performance of the entire system.
-
-Teachers can also use the *puzzle solving* pattern in education, where problems can be artificially clearly defined so that students can focus on developing a particular design technique. For example, it is a common practice to teach computer programming through exercises where students need to design an algorithm for an explicitly defined problem (such as calculating the number of days between two dates). Similarly, Bill Buxton ([2007](#Buxton2007)) promoted an approach to interaction design education based on copying the classics, drawing a parallel with the traditional art education. In traditional art education, drawing antiquities (a clearly defined problem), is often used to lay the foundation for building up the student’s skills. In such exercises, students are not overwhelmed by trying to deal with issues such as thinking about an appropriate subject or composition (problem setting). Instead, they can focus on learning how to master the pencil, a prerequisite to high art.
-
-
-The *puzzle solving* pattern may be present within the *[co-evolution of problem-solution](#CoEvolution)* pattern, as a way to find answers to specific well-scoped questions.
-
-![A jigsaw puzzle. Solving problems, such as puzzles, is often seen as an anti-pattern in design but may have the value in education. Credit: MeHe / pixabay.](images/puzzle.jpg)
-
-
 
 ## B. Patterns of Dynamics Between Design Outcomes and Resources
 
@@ -241,7 +243,7 @@ Similar to the dynamics between design situations and outcomes, the dynamics bet
 
 * Your Design Is Your Reflection,
 * You Are Reflection of Your Design, and
-* Your Design is Reflection of Hype.
+* fashionable design.
 
 
 
@@ -267,9 +269,9 @@ The following table illustrates levels at which this pattern may occur.
 
 |Level                  |Examples                                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------------|
-|Technology and tools   |Templates, material characteristics or default tools settings drive the shape of outcome |
+|Technology and tools   |Templates, material characteristics or default tool settings drive the shape of outcome  |
 |Individual designers   |Designer's style, skills and preferences drive the shape of outcome                      |
-|Team and organization  |Team organization and communication structures drive the shape of outcome (Conway;s law) |
+|Team and organization  |Team organization and communication structures drive the shape of outcome (Conway's law) |
 
 At the tool level, the *your design is your reflection* pattern is a consequence of possibilities and limitations of used design tools. Design tools empower designers but at the same time, they may constraint designers’ actions. These restrictions often leave a typical signature on a design outcome. Mary Collins, in her post ["Web Design Trends: Why Do All Websites Look the Same?"](https://www.friday.ie/journal/why-do-all-websites-look-the-same/) noted that modern websites style-wise look very similar: "*large full-width background image or video in the header, overlaid text, followed by a block of short text, and then the obligatory icon columns*." Collins argued that this uniformity has its origins in popularity of UI frameworks, in particular [Bootstrap](http://getbootstrap.com/), as well as the availability of pre-designed website themes, such as those in [WordPress](https://wordpress.com/).
 
@@ -312,7 +314,9 @@ The *your design is your reflection* pattern is related to the *[you are reflect
 
 **Summary**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
 
-**Topics**: *Outcome Signature, Specialization, Inverse Conway's Law, Work Optimization*
+**Topics**: *Specialization, Inverse Conway's Law, Work Optimization*
+
+**Alternative name**: *Outcome Signature*
 
 **Desirable**: *In situations where efficiency of design work is essential.*
 
@@ -328,7 +332,7 @@ The following table illustrates levels at which this pattern may occur.
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |Technology and tools   |Tools and materials are selected and configured to facilitated creation of particular outcome types.                             |
 |Individual designers   |Designers' style, skills and knowledge are defined by types of outcomes they worked on                                           |
-|Team and organization  |Team organization and communication structures are defined to facilitated a particular outcome structure (inverse Conway;s law). |
+|Team and organization  |Team organization and communication structures are defined to facilitated a particular outcome structure (inverse Conway's law). |
 
 
 Design tools often need to be adapted to create a particular design outcome. For example, most software design tools are configurable so that frequently used functions are more easily accessible (e.g., via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult. This tool configuration is a signature that working on a design outcome leaves on a design resource.
@@ -354,7 +358,7 @@ The *you are reflection of your design* pattern is related to the *[your design 
 
 
 
-### Your Design Is Reflection of Hype {#DesignByBuzzword}
+### Fashionable Design {#DesignByBuzzword}
 
 **Motto**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
@@ -370,9 +374,9 @@ The *you are reflection of your design* pattern is related to the *[your design 
 
 * * *
 
-The *your design is reflection of hype* pattern is a form of dynamics between design outcomes and design resources where designers use a design situation as an opportunity to try out some novel or upcoming design resource (e.g. [Ncube et al. 2008](#Ncube2008)).
+The *fashionable design* pattern is a form of dynamics between design outcomes and design resources where designers use a design situation as an opportunity to try out some novel or upcoming design resource (e.g. [Ncube et al. 2008](#Ncube2008)).
 
-The *your design is reflection of hype* pattern is a consequence of technology developments, designer’s creativity in using and applying new resources, as well as changing expectations of users who are continually learning about technology advances. Introduction an iPhone, for instance, radically changed user’s expectations of mobile applications ([e.g., see "How iPhone Changed the World"](http://www.cultofmac.com/103229/how-iphone-changed-the-world/)).
+The *fashionable design* pattern is a consequence of technology developments, designer’s creativity in using and applying new resources, as well as changing expectations of users who are continually learning about technology advances. Introduction an iPhone, for instance, radically changed user’s expectations of mobile applications ([e.g., see "How iPhone Changed the World"](http://www.cultofmac.com/103229/how-iphone-changed-the-world/)).
 
 
 ![The iPhone family. Introduction an iPhone radically changed user’s expectations of mobile applications. Credit: Apple.](images/iPhone-Family_US-EN-PRINT.jpg)
@@ -380,12 +384,12 @@ The *your design is reflection of hype* pattern is a consequence of technology d
 
 New technology opportunities are one of the main reasons for a constant change of designs, especially in software design. [Boehm and Bhuta (2008)](#Boehm2008) argued that software projects that do not capitalize on new opportunities will generally find their products unable to compete. Earlier [Brooks (1995)](#Brooks1995) noted that new opportunities in technology are one of the primary drivers behind constant changes of software designs: “*If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity*” (page 12).
 
-In the *your design is reflection of hype* pattern, the primary driver for the use of some resources is the "hype" and high expectations of some new trend. Such usage usually is not directly driven by the requirements of the situation or experiences in using the resource in similar cases. Nowadays, bitcoin and blockchain technologies are examples of such hype. Financial institutions are investing in these technologies, but the actual value and practical utility of these technologies are still unclear.
+In the *fashionable design* pattern, the primary driver for the use of some resources is the "hype" and high expectations of some new trend. Such usage usually is not directly driven by the requirements of the situation or experiences in using the resource in similar cases. Nowadays, bitcoin and blockchain technologies are examples of such hype. Financial institutions are investing in these technologies, but the actual value and practical utility of these technologies are still unclear.
 
 
-Novelty rather than experience drives the *your design is reflection of hype* pattern. The lack of experiences means that there are no clear guidelines and best practices, which may lead to unnecessary complex projects that are more likely to fail. Roy Thomas Fielding ([2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture. As usage of new resources may lead to more unexpected and undesired effects, projects based on the *your design is reflection of hype* pattern are also more likely to fail.
+Novelty rather than experience drives the *fashionable design* pattern. The lack of experiences means that there are no clear guidelines and best practices, which may lead to unnecessary complex projects that are more likely to fail. Roy Thomas Fielding ([2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture. As usage of new resources may lead to more unexpected and undesired effects, projects based on the *fashionable design* pattern are also more likely to fail.
 
-The *your design is reflection of hype* pattern is related to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern. New opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *your design is reflection of hype* pattern as a way to develop a better understanding of useful applications for new design resources.
+The *fashionable design* pattern is related to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern. New opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *fashionable design* pattern as a way to develop a better understanding of useful applications for new design resources.
 
 
 ## C. Patterns of Dynamics Between Design Situations and Design Resources
@@ -436,7 +440,7 @@ Designers may conform to the usage of some resources due to fear of legal and ot
 
 The *conformity* pattern is particularly useful in standard, well-known domains. As discussed in the *[co-evolution of problem-solution](#CoEvolution)* pattern, designing custom solutions may lead to "reinventing-the-wheel" and "not-invented-here" anti-patterns. In well-established domains, designers often can use standard solutions with minimal modifications.
 
-Conformity also has its downsides. One negative issue is that by using established and proven resources, designers may not capitalize on some new emerging technology. As discussed in the *[your design is reflection of hype](#DesignByBuzzword)* pattern, projects that do not capitalize on new opportunities may find their products unable to compete. Another negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for many users and may decide to focus on developing only the most common features.
+Conformity also has its downsides. One negative issue is that by using established and proven resources, designers may not capitalize on some new emerging technology. As discussed in the *[fashionable design](#DesignByBuzzword)* pattern, projects that do not capitalize on new opportunities may find their products unable to compete. Another negative issue is the [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), as designers and customers may become too dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs. Popular tools may also constrain a designer as they need to stay relevant for many users and may decide to focus on developing only the most common features.
 
 The *conformity* pattern is related to the *[commitment](#ResourceCommitment)* pattern, as successful usages of some new design resources require some level of commitment. Design organizations may also commit to using some standard or favorite resource. The *conformity* pattern is also related to the *[cherry picking](#CherryPicking)* pattern. A wish to avoid risks may lead design organizations to work only in situations where proven resources with established best practices can be applied.
 
@@ -523,7 +527,7 @@ The patterns of dynamics of design activities may facilitate describing complex 
 
 We can, for instance, talk about some typical combination of patterns. When a new situation appears, designers’ attempt to change that situation may lead to the *[co-evolution of problem-solution](#CoEvolution)* pattern. Designers may need new or better resources for this situation, which will lead designers to change their ways of working and to the emergence of the *[you are reflection of your design](#OutcomeSignature)* pattern. Through *[commitment](#ResourceCommitment)* and *[eating its own dog food](#ResourceCommitment)* patterns the new resources can further develop and gain popularity. Once stable and popular the resources may become a *de facto* standard, and lead to the *[conformity](#ResourceConformity)* pattern. The *[conformity](#ResourceConformity)* pattern may lead to the *[your design is your reflection](#ResourceSignature)* pattern. The *[your design is your reflection](#ResourceSignature)* pattern, on the other hand, may trigger a reaction of customers wanting something new and original, which may result in new design situations.
 
-The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative design,  later generally considered more difficult. In routine designs, designers normally have better-defined situations, and they are using familiar and proven tools. There we may primarily expect to see the *[commitment](#ResourceCommitment)* pattern and possibly the *[puzzle solving](#PuzzleSolving)* pattern, with little of other patterns occurring. A routine design may also be the consequence of the *[cherry picking](#CherryPicking)* pattern. In innovative designs, on the other hand we may expect to see the *[co-evolution of problem-solution](#CoEvolution)* pattern, with possibly the *[your design is reflection of hype](#DesignByBuzzword)* and *[solution looking for a problem](#SolutionLookingForProblem)* patterns. The innovative or creative design is also more likely to lead to the *[force awakens](#)* and *[problematic solution](#ProblematicSolution)* patterns, as we are dealing with more novel and unknown elements.
+The patterns of dynamics may be useful to discuss different levels of difficulties of design. Or, to paraphrase the Christopher Alexander's quote, we can argue that every design activity is given its character by patterns of dynamics that keep on happening there. Similar to [Gero (1990)](#Gero1990), we may talk about routine design vs. innovative design,  later generally considered more difficult. In routine designs, designers normally have better-defined situations, and they are using familiar and proven tools. There we may primarily expect to see the *[commitment](#ResourceCommitment)* pattern and possibly the *[puzzle solving](#PuzzleSolving)* pattern, with little of other patterns occurring. A routine design may also be the consequence of the *[cherry picking](#CherryPicking)* pattern. In innovative designs, on the other hand we may expect to see the *[co-evolution of problem-solution](#CoEvolution)* pattern, with possibly the *[fashionable design](#DesignByBuzzword)* and *[solution looking for a problem](#SolutionLookingForProblem)* patterns. The innovative or creative design is also more likely to lead to the *[force awakens](#)* and *[problematic solution](#ProblematicSolution)* patterns, as we are dealing with more novel and unknown elements.
 
 The patterns of dynamics strongly suggest that designers need techniques to estimate both the short-term and long-term impacts of design. In this aspect, we support the view of [Penzenstadler et al. (2014)](#Penzenstadler2014), who argued that software designers could considerably improve civilization’s sustainability by taking into account not just the first-order impacts of software systems but also their second- and third-order impacts. We believe that our framework could support such reasoning. The patterns illustrate that design activities have both a short-term and long-term dynamics. The short-term dynamics are typically localized within a particular project and are occurring in a limited period. The long-term dynamics are happening over a more extended period and among multiple projects. For example, the *[co-evolution of problem-solution](#CoEvolution)* pattern usually is intrinsic to the design activity and people involved in it, and the pattern is occurring during a concrete project. The *[force awakens](#Boomerang)* pattern, on the other hand, is primarily a consequence of indirect interactions through many elements outside the main design activity. Some patterns reflect both short-term and long-term dynamics. For example, the *[eating its own dog food](#ResourceCommitment)* pattern has an immediate short-term effect on the project where it is being used. But because it promotes and stimulates the development of specific design resources, on the long-term it may influence other design projects.
 
