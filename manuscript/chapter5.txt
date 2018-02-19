@@ -302,7 +302,11 @@ Kölling, M. (1999):
 Kraemer K.L., Dedrick J., and Sharma P. (2009):  
 **One laptop per child: vision vs. reality**,  
 *Commun. ACM 52 (6)*, pp. 66-73.
-  
+
+{#Kromhout2018}
+Kromhout B. (2018):
+**Containers Will Not Fix Your Broken Culture (and Other Hard Truths)**,
+*ACM queue 16 (6)".
   
 {#Lamers1989}
 Lamers S. (1989):  
@@ -335,7 +339,12 @@ Linden J. Ball, Balder Onarheim, Bo T. Christensen (2010):
 {#MacCormack2012}
 MacCormack A., Carliss Y.B., and Rusnak J. (2012):  
 **Exploring the Duality Between Product and Organizational Architectures: A Test of the 'Mirroring' Hypothesis**,  
-*Research Policy 41 (8), pp. 1309–1324.
+*Research Policy 41 (8)*, pp. 1309–1324.
+
+{#Matsudaira2016}
+Matsudaira K. (2016):
+**Bad Software Architecture is a People Problem**,
+*Communications of the ACM 59 (9)*, pp. 42-43.
 
 {#Melnik2007}
 Melnik G., Jeffries R.,
