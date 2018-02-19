@@ -328,11 +328,11 @@ The structure of design outcomes may influence the tools, methods, processes and
 
 The following table illustrates levels at which this pattern may occur.
 
-|Level                  |Examples                                                                                                                         |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|Technology and tools   |Tools and materials are selected and configured to facilitated creation of particular outcome types.                             |
-|Individual designers   |Designers' style, skills and knowledge are defined by types of outcomes they worked on                                           |
-|Team and organization  |Team organization and communication structures are defined to facilitated a particular outcome structure (inverse Conway's law). |
+|Level                  |Examples                                                                                                                        |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------|
+|Technology and tools   |Tools and materials are selected and configured to facilitate the creation of particular outcome types.                         |
+|Individual designers   |Types of outcomes they worked on define designers' style, skills, and knowledge                                                 |
+|Team and organization  |Team organization and communication structures are defined to facilitate a particular outcome structure (inverse Conway's law). |
 
 
 Design tools often need to be adapted to create a particular design outcome. For example, most software design tools are configurable so that frequently used functions are more easily accessible (e.g., via shortcuts or toolbar buttons). In this way, the configured tool becomes optimized for particular tasks, making these tasks easier, and other more difficult. This tool configuration is a signature that working on a design outcome leaves on a design resource.
