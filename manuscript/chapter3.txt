@@ -135,7 +135,7 @@ Brooks similarly argued that most of the design complexity is arbitrary complexi
 Lack of robust theories and underlying principles means that it is not possible to reliably model or predict effects of any design decisions. Designers need to be flexible and to investigate continuously, experiment, and iteratively refine their designs.
 
 The lack of strong theories contributes significantly to the instability of design activities. The *[force awakens](#Boomerang)* and *[problematic solution](#ProblematicSolution)* patterns, for
-instance, are partially a consequence of our inability to estimate the impact of our design efforts in a broader context. The [co-evolution of problem-solution](#CoEvolution)* pattern partially happens due to lack of knowledge and theories about a particular design situation and our inability to develop sufficient understanding of the design situation beforehand.
+instance, are partially a consequence of our inability to estimate the impact of our design efforts in a broader context. The [*co-evolution of problem-solution*](#CoEvolution) pattern partially happens due to lack of knowledge and theories about a particular design situation and our inability to develop sufficient understanding of the design situation beforehand.
 
 On the other hand, the *[solution looking for a problem](#SolutionLookingForProblem)* and *[fashionable design](#DesignByBuzzword)* patterns, practically assume that our current understanding and predicted usages of some technology are limited, and that new, unpredicted usages will emerge.
 
