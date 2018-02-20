@@ -8,7 +8,7 @@ Adelson B., Soloway E. (1986):
 {#Aste2017}
 Aste T., Tasca P., Di Matteo T. (2017):
 **Blockchain Technologies: The Foreseeable Impact on Society and Industry**,
-*IEEE Computer 50(9), pp. 18-28.
+*IEEE Computer 50(9)*, pp. 18-28.
 
 {#Bach2010}
 Bach P.M and Twidale M. (2010):
@@ -306,7 +306,7 @@ Kraemer K.L., Dedrick J., and Sharma P. (2009):
 {#Kromhout2018}
 Kromhout B. (2018):
 **Containers Will Not Fix Your Broken Culture (and Other Hard Truths)**,
-*ACM queue 16 (6)".
+*ACM queue 16 (6)*.
   
 {#Lamers1989}
 Lamers S. (1989):  
@@ -327,7 +327,7 @@ Larkin, J. & Simon, H. (1987):
   
 {#Lawson2005}
 Lawson B. (2005):  
-***How Designers Think**,   
+***How Designers Think***,
 Architectural Press, 4th edition.
   
   
