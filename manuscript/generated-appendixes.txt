@@ -22,7 +22,7 @@
 
 **You Are Reflection of Your Design**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
 
-**Fashionable Design**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New possibilities of design resources are shaping the design outcome.*
+**Design-by-Buzzword**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New possibilities of design resources are shaping the design outcome.*
 
 **Conformity**: *To minimize risks in a new design situation, designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and reputation of the resource and its usage in new design situations.*
 
@@ -48,7 +48,7 @@
 
 **You Are Reflection of Your Design**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
 
-**Fashionable Design**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
+**Design-by-Buzzword**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
 
 **Conformity**: *"When in Rome, do as the Roman's do."*
 
