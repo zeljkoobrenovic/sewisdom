@@ -164,7 +164,7 @@ The *solution looking for a problem* pattern is related to the *[co-evolution of
 
 **Summary**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design outcome may become more known for the problems it caused than for the solution it provided.*
 
-**Alternative name**: *Collateral Damage*.
+**Alternative name**: *Problematic Solution, Collateral Damage*.
 
 **Topics**: *unexpected and undesired effects, innovative domains, expectation management, the year 2000 problem*
 
@@ -184,8 +184,7 @@ In software design, one of the most prominent examples of problems caused by pre
 
 Spam is another example of problems created by the success of messaging and social media technologies, such as email, SMS, Twitter, and Facebook. Spam misuse the ease and low price of sending messages (a solution) to distribute huge volumes of messages that propagate malware, disseminate phishing exploits, and advertise illegal products. Spam messages generate significant costs for users and network operators ([Fonseca et al. 2016](#Fonseca2016)). Furthermore, spam has required significant investments in spam detection and prevention tools, which are now core tools of any messaging platform.
 
-The pandora's box pattern is a consequence of designers’ inability to predict all effects of design outcomes. Unexpected and undesired effects of design outcomes are more likely to appear in more
-innovative domains. Sometimes this is a consequence of attempts to speed up a design process, leaving insufficient time for exploration and learning (the *[co-evolution of problem-solution](#CoEvolution)* pattern). For instance, construction of the Sydney Opera House, due political pressures, started too early, before final designs were completed. This forced early start led to significant later problems. For instance, constructors discovered that the podium columns were not strong enough to support the roof structure, and had to be re-built ([Murray 2004](#Murray2004)). Due to a number unexpected and unintended effects, the Sydney Opera House project was completed ten years late and with the 1,357% over-budget.
+The pandora's box pattern is a consequence of designers’ inability to predict all effects of design outcomes. Unexpected and undesired effects of design outcomes are more likely to appear in more innovative domains. Sometimes this is a consequence of attempts to speed up a design process, leaving insufficient time for exploration and learning (the *[co-evolution of problem-solution](#CoEvolution)* pattern). For instance, construction of the Sydney Opera House, due political pressures, started too early, before final designs were completed. This forced early start led to significant later problems. For instance, constructors discovered that the podium columns were not strong enough to support the roof structure, and had to be re-built ([Murray 2004](#Murray2004)). Due to a number unexpected and unintended effects, the Sydney Opera House project was completed ten years late and with the 1,357% over-budget.
 
 If people will perceive a design outcome as problematic is also a function of their expectations. Marketing and other expectation management techniques may have a significant impact on how people will accept the design outcome. Don Norman, in his [talk at Main Event in 2004](https://mprove.de/script/04/nng/expectationdesign.html), said that expectations are connected to hope, fear, satisfaction, and anger. Norman elaborated that delivering on positive expectations leads to people experiencing pleasure. But failure to deliver on positive expectations may result in negative emotions and perception of a product as problematic.
 
