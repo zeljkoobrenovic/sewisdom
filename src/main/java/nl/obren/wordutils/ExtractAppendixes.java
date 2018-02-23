@@ -41,11 +41,9 @@ public class ExtractAppendixes {
                 if (trimmedLine.startsWith("**Motto**:")) {
                     String motto = trimmedLine.substring(10).trim();
                     pattern.setMotto(motto);
-                    System.out.println(motto);
                 } else if (trimmedLine.startsWith("**Summary**:")) {
                     String summary = trimmedLine.substring(12).trim();
                     pattern.setSummary(summary);
-                    System.out.println(summary);
                 }
             }
         });
@@ -66,7 +64,6 @@ public class ExtractAppendixes {
                 if (trimmedLine.startsWith("**Summary**:")) {
                     String summary = trimmedLine.substring(12).trim();
                     source.setSummary(summary);
-                    System.out.println(summary);
                 }
             }
         });

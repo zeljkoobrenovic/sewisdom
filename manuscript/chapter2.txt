@@ -10,6 +10,8 @@ The patterns of dynamics illustrate how people deal with ambiguity, uncertainty,
 
 With eleven patterns, we provide an initial categorization and description of dynamics that we have identified between design situations, outcomes, and resources. We are aware that it is not possible to capture all patterns that may occur in design processes. By examining findings from contemporary seminal design research, we abstracted some core patterns into a format that can support discussions about design complexity.
 
+None of the described patterns is universally good or bad. Each pattern may be desirable in one situation, and undesirable in another. Patterns may be a consequence of a conscious effort to create particular design dynamics, or they may occur accidentally.
+
 For convenience and clarity, we describe each pattern of dynamics with the same format:
 
 * a brief descriptive name,

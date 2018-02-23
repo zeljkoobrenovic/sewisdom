@@ -12,15 +12,20 @@ public class FindBrokenLines {
     }
 
     public static void main(String args[]) throws IOException {
-        searchForBrokenLines(new File("manuscript/chapter1.txt"));
-        searchForBrokenLines(new File("manuscript/chapter2.txt"));
-        searchForBrokenLines(new File("manuscript/chapter3.txt"));
-        searchForBrokenLines(new File("manuscript/chapter4.txt"));
+        int brokenLinesCount = 0;
+        brokenLinesCount += searchForBrokenLines(new File("manuscript/chapter1.txt"));
+        brokenLinesCount += searchForBrokenLines(new File("manuscript/chapter2.txt"));
+        brokenLinesCount += searchForBrokenLines(new File("manuscript/chapter3.txt"));
+        brokenLinesCount += searchForBrokenLines(new File("manuscript/chapter4.txt"));
+
+        System.out.println();
+        System.out.println("Found " + brokenLinesCount + " broken lines");
     }
 
-    private static void searchForBrokenLines(File file) throws IOException {
-        System.out.println();
-        System.out.println(file.getPath());
+    private static int searchForBrokenLines(File file) throws IOException {
+        boolean pathPrinted = false;
+        int brokenLinesCount = 0;
+
         String text = FileUtils.readFileToString(file, StandardCharsets.UTF_8);
 
         text = text.replace("A> ", "");
@@ -35,13 +40,23 @@ public class FindBrokenLines {
             }
 
             if (!text.substring(n + 1, n + 2).equals("\n")) {
-                String line = text.substring(oldN, n);
-                if (StringUtils.isNotBlank(line) && !line.trim().startsWith("*") && !StringUtils.isNumeric(line.trim().substring(0, 1))) {
-                    System.out.println(line);
+                String line = text.substring(oldN + 1, n);
+                if (StringUtils.isNotBlank(line)
+                        && !line.trim().startsWith("*")
+                        && !line.trim().startsWith("|")
+                        && !StringUtils.isNumeric(line.trim().substring(0, 1))) {
+                    if (!pathPrinted) {
+                        pathPrinted = true;
+                        System.out.println("==================================");
+                        System.out.println(file.getPath());
+                    }
+                    System.out.println("  - \"" + line + "\"");
+                    brokenLinesCount++;
                 }
             }
 
             oldN = n;
         }
+        return brokenLinesCount;
     }
 }
