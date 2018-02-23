@@ -14,7 +14,7 @@
 
 **Solution Looking for a Problem**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
 
-**Problematic Solution**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design outcome may become more known for the problems it caused than for the solution it provided.*
+**Pandora's Box**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design outcome may become more known for the problems it caused than for the solution it provided.*
 
 **The Force Awakens**: *Designer’s efforts to address some situation triggers reactions that radically change the original design situation. Often such reactions make the intended design outcome or a contribution of a designer obsolete or irrelevant. Such responses would typically not occur without the design activity.*
 
@@ -40,7 +40,7 @@
 
 **Solution Looking for a Problem**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
-**Problematic Solution**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
+**Pandora's Box**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
 **The Force Awakens**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin, and Hobbes)*
 
