@@ -1,20 +1,18 @@
 # Part I: Introduction
 
 
-Designers deal with an overwhelmingly rich reality, undetermined requirements, challenging social situations, lack of information, lack of resources and with time constraints. Every designer[^fooDesigner] is faced and challenged by the complexity resulting from the interaction of all these factors. But while many agree that design activities are complex, discussing complexity in design is difficult, as complexity is a loaded and vaguely defined term.
+A central thesis explored in this book is that complexity characteristic for design emerges from an inherent *instability of design activities*. This instability is a consequence of messy, dynamic, highly interdependent and mostly unpredictable interactions among design situations, design outcomes, and design resources[^fooTerminology].
 
-With this book, we want to describe better and give a structured definition of what design and design complexity mean. We believe that a more formal overview can help researchers and practitioners to understand better some of the experiences designers are going through while designing. We also think that in the education of designers it is useful to picture design complexity as an essential part of design activities. Design complexity has to be accepted and dealt with and not treated as a problem to avoid. We believe that a more structured understanding of design complexity can facilitate such education.
+The main contribution of this book is a structured description of design dynamics through *patterns of dynamics*. The patterns of dynamics illustrate how people deal with ambiguity, uncertainty, and complexity when they attempt to change the world. These patterns are universal to all design disciplines. Design disciplines may differ in which situations they address, which outcomes they create and which resources they use. But the way how people deal with ambiguity, uncertainty, and complexity when they design is cross-disciplinary.
 
-A central thesis explored in this book is that complexity characteristic for design activities emerges from an inherent *instability of design activities*. We will argue that this instability is a consequence of messy, dynamic, highly interdependent and mostly unpredictable interactions among design situations, design outcomes, and design resources[^fooTerminology]. The main contribution of this book is a structured description of design dynamics through *patterns of dynamics*. The patterns of dynamics illustrate how people deal with ambiguity, uncertainty, and complexity when they attempt to change the world. These patterns are universal to all design disciplines. Design disciplines may differ in which situations they address, which outcomes they create and which resources they use. But the way how people deal with ambiguity, uncertainty, and complexity when they design is cross-disciplinary.
-
-In our discussions of design complexity, we address design in a broader sense, in line with the Herbert Simon's ([1996](#Simon1996)) definition of design as "*courses of action aimed at changing existing situations into preferred ones*." Due to our backgrounds and interests, we limit our overview and examples, to some degree, to discussions about complexity in software and interaction design. In particular, we are biased towards those contributions that base their claims in observations of design practice (e.g., [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g., [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
+In our discussions we address design in a broader sense, in line with the Herbert Simon's ([1996](#Simon1996)) definition of design as "*courses of action aimed at changing existing situations into preferred ones*." Due to our backgrounds and interests, we limit our overview and examples, to some degree, to discussions about complexity in software and interaction design. In particular, we are biased towards those contributions that base their claims in observations of design practice (e.g., [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g., [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
-## A. Analyzing Design Complexity: A Simple Model {#Model}
+## A. Analyzing Design Dynamics: A Simple Model {#Model}
 
 Our goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities. We want to investigate why those involved in design view design as difficult and complex.
 
-To structure our discussion, we adopt a simple analytic model. This model focuses on the analysis of the complexity of design activities as a consequence of interactions among design situations, design outcomes and design resources. Our analytic model views the complexity of design activities as originating from the designers’ difficulties to:
+To structure our discussion, we adopt a simple analytic model. This model focuses on the analysis of dynamics of design activities as a consequence of interactions among design situations, design outcomes and design resources. Our analytic model views the dynamics of design activities as originating from the designers’ efforts to:
 
 * understand and manage design situations (design problems),
 * create and understand design outcomes (design solutions), and
@@ -22,49 +20,27 @@ To structure our discussion, we adopt a simple analytic model. This model focuse
 
 Later in the book, we use our analytic model to structure the description of the [patterns of dynamics](#Patterns) among design situations, outcomes, and resources.
 
-![Our analytic model for design complexity: Design situations, design outcomes, design resources and relations among them.](images/Model.png)
+![Our analytic model for design dynamics: Design situations, design outcomes, design resources and relations among them.](images/Model.png)
 
-Previous work has addressed the complexity of individual elements of design activities, such as intrinsic complexity of design outcomes or systems (e.g., Simon 1996). However, complex and dynamic interdependencies of aspects of design activities have received relatively little attention. With this book, we focus on these interdependencies. We believe that they are primary sources of complexity characteristic for design activities. In other words, while design situations, outcomes, and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are interactions among these structures. Such interactions challenge designers' ability to deal with complexity as the structures are unstable and subject to unpredictable change.
+Lots of previous work has addressed individual elements of design activities, such as intrinsic complexity of design outcomes or systems (e.g., Simon 1996), or diverse design tools. However, complex and dynamic interdependencies of aspects of design activities have received relatively little attention. With this book, we focus on these interdependencies. We believe that they are primary sources of complexity characteristic for design activities. In other words, while design situations, outcomes, and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are interactions among these structures. Such interactions challenge designers' ability to deal with complexity as the structures are unstable and subject to unpredictable change.
 
 It is important to remember that elements in our model are abstract analytical concepts. In reality, these components are not entirely separated. Nevertheless, the concepts of design situations, outcomes and resources are regularly used in design literature. We believe that they are useful concepts to structure discussions on design complexity.
 
 
+
 ## B. Why This Book?
 
-Our ambition is to provide a novel and more structured view of design dynamics and complexity in design. We do not aim at introducing a new theory about design, nor are the topics we discuss entirely new (e.g., [Stolterman 2008](#Stolterman2008a)). Instead, we are re-examining existing work on design dynamics from a new and partially different point of view. We are also bringing together some related but previously unconnected pieces of literature.
+With this book, we want to describe better and give a structured definition of dynamics of design activities. We believe that a more formal overview can help researchers and practitioners to understand better some of the experiences designers are going through while designing. We also think that in the education of designers it is useful to picture design dynamics and resulting complexity as an essential part of design activities. Design dynamics and complexity have to be accepted and dealt with and not treated as a problem to avoid. We believe that a more structured understanding of design dynamics can facilitate such education.
 
-Many design scholars have recognized, examined and to some degree theoretically analyzed design compleixty[^complexityReferences]. However, design complexity is still an under-researched area. With this book, we want to investigate it further. Furthermore, many design writers discuss complexity in design only as a passing comment in writings focused on other themes. Robert Glass, for example, discusses the complexity of software design at several places in his book related to software creativity ([Glass 2006](#Glass2006)). Fred Brooks similarly do this in his book on general software engineering and project management topics ([Brooks 1995](#Brooks1995)).
-
-We have found similarities in works of authors from different domains. But we also noticed that most authors do not reference authors outside of their field of study. We believe that there is a value in connecting the contributions from different areas. By creating such connections, we hope to create a better overview for design practitioners and researchers interested to further study this subject.
-
-[^complexityReferences]: See work of [Simon 1996](#Simon1996); [Buchanan 1992](#Buchanan1992); [Schön 1983](#Schon1983); [Janlert & Stolterman 2008](#Janlert2008); [Nelson & Stolterman 2012](#Nelson2012), [Booch 2005](#Booch2008), [Mens 2012](#Mens2012)).
+Our ambition is to provide a novel and more structured view of design dynamics. We do not aim at introducing a new theory about design, nor are the topics we discuss entirely new (e.g., [Stolterman 2008](#Stolterman2008a)). Instead, we are re-examining existing work on design from a new and partially different point of view. We are also bringing together some related but previously unconnected pieces of literature. We have found similarities in works of authors from different domains. But we also noticed that most authors do not reference authors outside of their field of study. We believe that there is a value in connecting the contributions from different areas. By creating such connections, we hope to create a better overview for design practitioners and researchers interested to further study this subject.
 
 
-## C. What is Complexity?
 
-Before we start, it is important to briefly examine our view on the notion of "complexity," as it is a comprehensive and loaded term[^complexityScience].
-
-Our view on complexity builds on the Herbert Simon's definition of a complex system as *“one made up of a large number of parts that interact in a non-simple way"* ([Simon 1996](#Simon1996), page 183). For our purposes it is worth noting that this definition emphasizes the importance of looking at complexity from two sides:
-
-* a structural, more quantitative, objective and measurable side, which reflects the number and organization of the elements of the objects that we see as complex,
-* a cognitive, qualitative, more subjective side, which indicates the challenges of human cognition to understand and manage such complex objects.
-
-It is hard and probably meaningless to talk about complexity without talking about both of these sides. Structural and cognitive elements of complexity are interrelated, but not necessarily in an obvious way. For example, the number of elements of an object has a direct influence on our ability to perceive, understand and manage the object. However, various representation techniques, such as visual groupings, can significantly improve our ability to understand such objects, without actually changing the number of elements and their relations. For that reason, a diagram is (sometimes) worth ten thousand words ([Larkin & Simon 1987](#Larkin1987)). In *[The Sciences of the Artificial](#Simon1996)*, Herbert Simon discussed the role of representation in human’s understanding and perception of complexity extensively. Simon argued that sometimes the main discovery is a change in representation, such as mathematical derivations: *"all mathematical derivation can be viewed simply as a change in representation, making evident what was previously true but obscure."* ([Simon 1996, page 77](#Simon1996)).
-
-In line with the previous discussion, we view design situations, outcomes, and resources as complex, non-trivial, and interconnected structures. In our reviews, we explore key factors that challenge designers' ability to understand and manage these structures. In particular, we focus on factors related to dynamic relations among design situations, outcomes, and resources. Dynamics of these relations challenge designers' ability to deal with complexity as any of the structures are subject to change, in difficult to predict ways. And with our [analytic model](#Model) and [pattern language](#Patterns) we aim at creating the representation that can facilitate reasoning about design dynamics. Hopefully, in this way we are making more evident what was previously true but obscure.
-
-
-[^complexityScience]: The term "complexity" is also often associated with “[complexity science](https://en.wikipedia.org/wiki/Complexity_theory),” which covers a broad range of topics including complexity theory and organizations, complexity economics, complex adaptive system, and computational complexity theory ([Neil 2007](#Neil2007)). It is important to note that in this book we do not cover topics from this more scientific and mathematical perspective.
-
-
-![The Centaurus A/M83 Group, a complex group of galaxies. Complexity is often viewed as expressing a condition of numerous elements in a system and relationships among the elements. Credit: ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al. (Submillimetre); NASA/CXC/CfA/R.Kraft et al. (X-ray) / Wikimedia Commons / CC-BY-4.0](images/complex_art_of_nature.jpg)
-
-
-## D. The Structure of the Book
+## C. The Structure of the Book
 
 The rest of this book is organized as follows.
 
-In Part II, we address design complexity as a consequence of inherent instability of design activities. We describe this instability with patterns of dynamics between elements of design activities. We argue that the instability of design activities is emerging from elaborate and not entirely known interactions among the elements of design activities. With examples, we illustrate that dynamics between design situations, design outcomes and design resources are diverse and bidirectional.
+In Part II, we describe patterns of dynamics between elements of design activities. We argue that the dynamics of design activities are emerging from elaborate and not entirely known interactions among the elements of design activities. With examples, we illustrate that dynamics between design situations, design outcomes and design resources are diverse and bidirectional.
 
 In Part III we discuss sources of interactions among the elements of design activity. We address the moving target problem, learning, creativity, tacit knowledge, social dynamics, as well as the lack of robust theories and underlying principles. Here we also discuss how are these aspects related to the patterns of dynamics between elements of design activities.
 
