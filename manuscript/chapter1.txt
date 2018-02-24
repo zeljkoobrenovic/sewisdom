@@ -1,42 +1,52 @@
 # Part I: Introduction
 
+Design activities are characterized by messy, dynamic, highly interdependent and mostly unpredictable interactions among design situations, design outcomes, and design resources[^fooTerminology]. Designers deal with fast-changing and overwhelmingly rich reality, undetermined requirements, intricate social conditions, lack of information, as well as lack of resource and time restrictions. Every designer is faced and challenged by these circumstances.
 
-A central thesis explored in this book is that complexity characteristic for design emerges from an inherent *instability of design activities*. This instability is a consequence of messy, dynamic, highly interdependent and mostly unpredictable interactions among design situations, design outcomes, and design resources[^fooTerminology].
+In this book, we explore the dynamics of design activities and the complexity that these dynamics bring. Design situations, design outcomes and design resources are complex structures that are not independent of each other. They are continuously changing, in great part due to forces that are beyond designers' control. Constant change and unpredictability are natural characteristics of any design activity.
 
-The main contribution of this book is a structured description of design dynamics through *patterns of dynamics*. The patterns of dynamics illustrate how people deal with ambiguity, uncertainty, and complexity when they attempt to change the world. These patterns are universal to all design disciplines. Design disciplines may differ in which situations they address, which outcomes they create and which resources they use. But the way how people deal with ambiguity, uncertainty, and complexity when they design is cross-disciplinary.
+The main contribution of this book is a structured description of design dynamics through *patterns of dynamics*. The patterns of dynamics illustrate different ways of how designers deal with ambiguity, uncertainty, and complexity when they attempt to change the world. We also believe that these patterns are universal to all design disciplines. Design disciplines may differ in situations they address, outcomes they create and resources they use. But the way how people deal with ambiguity, uncertainty, and complexity when they design is cross-disciplinary.
 
-In our discussions we address design in a broader sense, in line with the Herbert Simon's ([1996](#Simon1996)) definition of design as "*courses of action aimed at changing existing situations into preferred ones*." Due to our backgrounds and interests, we limit our overview and examples, to some degree, to discussions about complexity in software and interaction design. In particular, we are biased towards those contributions that base their claims in observations of design practice (e.g., [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g., [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
+In our discussions, we address design in a broader sense, in line with the Herbert Simon's ([1996](#Simon1996)) definition of design as "*courses of action aimed at changing existing situations into preferred ones*." Due to our backgrounds and interests, we limit our overview and examples, to some degree, to discussions about complexity in software and interaction design. In particular, we are biased towards those contributions that base their claims in observations of design practice (e.g., [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide some connections to more general design theory (e.g., [Schön 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
 
 
 ## A. Analyzing Design Dynamics: A Simple Model {#Model}
 
-Our goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities. We want to investigate why those involved in design view design as difficult and complex.
+We want to investigate why those involved in design view design as difficult and complex. Our goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities.
 
-To structure our discussion, we adopt a simple analytic model. This model focuses on the analysis of dynamics of design activities as a consequence of interactions among design situations, design outcomes and design resources. Our analytic model views the dynamics of design activities as originating from the designers’ efforts to:
+To structure our discussion, we adopt a simple model. This model provides a structure for analyzing dynamics of design activities as a consequence of interactions among design situations, design outcomes and design resources. Our analytic model views the dynamics of design activities as originating from reactions to the designers’ efforts to:
 
 * understand and manage design situations (design problems),
-* create and understand design outcomes (design solutions), and
+* create design outcomes (design solutions), and
 * understand and adequately use design resources (tools, knowledge, methodologies, procedures, and organizational structures supporting designers during a design activity).
 
 Later in the book, we use our analytic model to structure the description of the [patterns of dynamics](#Patterns) among design situations, outcomes, and resources.
 
 ![Our analytic model for design dynamics: Design situations, design outcomes, design resources and relations among them.](images/Model.png)
 
-Lots of previous work has addressed individual elements of design activities, such as intrinsic complexity of design outcomes or systems (e.g., Simon 1996), or diverse design tools. However, complex and dynamic interdependencies of aspects of design activities have received relatively little attention. With this book, we focus on these interdependencies. We believe that they are primary sources of complexity characteristic for design activities. In other words, while design situations, outcomes, and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are interactions among these structures. Such interactions challenge designers' ability to deal with complexity as the structures are unstable and subject to unpredictable change.
-
-It is important to remember that elements in our model are abstract analytical concepts. In reality, these components are not entirely separated. Nevertheless, the concepts of design situations, outcomes and resources are regularly used in design literature. We believe that they are useful concepts to structure discussions on design complexity.
+It is important to remember that elements in our model are abstract analytical concepts. In reality, these components are not entirely separated. Nevertheless, the concepts of design situations, outcomes and resources are regularly used in design literature. We believe that they are useful concepts to structure our discussions.
 
 
 
 ## B. Why This Book?
 
-With this book, we want to describe better and give a structured definition of dynamics of design activities. We believe that a more formal overview can help researchers and practitioners to understand better some of the experiences designers are going through while designing. We also think that in the education of designers it is useful to picture design dynamics and resulting complexity as an essential part of design activities. Design dynamics and complexity have to be accepted and dealt with and not treated as a problem to avoid. We believe that a more structured understanding of design dynamics can facilitate such education.
+With this book, we want to describe and provide a structured definition of dynamics of design activities. We believe that a more formal overview can help researchers and practitioners to understand better some of the experiences designers are going through while designing. We also think that in the education of designers it is useful to picture design dynamics and resulting complexity as an essential part of design activities. Design dynamics and complexity have to be accepted and dealt with and not treated as a problem to avoid. We believe that a more structured understanding of design dynamics can facilitate such education.
 
-Our ambition is to provide a novel and more structured view of design dynamics. We do not aim at introducing a new theory about design, nor are the topics we discuss entirely new (e.g., [Stolterman 2008](#Stolterman2008a)). Instead, we are re-examining existing work on design from a new and partially different point of view. We are also bringing together some related but previously unconnected pieces of literature. We have found similarities in works of authors from different domains. But we also noticed that most authors do not reference authors outside of their field of study. We believe that there is a value in connecting the contributions from different areas. By creating such connections, we hope to create a better overview for design practitioners and researchers interested to further study this subject.
+Lots of previous work has addressed individual elements of design activities, such as intrinsic complexity of design outcomes or systems (e.g., [Simon 1996](#Simon1996), [Booch 2008](#Booch2008), [Mens 2012](#Mens2012)), or diverse design tools. However, complex and dynamic interdependencies of aspects of design activities have received relatively little attention. With this book, we focus on these interdependencies. We believe that they are primary sources of complexity characteristic for design activities. In other words, while design situations, outcomes, and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are interactions among these structures. Such interactions challenge designers' ability to deal with complexity as the structures are unstable and subject to unpredictable change.
+
+Our ambition is to provide a novel and more structured view of design dynamics. However, we do not aim at introducing a new theory about design, nor are the topics we discuss entirely new (e.g., [Stolterman 2008](#Stolterman2008a)). Instead, we are re-examining existing work on design from a new and partially different point of view. We are also bringing together some related but previously unconnected pieces of literature. We have found similarities in works of authors from different domains. But we have also noticed that most authors do not reference authors outside of their field of study. We believe that there is a value in connecting the contributions from different areas. By creating such connections, we hope to create a better overview for design practitioners and researchers interested to further study this subject.
+
+The motivation for our work builds on the ideal sketched by Herbert Simon (1996)[#Simon1996] in *The Sciences of the Artificial*. Simon argued that all design disciplines are fundamentally similar, and that design professionals from diverse disciplines should be able to carry on mutually rewarding conversations about the content of each other's professional work (page 137). Another source of inspiration for our work comes from Fred Brooks (2009)[#Brook2009], who similarly noted that design processes in these diverse media are strikingly alike. Reflecting on his experiences in designing in five media (computer architecture, software, houses, books, and organizations), he elaborated that the mental processes, the human interactions, the iterations, the constraints, the labor — all have great similarities (page xii). Patters on design dynamics are our attempt to support these views and create a cross-disciplinary overview of dynamics of design process.
 
 
+## C. Who Should Read This Book?
 
-## C. The Structure of the Book
+Our book is intended to be readable and hopefully useful for anyone who designs or is interested in design in a broader sense. That includes all types of designers and architects, but also other people that do not have such titles but are creating an intentional change in our unpredictable world ([Nelson & Stolterman](#Nelson2012)).
+
+We think that our book can help design researchers and students, as it makes a structured summary of and creates connections among diverse design disciplines. By making such links, we hope to create a better overview for anyone interested to further study this subject.
+
+We also think that patterns of design activities do have a practical value. The patterns can be used both as an analytic tool and as a management tool. As an analytic tool,  patterns provide a structure and vocabulary to describe and communicate what is going on in design activities. Having common structure and vocabulary also enables comparison and correlation of different design activities. As a management tool, our patterns offer hints on when, why and how to stimulate desired (or prevent undesired) dynamics in design activities.
+
+## D. The Structure of the Book
 
 The rest of this book is organized as follows.
 
@@ -49,7 +59,7 @@ We conclude the book with a general discussion.
 
 ## E. About the Cover
 
-The cover shows an [extratropical cyclone](https://en.wikipedia.org/wiki/Cyclone) near Iceland on September 4, 2003. We selected this image as it symbolizes the central concept of this book - the instability of design activities. A cyclone is a complex, dynamic, and partially unpredictable phenomenon. Still, as with design instability, it is not an entirely chaotic phenomenon, as some patterns are visible.
+The cover shows an [extratropical cyclone](https://en.wikipedia.org/wiki/Cyclone) near Iceland on September 4, 2003. We selected this image as it symbolizes the central concept of this book - the dynamics of design activities. A cyclone is a complex, dynamic, and partially unpredictable phenomenon. Still, as with design dynamics, it is not an entirely chaotic phenomenon, as some patterns are visible.
 
 
 [^fooDesigner]: In this book, we use the notion of a designer to mean anyone involved in a professional design process. In many cases, a design process requires more than one designer.

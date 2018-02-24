@@ -319,12 +319,7 @@ Lampson B.W. (1984):
 ***Hints for Computer System Design***,  
 IEEE Software vol. 1 (1), pp. 11-28.
 
-{#Larkin1987}
-Larkin, J. & Simon, H. (1987):  
-**Why a diagram is (sometimes) worth ten thousand words**,  
-*Cognitive Science 11*, pp. 65-99.
-  
-  
+
 {#Lawson2005}
 Lawson B. (2005):  
 ***How Designers Think***,
@@ -385,11 +380,7 @@ Rotman-UTP Publishing, 2017).
 Ncube C., Oberndorf P. and Kark A.W. (2008):  
 **Opportunistic Software Systems Development: Making Systems from What's Available**,  
 *IEEE Software 25 (6)*, pp. 38-41.
-  
-{#Neil2007}
-Neil J. F. (2007):  
-***Two's Company, Three is Complexity: A simple guide to the science of all sciences***,  
-Oxford: Oneworld.
+
   
 {#Neuman1999}
 Neumann P.G. and McCullagh D. (1999):  
