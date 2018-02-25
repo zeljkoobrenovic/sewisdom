@@ -217,6 +217,11 @@ Glass R. L. (2006):
 ***Software Creativity 2.0***,   
 developer.* Books. 
 
+{#Gokpinar2010}
+Gokpinar B., Hopp W.J., Iravani S.M.R (2010):
+**The Impact of Misalignment of Organizational Structure and Product Architecture on Quality in Complex Product Development**,
+Management Science 56 (3), pp. 468-484.
+
 {#Goodman2014}
 Goodman E. (2014):
 **Design and ethics in the era of big data**,
