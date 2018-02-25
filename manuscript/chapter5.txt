@@ -220,7 +220,7 @@ developer.* Books.
 {#Gokpinar2010}
 Gokpinar B., Hopp W.J., Iravani S.M.R (2010):
 **The Impact of Misalignment of Organizational Structure and Product Architecture on Quality in Complex Product Development**,
-Management Science 56 (3), pp. 468-484.
+*Management Science 56 (3)*, pp. 468-484.
 
 {#Goodman2014}
 Goodman E. (2014):
@@ -302,7 +302,12 @@ Janlert L.E. and Stolterman E. (2008):
 Kölling, M. (1999):  
 **The Problem of Teaching Object-Oriented Programming, Part 1: Languages**,  
 *Journal of Object-Oriented Programming 11 (8)*, pp. 8-15.
-  
+
+{#Komssi2015}
+Komssi M., Pichlis D., Raatikainen M., Kindstram K. , Jarvinen J. (2015):
+**What are Hackathons for?**
+*IEEE Software 2015 (5)*, pp. 60-67.
+
 {#Kraemer2009}
 Kraemer K.L., Dedrick J., and Sharma P. (2009):  
 **One laptop per child: vision vs. reality**,  

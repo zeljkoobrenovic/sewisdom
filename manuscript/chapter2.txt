@@ -373,7 +373,7 @@ The *you are reflection of your design* pattern is related to the *[your design 
 
 **Alternative names**: *Design-by-Buzzword, Opportunistic Design*.
 
-**Topics**: *exploiting new opportunities, hype, trends, end-user development and meta-design*
+**Topics**: *exploiting new opportunities, hype, hackathones, trends, end-user development and meta-design*
 
 **Desirable**: *In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.*
 
@@ -393,8 +393,9 @@ New technology opportunities are one of the main reasons for a constant change o
 
 In the *design-by-buzzword* pattern, the primary driver for the use of some resources is the "hype" and high expectations of some new trend. Such usage usually is not directly driven by the requirements of the situation or experiences in using the resource in similar cases. Nowadays, bitcoin and blockchain technologies are examples of such hype. Financial institutions are investing in these technologies, but the actual value and practical utility of these technologies are still unclear.
 
-
 Novelty rather than experience drives the *design-by-buzzword* pattern. The lack of experiences means that there are no clear guidelines and best practices, which may lead to unnecessary complex projects that are more likely to fail. Roy Thomas Fielding ([2000)](#Fielding2000) noted that software projects often begin with adoption of the latest "fad" in architectural design. Only later, if at all, it is discovered whether or not the system requirements call for such an architecture. As usage of new resources may lead to more unexpected and undesired effects, projects based on the *design-by-buzzword* pattern are also more likely to fail.
+
+Design-by-buzzword introduces a number of risks. Designers need to work with resources that are not necessarily proven in practice, and for which there are little experiences that can be reused. On the other hand, avoiding using new resources may impact the long-term competitiveness of an organization. Consequently, organizations are looking for ways to combine benefits of being an early adopter of some technology or technique, while limiting the risk. Hackathons are an increasingly more popular form of making such compromise ([Komssi et al. 2015](#Komssi2015)). Here the risk is minimized by time-boxing the activity, normally for several days only, with the idea that this limited time frame gives enough time to get basic insights and some hands-on experience with a  new trend.
 
 The *design-by-buzzword* pattern is related to the *[solution looking for a problem](#SolutionLookingForProblem)* pattern. New opportunities embedded in an innovative design outcome may lead to usages of this outcome in new situations. The *[co-evolution of problem-solution](#CoEvolution)* pattern may also be related to the *design-by-buzzword* pattern as a way to develop a better understanding of useful applications for new design resources.
 
