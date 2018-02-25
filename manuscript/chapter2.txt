@@ -373,7 +373,7 @@ The *you are reflection of your design* pattern is related to the *[your design 
 
 **Alternative names**: *Design-by-Buzzword, Opportunistic Design*.
 
-**Topics**: *exploiting new opportunities, hype, hackathones, trends, end-user development and meta-design*
+**Topics**: *exploiting new opportunities, hype, new trends, hackathons*
 
 **Desirable**: *In fast-changing domains where capitalization on new opportunities is a crucial competitive advantage.*
 
