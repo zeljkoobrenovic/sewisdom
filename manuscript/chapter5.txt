@@ -324,7 +324,11 @@ IEEE Software vol. 1 (1), pp. 11-28.
 Lawson B. (2005):  
 ***How Designers Think***,
 Architectural Press, 4th edition.
-  
+
+{#Lewis2014}
+Lewis J., Fowler M. (2014):
+**Microservices: a definition of this new architectural term**,
+https://martinfowler.com/articles/microservices.html
   
 {#Linden2010}
 Linden J. Ball, Balder Onarheim, Bo T. Christensen (2010):  
