@@ -57,7 +57,12 @@ In Part III we discuss sources of interactions among the elements of design acti
 We conclude the book with a general discussion.
 
 
-## E. About the Cover
+## E. Acknowledgments
+
+I would like to thank Mathias Funk and students of the TU/e master course "Beautiful Data: Designing InfoProducts" for providing useful feedback during the lecture based on the early draft of this book. Mathias Funk also proposed the name for the "Pandora's Box" pattern.
+
+
+## F. About the Cover
 
 The cover shows an [extratropical cyclone](https://en.wikipedia.org/wiki/Cyclone) near Iceland on September 4, 2003. We selected this image as it symbolizes the central concept of this book - the dynamics of design activities. A cyclone is a complex, dynamic, and partially unpredictable phenomenon. Still, as with design dynamics, it is not an entirely chaotic phenomenon, as some patterns are visible.
 
