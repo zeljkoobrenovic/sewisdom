@@ -40,7 +40,7 @@ The motivation for our work builds on the ideal sketched by Herbert Simon ([1996
 
 ## C. Who Should Read This Book?
 
-Our book is intended to be readable and hopefully useful for anyone who designs or is interested in design in a broader sense. That includes all types of designers and architects, but also other people that do not have such titles but are creating an intentional change in our unpredictable world ([Nelson & Stolterman](#Nelson2012)).
+Our book is intended to be readable and hopefully useful for anyone who designs or is interested in design in a broader sense. That includes all types of designers and architects, but also other people that do not have such titles but are creating an intentional change in our unpredictable world ([Nelson & Stolterman 2012](#Nelson2012)).
 
 We think that our book can help design researchers and students, as it makes a structured summary of and creates connections among diverse design disciplines. By making such links, we hope to create a better overview for anyone interested to further study this subject.
 
