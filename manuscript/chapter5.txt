@@ -245,7 +245,11 @@ Greenberg S. and Buxton B. (2008):
 in *Proceedings of the twenty-sixth annual SIGCHI conference on Human factors in computing systems (CHI '08)*,  
 ACM, New York, NY, USA, 111-120.
   
-  
+{#Greenstein2018}
+Greenstein S. (2018):
+**The Paradox of Technological Déjà Vu**,
+IEEE Micro 38 (1), pp 118-120.
+
 {#Gubbi2013}
 Gubbi J., Buyya R., Marusic S., Palaniswami M. (2013):  
 **Internet of Things (IoT): A vision, architectural elements, and future directions**,  
