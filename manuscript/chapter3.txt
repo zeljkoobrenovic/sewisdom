@@ -18,6 +18,8 @@ Our primary goal is to provide an initial categorization of sources of design dy
 
 **Summary**: *Design situations, resources, and outcomes change more rapidly than designers’ understanding of them. Consequently, designers need to work without having significant experience with, and understanding of, design situations, resources, and outcomes. Waiting to obtain more knowledge and better understanding is risky as the issues may quickly become less relevant or obsolete.*
 
+**Related Patterns**: *the [force awakens](#Boomerang), [co-evolution of problem-solution](#CoEvolution), [design-by-buzzword](#DesignByBuzzword)*.
+
 The world surrounding a design activity is continuously changing. New materials, devices, computers and software products are continuously appearing, introducing new opportunities. Because these changes may happen rapidly, designers have limited time to create a useful design outcome. Design outcomes, especially those involving computing technologies[^footnote1], have a limited lifespan, and may quickly become irrelevant or obsolete.
 
 The constant and rapid change also means that designers who spend too much time on understanding a design situation and are hesitant to make decisions may end up creating a solution for an outdated problem. Myers, for example, described the problem that constant development of new technologies poses for the design of user interface tools ([Myers et al., 2000](#Myers2000)). They argued that it is difficult to build tools without having significant experience with, and understanding of, the tasks they support. However, the rapid development of new interface technologies and techniques can make it difficult for tools to keep pace. By the time a new user interface implementation task is understood well enough to produce useful tools, the task may have become less critical, or even obsolete.
@@ -43,6 +45,7 @@ Constant change contributes significantly to the dynamics of design activities b
 
 **Summary**: *Design situations, design outcome, and design resources are increasingly more globally interconnected. Increasing interconnectivity means that there are more ways or channels through which a design activity may be influenced.*
 
+**Related Patterns**: *the [force awakens](#Boomerang), [pandora's box](#ProblematicSolution), [conformity](#ResourceConformity), [design-by-buzzword](#DesignByBuzzword)*.
 
 Design situations are never isolated from the outside world. Our competition is closely monitoring the market developments, including our activities, and is reacting to them. Markets are more globalized. Furthermore, events in remote parts of the world, not directly related to design activity, may have a significant impact on it. One extreme example is [the global financial crisis of 2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308). While started as a consequence of the bursting of the U.S. (United States) housing bubble, the crisis affected almost all countries in the world. The crisis played a significant role in the failure of key businesses, declines in consumer wealth estimated in trillions of U.S. dollars, and a downturn in economic activity. It led to the Great Recession of 2008–2012 and contributed to the European sovereign-debt crisis. Impact of this global event on design activities has been significant, with many canceled and postponed projects, and budgets changed.
 
@@ -63,6 +66,8 @@ Increasing interconnectivity leads to more dynamic design activities, as there a
 
 **Summary**: *Behaviors and expectations of people are continually changing due to their learning and creativity.*
 
+**Related Patterns**: *[co-evolution of problem-solution](#CoEvolution), the [force awakens](#Boomerang), [solution looking for a problem](#SolutionLookingForProblem), [design-by-buzzword](#DesignByBuzzword), [you are a reflection of your design](#OutcomeSignature), [commitment](#ResourceCommitment) and [eating its own dog food](#ResourceCommitment), [cherry picking](#CherryPicking)*.
+
 In a design activity, all involved stakeholders are continually learning and discovering new things. Designers learn about new technologies, user wishes, or new design methods, and they may change their designs because of that. Challenging or innovative designs require extensive investigation, experimentation, and iterative improvement based on lessons learned. Fred Brooks even argued that in the design of radically new systems, because of the intensive learning process, designers should plan to throw away the first system that they build. They should then use the gained knowledge to implement the system properly in the next run (Chapter “You won't get it right the first time anyway!”, in [Brook 1995](#Brooks1995)). Moreover, through design, we can learn lessons that are usually difficult to obtain by other means (e.g. [Obrenovic 2011](#Obrenovic2011)).
 
 Clients also learn about new technologies and other designs. And if such learning is extensive, it may lead to significant changes in their perceptions and expectations.
@@ -78,7 +83,7 @@ Learning and creativity lead to constant changing of behaviors and expectations 
 The *[design-by-buzzword](#DesignByBuzzword)* pattern is frequently a consequence of people's curiosity and wish to learn new technologies. Shane Greenstein ([2018](#Greenstein2018)), for instance, noted that many people enjoy acquiring expertise for its own sake, for the scientific adventure of it, and for the hope of translating that expertise into a great wave. He illustrated this point with an example of a new generation of technological analysts that are educating themselves on the nuances of the blockchain, concluding that "*some of this is about the money, but a lot of it is about enjoying the adventure and becoming expert.*"
 
 
-The *[commitment](#ResourceCommitment)* pattern is closely related to learning, as committing to using some design resources facilitates learning and mastering of its usage. The *conformity* pattern is partially a consequence of design professionals being able to quickly learning how to use the same popular design resource. And the *[eating its own dog food](#ResourceCommitment)* pattern is an attempt to stimulate intensive learn within the design company about their designs.
+The *[commitment](#ResourceCommitment)* pattern is closely related to learning, as committing to using some design resources facilitates learning and mastering of its usage. The *conformity* pattern is partially a consequence of design professionals being able to quickly learning how to use the same popular design resource. The *[eating its own dog food](#ResourceCommitment)* pattern is an attempt to stimulate intensive learn within the design company about their designs. And the [*you are a reflection of your design*](#OutcomeSignature) pattern is a consequence of designers and organizations learning and adapting to efficiently produce a particular design outcome.
 
 The *[cherry picking](#CherryPicking)* pattern may be viewed as an attempt to avoid risks and costs of extensive learning. In this pattern, designers know limitations of their resources and are applying them only in situations where the resources have proved their value and no surprises are expected.
 
@@ -88,6 +93,8 @@ The *[cherry picking](#CherryPicking)* pattern may be viewed as an attempt to av
 ## D. Tacit Knowledge and Skills
 
 **Summary**: *Designers are relying on tacit knowledge and skills that they do not fully understand and cannot fully explain. Because of its implicit nature, it is hard to predict what effects tacit knowledge will have in design.*
+
+**Related Patterns**: *[co-evolution of problem-solution](#CoEvolution), [commitment](#ResourceCommitment)*.
 
 The term “tacit knowing” or “tacit knowledge” was first introduced by Michael Polanyi, with his central assertion being that “*we can know more than we can tell*.” ([Polanyi 1966, page 4](#Polanyi1966)). Polanyi analyzed diverse forms of tacit knowledge, such as tradition, inherited practices, implied values, and prejudgments.
 
@@ -106,6 +113,8 @@ Tacit knowledge is crucial in design, but because of its implicit nature, it is 
 ## E. Social Dynamics
 
 **Summary**: *Design situations, resources, and outcomes are complex socio-technical systems, with complex, difficult to predict dynamics.*
+
+**Related Patterns**: *the [force awakens](#Boomerang), [design-by-buzzword](#DesignByBuzzword), [conformity](#ResourceConformity), [commitment](#ResourceCommitment), [your design is your reflection](#ResourceSignature)*.
 
 More than 80 years ago, the Hawthorne studies demonstrated that no one interested in the behavior of people could consider them as isolated individuals ([Obrenovic 2014](#Obrenovic2014)). These studies initially aimed at studying the impact of material conditions (e.g., lighting) on the productivity of workers. They discovered that it makes no sense to study the productivity of workers without taking into account factors such as motivational and group influences, social status, informal communication, roles, norms, job satisfaction, resistance to change, group norms, worker participation, and leadership.
 
@@ -129,6 +138,8 @@ Social factors influence most of the patterns of dynamics of design activities. 
 ## F. Lack of Strong Principles, Theories, and Laws
 
 **Summary**: *Designers are dealing with poorly understood phenomena, for which we do not have strong underlying principles, theories, and laws.*
+
+**Related Patterns**: *the [force awakens](#Boomerang), [pandora's box](#ProblematicSolution), [co-evolution of problem-solution](#CoEvolution), [solution looking for a problem](#SolutionLookingForProblem), [design-by-buzzword](#DesignByBuzzword)*.
 
 One common theme about previous sources of design dynamics is that we are dealing with poorly understood phenomena. Even though there are large numbers of “theories” today about human factors, design processes, and tools, we do not have “strong” theories in the sense that they can be used to prescribe or predict design fully. Learning and creativity, for example, depend on people’s intelligence, previous knowledge and experience, motivation, context, and other factors. Even when studied in more controlled settings, such as in the classroom, learning and creativity are difficult to model. In real-world situations, it is even harder to anticipate how fast and what people will learn, how creative they will be, and how this will affect their behavior.  For example, when introducing a new device, we require people to learn how to use it. This learning process is a function of device design, but other factors, such as peer pressure (e.g., number of friends who have a similar device), can have even more impact on motivation and learning. We do not have enough knowledge to predict or simulate such processes reliably.
 
