@@ -160,7 +160,9 @@ The *solution looking for a problem* pattern is related to the *[co-evolution of
 ![A DynaTAC 8000X (first commercially available mobile phone from 1984). Martin Cooper of Motorola made the first publicized handheld mobile phone call on a prototype DynaTAC model on April 3, 1973. Credit: Hinman, Rachel. 2012. The Mobile Frontier. New York: Rosenfeld Media. / Flickr / CC-BY-2.0](images/first_mobile_phone.jpg)
 
 
-### Pandora's Box {#ProblematicSolution}
+### Pandora's Box[^PandoraBoxDef] {#ProblematicSolution}
+
+[^PandoraBoxDef]: 'Pandora's box is an artifact in Greek mythology, taken from the myth of Pandora in Hesiod's Works and Days. The container mentioned in the original story is actually a large storage jar but the word was later mistranslated as "box". In modern times an idiom has grown from it meaning “Any source of great and unexpected troubles”, or alternatively “A present which seems valuable but which in reality is a curse”. Later artistic treatments of the fatal container have been very varied, while some literary treatments have focused more on the contents of the idiomatic box than on Pandora herself.' https://en.wikipedia.org/wiki/Pandora's_box
 
 **Motto**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 

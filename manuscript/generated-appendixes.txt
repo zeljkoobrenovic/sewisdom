@@ -12,7 +12,7 @@
 
 **Puzzle Solving**: *A design situation is viewed as a clearly defined and static problem (i.e., a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
 
-**Solution Looking for a Problem**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
+**A Solution Looking for a Problem**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
 
 **Pandora's Box**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design outcome may become more known for the problems it caused than for the solution it provided.*
 
@@ -38,7 +38,7 @@
 
 **Puzzle Solving**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
 
-**Solution Looking for a Problem**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
+**A Solution Looking for a Problem**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
 
 **Pandora's Box**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
 
