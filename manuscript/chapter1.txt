@@ -88,7 +88,7 @@ suggestions that we either identify a program's principal function and describe 
   
 * * *
 
-"... I believe that in our branch of engineering, above all others, the academic ideals of **rigor and elegance will pay the highest dividends** in practical terms of reducing costs, increasing performance, and in directing the great sources of computational power on the surface of a silicon chip to the use and convenience of man."  
+"I believe that in our branch of engineering, above all others, the academic ideals of **rigor and elegance will pay the highest dividends** in practical terms of reducing costs, increasing performance, and in directing the great sources of computational power on the surface of a silicon chip to the use and convenience of man."  
 
 * * *
 
@@ -272,7 +272,7 @@ and control of the interactions among entities in different modules."
   
 * * *
 
-"[T]he **lack of a complete theoretical basis** for distributed computing systems need not inhibit the development of useful systems. Even without such a basis, many **technical advances have been made by individuals**, who then **share them with others**, who in turn accept useful concepts and add further innovations."  
+"The **lack of a complete theoretical basis** for distributed computing systems need not inhibit the development of useful systems. Even without such a basis, many **technical advances have been made by individuals**, who then **share them with others**, who in turn accept useful concepts and add further innovations."  
 
 * * *
 
@@ -381,7 +381,7 @@ and control of the interactions among entities in different modules."
   
 * * *
 
-"The SEI [Software Engineering Institute] has established its long-range goal: Transition **new software engineering technology** into **routine common practice** to achieve significant improvements in the ability of software developers and maintainers to produce and support predictably high quality systems."  
+"The SEI Software Engineering Institute has established its long-range goal: Transition **new software engineering technology** into **routine common practice** to achieve significant improvements in the ability of software developers and maintainers to produce and support predictably high quality systems."  
 
 * * *
 
@@ -426,7 +426,7 @@ and control of the interactions among entities in different modules."
   
 * * *
 
-"... **multiparadigm systems** incorporating **two or more of the conventional program paradigms**. For example, the Loops system ... combines features of the Lisp, functional, rule-oriented, and object-oriented paradigms."  
+"**Multiparadigm systems** incorporating **two or more of the conventional program paradigms**. For example, the Loops system ... combines features of the Lisp, functional, rule-oriented, and object-oriented paradigms."  
 
 * * *
 
@@ -525,7 +525,7 @@ system, written a decade or more ago in unstructured languages according to **de
   
 * * *
 
-"...arguing about the definition of **software maintenance** seldom leads to maintenance advances..."  
+"Arguing about the definition of **software maintenance** seldom leads to maintenance advances..."  
 
 * * *
 
@@ -648,7 +648,7 @@ system, written a decade or more ago in unstructured languages according to **de
   
 * * *
 
-"... **Modula-2** has been adopted as the foundation for a number of **experimental systems**. The insights gained from those experiments will prove valuable to both current **designers and future users of programming systems**, no matter what the language. "  
+"**Modula-2** has been adopted as the foundation for a number of **experimental systems**. The insights gained from those experiments will prove valuable to both current **designers and future users of programming systems**, no matter what the language. "  
 
 * * *
 
@@ -678,7 +678,7 @@ system, written a decade or more ago in unstructured languages according to **de
   
 * * *
 
-"**ABC** is being designed and implemented with an **integrated programming environment**. ... [T]he main design objectives ... : **simplicity**, suitability for **interactive use**, and **availability of tools** for structured programming."  
+"**ABC** is being designed and implemented with an **integrated programming environment**. ... The main design objectives ... : **simplicity**, suitability for **interactive use**, and **availability of tools** for structured programming."  
 
 * * *
 
@@ -710,7 +710,7 @@ from the general and widely applicable to the specific and narrowly applicable."
   
 * * *
 
-"**[V]isual programming languages** ... deal with objects that do not have an inherent visual representation. This includes traditional data types such as arrays, stacks, and queues and application data types such as forms, documents, and databases. ... both programming constructs and and the rules to combine these constructs should be presented visually."  
+"**Visual programming languages** ... deal with objects that do not have an inherent visual representation. This includes traditional data types such as arrays, stacks, and queues and application data types such as forms, documents, and databases. ... both programming constructs and and the rules to combine these constructs should be presented visually."  
 
 * * *
 
@@ -823,7 +823,7 @@ from the general and widely applicable to the specific and narrowly applicable."
   
 * * *
 
-"[T]he term [debugging] was first applied to **a hardware bug** - **a moth** in the circuitry of Mark II"  
+"The term debugging was first applied to **a hardware bug** - **a moth** in the circuitry of Mark II"  
 
 * * *
 
@@ -1107,7 +1107,7 @@ from the general and widely applicable to the specific and narrowly applicable."
   
 * * *
 
-"[A] **software-process maturity framework** ... has been developed to provide the US Department of Defense with a means to characterize the capabilities of software-development organizations. This software-development process-maturity model reasonably represents the actual ways in which software-development organizations improve. It provides a framework for assessing these organizations and identifying the priority areas for immediate improvement. It also helps identify those places where advanced technology can be most valuable in improving the software-development process."  
+"A **software-process maturity framework** ... has been developed to provide the US Department of Defense with a means to characterize the capabilities of software-development organizations. This software-development process-maturity model reasonably represents the actual ways in which software-development organizations improve. It provides a framework for assessing these organizations and identifying the priority areas for immediate improvement. It also helps identify those places where advanced technology can be most valuable in improving the software-development process."  
 
 * * *
 
@@ -1143,7 +1143,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[C]urrent computer-aided-software engineering (CASE) tools have several **inherent limitations** that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement."  
+"Current computer-aided-software engineering (CASE) tools have several **inherent limitations** that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement."  
 
 * * *
 
@@ -1225,7 +1225,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[E]ven though the code sizes were smaller with both fourth-generation tools, **Cobol was clearly superior** in performance."  
+"Even though the code sizes were smaller with both fourth-generation tools, **Cobol was clearly superior** in performance."  
 
 * * *
 
@@ -1415,7 +1415,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[I]nspections** can detect and eliminate faults **more cheaply than testing**."  
+"**Inspections** can detect and eliminate faults **more cheaply than testing**."  
 
 * * *
 
@@ -1538,7 +1538,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he European Strategic Program for Research and Information Technology **[ESPRIT]** has had a profound effect on industrial technology in Europe."  
+"The European Strategic Program for Research and Information Technology **ESPRIT** has had a profound effect on industrial technology in Europe."  
 
 * * *
 
@@ -1643,7 +1643,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]here is considerable confusion over the terminology used in both technical and marketplace discussions. The authors define and relate six terms: **forward engineering**, **reverse engineering**, **redocumentation**, **design recovery**, **restructuring**, and **reengineering**."  
+"There is considerable confusion over the terminology used in both technical and marketplace discussions. The authors define and relate six terms: **forward engineering**, **reverse engineering**, **redocumentation**, **design recovery**, **restructuring**, and **reengineering**."  
 
 * * *
 
@@ -1669,7 +1669,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"... **measurement** must be applied in individual experiments or case studies; ... measurement can help continuously improve an organization's state of the practice; ... measurement requires automated support."  
+"**Measurement** must be applied in individual experiments or case studies; ... measurement can help continuously improve an organization's state of the practice; ... measurement requires automated support."  
 
 * * *
 
@@ -1725,7 +1725,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Some **[testing] tools** simulate the final execution environment as a way of expediting test execution, others automate the development of test plans, and still others collect performance data during execution."  
+"Some **testing tools** simulate the final execution environment as a way of expediting test execution, others automate the development of test plans, and still others collect performance data during execution."  
 
 * * *
 
@@ -1755,7 +1755,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]hree approaches to **user-interface development**: **tool kits**, **user-interface management systems** (UIMS), and interactive **design tools**."  
+"Three approaches to **user-interface development**: **tool kits**, **user-interface management systems** (UIMS), and interactive **design tools**."  
 
 * * *
 
@@ -1878,7 +1878,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Schools** represent a challenge for the software industry. Although **diverting corporate resources to schools** may appear to be folly in the short run, in the long run it is a strategy for survival. [P]rogrammers and their organizations [should] devote their time and services to schools at the primary and secondary levels."  
+"**Schools** represent a challenge for the software industry. Although **diverting corporate resources to schools** may appear to be folly in the short run, in the long run it is a strategy for survival. Programmers and their organizations should devote their time and services to schools at the primary and secondary levels."  
 
 * * *
 
@@ -1938,7 +1938,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[Q]uantitative results based on a 1988 study of inspection of 2.5 million lines of high-level code at Bell-Northern Research ... confirm that **code inspection** is still one of the most efficient ways to remove software defects."  
+"Quantitative results based on a 1988 study of inspection of 2.5 million lines of high-level code at Bell-Northern Research ... confirm that **code inspection** is still one of the most efficient ways to remove software defects."  
 
 * * *
 
@@ -2061,7 +2061,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[T]he article** by T. Bollinger and C. McGowan, entitled 'A critical look at software capability evaluation', see ibid., p.25-41 (1991), **contains a serious flaw**. ... common misconceptions about the SEI ... fall into six categories: SCE's purpose ...; how the SCE method works in practice; the statistical methods used to determine levels; the ongoing process of refining the method; the maturity framework; and the coverage of technology issues."  
+"**The article** by T. Bollinger and C. McGowan, entitled 'A critical look at software capability evaluation', see ibid., p.25-41 (1991), **contains a serious flaw**. ... common misconceptions about the SEI ... fall into six categories: SCE's purpose ...; how the SCE method works in practice; the statistical methods used to determine levels; the ongoing process of refining the method; the maturity framework; and the coverage of technology issues."  
 
 * * *
 
@@ -2174,7 +2174,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Process-management systems often focus on details at the expense of the big picture. The Cosmos model makes long-term objectives explicit, so managers can have both views. [C]osmos ... combines the best of existing models by incorporating three perspectives: activity, communication, and infrastructure. Cosmos is designed to manage a large software system from beginning to end."  
+"Process-management systems often focus on details at the expense of the big picture. The Cosmos model makes long-term objectives explicit, so managers can have both views. Cosmos ... combines the best of existing models by incorporating three perspectives: activity, communication, and infrastructure. Cosmos is designed to manage a large software system from beginning to end."  
 
 * * *
 
@@ -2204,7 +2204,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[A] **knowledge-based design support system**, called KDSS ... help[s] designers inexperienced in communication system design easily create advanced systems like **intelligent networks**, and large-scale distributed computing systems."  
+"A **knowledge-based design support system**, called KDSS ... helps designers inexperienced in communication system design easily create advanced systems like **intelligent networks**, and large-scale distributed computing systems."  
 
 * * *
 
@@ -2320,7 +2320,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[C]urrent work on **integrated project support environments (IPSEs)** is based on an inappropriate view of integration,  and ... IPSE developers should create semantically rich infrastructures or produce well-integrated tool sets rather than open repositories or infrastructures."  
+"Current work on **integrated project support environments (IPSEs)** is based on an inappropriate view of integration,  and ... IPSE developers should create semantically rich infrastructures or produce well-integrated tool sets rather than open repositories or infrastructures."  
 
 * * *
 
@@ -2335,7 +2335,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he reference model permit **three forms of integration**: **data integration**, **control integration**, and **presentation integration**. ... The organizational framework divides systems development and management into **three activity levels**: **IS infrastructure planning and design** is undertaken at the enterprise level, **systems project management and decisions** are made at the project level, and **software-development processes** are carried out at the individual and team level. "  
+"The reference model permit **three forms of integration**: **data integration**, **control integration**, and **presentation integration**. ... The organizational framework divides systems development and management into **three activity levels**: **IS infrastructure planning and design** is undertaken at the enterprise level, **systems project management and decisions** are made at the project level, and **software-development processes** are carried out at the individual and team level. "  
 
 * * *
 
@@ -2391,7 +2391,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[O]rganizations buy integrated CASE tools only to **leave them on the shelf** because they misinterpret the learning curve and its effect on productivity."  
+"Organizations buy integrated CASE tools only to **leave them on the shelf** because they misinterpret the learning curve and its effect on productivity."  
 
 * * *
 
@@ -2406,7 +2406,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[S]ix categories of questions ... determine how well a tool does what it was intended to do. The questionnaire comprises 140 questions divided into the categories: **ease of use**, **power**, **robustness**, **functionality**, **ease of insertion**, and **quality of support**."  
+"Six categories of questions ... determine how well a tool does what it was intended to do. The questionnaire comprises 140 questions divided into the categories: **ease of use**, **power**, **robustness**, **functionality**, **ease of insertion**, and **quality of support**."  
 
 * * *
 
@@ -2432,7 +2432,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]hree separate but related functions comprise an **integrated reliability program**: **prediction**, **control**, and **assessment**."  
+"Three separate but related functions comprise an **integrated reliability program**: **prediction**, **control**, and **assessment**."  
 
 * * *
 
@@ -2503,7 +2503,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he problem of **ensuring timing correctness** in **dynamic real-time systems** has three aspects: **resource requirements**, **resource availability**, and **guarantees**."  
+"The problem of **ensuring timing correctness** in **dynamic real-time systems** has three aspects: **resource requirements**, **resource availability**, and **guarantees**."  
 
 * * *
 
@@ -2544,7 +2544,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he Interaction Management Network (IMN) ... captures the essential structure of any interface from **task-oriented specification** to **object-oriented implementation** is presented. IMN is essentially a **task-oriented specification scheme** based on a semantic network."  
+"The Interaction Management Network (IMN) ... captures the essential structure of any interface from **task-oriented specification** to **object-oriented implementation** is presented. IMN is essentially a **task-oriented specification scheme** based on a semantic network."  
 
 * * *
 
@@ -2604,7 +2604,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Object orientation** facilitates change but makes programs harder for maintainers to understand. ... The appearance and organization of OO [object-oriented] code **may startle may programmers**."  
+"**Object orientation** facilitates change but makes programs harder for maintainers to understand. ... The appearance and organization of OO object-oriented code **may startle may programmers**."  
 
 * * *
 
@@ -2691,7 +2691,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[D]etermining the consequences of a stop-test decision ... combines software reliability engineering and economic analysis ... The approach ... **quantify the economic consequences** associated with **terminating testing** ..."  
+"Determining the consequences of a stop-test decision ... combines software reliability engineering and economic analysis ... The approach ... **quantify the economic consequences** associated with **terminating testing** ..."  
 
 * * *
 
@@ -2732,7 +2732,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[A] **model-based**,  automatic software synthesis environment ... automatically generates a macro-dataflow computation from declarative models. Central to the approach is the Multigraph Architecture, which provides the framework for model-based synthesis in real-time, parallel-computing environments."  
+"A **model-based**,  automatic software synthesis environment ... automatically generates a macro-dataflow computation from declarative models. Central to the approach is the Multigraph Architecture, which provides the framework for model-based synthesis in real-time, parallel-computing environments."  
 
 * * *
 
@@ -2773,7 +2773,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"The **CMM [capability maturity model]** was designed to help developers select **process-improvement strategies** by determining their current process maturity and identifying the issues most critical to improving their software quality and process. ... The current version of the CMM is the result of the feedback from that workshop and ongoing feedback from the software  community."  
+"The **CMM capability maturity model** was designed to help developers select **process-improvement strategies** by determining their current process maturity and identifying the issues most critical to improving their software quality and process. ... The current version of the CMM is the result of the feedback from that workshop and ongoing feedback from the software  community."  
 
 * * *
 
@@ -2814,7 +2814,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[F]ive problems ... can contribute to a software project's failure ... : **inadequate system engineering** during the proposal and during front-end development; **inadequate tracing**, tracking, and management of system and software requirements; **improper sizing** of the target hardware; selection of design, production, and integration and test **methodologies that are inappropriate** to a large software development; and **failure to provide a metrics program** that would let managers track the progress of software production and test."  
+"Five problems ... can contribute to a software project's failure ... : **inadequate system engineering** during the proposal and during front-end development; **inadequate tracing**, tracking, and management of system and software requirements; **improper sizing** of the target hardware; selection of design, production, and integration and test **methodologies that are inappropriate** to a large software development; and **failure to provide a metrics program** that would let managers track the progress of software production and test."  
 
 * * *
 
@@ -2829,7 +2829,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[S]oftware engineering** most resembles a **dynamically overloaded queue or rush-hour traffic jam**."  
+"**Software engineering** most resembles a **dynamically overloaded queue or rush-hour traffic jam**."  
 
 * * *
 
@@ -2844,7 +2844,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Most software engineering research has been following a **research-then-transer** methodology, with mixed results ... [In] the **industry-as-laboratory** approach ... researchers identify problems through **close involvement with industrial projects** and create and evaluate solutions in an almost **indivisible research activity**. This approach emphasizes what people actually do or can do in practice, rather than what is possible in principle."  
+"Most software engineering research has been following a **research-then-transer** methodology, with mixed results ... In the **industry-as-laboratory** approach ... researchers identify problems through **close involvement with industrial projects** and create and evaluate solutions in an almost **indivisible research activity**. This approach emphasizes what people actually do or can do in practice, rather than what is possible in principle."  
 
 * * *
 
@@ -3290,7 +3290,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"The large aspiration to place the whole of **software development** alongside the **established branches** as one more branch of engineering is **misconceived**. ... [O]ur aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches."  
+"The large aspiration to place the whole of **software development** alongside the **established branches** as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches."  
 
 * * *
 
@@ -3335,7 +3335,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[I]increasing connectivity** and **consumer demands** will power an unprecedented **growth in software's volume and complexity** ... the flexibility and robustness of **an object-oriented approach** can best meet these future challenges."  
+"**Iincreasing connectivity** and **consumer demands** will power an unprecedented **growth in software's volume and complexity** ... the flexibility and robustness of **an object-oriented approach** can best meet these future challenges."  
 
 * * *
 
@@ -3410,7 +3410,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"As the manager of a small software-reengineering company, I am continually confronted with the task of **justifying reengineering**. ... they **[technical issues] may be irrelevant** if you are not able to **make a business case** for solving them."  
+"As the manager of a small software-reengineering company, I am continually confronted with the task of **justifying reengineering**. ... they **technical issues may be irrelevant** if you are not able to **make a business case** for solving them."  
 
 * * *
 
@@ -3593,7 +3593,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]e redesigned the Sun home page after observing users ... One change we made shows the **benefits of this type of testing**: We discovered early on that users didn’t recognize the “What’s New at Sun” button as a link, and ... we redesigned the button immediately ... use of the 'What's New at Sun' button **increased by 416 percent** ... **small interface changes** can lead to **dramatic changes in user behavior**! "  
+"We redesigned the Sun home page after observing users ... One change we made shows the **benefits of this type of testing**: We discovered early on that users didn’t recognize the “What’s New at Sun” button as a link, and ... we redesigned the button immediately ... use of the 'What's New at Sun' button **increased by 416 percent** ... **small interface changes** can lead to **dramatic changes in user behavior**! "  
 
 * * *
 
@@ -3608,7 +3608,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Many **nonformalists** seem to believe that formal methods are **merely an academic exercise** -- a form of **mental masturbation** that has no relation to real-world problems. ... [W]e address and dispel seven new myths about formal methods ..."  
+"Many **nonformalists** seem to believe that formal methods are **merely an academic exercise** -- a form of **mental masturbation** that has no relation to real-world problems. ... We address and dispel seven new myths about formal methods ..."  
 
 * * *
 
@@ -3840,7 +3840,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he **need to be beautiful** and produce more elaborate and **polished designs** changes our traditionally restrained and functionality-oriented design focus."  
+"The **need to be beautiful** and produce more elaborate and **polished designs** changes our traditionally restrained and functionality-oriented design focus."  
 
 * * *
 
@@ -3941,7 +3941,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[A] **lack of solid historical data** makes project managers, executives, and clients **blind to the realities** of software development."  
+"A **lack of solid historical data** makes project managers, executives, and clients **blind to the realities** of software development."  
 
 * * *
 
@@ -4083,7 +4083,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[O]rganizations have invested in **dozens of technological innovations** such as **fourth-generation** languages, **CASE** products, **object-oriented** analysis and programming, and software **reuse**. Yet productivity tools simply **aren't delivering increased productivity** even when a project is managed 'by the book.'  ... the software development environment is **a complex social system **that causes such practices to have unintended consequences."  
+"Organizations have invested in **dozens of technological innovations** such as **fourth-generation** languages, **CASE** products, **object-oriented** analysis and programming, and software **reuse**. Yet productivity tools simply **aren't delivering increased productivity** even when a project is managed 'by the book.'  ... the software development environment is **a complex social system **that causes such practices to have unintended consequences."  
 
 * * *
 
@@ -4139,7 +4139,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he organization attempts to understand and balance **competing concerns** regarding the **new technology**. These concerns include **acquisition costs**, the technology's effect on quality and **time to market**, and the **training** and **support** services it will require. "  
+"The organization attempts to understand and balance **competing concerns** regarding the **new technology**. These concerns include **acquisition costs**, the technology's effect on quality and **time to market**, and the **training** and **support** services it will require. "  
 
 * * *
 
@@ -4240,7 +4240,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[Q]uantitative data** makes sense when you are trying to decide between **two or more alternatives**."  
+"**Quantitative data** makes sense when you are trying to decide between **two or more alternatives**."  
 
 * * *
 
@@ -4341,7 +4341,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he more **integral** software **measurement** is to the company's underlying **business strategy**, the more likely it is to succeed."  
+"The more **integral** software **measurement** is to the company's underlying **business strategy**, the more likely it is to succeed."  
 
 * * *
 
@@ -4483,7 +4483,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Discussions with users** must be **carefully planned** ... [I]dentifying ourselves and gaining their confidence was of utmost importance ... **Learning** the **work culture** and adapting to it go a long way toward **winning support**. "  
+"**Discussions with users** must be **carefully planned** ... Identifying ourselves and gaining their confidence was of utmost importance ... **Learning** the **work culture** and adapting to it go a long way toward **winning support**. "  
 
 * * *
 
@@ -4498,7 +4498,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[A] checklist** for **choosing a tool** that fits your needs[:] **[u]sability**, **functionality**, **flexibility**, **portability**, **support**, and **cost** are all part of the picture."  
+"**A checklist** for **choosing a tool** that fits your needs: **usability**, **functionality**, **flexibility**, **portability**, **support**, and **cost** are all part of the picture."  
 
 * * *
 
@@ -4700,7 +4700,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[H]istory does suggest that our **early expectations** about the **problem-solving potential** of **unbridled technology** should be relatively **low**."  
+"History does suggest that our **early expectations** about the **problem-solving potential** of **unbridled technology** should be relatively **low**."  
 
 * * *
 
@@ -4715,7 +4715,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he **software development** and **maintenance processes**, which I prefer to unify and call **software evolution**, **are key** to managing computerization. In my view it is key to our survival in this computer age."  
+"The **software development** and **maintenance processes**, which I prefer to unify and call **software evolution**, **are key** to managing computerization. In my view it is key to our survival in this computer age."  
 
 * * *
 
@@ -4730,7 +4730,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]e might be expected to become **serious software engineers**. We won't, of course. "  
+"We might be expected to become **serious software engineers**. We won't, of course. "  
 
 * * *
 
@@ -4760,7 +4760,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[F]or software developers at **established organizations**, caught in the cross-fire of the **language wars**, the **operating system wars**, the **platform wars**, the **middleware wars**, and the **browser wars**, laboring to push yet another release out the door under compressed schedules, weighed down by the **millstone of legacy code**, and torn asunder by the ravages of ill-conceived and ever-changing requirements, then the **future looks grim** - to put it mildly. "  
+"For software developers at **established organizations**, caught in the cross-fire of the **language wars**, the **operating system wars**, the **platform wars**, the **middleware wars**, and the **browser wars**, laboring to push yet another release out the door under compressed schedules, weighed down by the **millstone of legacy code**, and torn asunder by the ravages of ill-conceived and ever-changing requirements, then the **future looks grim** - to put it mildly. "  
 
 * * *
 
@@ -4790,7 +4790,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he likely future of the software industry is this: it will be either **the best of times** or the **worst of times**-**or both**. ... **Year 2000 crisis** may plunge us all into several years of decidedly **unpleasant times**."  
+"The likely future of the software industry is this: it will be either **the best of times** or the **worst of times**-**or both**. ... **Year 2000 crisis** may plunge us all into several years of decidedly **unpleasant times**."  
 
 * * *
 
@@ -4891,7 +4891,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[Y]ou could ... say that the **main business** of **everyone on earth** is to **help everyone else** — including ourselves — get **enlightened** because the technology is getting more and more dangerous. "  
+"You could ... say that the **main business** of **everyone on earth** is to **help everyone else** — including ourselves — get **enlightened** because the technology is getting more and more dangerous. "  
 
 * * *
 
@@ -4992,7 +4992,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"... OO does not match the way we normally think. ... however, that this is **true of programming in any language** using any paradigm."  
+"Object-orientation (OO) does not match the way we normally think. ... however, that this is **true of programming in any language** using any paradigm."  
 
 * * *
 
@@ -5119,7 +5119,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Ellen Ullman, describing her first **Linux** installation, wrote 'I exaggerate only a little if I say that [**Linux**] is a **reassertion of our dignity** as humans working with mere machine; a **return**, quite literally, **to the source**.'"  
+"Ellen Ullman, describing her first **Linux** installation, wrote 'I exaggerate only a little if I say that **Linux** is a **reassertion of our dignity** as humans working with mere machine; a **return**, quite literally, **to the source**.'"  
 
 * * *
 
@@ -5134,7 +5134,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he need to closely examine a problematic aspect of component reuse: the necessity and potential **expense** of **validating components** in their new environments."  
+"The need to closely examine a problematic aspect of component reuse: the necessity and potential **expense** of **validating components** in their new environments."  
 
 * * *
 
@@ -5235,7 +5235,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he ultimate **survival** of the **Java Virtual Machine** is much less certain. Java's inventors at Sun Microsystems have presented their creation as a single inseparable concept that encompasses a **language**, a rich class **library**, and a software distribution standard based on **a virtual machine**. These three parts are **not nearly as inseparable** as Sun claims. "  
+"The ultimate **survival** of the **Java Virtual Machine** is much less certain. Java's inventors at Sun Microsystems have presented their creation as a single inseparable concept that encompasses a **language**, a rich class **library**, and a software distribution standard based on **a virtual machine**. These three parts are **not nearly as inseparable** as Sun claims. "  
 
 * * *
 
@@ -5624,7 +5624,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[A]rchitecture** is not so much **about the software**, but about the people who write the software. The **core principles** of architecture, such as coupling and cohesion, **aren't about the cod**e. The **code doesn't 'care'** about how cohesive or decoupled it **is**; if anything, tightly coupled software lacks some of the performance snags found in more modular systems. But **people do care** about their **coupling to other team members**. "  
+"**Architecture** is not so much **about the software**, but about the people who write the software. The **core principles** of architecture, such as coupling and cohesion, **aren't about the cod**e. The **code doesn't 'care'** about how cohesive or decoupled it **is**; if anything, tightly coupled software lacks some of the performance snags found in more modular systems. But **people do care** about their **coupling to other team members**. "  
 
 * * *
 
@@ -5710,7 +5710,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**'Software Engineering' programs** have become a source of contention in many **universities**. Computer Science departments, many of which have used that phrase to describe individual courses for decades, claim SE as part of their discipline. Yet some engineering faculties claim it as a new specialty among the engineering disciplines. ... [W]e need SE programs that **follow the traditional engineering approach** to professional education."  
+"**'Software Engineering' programs** have become a source of contention in many **universities**. Computer Science departments, many of which have used that phrase to describe individual courses for decades, claim SE as part of their discipline. Yet some engineering faculties claim it as a new specialty among the engineering disciplines. ... We need SE programs that **follow the traditional engineering approach** to professional education."  
 
 * * *
 
@@ -6084,7 +6084,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he Internet and public phone system (upon which the Internet sits) provide an **information highway** that also was **not designed to thwart** 'bad guys.' As a result, today we rely on an infrastructure that **enables** rogue **individuals and nations** to **remotely attack** information assets."  
+"The Internet and public phone system (upon which the Internet sits) provide an **information highway** that also was **not designed to thwart** 'bad guys.' As a result, today we rely on an infrastructure that **enables** rogue **individuals and nations** to **remotely attack** information assets."  
 
 * * *
 
@@ -6170,7 +6170,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[E]stimates** have a number of uses, and you can often get both better and simpler estimates if you **keep the use** of your estimate **in mind**."  
+"**Estimates** have a number of uses, and you can often get both better and simpler estimates if you **keep the use** of your estimate **in mind**."  
 
 * * *
 
@@ -6316,7 +6316,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[**Global Software Development**] requires close cooperation of individuals with different **cultural backgrounds**. Cultures differ on many critical dimensions, such as the need for **structure**, attitudes toward **hierarchy**, sense of **time**, and **communication** styles. "  
+"**Global Software Development** requires close cooperation of individuals with different **cultural backgrounds**. Cultures differ on many critical dimensions, such as the need for **structure**, attitudes toward **hierarchy**, sense of **time**, and **communication** styles. "  
 
 * * *
 
@@ -6357,7 +6357,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]raditional **software measurement**, like traditional software process improvement, is **misaligned** with two of the three **basic strategies**, **customer intimacy** and **product innovativeness**. Measurement initiatives can succeed if you understand your organization's strategic objectives and then tailor your measurement practices to fit."  
+"Traditional **software measurement**, like traditional software process improvement, is **misaligned** with two of the three **basic strategies**, **customer intimacy** and **product innovativeness**. Measurement initiatives can succeed if you understand your organization's strategic objectives and then tailor your measurement practices to fit."  
 
 * * *
 
@@ -6544,7 +6544,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Margaret Boden ... identifies basic **types of creative processes**: **exploratory creativity** explores a possible solution space and discovers new ideas, **combinatorial creativity** combines two or more ideas that already exist to create new ideas, and **transformational creativity** changes the solution space to make impossible things possible. Most [requirements engineering] RE activities are exploratory. "  
+"Margaret Boden ... identifies basic **types of creative processes**: **exploratory creativity** explores a possible solution space and discovers new ideas, **combinatorial creativity** combines two or more ideas that already exist to create new ideas, and **transformational creativity** changes the solution space to make impossible things possible. Most requirements engineering RE activities are exploratory. "  
 
 * * *
 
@@ -6615,7 +6615,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[**Extreme Programming**] XP is not the ultimate silver bullet that offers an answer to all development problems. But it has **gained significant momentum** and an increasing number of software teams are ready to give it a try."  
+"**Extreme Programming** XP is not the ultimate silver bullet that offers an answer to all development problems. But it has **gained significant momentum** and an increasing number of software teams are ready to give it a try."  
 
 * * *
 
@@ -6731,7 +6731,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Many current **Web technologies** lend themselves to **bad practices**, including **cut-and-paste** reuse, **ad-hoc scripts**, **direct-to-database code**, and **fragmented business logic**. [G]ood design practices are increasingly important in Web development ... [a] **Model-View-Controller** ... framework lets developers focus on writing application code instead of dealing with servlets, requests, or session variables."  
+"Many current **Web technologies** lend themselves to **bad practices**, including **cut-and-paste** reuse, **ad-hoc scripts**, **direct-to-database code**, and **fragmented business logic**. Good design practices are increasingly important in Web development ... a **Model-View-Controller** ... framework lets developers focus on writing application code instead of dealing with servlets, requests, or session variables."  
 
 * * *
 
@@ -6877,7 +6877,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[A]n emerging trend is to develop **knowledge management** and **knowledge sharing initiatives** within organizations. For example, **NASA** formed a Knowledge Management Team, comprised of NASA representatives. NASA Goddard Space Flight Center (GSFC) has several knowledge management initiatives underway on the expert and knowledge retention side."  
+"An emerging trend is to develop **knowledge management** and **knowledge sharing initiatives** within organizations. For example, **NASA** formed a Knowledge Management Team, comprised of NASA representatives. NASA Goddard Space Flight Center (GSFC) has several knowledge management initiatives underway on the expert and knowledge retention side."  
 
 * * *
 
@@ -6922,7 +6922,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[I]t is difficult to make **decisions about performance** from **just looking at the design**. Rather, you have to actually **run** the code and **measure performance**."  
+"It is difficult to make **decisions about performance** from **just looking at the design**. Rather, you have to actually **run** the code and **measure performance**."  
 
 * * *
 
@@ -6978,7 +6978,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]wo dichotomies characterize software process improvement efforts and approaches: **disciplined** vs. **creative** work and** procurer risks** vs. **user satisfaction**. "  
+"Two dichotomies characterize software process improvement efforts and approaches: **disciplined** vs. **creative** work and** procurer risks** vs. **user satisfaction**. "  
 
 * * *
 
@@ -7225,7 +7225,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[I]t's helpful to identify two separate orthogonal dimensions of metamodeling, giving rise to two distinct forms of instantiation. One dimension is concerned with **language definition** and hence uses **linguistic instantiation**. The other dimension is concerned with **domain definition** and thus uses **ontological instantiation**. "  
+"It's helpful to identify two separate orthogonal dimensions of metamodeling, giving rise to two distinct forms of instantiation. One dimension is concerned with **language definition** and hence uses **linguistic instantiation**. The other dimension is concerned with **domain definition** and thus uses **ontological instantiation**. "  
 
 * * *
 
@@ -7371,7 +7371,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]hen in doubt, **make a new type**."  
+"When in doubt, **make a new type**."  
 
 * * *
 
@@ -7528,7 +7528,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-".. **[A]ccelerate the testing** of scheduled functions by triggering them through **automated tests**, either by periodically **advancing the system clock** or through a **programmatic event interface**."  
+".. **Accelerate the testing** of scheduled functions by triggering them through **automated tests**, either by periodically **advancing the system clock** or through a **programmatic event interface**."  
 
 * * *
 
@@ -7618,7 +7618,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he **Extreme Programming** methodology exudes this same advice: **Be communicative with everyone** on the team—including **customers**, end **users**, and **business** folks. Consistently and doggedly strive to understand and deliver what your **customers want** with the highest possible quality. **Frequently offer feedback**—a one-minute manager would never hold back until a formal appraisal cycle to give feedback to employees. "  
+"The **Extreme Programming** methodology exudes this same advice: **Be communicative with everyone** on the team—including **customers**, end **users**, and **business** folks. Consistently and doggedly strive to understand and deliver what your **customers want** with the highest possible quality. **Frequently offer feedback**—a one-minute manager would never hold back until a formal appraisal cycle to give feedback to employees. "  
 
 * * *
 
@@ -7644,7 +7644,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[L]et's allow SE programs to **hire the best-qualified candidates** regardless of whether they've acquired a PhD."  
+"Let's allow SE programs to **hire the best-qualified candidates** regardless of whether they've acquired a PhD."  
 
 * * *
 
@@ -7704,7 +7704,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[R]eading techniques** must specifically address delocalization--the distribution of related functionality throughout an object-oriented system--and the fact that the **static (compile time)** and **dynamic (run time) views** of an object-oriented system are **largely distinct**."  
+"**Reading techniques** must specifically address delocalization--the distribution of related functionality throughout an object-oriented system--and the fact that the **static (compile time)** and **dynamic (run time) views** of an object-oriented system are **largely distinct**."  
 
 * * *
 
@@ -7775,7 +7775,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[N]o **Indian** or **Japanese** company has yet to make any real global mark in widely recognized software innovation, long the province of **US** and a **few European** software firms."  
+"No **Indian** or **Japanese** company has yet to make any real global mark in widely recognized software innovation, long the province of **US** and a **few European** software firms."  
 
 * * *
 
@@ -7790,7 +7790,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]e **didn't find** that any specific design **method** or programming **language** guaranteed either a **successful** or **troubled** project outcome. ... **[G]ood quality control** is the **best** overall **indicator** of a successful project."  
+"We **didn't find** that any specific design **method** or programming **language** guaranteed either a **successful** or **troubled** project outcome. ... **Good quality control** is the **best** overall **indicator** of a successful project."  
 
 * * *
 
@@ -7910,7 +7910,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"The open source movement is affecting software development products and processes. ... [P]rocess integration and the **coevolution of multiple open source and proprietary projects** are still open problems."  
+"The open source movement is affecting software development products and processes. ... Process integration and the **coevolution of multiple open source and proprietary projects** are still open problems."  
 
 * * *
 
@@ -7970,7 +7970,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[I]n a **criminal trial** (at least in the US), the **failure to follow** an established **best practice** in an investigation could result in an **acquittal**. ... the **American Society for Quality's definition** probably comes closest to what we in software development mean when we use the term. The ASQ defines 'best practice' as a **superior method** or innovative practice that contributes to the improved performance of an organization, usually **recognized** as 'best' **by other peer** organizations."  
+"In a **criminal trial** (at least in the US), the **failure to follow** an established **best practice** in an investigation could result in an **acquittal**. ... the **American Society for Quality's definition** probably comes closest to what we in software development mean when we use the term. The ASQ defines 'best practice' as a **superior method** or innovative practice that contributes to the improved performance of an organization, usually **recognized** as 'best' **by other peer** organizations."  
 
 * * *
 
@@ -8127,7 +8127,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]e software engineers have engaged in a **rush to standardization**, a rush to getting everyone to use the same set of facts and principles."  
+"We software engineers have engaged in a **rush to standardization**, a rush to getting everyone to use the same set of facts and principles."  
 
 * * *
 
@@ -8142,7 +8142,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[I]ncremental change** activities [include]: change request, concept extraction, concept location, impact analysis, actualization, incorporation, change propagation, refactoring, and role splitting ..."  
+"**Incremental change** activities include: change request, concept extraction, concept location, impact analysis, actualization, incorporation, change propagation, refactoring, and role splitting ..."  
 
 * * *
 
@@ -8217,7 +8217,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[E]valuating process maturity on the basis of results, or the improvement in cost structure in the four quality-cost categories: **prevention**, **appraisal**, **internal failures**, and **external failures**."  
+"Evaluating process maturity on the basis of results, or the improvement in cost structure in the four quality-cost categories: **prevention**, **appraisal**, **internal failures**, and **external failures**."  
 
 * * *
 
@@ -8318,7 +8318,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[N]etwork effects** can lead to a '**social dilemma**,' in which the actions of consumers can result in serious **negative consequences** for the **same consumers** and the society as a whole in the long term. "  
+"**Network effects** can lead to a '**social dilemma**,' in which the actions of consumers can result in serious **negative consequences** for the **same consumers** and the society as a whole in the long term. "  
 
 * * *
 
@@ -8348,7 +8348,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[P]oor performers** cause much more **damage** than is apparent to management. "  
+"**Poor performers** cause much more **damage** than is apparent to management. "  
 
 * * *
 
@@ -8378,7 +8378,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]here's a **simple technique** that will dramatically reduce the number of **these bugs** in your software. ... The technique is to build your software to '**fail fast**.'"  
+"There's a **simple technique** that will dramatically reduce the number of **these bugs** in your software. ... The technique is to build your software to '**fail fast**.'"  
 
 * * *
 
@@ -8434,7 +8434,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[I]f **developers** are willing to **work hard** and carefully **introduce an agile process** into their organization, their efforts should yield **positive results**."  
+"If **developers** are willing to **work hard** and carefully **introduce an agile process** into their organization, their efforts should yield **positive results**."  
 
 * * *
 
@@ -8449,7 +8449,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[I]f you don't carefully and accurately **manage customizations** ... the result can be **skyrocketing development costs**, poor customer support, and an inability to respond quickly to new needs."  
+"If you don't carefully and accurately **manage customizations** ... the result can be **skyrocketing development costs**, poor customer support, and an inability to respond quickly to new needs."  
 
 * * *
 
@@ -8599,7 +8599,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[S]ome **activities** are fundamental to all **RE** [requirements engineering] processes: **Elicitation**. Identify sources of information ... **Analysis**. Understand the requirements ... **Validation**. Go back to the system stakeholders and check ... **Negotiation**. ... reconcile conflicting views .... **Documentation**. Write down the requirements ... **Management**. Control the requirements changes ... "  
+"Some **activities** are fundamental to all **RE** requirements engineering processes: **Elicitation**. Identify sources of information ... **Analysis**. Understand the requirements ... **Validation**. Go back to the system stakeholders and check ... **Negotiation**. ... reconcile conflicting views .... **Documentation**. Write down the requirements ... **Management**. Control the requirements changes ... "  
 
 * * *
 
@@ -8655,7 +8655,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[S]oftware engineers** use certain common terms, such as **design**, analysis, and documentation, in significantly **different ways** from other engineers. ... '**design**' in **software engineering** is **more limited** in scope than in other fields."  
+"**Software engineers** use certain common terms, such as **design**, analysis, and documentation, in significantly **different ways** from other engineers. ... '**design**' in **software engineering** is **more limited** in scope than in other fields."  
 
 * * *
 
@@ -8700,7 +8700,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[E]lements such as **principles**, **heuristics**, **best practices**, '**bad smells**,' and **refactorings** are **not clearly defined**. Many of these elements are synonymous, and others are just vague concepts."  
+"Elements such as **principles**, **heuristics**, **best practices**, '**bad smells**,' and **refactorings** are **not clearly defined**. Many of these elements are synonymous, and others are just vague concepts."  
 
 * * *
 
@@ -8816,7 +8816,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"One of the **most robust** **findings in forecasting**, human judgment, and software estimation studies is that '**combination works**.' Apparently it doesn't matter whether the combination involves a **simple average** of estimates from different methods or a sophisticated weighting algorithm. A **simple average** offers a robust combination method unless one estimation method or expert is obviously more reliable than another. ... [A]n expert's **technical skill** level can be a **poor indicator** of accuracy, and it's rarely obvious, in advance, which expert will be the better estimator. This is one reason a **simple average** of outputs from different estimation experts and methods frequently offers the **most robust** and accurate combination method."  
+"One of the **most robust** **findings in forecasting**, human judgment, and software estimation studies is that '**combination works**.' Apparently it doesn't matter whether the combination involves a **simple average** of estimates from different methods or a sophisticated weighting algorithm. A **simple average** offers a robust combination method unless one estimation method or expert is obviously more reliable than another. ... An expert's **technical skill** level can be a **poor indicator** of accuracy, and it's rarely obvious, in advance, which expert will be the better estimator. This is one reason a **simple average** of outputs from different estimation experts and methods frequently offers the **most robust** and accurate combination method."  
 
 * * *
 
@@ -8846,7 +8846,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[We] categorize projects into **dogs** (simple projects with low uncertainty), **colts** (simple projects with high uncertainty), **cows** (complex projects with low uncertainty), or **bulls** (complex projects with high uncertainty). We adapt our agile process by adding practices according to a project's profile."  
+"We categorize projects into **dogs** (simple projects with low uncertainty), **colts** (simple projects with high uncertainty), **cows** (complex projects with low uncertainty), or **bulls** (complex projects with high uncertainty). We adapt our agile process by adding practices according to a project's profile."  
 
 * * *
 
@@ -8861,7 +8861,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[P]eople have claimed that **plan-based** and **agile** companies use very different project **management** techniques. ... managers using **agile** methods **focus on people** and **process** more than other managers. ... adopting **agile methods** appears to offer a good solution for **improving** the **management** of the development **process** and **customer relationships**."  
+"People have claimed that **plan-based** and **agile** companies use very different project **management** techniques. ... managers using **agile** methods **focus on people** and **process** more than other managers. ... adopting **agile methods** appears to offer a good solution for **improving** the **management** of the development **process** and **customer relationships**."  
 
 * * *
 
@@ -8932,7 +8932,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he **availability** of the components **before the system** is built provides **early data** on their performance properties."  
+"The **availability** of the components **before the system** is built provides **early data** on their performance properties."  
 
 * * *
 
@@ -8977,7 +8977,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]riting **stand-alone** tools that you can **combine **efficiently with others to handle more demanding tasks appears to be becoming a **forgotten art**."  
+"Writing **stand-alone** tools that you can **combine **efficiently with others to handle more demanding tasks appears to be becoming a **forgotten art**."  
 
 * * *
 
@@ -9018,7 +9018,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[U]se a **steering leadership** style rather than the detailed **plan-and-track** leadership style encouraged by conventional wisdom."  
+"Use a **steering leadership** style rather than the detailed **plan-and-track** leadership style encouraged by conventional wisdom."  
 
 * * *
 
@@ -9048,7 +9048,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Twenty years** is a very long time in the computing field. Yet, **SEPM's** [software engineering project management] progress has been **agonizingly slow** in many ways, probably because it's driven more by **human behavior** than by technology. People change their behavior much more slowly than technology advances. "  
+"**Twenty years** is a very long time in the computing field. Yet, **SEPM's** software engineering project management progress has been **agonizingly slow** in many ways, probably because it's driven more by **human behavior** than by technology. People change their behavior much more slowly than technology advances. "  
 
 * * *
 
@@ -9164,7 +9164,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[A]spects** are evident **earlier in the life cycle**, such as during requirements gathering and architecture development. Identifying these early aspects ensures that you can appropriately capture **aspects related to the problem domain** (as opposed to merely the implementation)."  
+"**Aspects** are evident **earlier in the life cycle**, such as during requirements gathering and architecture development. Identifying these early aspects ensures that you can appropriately capture **aspects related to the problem domain** (as opposed to merely the implementation)."  
 
 * * *
 
@@ -9295,7 +9295,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"... **SOA** represents a paradigm consisting of a set of **architectural principles** for **building loosely coupled software systems**. Actually, the SOA paradigm applies not only to XML Web services but also to **other technologies** such as email clients and servers and message-oriented middleware."  
+"**Service-Oriented Architecture (SOA)** represents a paradigm consisting of a set of **architectural principles** for **building loosely coupled software systems**. Actually, the SOA paradigm applies not only to XML Web services but also to **other technologies** such as email clients and servers and message-oriented middleware."  
 
 * * *
 
@@ -9471,7 +9471,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[O]rganizations frequently commit to requirements and contracts to **boost short-term revenues** without properly aligning sales, product management, project management, and marketing. Such misalignment results in **insufficient capacity planning** or product-development resource allocation, thus delaying projects."  
+"Organizations frequently commit to requirements and contracts to **boost short-term revenues** without properly aligning sales, product management, project management, and marketing. Such misalignment results in **insufficient capacity planning** or product-development resource allocation, thus delaying projects."  
 
 * * *
 
@@ -9587,7 +9587,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[S]oftware testing** is still one of the more neglected practices within the software development life cycle."  
+"**Software testing** is still one of the more neglected practices within the software development life cycle."  
 
 * * *
 
@@ -9939,7 +9939,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Experienced programmers plan**, while **junior programmers jump** into their work. Some simpler **personal planning techniques** can help you eliminate waste when you work, write less code, design more simply, inject fewer defects, and generally **deliver sooner**.  ... [T]he best way I know to **deliver sooner** is to **do less**."  
+"**Experienced programmers plan**, while **junior programmers jump** into their work. Some simpler **personal planning techniques** can help you eliminate waste when you work, write less code, design more simply, inject fewer defects, and generally **deliver sooner**.  ... The best way I know to **deliver sooner** is to **do less**."  
 
 * * *
 
@@ -9995,7 +9995,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he recommendations for **analyzing productivity** in the appendix to the ISO/IEC 15939 standard are inappropriate. ... [P]roblems with the ISO/IEC advice can be compounded if software engineers attempt to apply **statistical process-control** techniques to software productivity metrics."  
+"The recommendations for **analyzing productivity** in the appendix to the ISO/IEC 15939 standard are inappropriate. ... Problems with the ISO/IEC advice can be compounded if software engineers attempt to apply **statistical process-control** techniques to software productivity metrics."  
 
 * * *
 
@@ -10070,7 +10070,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"During an **architectural assessmen** ... it's important to be **truthful** as well as **gentle**. ... [T]he development organization's unique task is to address all the essential concerns of all the important stakeholders and **avoid being blindsided** by unexpected problems and stakeholders."  
+"During an **architectural assessmen** ... it's important to be **truthful** as well as **gentle**. ... The development organization's unique task is to address all the essential concerns of all the important stakeholders and **avoid being blindsided** by unexpected problems and stakeholders."  
 
 * * *
 
@@ -10156,7 +10156,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Test-driven development** is a discipline of design and programming where every line of new **code is written in response to a test** the programmer writes just before coding. ... [T]he ways TDD is being used in nontrivial situations (database development, embedded software development, GUI development, performance tuning), signifying an adoption level for the practice beyond the visionary phase and into the early mainstream."  
+"**Test-driven development** is a discipline of design and programming where every line of new **code is written in response to a test** the programmer writes just before coding. ... The ways TDD is being used in nontrivial situations (database development, embedded software development, GUI development, performance tuning), signifying an adoption level for the practice beyond the visionary phase and into the early mainstream."  
 
 * * *
 
@@ -10403,7 +10403,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Python**, a dynamically typed language, can implement these software frameworks for major OR [operational research] methodologies (mathematical programming and simulation) in the same programming environment. By doing so, **Python**, in effect, **glues software environments** that have been independent, thus improving the software development cycle for sophisticated applications requiring different model types."  
+"**Python**, a dynamically typed language, can implement these software frameworks for major OR operational research methodologies (mathematical programming and simulation) in the same programming environment. By doing so, **Python**, in effect, **glues software environments** that have been independent, thus improving the software development cycle for sophisticated applications requiring different model types."  
 
 * * *
 
@@ -10549,7 +10549,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"Open source development is often regarded as a chaotic environment where new initiatives' success or failure just happens by chance. However, **successful open source communities** are applying **incubation processes** for **managing the risks** associated with creating new projects. ... [e.g.] **Apache** and **Eclipse** communities."  
+"Open source development is often regarded as a chaotic environment where new initiatives' success or failure just happens by chance. However, **successful open source communities** are applying **incubation processes** for **managing the risks** associated with creating new projects. ... e.g. **Apache** and **Eclipse** communities."  
 
 * * *
 
@@ -10890,7 +10890,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"... how to apply **user-centered design** methods to design interactive systems for the **elderly**. A case study (with its successes and weaknesses) showed that a need exists for more **creative and participatory** design approaches for this population."  
+"How to apply **user-centered design** methods to design interactive systems for the **elderly**. A case study (with its successes and weaknesses) showed that a need exists for more **creative and participatory** design approaches for this population."  
 
 * * *
 
@@ -11272,7 +11272,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[S]ome **software engineering ideas** have a **half-life**. ... this **half-life** is **roughly five years**, ... the need for software engineers to thus stay abreast of **new technologies**."  
+"Some **software engineering ideas** have a **half-life**. ... this **half-life** is **roughly five years**, ... the need for software engineers to thus stay abreast of **new technologies**."  
 
 * * *
 
@@ -11388,7 +11388,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he increasing sophistication and use of **software measurement** over the past 25 years ... highlights **four obstacles** to more effective use of measurement: dealing with **uncertainty**, anticipating **change**, measuring '**soft**' characteristics, and developing **heuristics**."  
+"The increasing sophistication and use of **software measurement** over the past 25 years ... highlights **four obstacles** to more effective use of measurement: dealing with **uncertainty**, anticipating **change**, measuring '**soft**' characteristics, and developing **heuristics**."  
 
 * * *
 
@@ -11418,7 +11418,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[M]any major **technology breakthroughs** happened **before 1984**: Milestones such as the **IBM OS/360** and **the microprocessor**, and even many still-relevant software engineering practices, had been developed much earlier. So what makes the recent 25 years unique? First, software **moved** from a few company desks to the lives of practically **everyone on the planet**. The **PC**, the **Internet**, and **mobile phones** showcase this tremendous evolution. Second, empirical evaluations overcame opinions. Mary Shaw described the eighties by stating, 'Software engineering is not yet a true discipline, but it has the potential to become one.' In those early days, a lot of technologies were just assembled and delivered, but from the '80s onward, engineers evaluated and empirically assessed new technologies to **judge their impact**."  
+"Many major **technology breakthroughs** happened **before 1984**: Milestones such as the **IBM OS/360** and **the microprocessor**, and even many still-relevant software engineering practices, had been developed much earlier. So what makes the recent 25 years unique? First, software **moved** from a few company desks to the lives of practically **everyone on the planet**. The **PC**, the **Internet**, and **mobile phones** showcase this tremendous evolution. Second, empirical evaluations overcame opinions. Mary Shaw described the eighties by stating, 'Software engineering is not yet a true discipline, but it has the potential to become one.' In those early days, a lot of technologies were just assembled and delivered, but from the '80s onward, engineers evaluated and empirically assessed new technologies to **judge their impact**."  
 
 * * *
 
@@ -12017,7 +12017,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[P]rocess metrics** can ignite **strong opinions** because they represent an area where **technical considerations** bump up against **human aspects** of software development. "  
+"**Process metrics** can ignite **strong opinions** because they represent an area where **technical considerations** bump up against **human aspects** of software development. "  
 
 * * *
 
@@ -12047,7 +12047,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[D]ata showed that **learning resources** for **APIs** are critically important and shed light on three issues: the need to **discover** the **design** and **rationale** of the API when needed, the challenge of finding **credible** usage API **examples** at the right level of complexity, and the challenge of understanding **inexplicable** API **behavior**."  
+"Data showed that **learning resources** for **APIs** are critically important and shed light on three issues: the need to **discover** the **design** and **rationale** of the API when needed, the challenge of finding **credible** usage API **examples** at the right level of complexity, and the challenge of understanding **inexplicable** API **behavior**."  
 
 * * *
 
@@ -12373,7 +12373,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"... **providing architecture** as a **service to application developers**. The approach is an effective way to implement the architecture process especially, but not only, in the context of agile development. In their role as stakeholders of nonfunctional system qualities, architects prepare and support developers by **participating** in **coding activities** and play a key role in **communicating** the architecture throughout the project's lifetime."  
+"**Providing architecture** as a **service to application developers**. The approach is an effective way to implement the architecture process especially, but not only, in the context of agile development. In their role as stakeholders of nonfunctional system qualities, architects prepare and support developers by **participating** in **coding activities** and play a key role in **communicating** the architecture throughout the project's lifetime."  
 
 * * *
 
@@ -12474,7 +12474,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[S]uccessful product lines** suffer over time from **increasing dependencies** between the software assets that make up the product line and, consequently, the teams associated with these assets. This results in high **coordination cost**, **slow release** cycles, and high system-level **error density**."  
+"**Successful product lines** suffer over time from **increasing dependencies** between the software assets that make up the product line and, consequently, the teams associated with these assets. This results in high **coordination cost**, **slow release** cycles, and high system-level **error density**."  
 
 * * *
 
@@ -12489,7 +12489,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[W]e characterize two **strategic pitfalls** that repeatedly occur: failure to recognize that a software product line approach is **a business and technical strategy**, and failure to **manage the unique aspects** of governance for a product line and roll it out appropriately."  
+"We characterize two **strategic pitfalls** that repeatedly occur: failure to recognize that a software product line approach is **a business and technical strategy**, and failure to **manage the unique aspects** of governance for a product line and roll it out appropriately."  
 
 * * *
 
@@ -12766,7 +12766,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"... the top 10 [questions] were Agile and **large projects**. What factors can **break self-organization**? Do teams really need to always be **collocated** to collaborate effectively? **Architecture and agile**—how much design is enough for different classes of problem? Hard facts on **costs of distribution** (in $, £, €, and so on). The correlation between **release length** and **success rate**. **What metrics** can we use with minimal **side-effects**? Distributed agile and **trust**—what happens around 8–12 weeks? Statistics and data about how much **money/time is saved** by agile. **Sociological studies**—what were the personalities in successful/failed agile teams?"  
+"The top questions were Agile and **large projects**. What factors can **break self-organization**? Do teams really need to always be **collocated** to collaborate effectively? **Architecture and agile**—how much design is enough for different classes of problem? Hard facts on **costs of distribution** (in $, £, €, and so on). The correlation between **release length** and **success rate**. **What metrics** can we use with minimal **side-effects**? Distributed agile and **trust**—what happens around 8–12 weeks? Statistics and data about how much **money/time is saved** by agile. **Sociological studies**—what were the personalities in successful/failed agile teams?"  
 
 * * *
 
@@ -13373,7 +13373,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[R]efactoring** is limited in what qualities it can help improve. It can also do **more harm than good** when practiced **informally** or ad hoc or when it's used as a **synonym** for **any form of change** in a system."  
+"**Refactoring** is limited in what qualities it can help improve. It can also do **more harm than good** when practiced **informally** or ad hoc or when it's used as a **synonym** for **any form of change** in a system."  
 
 * * *
 
@@ -13785,7 +13785,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[L]ooking at **software** from a **design perspective**, understanding software as a designed artifact, and considering how design reaches into the whole software life cycle can bring significant benefits both to our understanding of what works in software design and to our approach to tools and practices."  
+"Looking at **software** from a **design perspective**, understanding software as a designed artifact, and considering how design reaches into the whole software life cycle can bring significant benefits both to our understanding of what works in software design and to our approach to tools and practices."  
 
 * * *
 
@@ -14279,7 +14279,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[T]he term '**lean**' ... describe[s] any efficient management practice that **minimized waste**, including in product development ... In lean terms, '**waste**' is anything that doesn't either **add customer value directly** or **add knowledge** about how to deliver that value more effectively."  
+"The term '**lean**' ... describes any efficient management practice that **minimized waste**, including in product development ... In lean terms, '**waste**' is anything that doesn't either **add customer value directly** or **add knowledge** about how to deliver that value more effectively."  
 
 * * *
 
@@ -14294,7 +14294,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**[L]ean software development**. What principles **deliver value**, and how are they introduced to best manage change?"  
+"**Lean software development**. What principles **deliver value**, and how are they introduced to best manage change?"  
 
 * * *
 
@@ -14953,7 +14953,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"[M]any practitioners and researchers have turned to **analytics**—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '**Software analytics** is **analytics on software data** for managers and software engineers with the aim of empowering software development individuals and teams to **gain and share insight **from their data to make better decisions.'"  
+"Many practitioners and researchers have turned to **analytics**—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '**Software analytics** is **analytics on software data** for managers and software engineers with the aim of empowering software development individuals and teams to **gain and share insight **from their data to make better decisions.'"  
 
 * * *
 
@@ -16132,7 +16132,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"**Docker** is a container virtualization technology. So, it’s like a very **lightweight virtual machine** [VM]. In addition to building containers, we provide what we call **a developer workflow**, which is really about helping people build containers and applications inside containers and then share those among their teammates."  
+"**Docker** is a container virtualization technology. So, it’s like a very **lightweight virtual machine** VM. In addition to building containers, we provide what we call **a developer workflow**, which is really about helping people build containers and applications inside containers and then share those among their teammates."  
 
 * * *
 
@@ -17525,7 +17525,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-"'What is **Infrastructure as code**? There are a lot of ways to answer that. One is that automation is the “CALM” of DevOps. CALM stands for **culture, automation, learning, and measurement**. Infrastructure as Code is about the automation piece. That's how people who have been doing DevOps for a while approach it, using tools like Chef, Puppet, Ansible, and SaltStack. The philosophy behind this is that infrastructure has become like data: the physical layer has been abstracted. It's **become software**, as opposed to being a physical thing. We can use infrastructure tools the same way we use software. We can **bring in best practices from software development**, such as continuous integration [CI], test-driven development, and continuous delivery [CD] version control systems, and apply them to managing our infrastructure. "  
+"'What is **Infrastructure as code**? There are a lot of ways to answer that. One is that automation is the “CALM” of DevOps. CALM stands for **culture, automation, learning, and measurement**. Infrastructure as Code is about the automation piece. That's how people who have been doing DevOps for a while approach it, using tools like Chef, Puppet, Ansible, and SaltStack. The philosophy behind this is that infrastructure has become like data: the physical layer has been abstracted. It's **become software**, as opposed to being a physical thing. We can use infrastructure tools the same way we use software. We can **bring in best practices from software development**, such as continuous integration CI, test-driven development, and continuous delivery CD version control systems, and apply them to managing our infrastructure. "  
 
 * * *
 

@@ -6837,7 +6837,7 @@
     "searchText": "The <b>architecture</b> of a software-intensive system is best <b>reasoned</b> about through multiple, nearly <b>independent views.</b> Grady Booch The Elephant and the Blind Programmers 2010 "
   },
   {
-    "quote": "... the top 10 [questions] were Agile and <b>large projects</b>. What factors can <b>break self-organization</b>? Do teams really need to always be <b>collocated</b> to collaborate effectively? <b>Architecture and agile</b>—how much design is enough for different classes of problem? Hard facts on <b>costs of distribution</b> (in $, £, €, and so on). The correlation between <b>release length</b> and <b>success rate</b>. <b>What metrics</b> can we use with minimal <b>side-effects</b>? Distributed agile and <b>trust</b>—what happens around 8–12 weeks? Statistics and data about how much <b>money/time is saved</b> by agile. <b>Sociological studies</b>—what were the personalities in successful/failed agile teams?",
+    "quote": "The top questions were Agile and <b>large projects</b>. What factors can <b>break self-organization</b>? Do teams really need to always be <b>collocated</b> to collaborate effectively? <b>Architecture and agile</b>—how much design is enough for different classes of problem? Hard facts on <b>costs of distribution</b> (in $, £, €, and so on). The correlation between <b>release length</b> and <b>success rate</b>. <b>What metrics</b> can we use with minimal <b>side-effects</b>? Distributed agile and <b>trust</b>—what happens around 8–12 weeks? Statistics and data about how much <b>money/time is saved</b> by agile. <b>Sociological studies</b>—what were the personalities in successful/failed agile teams?",
     "title": "The Top 10 Burning Research Questions from Practitioners",
     "year": 2010,
     "number": 5,
@@ -6856,7 +6856,7 @@
     ],
     "authorsList": "Helen Sharp, Sallyann Freudenberg",
     "citation": "Helen Sharp, Sallyann Freudenberg, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2010.129\">The Top 10 Burning Research Questions from Practitioners</a>, IEEE Software 2010, no. 5, p. 8",
-    "searchText": "... the top 10 [questions] were Agile and <b>large projects</b>. What factors can <b>break self-organization</b>? Do teams really need to always be <b>collocated</b> to collaborate effectively? <b>Architecture and agile</b>—how much design is enough for different classes of problem? Hard facts on <b>costs of distribution</b> (in $, £, €, and so on). The correlation between <b>release length</b> and <b>success rate</b>. <b>What metrics</b> can we use with minimal <b>side-effects</b>? Distributed agile and <b>trust</b>—what happens around 8–12 weeks? Statistics and data about how much <b>money/time is saved</b> by agile. <b>Sociological studies</b>—what were the personalities in successful/failed agile teams? Helen Sharp Sallyann Freudenberg The Top 10 Burning Research Questions from Practitioners 2010 "
+    "searchText": "The top 10 questions were Agile and <b>large projects</b>. What factors can <b>break self-organization</b>? Do teams really need to always be <b>collocated</b> to collaborate effectively? <b>Architecture and agile</b>—how much design is enough for different classes of problem? Hard facts on <b>costs of distribution</b> (in $, £, €, and so on). The correlation between <b>release length</b> and <b>success rate</b>. <b>What metrics</b> can we use with minimal <b>side-effects</b>? Distributed agile and <b>trust</b>—what happens around 8–12 weeks? Statistics and data about how much <b>money/time is saved</b> by agile. <b>Sociological studies</b>—what were the personalities in successful/failed agile teams? Helen Sharp Sallyann Freudenberg The Top 10 Burning Research Questions from Practitioners 2010 "
   },
   {
     "quote": "A collection of <b>coherent</b>, often <b>ideologically</b> or <b>theoretically</b> based <b>abstractions</b> constitutes a <b>programming paradigm</b>. ... Well-known examples include <b>object-oriented</b>, <b>relational</b>, <b>functional</b>, <b>constraint-based</b>, <b>theorem-proving</b>, <b>concurrent</b>, <b>imperative</b>, and <b>declarative</b>. Less well-known (or perhaps less well-defined) examples include <b>graphical</b>, <b>reflective</b>, <b>context-aware</b>, <b>rule-based</b>, and <b>agent-oriented</b>. ... using just <b>one language</b> technology and paradigm is becoming much <b>less common</b>, replaced by <b>multiparadigm programming</b> in which the heterogeneous application consists of several subcomponents, each implemented with an appropriate paradigm and able to communicate with other subcomponents implemented with a different paradigm. ",
@@ -7305,7 +7305,7 @@
     "searchText": "Railroad tracks offer guidance and support. There are various tools that can give our software the same handling. The main tool for guiding the code's direction is the <b>language's type system</b>. For values, the type system can help us by establishing a separate type for each distinct class; for code, interfaces and abstract classes ensure that we won't forget some crucial methods when we add functionality through a new class. With <b>domain-specific languages</b> or even suitably initialized data structures we can efficiently express exactly what the designer intended and nothing more. At a higher level, <b>architectures</b> that enforce a particular open-ended but well-defined interface will also guide a software's progress. Finally, the most flexible track-laying approach is a <b>tool-supported</b> software development process. Diomidis Spinellis Software Tracks 2010 "
   },
   {
-    "quote": "... <b>providing architecture</b> as a <b>service to application developers</b>. The approach is an effective way to implement the architecture process especially, but not only, in the context of agile development. In their role as stakeholders of nonfunctional system qualities, architects prepare and support developers by <b>participating</b> in <b>coding activities</b> and play a key role in <b>communicating</b> the architecture throughout the project's lifetime.",
+    "quote": "<b>Providing architecture</b> as a <b>service to application developers</b>. The approach is an effective way to implement the architecture process especially, but not only, in the context of agile development. In their role as stakeholders of nonfunctional system qualities, architects prepare and support developers by <b>participating</b> in <b>coding activities</b> and play a key role in <b>communicating</b> the architecture throughout the project's lifetime.",
     "title": "Architects as Service Providers",
     "year": 2010,
     "number": 2,
@@ -9286,7 +9286,7 @@
     "searchText": "Designers need to sharpen their <b>focus</b> and apply <b>design energy</b> where it will have the most impact. So, identifying <b>what's core</b> to our system's success is one of the most critical things we must do. Rebecca J. Wirfs-Brock Design Strategy 2008 "
   },
   {
-    "quote": "... how to apply <b>user-centered design</b> methods to design interactive systems for the <b>elderly</b>. A case study (with its successes and weaknesses) showed that a need exists for more <b>creative and participatory</b> design approaches for this population.",
+    "quote": "How to apply <b>user-centered design</b> methods to design interactive systems for the <b>elderly</b>. A case study (with its successes and weaknesses) showed that a need exists for more <b>creative and participatory</b> design approaches for this population.",
     "title": "Requirements Elicitation with and for Older Adults",
     "year": 2008,
     "number": 3,
@@ -11330,7 +11330,7 @@
     "searchText": "Including <b>architecture-centric design</b> and analysis methods in the <b>Extreme Programming framework</b> can help software developers address quality attributes in an explicit, methodical, engineering-principled way. Robert L. Nord James E. Tomayko Software Architecture-Centric Methods and Agile Development 2006 "
   },
   {
-    "quote": "... <b>SOA</b> represents a paradigm consisting of a set of <b>architectural principles</b> for <b>building loosely coupled software systems</b>. Actually, the SOA paradigm applies not only to XML Web services but also to <b>other technologies</b> such as email clients and servers and message-oriented middleware.",
+    "quote": "<b>Service-Oriented Architecture (SOA)</b> represents a paradigm consisting of a set of <b>architectural principles</b> for <b>building loosely coupled software systems</b>. Actually, the SOA paradigm applies not only to XML Web services but also to <b>other technologies</b> such as email clients and servers and message-oriented middleware.",
     "title": "Using Architectural Patterns and Blueprints for Service-Oriented Architecture",
     "year": 2006,
     "number": 2,
@@ -16700,7 +16700,7 @@
     "searchText": "<b>Geographic information systems</b> store a wealth of information for diverse applications, and users must often access GISs from various vendors and residing on varying platforms. ... a <b>spatial query mechanism</b> for GISs that is distributed and open, giving users access to many different GISs across the Internet. Serena Coetzee Judith Bishop A New Way to Query GISs on the Web 1998 "
   },
   {
-    "quote": "... OO does not match the way we normally think. ... however, that this is <b>true of programming in any language</b> using any paradigm.",
+    "quote": "Object-orientation (OO) does not match the way we normally think. ... however, that this is <b>true of programming in any language</b> using any paradigm.",
     "title": "Watch Your Language!",
     "year": 1998,
     "number": 3,
@@ -20504,7 +20504,7 @@
     "searchText": "You can't control what you can't measure. That fundamental reality underlies the importance of <b>software metrics</b>, despite the <b>controversy</b> that has surrounded them since <b>Maurice Halstead</b> put forth his idea of software science. Sketpics claim metrics are useless and expensive exercise in pointless data collection, while proponents argue they are valuable management and engineering tools. Peter B. Dyson Harlan D. Mills Guest Editors' Introduction: Using Metrics to Quantify Development 1990 "
   },
   {
-    "quote": "... <b>measurement</b> must be applied in individual experiments or case studies; ... measurement can help continuously improve an organization's state of the practice; ... measurement requires automated support.",
+    "quote": "<b>Measurement</b> must be applied in individual experiments or case studies; ... measurement can help continuously improve an organization's state of the practice; ... measurement requires automated support.",
     "title": "Design Measurement: Some Lessons Learned",
     "year": 1990,
     "number": 2,
@@ -21554,7 +21554,7 @@
     "searchText": "<b>ABC</b> is being designed and implemented with an <b>integrated programming environment</b>. ... [T]he main design objectives ... : <b>simplicity</b>, suitability for <b>interactive use</b>, and <b>availability of tools</b> for structured programming. Steven Pemberton An Alternative Simple Language and Environment for PCs 1987 "
   },
   {
-    "quote": "... <b>Modula-2</b> has been adopted as the foundation for a number of <b>experimental systems</b>. The insights gained from those experiments will prove valuable to both current <b>designers and future users of programming systems</b>, no matter what the language. ",
+    "quote": "<b>Modula-2</b> has been adopted as the foundation for a number of <b>experimental systems</b>. The insights gained from those experiments will prove valuable to both current <b>designers and future users of programming systems</b>, no matter what the language. ",
     "title": "Modula-2 Experiments Will Help Future Language Designs",
     "year": 1986,
     "number": 6,
@@ -21569,7 +21569,7 @@
     ],
     "authorsList": "Robert P. Cook",
     "citation": "<a target=\"_blank\" href=\"http://professorcook.org/\">Robert P. Cook</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.234419\">Modula-2 Experiments Will Help Future Language Designs</a>, IEEE Software 1986, no. 6, p. 4",
-    "searchText": "... <b>Modula-2</b> has been adopted as the foundation for a number of <b>experimental systems</b>. The insights gained from those experiments will prove valuable to both current <b>designers and future users of programming systems</b>, no matter what the language.  Robert P. Cook Modula-2 Experiments Will Help Future Language Designs 1986 "
+    "searchText": "<b>Modula-2</b> has been adopted as the foundation for a number of <b>experimental systems</b>. The insights gained from those experiments will prove valuable to both current <b>designers and future users of programming systems</b>, no matter what the language.  Robert P. Cook Modula-2 Experiments Will Help Future Language Designs 1986 "
   },
   {
     "quote": "Dijkstra's proposal to prohibit the <b>GOTO</b> was greeted with controversy: '<b>You must be kidding!</b>'",
@@ -21666,7 +21666,7 @@
     "searchText": "We chose IEEE Software as our forum because <b>firmware engineering</b> involves transferring theory, principle, and technique <b>from software to firmware</b>, with appropriate adaptations. Subrata Dasgupta Robert A. Mueller Firmware Engineering: The Interaction of Microprogramming and Software Technology 1986 "
   },
   {
-    "quote": "...arguing about the definition of <b>software maintenance</b> seldom leads to maintenance advances...",
+    "quote": "Arguing about the definition of <b>software maintenance</b> seldom leads to maintenance advances...",
     "title": "Software Maintenance",
     "year": 1986,
     "number": 3,
@@ -21788,7 +21788,7 @@
     "searchText": "Empirically comparing <b>structural test coverage metrics</b> reveals that test sets that satisfy one metric are likely to satisfy another metric as well. M.D. Weiser J.D. Gannon P.R. McMullin Comparison of Structural Test Coverage Metrics 1986 "
   },
   {
-    "quote": "... <b>multiparadigm systems</b> incorporating <b>two or more of the conventional program paradigms</b>. For example, the Loops system ... combines features of the Lisp, functional, rule-oriented, and object-oriented paradigms.",
+    "quote": "<b>Multiparadigm systems</b> incorporating <b>two or more of the conventional program paradigms</b>. For example, the Loops system ... combines features of the Lisp, functional, rule-oriented, and object-oriented paradigms.",
     "title": "Guest Editor's Introduction Multiparadigm Languages and Environments",
     "year": 1986,
     "number": 1,
@@ -22074,7 +22074,7 @@
     "searchText": "One does not use structural engineering analysis to build a <b>sandcastle</b>. But neither does one choose the prize-winning builder of sandcastles as architect for <b>a tower block of offices</b> in a city. Sir Charles Antony Richard Hoare Programming: Sorcery or Science? 1984 "
   },
   {
-    "quote": "... I believe that in our branch of engineering, above all others, the academic ideals of <b>rigor and elegance will pay the highest dividends</b> in practical terms of reducing costs, increasing performance, and in directing the great sources of computational power on the surface of a silicon chip to the use and convenience of man.",
+    "quote": "I believe that in our branch of engineering, above all others, the academic ideals of <b>rigor and elegance will pay the highest dividends</b> in practical terms of reducing costs, increasing performance, and in directing the great sources of computational power on the surface of a silicon chip to the use and convenience of man.",
     "title": "Programming: Sorcery or Science?",
     "year": 1984,
     "number": 2,
