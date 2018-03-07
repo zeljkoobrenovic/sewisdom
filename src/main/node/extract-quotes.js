@@ -12,12 +12,13 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
 
         quote = "*\"" + quote + "\"*";
 
-        quote += "\n\n" + q.citation.replace(/<.*?>/g, "") + "\n\n\n";
+        quote += "\n\n![" + q.citation.replace(/<.*?>/g, "") + "](images/" + q.year + "-" + q.number + ".jpg)";
+        quote += "\n\n\n";
 
-        text += quote + "\n\n";
+        text += quote + " \n \n";
         console.log(quote);
     });
 
-    fs.writeFile('chapter1.txt', text, function (err, contents) {
+    fs.writeFile('../chapter1.txt', text, function (err, contents) {
     });
 });
