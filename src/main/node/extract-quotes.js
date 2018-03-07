@@ -21,7 +21,7 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
 
         var cover = year + "-" + number;
         if (prevCover !== cover) {
-            text += "\n\n* * *\n\n![](images/" + cover + ".jpg)\n* * *\n\n\n{pagebreak}\n\n";
+            text += "\n\n* * *\n\n![](images/" + cover + ".jpg)\n\n* * *\n\n\n{pagebreak}\n\n";
             prevCover = cover;
         }
 

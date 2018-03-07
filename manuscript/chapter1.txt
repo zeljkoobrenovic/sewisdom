@@ -7,6 +7,7 @@
 * * *
 
 ![](images/1984-1.jpg)
+
 * * *
 
 
@@ -78,6 +79,7 @@ suggestions that we either identify a program's principal function and describe 
 * * *
 
 ![](images/1984-2.jpg)
+
 * * *
 
 
@@ -118,6 +120,7 @@ suggestions that we either identify a program's principal function and describe 
 * * *
 
 ![](images/1984-3.jpg)
+
 * * *
 
 
@@ -158,6 +161,7 @@ suggestions that we either identify a program's principal function and describe 
 * * *
 
 ![](images/1984-4.jpg)
+
 * * *
 
 
@@ -187,6 +191,7 @@ suggestions that we either identify a program's principal function and describe 
 * * *
 
 ![](images/1985-1.jpg)
+
 * * *
 
 
@@ -213,6 +218,7 @@ some questions** that might have remained unasked, and thus unanswered, in an in
 * * *
 
 ![](images/1985-2.jpg)
+
 * * *
 
 
@@ -257,6 +263,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1985-3.jpg)
+
 * * *
 
 
@@ -282,6 +289,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1985-4.jpg)
+
 * * *
 
 
@@ -308,6 +316,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1985-5.jpg)
+
 * * *
 
 
@@ -363,6 +372,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1985-6.jpg)
+
 * * *
 
 
@@ -392,6 +402,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1986-1.jpg)
+
 * * *
 
 
@@ -432,6 +443,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1986-2.jpg)
+
 * * *
 
 
@@ -472,6 +484,7 @@ and control of the interactions among entities in different modules."
 * * *
 
 ![](images/1986-3.jpg)
+
 * * *
 
 
@@ -529,6 +542,7 @@ system, written a decade or more ago in unstructured languages according to **de
 * * *
 
 ![](images/1986-4.jpg)
+
 * * *
 
 
@@ -569,6 +583,7 @@ system, written a decade or more ago in unstructured languages according to **de
 * * *
 
 ![](images/1986-5.jpg)
+
 * * *
 
 
@@ -609,6 +624,7 @@ system, written a decade or more ago in unstructured languages according to **de
 * * *
 
 ![](images/1986-6.jpg)
+
 * * *
 
 
@@ -653,6 +669,7 @@ system, written a decade or more ago in unstructured languages according to **de
 * * *
 
 ![](images/1987-1.jpg)
+
 * * *
 
 
@@ -756,6 +773,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1987-2.jpg)
+
 * * *
 
 
@@ -796,6 +814,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1987-3.jpg)
+
 * * *
 
 
@@ -866,6 +885,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1987-4.jpg)
+
 * * *
 
 
@@ -906,6 +926,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1987-5.jpg)
+
 * * *
 
 
@@ -976,6 +997,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1987-6.jpg)
+
 * * *
 
 
@@ -1020,6 +1042,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1988-1.jpg)
+
 * * *
 
 
@@ -1075,6 +1098,7 @@ from the general and widely applicable to the specific and narrowly applicable."
 * * *
 
 ![](images/1988-2.jpg)
+
 * * *
 
 
@@ -1166,6 +1190,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1988-3.jpg)
+
 * * *
 
 
@@ -1191,6 +1216,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1988-4.jpg)
+
 * * *
 
 
@@ -1216,6 +1242,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1988-6.jpg)
+
 * * *
 
 
@@ -1241,6 +1268,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1988-5.jpg)
+
 * * *
 
 
@@ -1266,6 +1294,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1988-6.jpg)
+
 * * *
 
 
@@ -1295,6 +1324,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1989-1.jpg)
+
 * * *
 
 
@@ -1335,6 +1365,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1989-2.jpg)
+
 * * *
 
 
@@ -1375,6 +1406,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1989-3.jpg)
+
 * * *
 
 
@@ -1430,6 +1462,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1989-4.jpg)
+
 * * *
 
 
@@ -1455,6 +1488,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1989-5.jpg)
+
 * * *
 
 
@@ -1495,6 +1529,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1989-6.jpg)
+
 * * *
 
 
@@ -1524,6 +1559,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1990-1.jpg)
+
 * * *
 
 
@@ -1624,6 +1660,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1990-2.jpg)
+
 * * *
 
 
@@ -1664,6 +1701,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1990-3.jpg)
+
 * * *
 
 
@@ -1764,6 +1802,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1990-4.jpg)
+
 * * *
 
 
@@ -1804,6 +1843,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1990-5.jpg)
+
 * * *
 
 
@@ -1829,6 +1869,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1990-6.jpg)
+
 * * *
 
 
@@ -1888,6 +1929,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1991-1.jpg)
+
 * * *
 
 
@@ -1928,6 +1970,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1991-2.jpg)
+
 * * *
 
 
@@ -1968,6 +2011,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1991-3.jpg)
+
 * * *
 
 
@@ -2008,6 +2052,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1991-4.jpg)
+
 * * *
 
 
@@ -2063,6 +2108,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1991-5.jpg)
+
 * * *
 
 
@@ -2089,6 +2135,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1991-6.jpg)
+
 * * *
 
 
@@ -2148,6 +2195,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1992-1.jpg)
+
 * * *
 
 
@@ -2218,6 +2266,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1992-2.jpg)
+
 * * *
 
 
@@ -2318,6 +2367,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1992-3.jpg)
+
 * * *
 
 
@@ -2373,6 +2423,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1992-4.jpg)
+
 * * *
 
 
@@ -2443,6 +2494,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1992-5.jpg)
+
 * * *
 
 
@@ -2483,6 +2535,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1992-6.jpg)
+
 * * *
 
 
@@ -2542,6 +2595,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-1.jpg)
+
 * * *
 
 
@@ -2612,6 +2666,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-2.jpg)
+
 * * *
 
 
@@ -2668,6 +2723,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-3.jpg)
+
 * * *
 
 
@@ -2708,6 +2764,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-4.jpg)
+
 * * *
 
 
@@ -2748,6 +2805,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-5.jpg)
+
 * * *
 
 
@@ -2837,6 +2895,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-6.jpg)
+
 * * *
 
 
@@ -2866,6 +2925,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-6.jpg)
+
 * * *
 
 
@@ -2895,6 +2955,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-6.jpg)
+
 * * *
 
 
@@ -2924,6 +2985,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1993-6.jpg)
+
 * * *
 
 
@@ -2953,6 +3015,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-1.jpg)
+
 * * *
 
 
@@ -3009,6 +3072,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-2.jpg)
+
 * * *
 
 
@@ -3064,6 +3128,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-3.jpg)
+
 * * *
 
 
@@ -3104,6 +3169,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-4.jpg)
+
 * * *
 
 
@@ -3174,6 +3240,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-5.jpg)
+
 * * *
 
 
@@ -3214,6 +3281,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1994-6.jpg)
+
 * * *
 
 
@@ -3303,6 +3371,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1995-1.jpg)
+
 * * *
 
 
@@ -3373,6 +3442,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1995-2.jpg)
+
 * * *
 
 
@@ -3458,6 +3528,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1995-3.jpg)
+
 * * *
 
 
@@ -3513,6 +3584,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1995-4.jpg)
+
 * * *
 
 
@@ -3583,6 +3655,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1995-5.jpg)
+
 * * *
 
 
@@ -3683,6 +3756,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1995-6.jpg)
+
 * * *
 
 
@@ -3757,6 +3831,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1996-1.jpg)
+
 * * *
 
 
@@ -3857,6 +3932,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1996-2.jpg)
+
 * * *
 
 
@@ -3912,6 +3988,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1996-3.jpg)
+
 * * *
 
 
@@ -3967,6 +4044,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1996-4.jpg)
+
 * * *
 
 
@@ -4037,6 +4115,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1996-5.jpg)
+
 * * *
 
 
@@ -4107,6 +4186,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1996-6.jpg)
+
 * * *
 
 
@@ -4181,6 +4261,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1997-1.jpg)
+
 * * *
 
 
@@ -4251,6 +4332,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1997-2.jpg)
+
 * * *
 
 
@@ -4321,6 +4403,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1997-3.jpg)
+
 * * *
 
 
@@ -4391,6 +4474,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1997-4.jpg)
+
 * * *
 
 
@@ -4476,6 +4560,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1997-5.jpg)
+
 * * *
 
 
@@ -4531,6 +4616,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1997-6.jpg)
+
 * * *
 
 
@@ -4605,6 +4691,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1998-1.jpg)
+
 * * *
 
 
@@ -4750,6 +4837,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1998-2.jpg)
+
 * * *
 
 
@@ -4865,6 +4953,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1998-3.jpg)
+
 * * *
 
 
@@ -4950,6 +5039,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1998-4.jpg)
+
 * * *
 
 
@@ -5020,6 +5110,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1998-5.jpg)
+
 * * *
 
 
@@ -5090,6 +5181,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1998-6.jpg)
+
 * * *
 
 
@@ -5179,6 +5271,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1999-1.jpg)
+
 * * *
 
 
@@ -5249,6 +5342,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1999-2.jpg)
+
 * * *
 
 
@@ -5304,6 +5398,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1999-3.jpg)
+
 * * *
 
 
@@ -5404,6 +5499,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1999-4.jpg)
+
 * * *
 
 
@@ -5474,6 +5570,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1999-5.jpg)
+
 * * *
 
 
@@ -5574,6 +5671,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/1999-6.jpg)
+
 * * *
 
 
@@ -5648,6 +5746,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2000-1.jpg)
+
 * * *
 
 
@@ -5688,6 +5787,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2000-2.jpg)
+
 * * *
 
 
@@ -5758,6 +5858,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2000-3.jpg)
+
 * * *
 
 
@@ -5798,6 +5899,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2000-4.jpg)
+
 * * *
 
 
@@ -5898,6 +6000,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2000-5.jpg)
+
 * * *
 
 
@@ -5998,6 +6101,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2000-6.jpg)
+
 * * *
 
 
@@ -6087,6 +6191,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2001-1.jpg)
+
 * * *
 
 
@@ -6157,6 +6262,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2001-2.jpg)
+
 * * *
 
 
@@ -6227,6 +6333,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2001-3.jpg)
+
 * * *
 
 
@@ -6297,6 +6404,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2001-4.jpg)
+
 * * *
 
 
@@ -6352,6 +6460,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2001-5.jpg)
+
 * * *
 
 
@@ -6452,6 +6561,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2001-6.jpg)
+
 * * *
 
 
@@ -6541,6 +6651,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2002-1.jpg)
+
 * * *
 
 
@@ -6596,6 +6707,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2002-2.jpg)
+
 * * *
 
 
@@ -6711,6 +6823,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2002-3.jpg)
+
 * * *
 
 
@@ -6826,6 +6939,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2002-4.jpg)
+
 * * *
 
 
@@ -6941,6 +7055,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2002-5.jpg)
+
 * * *
 
 
@@ -7026,6 +7141,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2002-6.jpg)
+
 * * *
 
 
@@ -7100,6 +7216,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2003-5.jpg)
+
 * * *
 
 
@@ -7200,6 +7317,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2003-1.jpg)
+
 * * *
 
 
@@ -7270,6 +7388,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2003-2.jpg)
+
 * * *
 
 
@@ -7370,6 +7489,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2003-3.jpg)
+
 * * *
 
 
@@ -7515,6 +7635,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2003-4.jpg)
+
 * * *
 
 
@@ -7615,6 +7736,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2003-6.jpg)
+
 * * *
 
 
@@ -7704,6 +7826,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2004-1.jpg)
+
 * * *
 
 
@@ -7864,6 +7987,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2004-3.jpg)
+
 * * *
 
 
@@ -7994,6 +8118,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2004-4.jpg)
+
 * * *
 
 
@@ -8124,6 +8249,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2004-5.jpg)
+
 * * *
 
 
@@ -8269,6 +8395,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2004-6.jpg)
+
 * * *
 
 
@@ -8373,6 +8500,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2005-1.jpg)
+
 * * *
 
 
@@ -8503,6 +8631,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2005-2.jpg)
+
 * * *
 
 
@@ -8633,6 +8762,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2005-3.jpg)
+
 * * *
 
 
@@ -8778,6 +8908,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2005-4.jpg)
+
 * * *
 
 
@@ -8863,6 +8994,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2005-5.jpg)
+
 * * *
 
 
@@ -8948,6 +9080,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2005-6.jpg)
+
 * * *
 
 
@@ -9007,6 +9140,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2006-1.jpg)
+
 * * *
 
 
@@ -9122,6 +9256,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2006-2.jpg)
+
 * * *
 
 
@@ -9282,6 +9417,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2006-3.jpg)
+
 * * *
 
 
@@ -9382,6 +9518,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2006-4.jpg)
+
 * * *
 
 
@@ -9512,6 +9649,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2006-5.jpg)
+
 * * *
 
 
@@ -9597,6 +9735,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2006-6.jpg)
+
 * * *
 
 
@@ -9746,6 +9885,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2007-1.jpg)
+
 * * *
 
 
@@ -9831,6 +9971,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2007-2.jpg)
+
 * * *
 
 
@@ -9961,6 +10102,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2007-3.jpg)
+
 * * *
 
 
@@ -10061,6 +10203,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2007-4.jpg)
+
 * * *
 
 
@@ -10206,6 +10349,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2007-5.jpg)
+
 * * *
 
 
@@ -10381,6 +10525,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2007-6.jpg)
+
 * * *
 
 
@@ -10530,6 +10675,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2008-2.jpg)
+
 * * *
 
 
@@ -10630,6 +10776,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2008-3.jpg)
+
 * * *
 
 
@@ -10790,6 +10937,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2008-4.jpg)
+
 * * *
 
 
@@ -10965,6 +11113,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2008-5.jpg)
+
 * * *
 
 
@@ -11170,6 +11319,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2008-6.jpg)
+
 * * *
 
 
@@ -11319,6 +11469,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-1.jpg)
+
 * * *
 
 
@@ -11434,6 +11585,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-2.jpg)
+
 * * *
 
 
@@ -11594,6 +11746,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-4.jpg)
+
 * * *
 
 
@@ -11739,6 +11892,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-5.jpg)
+
 * * *
 
 
@@ -11839,6 +11993,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-6.jpg)
+
 * * *
 
 
@@ -11958,6 +12113,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-1.jpg)
+
 * * *
 
 
@@ -12002,6 +12158,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-1.jpg)
+
 * * *
 
 
@@ -12031,6 +12188,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-1.jpg)
+
 * * *
 
 
@@ -12075,6 +12233,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-1.jpg)
+
 * * *
 
 
@@ -12134,6 +12293,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-1.jpg)
+
 * * *
 
 
@@ -12159,6 +12319,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-2.jpg)
+
 * * *
 
 
@@ -12244,6 +12405,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-3.jpg)
+
 * * *
 
 
@@ -12374,6 +12536,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-4.jpg)
+
 * * *
 
 
@@ -12418,6 +12581,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-4.jpg)
+
 * * *
 
 
@@ -12447,6 +12611,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-4.jpg)
+
 * * *
 
 
@@ -12517,6 +12682,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-5.jpg)
+
 * * *
 
 
@@ -12617,6 +12783,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-6.jpg)
+
 * * *
 
 
@@ -12661,6 +12828,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2009-6.jpg)
+
 * * *
 
 
@@ -12690,6 +12858,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-6.jpg)
+
 * * *
 
 
@@ -12749,6 +12918,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-1.jpg)
+
 * * *
 
 
@@ -12778,6 +12948,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-1.jpg)
+
 * * *
 
 
@@ -12807,6 +12978,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-1.jpg)
+
 * * *
 
 
@@ -12836,6 +13008,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-1.jpg)
+
 * * *
 
 
@@ -12880,6 +13053,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-1.jpg)
+
 * * *
 
 
@@ -12954,6 +13128,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-2.jpg)
+
 * * *
 
 
@@ -13028,6 +13203,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-2.jpg)
+
 * * *
 
 
@@ -13072,6 +13248,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2010-3.jpg)
+
 * * *
 
 
@@ -13116,6 +13293,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-3.jpg)
+
 * * *
 
 
@@ -13186,6 +13364,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-4.jpg)
+
 * * *
 
 
@@ -13256,6 +13435,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-5.jpg)
+
 * * *
 
 
@@ -13341,6 +13521,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-6.jpg)
+
 * * *
 
 
@@ -13475,6 +13656,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-1.jpg)
+
 * * *
 
 
@@ -13534,6 +13716,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-1.jpg)
+
 * * *
 
 
@@ -13623,6 +13806,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-1.jpg)
+
 * * *
 
 
@@ -13663,6 +13847,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-2.jpg)
+
 * * *
 
 
@@ -13722,6 +13907,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2011-2.jpg)
+
 * * *
 
 
@@ -13796,6 +13982,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-2.jpg)
+
 * * *
 
 
@@ -13851,6 +14038,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-3.jpg)
+
 * * *
 
 
@@ -13951,6 +14139,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-4.jpg)
+
 * * *
 
 
@@ -14051,6 +14240,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-5.jpg)
+
 * * *
 
 
@@ -14136,6 +14326,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2012-6.jpg)
+
 * * *
 
 
@@ -14210,6 +14401,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2013-1.jpg)
+
 * * *
 
 
@@ -14385,6 +14577,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2013-2.jpg)
+
 * * *
 
 
@@ -14530,6 +14723,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2013-3.jpg)
+
 * * *
 
 
@@ -14690,6 +14884,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2013-4.jpg)
+
 * * *
 
 
@@ -14805,6 +15000,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2013-5.jpg)
+
 * * *
 
 
@@ -14905,6 +15101,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2013-6.jpg)
+
 * * *
 
 
@@ -15039,6 +15236,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2014-1.jpg)
+
 * * *
 
 
@@ -15154,6 +15352,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2014-2.jpg)
+
 * * *
 
 
@@ -15269,6 +15468,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2014-3.jpg)
+
 * * *
 
 
@@ -15414,6 +15614,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2014-4.jpg)
+
 * * *
 
 
@@ -15529,6 +15730,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2014-5.jpg)
+
 * * *
 
 
@@ -15659,6 +15861,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2014-6.jpg)
+
 * * *
 
 
@@ -15718,6 +15921,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2015-1.jpg)
+
 * * *
 
 
@@ -15818,6 +16022,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2015-2.jpg)
+
 * * *
 
 
@@ -15918,6 +16123,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2015-3.jpg)
+
 * * *
 
 
@@ -16018,6 +16224,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2015-4.jpg)
+
 * * *
 
 
@@ -16148,6 +16355,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2015-5.jpg)
+
 * * *
 
 
@@ -16218,6 +16426,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2015-6.jpg)
+
 * * *
 
 
@@ -16322,6 +16531,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2016-1.jpg)
+
 * * *
 
 
@@ -16512,6 +16722,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2016-2.jpg)
+
 * * *
 
 
@@ -16657,6 +16868,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2016-3.jpg)
+
 * * *
 
 
@@ -16832,6 +17044,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2016-4.jpg)
+
 * * *
 
 
@@ -16962,6 +17175,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2016-5.jpg)
+
 * * *
 
 
@@ -17122,6 +17336,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2016-6.jpg)
+
 * * *
 
 
@@ -17301,6 +17516,7 @@ make the user talk in terms of the **database's logical structure**.
 * * *
 
 ![](images/2017-1.jpg)
+
 * * *
 
 
