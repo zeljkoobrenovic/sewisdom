@@ -13,9 +13,9 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
         quote = "*\"" + quote + "\"*";
 
         quote += "\n\n![" + q.citation.replace(/<.*?>/g, "") + "](images/" + q.year + "-" + q.number + ".jpg)";
-        quote += "\n\n\n";
+        quote += "\n";
 
-        text += quote + " \n \n";
+        text += quote + "\n\n{pagebreak}\n\n\n";
         console.log(quote);
     });
 
