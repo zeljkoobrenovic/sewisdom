@@ -3,7 +3,7 @@
 [^ref_foo10]: This foreword is based on the article [Insights from the Past: The IEEE Software History Experiment](https://doi.org/10.1109/MS.2017.101), IEEE Software 34, 4 (July-August, 2017), 71-78.
 
 
-This books is a result of work to create the [IEEE Software history website](obren.info/ieeesw). This site is a curated site complementing the official [IEEE Software website](www.computer.org/software). It offers a look at IEEE Software's history at a glance. Here, I discuss its genesis' how it illustrates the practical value of historical data, and how it offers a glimpse into the magazine's future.
+This books is a result of work on creating the [IEEE Software history website](obren.info/ieeesw). This site is a curated site complementing the official [IEEE Software website](www.computer.org/software). It offers a look at IEEE Software's history at a glance. Here, I discuss its genesis' how it illustrates the practical value of historical data, and how it offers a glimpse into the magazine's future.
 
 
 #### The Website's Genesis
