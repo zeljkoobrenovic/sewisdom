@@ -1,10 +1,2 @@
-{frontmatter}
-
-foreword.txt
-
-{mainmatter}
-
--# Quotes
-
 quotes.txt
 
