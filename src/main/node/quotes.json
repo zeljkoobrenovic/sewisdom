@@ -18136,7 +18136,7 @@
     "searchText": "In our haste to <b>speed development</b>, we should consider if we are sprinting in the right direction. Is faster time-to-market equally important to every developer? Does a <b>faster cycle time</b> necessarily guarantee success? And how does the answer change from one year to the next? David N. Card Guest Editor's Introduction: The RAD Fad--Is Timing Really Everything? 1995 "
   },
   {
-    "quote": "",
+    "quote": "To be successful with RAD (<b>rapid application development</b>), we can no longer look just at the software product in isolation. A RAD development process demands that we expand our view to <b>encompass users</b> and their work environments-and if we do it right, everyone benefits. But given all the risks, would you stake <b>mission-critical projects on RAD</b>? If it is not mission-critical, then why bother at all?",
     "title": "Point-Counterpoint: Does RAD Live Up to the Hype?",
     "year": 1995,
     "number": 5,

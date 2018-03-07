@@ -1,1 +1,7 @@
-chapter1.txt
+{frontmatter}
+
+foreword.txt
+
+{mainmatter}
+
+quotes.txt
