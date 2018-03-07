@@ -20522,50 +20522,6 @@
     "searchText": "... <b>measurement</b> must be applied in individual experiments or case studies; ... measurement can help continuously improve an organization's state of the practice; ... measurement requires automated support. H. Dieter Rombach Design Measurement: Some Lessons Learned 1990 "
   },
   {
-    "quote": "[T]here is considerable confusion over the terminology used in both technical and marketplace discussions. The authors define and relate six terms: <b>forward engineering</b>, <b>reverse engineering</b>, <b>redocumentation</b>, <b>design recovery</b>, <b>restructuring</b>, and <b>reengineering</b>.",
-    "title": "Reverse Engineering and Design Recovery: A Taxonomy",
-    "year": 1990,
-    "number": 1,
-    "page": 13,
-    "doiLink": "http://doi.ieeecomputersociety.org/10.1109/52.43044",
-    "selected": false,
-    "authors": [
-      {
-        "name": "Elliot J. Chikofsky",
-        "link": ""
-      },
-      {
-        "name": "James H. Cross II",
-        "link": ""
-      }
-    ],
-    "authorsList": "Elliot J. Chikofsky, James H. Cross II",
-    "citation": "Elliot J. Chikofsky, James H. Cross II, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.43044\">Reverse Engineering and Design Recovery: A Taxonomy</a>, IEEE Software 1990, no. 1, p. 13",
-    "searchText": "[T]here is considerable confusion over the terminology used in both technical and marketplace discussions. The authors define and relate six terms: <b>forward engineering</b>, <b>reverse engineering</b>, <b>redocumentation</b>, <b>design recovery</b>, <b>restructuring</b>, and <b>reengineering</b>. Elliot J. Chikofsky James H. Cross II Reverse Engineering and Design Recovery: A Taxonomy 1990 "
-  },
-  {
-    "quote": "<b>Forward engineering</b> is the traditional process of moving from high-level abstractions and logical, implementation-independent designs to the physical implementation of a system. ",
-    "title": "Reverse Engineering and Design Recovery: A Taxonomy",
-    "year": 1990,
-    "number": 1,
-    "page": 14,
-    "doiLink": "http://doi.ieeecomputersociety.org/10.1109/52.43044",
-    "selected": false,
-    "authors": [
-      {
-        "name": "Elliot J. Chikofsky",
-        "link": ""
-      },
-      {
-        "name": "James H. Cross II",
-        "link": ""
-      }
-    ],
-    "authorsList": "Elliot J. Chikofsky, James H. Cross II",
-    "citation": "Elliot J. Chikofsky, James H. Cross II, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.43044\">Reverse Engineering and Design Recovery: A Taxonomy</a>, IEEE Software 1990, no. 1, p. 14",
-    "searchText": "<b>Forward engineering</b> is the traditional process of moving from high-level abstractions and logical, implementation-independent designs to the physical implementation of a system.  Elliot J. Chikofsky James H. Cross II Reverse Engineering and Design Recovery: A Taxonomy 1990 "
-  },
-  {
     "quote": "<b>Reverse engineering</b> is the process of analyzing a subject system to identify the system’s components and their interrelationships and create representations of the system in another form or at a higher level of abstraction.",
     "title": "Reverse Engineering and Design Recovery: A Taxonomy",
     "year": 1990,
@@ -20608,50 +20564,6 @@
     "authorsList": "Elliot J. Chikofsky, James H. Cross II",
     "citation": "Elliot J. Chikofsky, James H. Cross II, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.43044\">Reverse Engineering and Design Recovery: A Taxonomy</a>, IEEE Software 1990, no. 1, p. 15",
     "searchText": "<b>Restructuring</b> is the transformation from one representation form to another at the same relative abstraction level, while preserving the subject system’s external behavior (functionality and semantics).  Elliot J. Chikofsky James H. Cross II Reverse Engineering and Design Recovery: A Taxonomy 1990 "
-  },
-  {
-    "quote": "<b>Reengineering</b>, also known as both renovation and reclamation, is the examination and alteration of a subject system to reconstitute it in a new form and the subsequent implementation of the new form.",
-    "title": "Reverse Engineering and Design Recovery: A Taxonomy",
-    "year": 1990,
-    "number": 1,
-    "page": 15,
-    "doiLink": "http://doi.ieeecomputersociety.org/10.1109/52.43044",
-    "selected": false,
-    "authors": [
-      {
-        "name": "Elliot J. Chikofsky",
-        "link": ""
-      },
-      {
-        "name": "James H. Cross II",
-        "link": ""
-      }
-    ],
-    "authorsList": "Elliot J. Chikofsky, James H. Cross II",
-    "citation": "Elliot J. Chikofsky, James H. Cross II, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.43044\">Reverse Engineering and Design Recovery: A Taxonomy</a>, IEEE Software 1990, no. 1, p. 15",
-    "searchText": "<b>Reengineering</b>, also known as both renovation and reclamation, is the examination and alteration of a subject system to reconstitute it in a new form and the subsequent implementation of the new form. Elliot J. Chikofsky James H. Cross II Reverse Engineering and Design Recovery: A Taxonomy 1990 "
-  },
-  {
-    "quote": "<b>Redocumentation</b> is the creation or revision of a semantically equivalent representation within the same relative abstraction level. The resulting forms of representation are usually considered alternate views (for example, dataflow, data structure, and control flow) intended for a human audience.",
-    "title": "Reverse Engineering and Design Recovery: A Taxonomy",
-    "year": 1990,
-    "number": 1,
-    "page": 15,
-    "doiLink": "http://doi.ieeecomputersociety.org/10.1109/52.43044",
-    "selected": false,
-    "authors": [
-      {
-        "name": "Elliot J. Chikofsky",
-        "link": ""
-      },
-      {
-        "name": "James H. Cross II",
-        "link": ""
-      }
-    ],
-    "authorsList": "Elliot J. Chikofsky, James H. Cross II",
-    "citation": "Elliot J. Chikofsky, James H. Cross II, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.43044\">Reverse Engineering and Design Recovery: A Taxonomy</a>, IEEE Software 1990, no. 1, p. 15",
-    "searchText": "<b>Redocumentation</b> is the creation or revision of a semantically equivalent representation within the same relative abstraction level. The resulting forms of representation are usually considered alternate views (for example, dataflow, data structure, and control flow) intended for a human audience. Elliot J. Chikofsky James H. Cross II Reverse Engineering and Design Recovery: A Taxonomy 1990 "
   },
   {
     "quote": "[T]he European Strategic Program for Research and Information Technology <b>[ESPRIT]</b> has had a profound effect on industrial technology in Europe.",
