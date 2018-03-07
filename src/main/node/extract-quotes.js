@@ -38,7 +38,7 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
 
         quote = "  \n* * *\n\n| \"" + quote + "\" |\n";
         quote += "\n\n* * *\n\n| ***" + q.citation.replace(/<.*?>/g, "") + ".***[^foo" + i + "] |\n\n";
-        quote += "[^foo" + i + "]: " + q.doiLink;
+        quote += "[^foo" + i + "]: <" + q.doiLink + ">";
 
         quote += "\n";
 
