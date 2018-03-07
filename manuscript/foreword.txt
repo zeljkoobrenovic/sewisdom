@@ -1,17 +1,9 @@
-# Foreword
+# Foreword[^ref_foo10]
 
-**Research community mostly aims at creating ground-breaking and innovative solutions. Looking back at older and historical developments is rarely considered interesting or relevant. However, in the domain of software engineering, lessons from the past are still actual. That was one of the reasons for me to start to work on creating the website that makes it easier to explore the rich history of software engineering. In this chapter I reflect on lessons learned, and the value of studying the past so that it might not be reinvented but become a source of inspiration for the present and future.[^ref_foo10]*
-
-![A snapshot from IEEE Software history site, showing covers from 1980s.](images/software_history.jpg)
-
-[^ref_foo10]: This chapter is based on the article [Insights from the Past: The IEEE Software History Experiment](https://doi.org/10.1109/MS.2017.101), IEEE Software 34, 4 (July-August, 2017), 71-78.
-
-{pagebreak}
+[^ref_foo10]: This foreword is based on the article [Insights from the Past: The IEEE Software History Experiment](https://doi.org/10.1109/MS.2017.101), IEEE Software 34, 4 (July-August, 2017), 71-78.
 
 
-### Introduction
-
-The [IEEE Software history website](obren.info/ieeesw) is a curated site complementing the official [IEEE Software website](www.computer.org/software). It offers a look at IEEE Software's history at a glance. Here, I discuss its genesis' how it illustrates the practical value of historical data, and how it offers a glimpse into the magazine's future.
+This books is a result of work to create the [IEEE Software history website](obren.info/ieeesw). This site is a curated site complementing the official [IEEE Software website](www.computer.org/software). It offers a look at IEEE Software's history at a glance. Here, I discuss its genesis' how it illustrates the practical value of historical data, and how it offers a glimpse into the magazine's future.
 
 
 #### The Website's Genesis
@@ -34,7 +26,6 @@ While collecting the covers, I discovered that the July/August 2017 issue would 
 * *Indexes of all 3,000+ articles and 4,000+ authors.* These indexes enable quick exploration of articles and authors in a historical context. I also added a historical timeline for search results.
 * *A citation index* (based on Google Scholar searches) correlated with the publication year. This helps show IEEE Software articles' broader impact. It also aids identifying the most cited articles, authors, or themes.
 
-For more on the website's content, see the sidebars.
 
 {pagebreak}
 
@@ -163,68 +154,6 @@ Finally, one value of maintaining an accessible website about our history is bei
 Up to now, the IEEE Software history website has been an experiment. It’s still a prototype, and we’re still experimenting with different ways of presentation, adding new content and releasing changes frequently.
 
 You can help contribute to this history. For example, write great new articles for IEEE Software. Invest the effort to find previous research and connect your research to it. Or, promote historical content in any medium—for example, by using that content in education and as inspiration in daily work.
-
-
-A> ### Sidebar A: Other Histories of Software Engineering
-A>
-A> The IEEE Software history website (obren.info/ieeesw) complements other resources describing software engineering history, such as these (links to which are also on the website):
-A>
-A> * “History of Software Engineering”; [en.wikipedia.org/ wiki/History_of_software_engineering](https://en.wikipedia.org/wiki/History_of_software_engineering).
-A>
-A> * N. Wirth, “A Brief History of Software Engineering,” IEEE Annals of the History of Computing, vol. 30, no. 3, 2008, pp. 32–39.
-A>
-A> * “A Brief History of Software Engineering,” Viking Code School; www.vikingcodeschool.com/ software-engineering-basics/ a-brief-history-of-software-engineering.
-A>
-A> * A Brennecke and R. Keil-Slawik, Eds., [Position Papers for Dagstuhl Seminar 9635 on History of Software Engineering](www.dagstuhl.de/Reports/96/9635.pdf), 1996.
-
-
-
-A> ### Sidebar B: IEEE Software Bibliometric Data
-A>
-A> The IEEE Software history website (obren.info/ieeesw) combines data from the IEEE Computer Society Digital Library (CSDL), IEEE Xplore, and Google Scholar. The CSDL and Xplore provide useful data about the number of articles and authors.
-A>
-A> Approximately 4,500 IEEE Software articles are indexed in Xplore. However, this number includes front and back covers, tables of contents, and ads. I built a script that extracts only articles with authors. This leaves around 3,250 “proper” articles. Approximately half of those articles are peer reviewed; the other half includes columns and invited content.
-A>
-A> In total, more than 4,200 authors have contributed to IEEE Software. Of those authors, 819 have contributed multiple times—for example, Diomidis Spinellis (75 articles), Grady Booch (68), Robert Glass (57), Christof Ebert (46), and Forrest Shull (43). These 819 authors authored or coauthored approximately two-thirds of the articles. Fifty-one percent of the articles (mostly department articles) have one author; 49 percent have multiple authors.
-A>
-A> Figures A and B shows the number of authors and articles per year.
-A>
-A> The history website also contains citation data extracted from Google Scholar in February 2017:
-A>
-A> * The cumulative IEEE Software citation count is 161,042 (the sum of all “cited by” fields).
-A> * The magazine’s h-index is 181; approximately one-half of the citations are from these top 181 articles.
-A> * The most cited year is 1990, followed closely by 2003 and 1994.
-A> * The most cited articles are “The 4+1 View Model of Architecture” (2,786 citations), “Reverse Engineering and Design Recovery: A Taxonomy” (2,594 citations), and “Software Risk Management: Principles and Practices” (1,925 citations).
-A>
-A> Figure C shows the number of IEEE citations per year of publication.
-A>
-A> ![Figure A: The number of authors per year in IEEE Software.](images/sw_history_a1.jpg)
-A>
-A> ![Figure B: The number of articles per year in IEEE Software.](images/sw_history_a2.jpg)
-A>
-A> ![Figure C: The number of IEEE citations per year of publication for IEEE Software.](images/sw_history_b.jpg)
-
-
-A> ### Sidebar C: History Tweets—Injecting the Past into Social Media
-A>
-A> The IEEE Software history website (obren.info/ieeesw) also promotes IEEE Software on social media. From October 2016 to June 2017, to draw attention to the magazine’s 200th issue (July/Aug. 2017), I’ve been daily tweeting IEEE Software covers and quotes and interesting historical findings. In this way, each IEEE Software issue has been mentioned at least once before the publication of our 200th issue.
-A>
-A> The tweets have provided an interesting way to engage with a broader, younger audience. Many of the old articles from the 1980s have received significant attention. Social-media interaction has also enabled us to reconnect with some of the early authors.
-A>
-A> Also, on Twitter under #SE_history (twitter.com/hashtag/se_history) are more than 500 tweets about IEEE Software history. We plan to tweet there again as new issues are added. Figure D shows a few interesting tweets.
-A>
-A> **Figure D: Some interesting tweets from the IEEE Software history website:**
-A>
-A> ![](images/sw_history_tweet_1.jpg)
-A>
-A> ![](images/sw_history_tweet_2.jpg)
-A>
-A> ![](images/sw_history_tweet_3.jpg)
-A>
-A> ![](images/sw_history_tweet_4.jpg)
-A>
-A> ![](images/sw_history_tweet_5.jpg)
-A>
 
 
 {pagebreak}
