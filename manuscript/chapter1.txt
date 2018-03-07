@@ -64,8 +64,7 @@
   
 * * *
 
-| "Booch offers a software design methodology, which he calls "**object-oriented design**" in contrast to earlier popular methods he designates as either **functional** or **data-oriented**. In contrast to
-suggestions that we either identify a program's principal function and describe it in the top box in a hierarchy chart or carefully identify the patterns of data and their flows, Booch suggests, 'Define the problem, develop an informal strategy; formalize the strategy.'" |
+| "Booch offers a software design methodology, which he calls '**object-oriented design**' in contrast to earlier popular methods he designates as either **functional** or **data-oriented**. In contrast to suggestions that we either identify a program's principal function and describe it in the top box in a hierarchy chart or carefully identify the patterns of data and their flows, Booch suggests, 'Define the problem, develop an informal strategy; formalize the strategy.'" |
 
 
 * * *
@@ -209,8 +208,7 @@ suggestions that we either identify a program's principal function and describe 
   
 * * *
 
-| "The use of **formal notation** does not, however, preclude that of **natural language**. In fact, mathematical specification  of a problem usually leads to a  better natural-language description. This is because formal notations naturally lead the specifier to **raise
-some questions** that might have remained unasked, and thus unanswered, in an informal approach." |
+| "The use of **formal notation** does not, however, preclude that of **natural language**. In fact, mathematical specification  of a problem usually leads to a  better natural-language description. This is because formal notations naturally lead the specifier to **raise some questions** that might have remained unasked, and thus unanswered, in an informal approach." |
 
 
 * * *
@@ -237,10 +235,7 @@ some questions** that might have remained unasked, and thus unanswered, in an in
   
 * * *
 
-| "In essence, **programming-in-the large** involves the two complementary activities of modularization and interface control. **Modularization** is the identification of the major system modules and the entities those modules
-contain, where entities are language elements that are given names, such as
-subprograms, data objects, and types. **Interface control** is the specification
-and control of the interactions among entities in different modules." |
+| "In essence, **programming-in-the large** involves the two complementary activities of modularization and interface control. **Modularization** is the identification of the major system modules and the entities those modules contain, where entities are language elements that are given names, such as subprograms, data objects, and types. **Interface control** is the specification and control of the interactions among entities in different modules." |
 
 
 * * *
@@ -256,8 +251,7 @@ and control of the interactions among entities in different modules." |
   
 * * *
 
-| "Engineers may be able to design a **better interface** if they take into account the **control structures** underlying the **interface syntax**.The **syntactic**, **semantic**, and **protocol** aspects of
-the interface each have their **own 'complexity.'**." |
+| "Engineers may be able to design a **better interface** if they take into account the **control structures** underlying the **interface syntax**.The **syntactic**, **semantic**, and **protocol** aspects of the interface each have their **own 'complexity.'**." |
 
 
 * * *
@@ -311,8 +305,7 @@ the interface each have their **own 'complexity.'**." |
   
 * * *
 
-| "System designers should provide for such practical issues as **deadlock** avoidance, **scheduling**, necessary and sufficient primitives to allow for **synchronization**, and the combination of
-**multiprogramming** (a single system dividing its time and resources among many jobs) and **multiprocessing** (multiple processing units operating on a single job)." |
+| "System designers should provide for such practical issues as **deadlock** avoidance, **scheduling**, necessary and sufficient primitives to allow for **synchronization**, and the combination of **multiprogramming** (a single system dividing its time and resources among many jobs) and **multiprocessing** (multiple processing units operating on a single job)." |
 
 
 * * *
@@ -515,9 +508,7 @@ the interface each have their **own 'complexity.'**." |
   
 * * *
 
-| "One of the major challenges facing project software system managers and
-maintainers in the 1980's is **how  to upgrade** large, complex, embedded
-system, written a decade or more ago in unstructured languages according to **designs that make modification difficult**." |
+| "One of the major challenges facing project software system managers and maintainers in the 1980's is **how  to upgrade** large, complex, embedded system, written a decade or more ago in unstructured languages according to **designs that make modification difficult**." |
 
 
 * * *
@@ -709,7 +700,7 @@ system, written a decade or more ago in unstructured languages according to **de
   
 * * *
 
-| "**Reusing** and **reworking** software is not new; it has been done since the very beginnings of our industry in the early 1950s. Reuse means using an entity in a different context from that in it initially had been used. This is often called **'black-box' reuse**. When an entity is modified before it is used in the new setting, it is called "rework" or **'white-box' reuse**." |
+| "**Reusing** and **reworking** software is not new; it has been done since the very beginnings of our industry in the early 1950s. Reuse means using an entity in a different context from that in it initially had been used. This is often called **'black-box' reuse**. When an entity is modified before it is used in the new setting, it is called 'rework' or **'white-box' reuse**." |
 
 
 * * *
@@ -741,8 +732,7 @@ system, written a decade or more ago in unstructured languages according to **de
   
 * * *
 
-| "There are two levels of **reuse** to consider: the reuse of
-**ideas and knowledge** and the reuse of particular **artifacts and components**." |
+| "There are two levels of **reuse** to consider: the reuse of **ideas and knowledge** and the reuse of particular **artifacts and components**." |
 
 
 * * *
@@ -774,9 +764,7 @@ system, written a decade or more ago in unstructured languages according to **de
   
 * * *
 
-| "The level of a language is inversely related to the amount of details a user must
-supply the computer to achieve the desired results. The scope of the language ranges
-from the general and widely applicable to the specific and narrowly applicable." |
+| "The level of a language is inversely related to the amount of details a user must supply the computer to achieve the desired results. The scope of the language ranges from the general and widely applicable to the specific and narrowly applicable." |
 
 
 * * *
@@ -1225,13 +1213,7 @@ from the general and widely applicable to the specific and narrowly applicable."
   
 * * *
 
-| "There are several applications where a **universal-relation 
-interface** to an existing database-management system is essential. 
-The most obvious example is **natural-language** interface - 
-indeed, it is hard to see how a natural-language interface 
-could reliably use anything else, since it is unreasonable to 
-make the user talk in terms of the **database's logical structure**.
-" |
+| "There are several applications where a **universal-relation  interface** to an existing database-management system is essential.  The most obvious example is **natural-language** interface -  indeed, it is hard to see how a natural-language interface  could reliably use anything else, since it is unreasonable to  make the user talk in terms of the **database's logical structure**. " |
 
 
 * * *
@@ -2146,8 +2128,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-| "In a nutshel **performance analysis** is the measuring, modeling, and tuning of software's time, space, efficiency, and accuracy.
-" |
+| "In a nutshel **performance analysis** is the measuring, modeling, and tuning of software's time, space, efficiency, and accuracy. " |
 
 
 * * *
@@ -2766,8 +2747,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-| "**The Shlaer-Mellor object-oriented analysis method** provides a structured means of identifying objects within a system by analyzing abstract data types and uses these objects as a basis for building three formal models: **information**, **state**, and **process**.
-" |
+| "**The Shlaer-Mellor object-oriented analysis method** provides a structured means of identifying objects within a system by analyzing abstract data types and uses these objects as a basis for building three formal models: **information**, **state**, and **process**. " |
 
 
 * * *
@@ -3018,8 +2998,7 @@ make the user talk in terms of the **database's logical structure**.
   
 * * *
 
-| "**Safety-critical software** must perform as desired and **should never fail**. The need for dependability stems from the fact that the **consequences of failure are extremely high**, usually a **threat to human life**. To write such systems, most now agree that we must adopt rigorous techniques, rooted in mathematics.
-" |
+| "**Safety-critical software** must perform as desired and **should never fail**. The need for dependability stems from the fact that the **consequences of failure are extremely high**, usually a **threat to human life**. To write such systems, most now agree that we must adopt rigorous techniques, rooted in mathematics. " |
 
 
 * * *
