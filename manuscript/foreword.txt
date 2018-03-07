@@ -31,7 +31,7 @@ While collecting the covers, I discovered that the July/August 2017 issue would 
 
 ### Historical Data's Practical Value
 
-Although, at the time of writing of this artcile, the history website was just six months old, I had gathered enough experience to reflect on its value. I classify these lessons learned into the following categories.
+I classify historical data's practical value into the following categories.
 
 #### Seeing Trends
 
@@ -115,25 +115,15 @@ Detailed, easily accessible historical data can help slow down the inflation of 
 
 #### Being a Source of Inspiration
 
-Another value of easily accessible historical information is in its relevant and inspirational content. I was surprised to discover that many articles from the 1980s and 1990s are still relevant. For example, consider this quote from Bruce Shriver’s introduction of the first IEEE Software issue in 1984:
+Another value of easily accessible historical information is in its relevant and inspirational content. I was surprised to discover that many articles from the 1980s and 1990s are still relevant.
 
-*Many of the challenges facing the software industry today are a direct result of our insatiable appetite for new computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of problems that we ourselves created many years ago. Specifically, we still, by and large, lack the necessary methods to increase our ability to design and implement high-quality systems [4].*
-
-This quote still accurately summarizes current software engineering challenges.
-
-I’ve come across quite a few such insightful pieces. For my daily work, I’ve found early work on software architecture, quality, and maintenance still insightful and inspiring. Here are three of my favorite quotes:
-
- *Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren’t about the code. The code doesn’t “care” about how cohesive or decoupled it is; if anything, tightly coupled software lacks some of the performance snags found in more modular systems. But people do care about their coupling to other team members [5]. We are so used to the notion that quality must take a back seat to productivity that we continue to put up with practices that we know will produce software of lesser quality [6]. The greater speed of technical change means that capital investment must be recovered more quickly and that enhancement and evolution consume proportionately more resources than in a slowly changing technology. This contributes to the fact that maintenance and enhancement are the dominant costs in the software life cycle today [7].*
+I’ve come across quite a few such insightful pieces. For my daily work, I’ve found early work on software architecture, quality, and maintenance still insightful and inspiring.
 
 I particularly like the clarity of definitions and research questions in the early articles, which often have defined a new field. Knowing such early work also helps you have authority in the field.
 
-In my practical work as a consultant, I’ve discovered the value of historical content as an antidote to hype. Nothing cools down a heated sales pitch about a “revolutionary” new technology more than showing the presenter a 30-year-old article describing the same or a similar concept, sometimes with empirical studies, and asking how the “new” solution differs. I’ve used this tactic successfully a few times. For example, people presenting a new low-code platform are often proud of the platform’s use of visual programming that supposedly implements a new programming paradigm. However, as Shi-Kuo Chang’s 1987 survey on visual languages shows, many such visual-programming techniques are more than 30 years old.8
+In my practical work as a consultant, I’ve discovered the value of historical content as an antidote to hype. Nothing cools down a heated sales pitch about a “revolutionary” new technology more than showing the presenter a 30-year-old article describing the same or a similar concept, sometimes with empirical studies, and asking how the “new” solution differs.
 
-I also came across many inspirational but less known and unexpected pieces, such as great articles from Alan Kay and Christopher Alexander:
-
-*You could … say that the main business of everyone on earth is to help everyone else—including ourselves—get enlightened because the technology is getting more and more dangerous [9]. What I am proposing … is a view of programming as the natural, genetic infrastructure of a living world which you/we are capable of creating, managing, making available, and which could then have the result that a living structure in our towns, houses, work places, cities, becomes an attainable thing. That would be remarkable. It would turn the world around, and make living structure the norm once again, throughout society, and make the world worth living in again [10].*
-
-And this just scratches the surface. Please explore these quotes yourself, and use social media to let everyone know when you find some new inspirational pieces.
+I also came across many inspirational but less known and unexpected pieces, such as great articles from Alan Kay and Christopher Alexander.
 
 Another piece of inspiration is what I call “the art of IEEE Software.” The covers, as well as the article illustrations, depict key software engineering concepts in an original and artistically pleasing way.
 
@@ -147,13 +137,9 @@ Gopnik also noted that many parents spend much energy trying to determine their 
 
 #### Defining IEEE Software’s Future
 
-*Who controls the past … controls the future: who controls the present controls the past. —George Orwell*
+|*"Who controls the past … controls the future: who controls the present controls the past." —George Orwell*|
 
 Finally, one value of maintaining an accessible website about our history is being able to see how our past impacts IEEE Software’s future. Orwell’s quote from 1984 (don’t forget that IEEE Software started in 1984) in many ways reflects the magazine’s situation. The most obvious example is the impact factor—the frequency with which the average article or paper in a publication has been cited in particular years. Although the impact factor is based on past data, it directly influences a publication’s reputation and future. A high impact factor normally attracts more high-quality contributions. High-quality articles and papers are normally cited more, which might further increase the impact factor. And vice versa: publications with a low impact factor normally attract fewer high-quality contributions, which might start a vicious cycle of decreasing impact factors.
-
-Up to now, the IEEE Software history website has been an experiment. It’s still a prototype, and we’re still experimenting with different ways of presentation, adding new content and releasing changes frequently.
-
-You can help contribute to this history. For example, write great new articles for IEEE Software. Invest the effort to find previous research and connect your research to it. Or, promote historical content in any medium—for example, by using that content in education and as inspiration in daily work.
 
 
 {pagebreak}
