@@ -19,6 +19,6 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
         console.log(quote);
     });
 
-    fs.writeFile('../chapter1.txt', text, function (err, contents) {
+    fs.writeFile('../../../manuscript/chapter1.txt', text, function (err, contents) {
     });
 });
