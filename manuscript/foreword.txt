@@ -1,6 +1,6 @@
 # Foreword[^ref_foo10]
 
-[^ref_foo10]: This foreword is based on the article [Insights from the Past: The IEEE Software History Experiment](https://doi.org/10.1109/MS.2017.101), IEEE Software 34, 4 (July-August, 2017), 71-78.
+[^ref_foo10]: This foreword is based on [Insights from the Past: The IEEE Software History Experiment](https://doi.org/10.1109/MS.2017.101), IEEE Software 34, 4 (July-August, 2017), 71-78.
 
 
 This books is a result of work on creating the [IEEE Software history website](obren.info/ieeesw). This site is a curated site complementing the official [IEEE Software website](www.computer.org/software). It offers a look at IEEE Software's history at a glance. Here, I discuss its genesis' how it illustrates the practical value of historical data, and how it offers a glimpse into the magazine's future.
@@ -43,11 +43,11 @@ To illustrate the possibilities of seeing trends, Figure 2 shows word clouds cre
 In the 1980s, topics related to different programming paradigms were popular. For instance, parallel and distributed programming were important topics. Six theme issues and cover articles discussed programming:
 
  * 1984, no. 2. Programming: Sorcery or Science?
- * 1986, no. 4. Firmware Engineering: The Interaction of Microprogramming and Software Technology.
+ * 1986, no. 4. Firmware Engineering.
  * 1988, no. 1. Parallel Programming: Issues and Questions.
  * 1988, no. 3. What Is Object-Oriented Programming?
- * 1989, no. 4. Parallel Programming: Harnessing the Hardware.
- * 1989, no. 5. A Compositional Approach to Multiparadigm Programming.
+ * 1989, no. 4. Parallel Programming.
+ * 1989, no. 5. Multiparadigm Programming.
 
 In the 1990s, the focus shifted toward process-related topics. Measurements, metrics, and quality assurance also received significant attention. Ten theme issues covered process management and metrics (and their combination):
 
@@ -59,13 +59,13 @@ In the 1990s, the focus shifted toward process-related topics. Measurements, met
  * 1996, no. 4. Managing Large Software Projects.
  * 1997, no. 2. Assessing Measurement.
  * 1997, no. 3. Managing Risk.
- * 1998, no. 4. Menace or Masterpiece? Managing Legacy Systems.
+ * 1998, no. 4. Managing Legacy Systems.
  * 1999, no. 2. Metrics for Small Projects.
 
 The 2000s were clearly the age of requirements engineering. Overall, IEEE Software has published 163 articles with “Requirements” in the title. Of those articles, 91 (56 percent) were published in the 2000s. Seven theme issues covered requirements engineering:
 
  * 2000, no. 3. Requirements Engineering: Getting the Details Right.
- * 2003, no. 1. RE 02: A Major Step toward a Mature Requirements Engineering Community.
+ * 2003, no. 1. RE 02: A Mature Requirements Engineering Community.
  * 2004, no. 2. Practical Requirements Engineering Solutions.
  * 2005, no. 1. Innovation in Requirements Engineering.
  * 2006, no. 3. RE 05: Engineering Successful Products.
@@ -89,9 +89,13 @@ Overall, IEEE Software has published 167 articles with “Architecture” or “
 
 #### Preventing Knowledge Inflation
 
-*There’s a lot of forgetting, and a lot of “never knew that” in our field today [1]. —Robert Glass Those who cannot remember the past are condemned to repeat it. —George Santayana*
+|*There’s a lot of forgetting, and a lot of “never knew that” in our field today*. —Robert Glass|
 
-Knowing history can help us avoid repeating errors and building on each other’s work. As Robert Glass noted, we keep forgetting early contributions and often reinvent the wheel. In my experience, much current software engineering work, especially practitioner’s books and posts, aren’t well connected to previous work. Similarly, Martin Fowler talked about semantic diffusion, which occurs when a definition gets spread through the wider community in a way that weakens it [2]. Often this weakening is a consequence of lack of awareness of the original work related to the definition.
+|*Those who cannot remember the past are condemned to repeat it." —George Santayana*|
+
+Knowing history can help us avoid repeating errors and building on each other’s work. As Robert Glass noted, we keep forgetting early contributions and often reinvent the wheel. In my experience, much current software engineering work, especially practitioner’s books and posts, aren’t well connected to previous work. Similarly, Martin Fowler talked about semantic diffusion[^fooSemanticDiffusion], which occurs when a definition gets spread through the wider community in a way that weakens it [1]. Often this weakening is a consequence of lack of awareness of the original work related to the definition.
+
+[^fooSemanticDiffusion]: [martinfowler.com/bliki/SemanticDiffusion.html](https://martinfowler.com/bliki/SemanticDiffusion.html).
 
 I call this problem the inflation of software engineering terms and knowledge (see Figure 3). The difficulty of finding previous work often leads to reinvention of concepts and solutions. The reinvented solutions get documented and published, leading to the invention of new terms and creation of isolated content (unconnected to previous work). These new terms and content increase the already significant number of articles and posts, which makes finding previous work even more difficult. New cycles of such reinventions are inevitable.
 
@@ -108,7 +112,7 @@ Unfortunately, IEEE Software is partly to blame for this cycle. Just by looking 
 
 Looking at the introductions of the later theme issues, you can see that none of them connects to any of the previous ones. Nor do they relate to the brilliant but largely forgotten 1984 issue (no. 3) on Capital-Intensive Software Technology.
 
-IEEE Software provides content that can help root new contributions in previous solid peer-reviewed research and practices. Many IEEE Software authors have been the originators of nowadays mainstream concepts and ideas. For examples, 10 of the 17 authors of the “Manifesto for Agile Software Development”3 have written for IEEE Software: Kent Beck, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Andrew Hunt, Ron Jeffries, Robert Martin, Steve Mellor, and Dave Thomas.
+IEEE Software provides content that can help root new contributions in previous solid peer-reviewed research and practices. Many IEEE Software authors have been the originators of nowadays mainstream concepts and ideas. For examples, 10 of the 17 authors of the “Manifesto for Agile Software Development” have written for IEEE Software: Kent Beck, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Andrew Hunt, Ron Jeffries, Robert Martin, Steve Mellor, and Dave Thomas.
 
 Detailed, easily accessible historical data can help slow down the inflation of knowledge by making it easier to find and connect to previous work and ideas.
 
@@ -130,32 +134,9 @@ Another piece of inspiration is what I call “the art of IEEE Software.” The 
 
 #### Having Intrinsic Historical Value
 
-History has value in itself. People care about it. For example, Alison Gopnik explained that acknowledging the truth about the past, good or bad, individually or collectively, is deeply important to us as humans, even when it has no immediate effect on the present [11]. I think the same concept applies to the history of software engineering. Many of us software engineering professionals find it important to acknowledge the truth about the past for its own sake, even when it has no immediate effect on what we do now.
+History has value in itself. People care about it. For example, Alison Gopnik[^fooGopnik] explained that acknowledging the truth about the past, good or bad, individually or collectively, is deeply important to us as humans, even when it has no immediate effect on the present. I think the same concept applies to the history of software engineering. Many of us software engineering professionals find it important to acknowledge the truth about the past for its own sake, even when it has no immediate effect on what we do now.
 
-Gopnik also noted that many parents spend much energy trying to determine their children’s future. However, parents can’t give their children a good future, but they can give them a good past. That also applies to us. Can we as potential authors determine software engineering’s future? Who knows? We can try. But it’s not completely in our hands. And history teaches us that we have, on quite a few occasions, been wrong. For instance, Fred Brooks, in an excerpt from his book The Mythical Man-Month that appeared in IEEE Software, said, “[David] Parnas was right, and I was wrong [about information hiding] [12].” But can we give software engineering a good history? This is definitely much more under our control.
+[^fooGopnik]: A Gopnik, The Philosophical Baby, Farrar, Straus and Giroux, 2009.
 
-
-#### Defining IEEE Software’s Future
-
-|*"Who controls the past … controls the future: who controls the present controls the past." —George Orwell*|
-
-Finally, one value of maintaining an accessible website about our history is being able to see how our past impacts IEEE Software’s future. Orwell’s quote from 1984 (don’t forget that IEEE Software started in 1984) in many ways reflects the magazine’s situation. The most obvious example is the impact factor—the frequency with which the average article or paper in a publication has been cited in particular years. Although the impact factor is based on past data, it directly influences a publication’s reputation and future. A high impact factor normally attracts more high-quality contributions. High-quality articles and papers are normally cited more, which might further increase the impact factor. And vice versa: publications with a low impact factor normally attract fewer high-quality contributions, which might start a vicious cycle of decreasing impact factors.
-
-
-{pagebreak}
-
-### References
-
-1. R.L. Glass, “‘Silver Bullet’ Milestones in Software History,” Comm. ACM, vol. 48, no. 8, 2005, pp. 15–18.
-2. M. Fowler, “Semantic Diffusion,” Dec.2006; [martinfowler .com/bliki/SemanticDiffusion.html](https://martinfowler.com/bliki/SemanticDiffusion.html).
-3. K. Beck et al., “Manifesto for Agile Software Development,” 2001; agilemanifesto.org.
-4. B.D. Shriver, “From the Editor-in-Chief,” IEEE Software, vol. 1, no. 1, 1984, pp. 4–5.
-5. J.O. Coplien, “Reevaluating the Architectural Metaphor: Toward Piecemeal Growth,” IEEE Software, vol. 16, no. 5, 1999, pp. 40–44.
-6. P. Hsia, “Learning to Put Lessons into Practice,” IEEE Software, vol. 10, no. 5, 1993, pp. 14–17.
-7. P. Wegner, “Capital-Intensive Software Technology,” IEEE Software, vol. 1, no. 3, 1984, pp. 7–45.
-8. S.-K. Chang, “Visual Languages: A Tutorial and Survey,” IEEE Software, vol. 4, no. 1, 1987, pp. 29–39.
-9. “Inventing the Future” (interview with A. Kay), IEEE Software, vol. 15, no. 2, 1998, pp. 22–23.
-10. C. Alexander, “The Origins of Pattern Theory: The Future of the Theory, and the Generation of a Living World,” IEEE Software, vol. 16, no. 5, 1999, pp. 71–82.
-11. A Gopnik, The Philosophical Baby, Farrar, Straus and Giroux, 2009.
-12. F. Brooks, “The Mythical Man-Month after 20 Years” (book excerpt), IEEE Software, vol. 12, no. 5, 1995, pp. 57–60.
+Gopnik also noted that many parents spend much energy trying to determine their children’s future. However, parents can’t give their children a good future, but they can give them a good past. That also applies to us. Can we as potential authors determine software engineering’s future? Who knows? We can try. But it’s not completely in our hands. And history teaches us that we have, on quite a few occasions, been wrong. But can we give software engineering a good history? This is definitely much more under our control. This book is intended to help achieve this goal.
 
