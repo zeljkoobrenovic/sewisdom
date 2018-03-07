@@ -6,9 +6,12 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
     var text = "";
     var prevYear = 0;
     var prevCover = "";
+    var i = 0;
 
-    for (var i = quotes.length - 1; i >= 0; i--) {
-        var q = quotes[i];
+    quotes.sort(function (a, b) {
+        return (a.year * 100000 + a.number * 1000 + a.page) - (b.year * 100000 + b.number * 1000 + b.page);
+    }).forEach(function (q) {
+        i++;
         var quote = q.quote;
 
         var year = q.year;
@@ -39,7 +42,7 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
 
         text += quote + " \n \n{pagebreak}\n\n\n";
         console.log(quote);
-    }
+    });
 
     fs.writeFile('../../../manuscript/chapter1.txt', text, function (err, contents) {
     });
