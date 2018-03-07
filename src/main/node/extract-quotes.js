@@ -21,7 +21,7 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
 
         var cover = year + "-" + number;
         if (prevCover !== cover) {
-            text += " \n \n![](images/" + cover + ".jpg)\n\n{pagebreak}\n\n\n";
+            text += "  \n  \n![](images/" + cover + ".jpg)\n\n{pagebreak}\n\n\n";
             prevCover = cover;
         }
 
@@ -29,8 +29,8 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
         quote = quote.replace(/<b>/g, "**");
         quote = quote.replace(/<\/b>/g, "**");
 
-        quote = " \n \n*\"" + quote + "\"*";
-        quote += " \n \n**" + q.citation.replace(/<.*?>/g, "") + "**\n\n";
+        quote = "  \n  \n*\"" + quote + "\"*";
+        quote += "  \n  \n**" + q.citation.replace(/<.*?>/g, "") + "**\n\n";
 
         quote += "\n";
 
