@@ -29,8 +29,8 @@ fs.readFile('quotes.json', 'utf8', function (err, contents) {
         quote = quote.replace(/<b>/g, "**");
         quote = quote.replace(/<\/b>/g, "**");
 
-        quote = "  \n  \n\"" + quote + "\"";
-        quote += "  \n  \n***" + q.citation.replace(/<.*?>/g, "") + "***\n\n";
+        quote = "  \n* * *\n\n\"" + quote + "\"";
+        quote += "  \n\n* * *\n\n***" + q.citation.replace(/<.*?>/g, "") + "***\n\n";
 
         quote += "\n";
 
