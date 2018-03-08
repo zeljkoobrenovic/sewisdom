@@ -13,7 +13,7 @@
     "searchText": "New wiring transformed <b>ENIAC</b> into a versatile stored-program computer. <b>Rewiring Internet of Things infrastructures</b> into a <b>general-purpose computing fabric</b> can similarly change how modern computation interfaces with our environment. Software-Engineering the Internet of Things 2017 "
   },
   {
-    "quote": "The proper <b>alignment of requirements engineering and testing</b> (RET) can be key to software's success. Three practices can provide effective RET alignment: using <b>test cases </b>as requirements, harvesting <b>trace links</b>, and <b>reducing distances</b> between requirements engineers and testers.",
+    "quote": "The proper <b>alignment of requirements engineering and testing</b> (RET) can be key to software's success. Three practices can provide effective RET alignment: using <b>test cases</b> as requirements, harvesting <b>trace links</b>, and <b>reducing distances</b> between requirements engineers and testers.",
     "title": "Aligning Requirements and Testing: Working Together toward the Same Goal",
     "year": 2017,
     "number": 1,
@@ -32,7 +32,7 @@
     ],
     "authorsList": "Elizabeth Bjarnason, Markus Borg",
     "citation": "Elizabeth Bjarnason, Markus Borg, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2017.14\">Aligning Requirements and Testing: Working Together toward the Same Goal</a>, IEEE Software 2017, no. 1, p. 20",
-    "searchText": "The proper <b>alignment of requirements engineering and testing</b> (RET) can be key to software's success. Three practices can provide effective RET alignment: using <b>test cases </b>as requirements, harvesting <b>trace links</b>, and <b>reducing distances</b> between requirements engineers and testers. Elizabeth Bjarnason Markus Borg Aligning Requirements and Testing: Working Together toward the Same Goal 2017 "
+    "searchText": "The proper <b>alignment of requirements engineering and testing</b> (RET) can be key to software's success. Three practices can provide effective RET alignment: using <b>test cases</b> as requirements, harvesting <b>trace links</b>, and <b>reducing distances</b> between requirements engineers and testers. Elizabeth Bjarnason Markus Borg Aligning Requirements and Testing: Working Together toward the Same Goal 2017 "
   },
   {
     "quote": "No consolidated set of software engineering <b>best practices</b> for the <b>Internet of Things (IoT)</b> has yet emerged. Too often, the landscape resembles <b>the Wild West</b>, with unprepared programmers putting together IoT systems in ad hoc fashion and throwing them out into the market, often poorly tested. In addition, the academic sector is in danger of fragmenting into specialized, often unrelated research areas.",
@@ -65,7 +65,7 @@
     "searchText": "No consolidated set of software engineering <b>best practices</b> for the <b>Internet of Things (IoT)</b> has yet emerged. Too often, the landscape resembles <b>the Wild West</b>, with unprepared programmers putting together IoT systems in ad hoc fashion and throwing them out into the market, often poorly tested. In addition, the academic sector is in danger of fragmenting into specialized, often unrelated research areas. Xabier Larrucea Annie Combelles John Favaro Kunal Taneja Software Engineering for the Internet of Things 2017 "
   },
   {
-    "quote": "The <b>Internet of Things (IoT) </b>is a challenging combination of <b>distribution and heterogeneity</b>. A number of software engineering solutions address those challenges in isolation, but few solutions tackle them in combination, which poses a set of concrete challenges. The <b>ThingML</b> (Internet of Things Modeling Language) approach attempts to address those challenges.",
+    "quote": "The <b>Internet of Things (IoT)</b> is a challenging combination of <b>distribution and heterogeneity</b>. A number of software engineering solutions address those challenges in isolation, but few solutions tackle them in combination, which poses a set of concrete challenges. The <b>ThingML</b> (Internet of Things Modeling Language) approach attempts to address those challenges.",
     "title": "Model-Based Software Engineering to Tame the IoT Jungle",
     "year": 2017,
     "number": 1,
@@ -88,7 +88,7 @@
     ],
     "authorsList": "Brice Morin, Nicolas Harrand, Franck Fleurey",
     "citation": "Brice Morin, Nicolas Harrand, Franck Fleurey, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2017.11\">Model-Based Software Engineering to Tame the IoT Jungle</a>, IEEE Software 2017, no. 1, p. 30",
-    "searchText": "The <b>Internet of Things (IoT) </b>is a challenging combination of <b>distribution and heterogeneity</b>. A number of software engineering solutions address those challenges in isolation, but few solutions tackle them in combination, which poses a set of concrete challenges. The <b>ThingML</b> (Internet of Things Modeling Language) approach attempts to address those challenges. Brice Morin Nicolas Harrand Franck Fleurey Model-Based Software Engineering to Tame the IoT Jungle 2017 "
+    "searchText": "The <b>Internet of Things (IoT)</b> is a challenging combination of <b>distribution and heterogeneity</b>. A number of software engineering solutions address those challenges in isolation, but few solutions tackle them in combination, which poses a set of concrete challenges. The <b>ThingML</b> (Internet of Things Modeling Language) approach attempts to address those challenges. Brice Morin Nicolas Harrand Franck Fleurey Model-Based Software Engineering to Tame the IoT Jungle 2017 "
   },
   {
     "quote": "Despite the progress in <b>Internet of Things (IoT)</b> research, a general software engineering approach for systematic development of IoT systems and applications is still missing. A synthesis of the state of the art in the area can help frame the <b>key abstractions</b> related to such development.",
@@ -1120,7 +1120,7 @@
     "searchText": "<b>Interconnected computing systems</b> in various forms will soon permeate our lives, realizing the <b>Internet of Things</b> (IoT) and letting us enjoy novel, enhanced services that promise to improve our everyday life. Nevertheless, this new reality introduces significant challenges in terms of <b>performance, scaling, usability</b>, and <b>interoperability</b>. Leveraging the benefits of service-oriented architectures (SOAs) can help alleviate many of the issues that developers, implementers, and users alike must face in the context of the IoT. Konstantinos Fysarakis Damianos Mylonakis Charalampos Manifavas Ioannis Papaefstathiou Node.DPWS: Efficient Web Services for the Internet of Things 2016 "
   },
   {
-    "quote": "With the increasing importance, size, and complexity of <b>automated test suites</b>, the need exists for suitable methods and tools to develop, assess the quality of, and <b>maintain test code </b>(scripts) in parallel with <b>regular production</b> (application) code.",
+    "quote": "With the increasing importance, size, and complexity of <b>automated test suites</b>, the need exists for suitable methods and tools to develop, assess the quality of, and <b>maintain test code</b> (scripts) in parallel with <b>regular production</b> (application) code.",
     "title": "Developing, Verifying, and Maintaining High-Quality Automated Test Scripts",
     "year": 2016,
     "number": 3,
@@ -1139,7 +1139,7 @@
     ],
     "authorsList": "Vahid Garousi, Michael Felderer",
     "citation": "Vahid Garousi, Michael Felderer, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2016.30\">Developing, Verifying, and Maintaining High-Quality Automated Test Scripts</a>, IEEE Software 2016, no. 3, p. 68",
-    "searchText": "With the increasing importance, size, and complexity of <b>automated test suites</b>, the need exists for suitable methods and tools to develop, assess the quality of, and <b>maintain test code </b>(scripts) in parallel with <b>regular production</b> (application) code. Vahid Garousi Michael Felderer Developing, Verifying, and Maintaining High-Quality Automated Test Scripts 2016 "
+    "searchText": "With the increasing importance, size, and complexity of <b>automated test suites</b>, the need exists for suitable methods and tools to develop, assess the quality of, and <b>maintain test code</b> (scripts) in parallel with <b>regular production</b> (application) code. Vahid Garousi Michael Felderer Developing, Verifying, and Maintaining High-Quality Automated Test Scripts 2016 "
   },
   {
     "quote": "Building on <b>lean and agile</b> practices, <b>DevOps</b> means <b>end-to-end automation</b> in software development and delivery. Hardly anybody will be able to approach it with a cookbook-style approach, but most developers will benefit from better connecting the previously isolated silos of development and operations. Many <b>DevOps tools</b> exist that can help them do this.",
@@ -1172,7 +1172,7 @@
     "searchText": "Building on <b>lean and agile</b> practices, <b>DevOps</b> means <b>end-to-end automation</b> in software development and delivery. Hardly anybody will be able to approach it with a cookbook-style approach, but most developers will benefit from better connecting the previously isolated silos of development and operations. Many <b>DevOps tools</b> exist that can help them do this. Christof Ebert Gorka Gallardo Josune Hernantes Nicolas Serrano DevOps 2016 "
   },
   {
-    "quote": "<b>Different ages </b>of humanity have required <b>different modes of thinking</b>. These modes aren't only reflections of the particular circumstances of life in each age; they're also projections of the forces that propel us to the next.",
+    "quote": "<b>Different ages</b> of humanity have required <b>different modes of thinking</b>. These modes aren't only reflections of the particular circumstances of life in each age; they're also projections of the forces that propel us to the next.",
     "title": "The Computational Human",
     "year": 2016,
     "number": 2,
@@ -1182,7 +1182,7 @@
     "authors": [],
     "authorsList": "",
     "citation": "<a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2016.59\">The Computational Human</a>, IEEE Software 2016, no. 2, p. 8",
-    "searchText": "<b>Different ages </b>of humanity have required <b>different modes of thinking</b>. These modes aren't only reflections of the particular circumstances of life in each age; they're also projections of the forces that propel us to the next. The Computational Human 2016 "
+    "searchText": "<b>Different ages</b> of humanity have required <b>different modes of thinking</b>. These modes aren't only reflections of the particular circumstances of life in each age; they're also projections of the forces that propel us to the next. The Computational Human 2016 "
   },
   {
     "quote": "A <b>software retrofit</b> can address problems of business-critical systems that are no longer maintainable.",
@@ -1580,7 +1580,7 @@
     "searchText": "Software is being produced so fast that its growth hinders its sustainability. <b>Technical debt</b>, which encompasses <b>internal software quality</b>, evolution and maintenance, reengineering, and economics, is growing such that its management is becoming the dominant driver of software engineering progress. It spans the <b>software engineering life cycle</b>, and its management capitalizes on recent advances in fields such as source code analysis, quality measurement, and project management. <b>Managing technical debt</b> will become an investment activity applying <b>economic theories</b>. Paris Avgeriou Philippe Kruchten Robert L. Nord Ipek Ozkaya Carolyn Seaman Reducing Friction in Software Development 2016 "
   },
   {
-    "quote": "Almost surreptitiously, <b>crowdsourcing</b> has entered software engineering practice. <b>In-house development</b>, contracting, and outsourcing still dominate, but many development projects use crowdsourcing-for example, to squash bugs, test software, or gather alternative UI designs. Although the overall impact has been mundane so far, crowdsourcing could lead to <b>fundamental, disruptive changes </b>in how software is developed.",
+    "quote": "Almost surreptitiously, <b>crowdsourcing</b> has entered software engineering practice. <b>In-house development</b>, contracting, and outsourcing still dominate, but many development projects use crowdsourcing-for example, to squash bugs, test software, or gather alternative UI designs. Although the overall impact has been mundane so far, crowdsourcing could lead to <b>fundamental, disruptive changes</b> in how software is developed.",
     "title": "Crowdsourcing in Software Engineering: Models, Motivations, and Challenges",
     "year": 2016,
     "number": 1,
@@ -1599,7 +1599,7 @@
     ],
     "authorsList": "Thomas D. LaToza, Andre van der Hoek",
     "citation": "Thomas D. LaToza, Andre van der Hoek, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2016.12\">Crowdsourcing in Software Engineering: Models, Motivations, and Challenges</a>, IEEE Software 2016, no. 1, p. 74",
-    "searchText": "Almost surreptitiously, <b>crowdsourcing</b> has entered software engineering practice. <b>In-house development</b>, contracting, and outsourcing still dominate, but many development projects use crowdsourcing-for example, to squash bugs, test software, or gather alternative UI designs. Although the overall impact has been mundane so far, crowdsourcing could lead to <b>fundamental, disruptive changes </b>in how software is developed. Thomas D. LaToza Andre van der Hoek Crowdsourcing in Software Engineering: Models, Motivations, and Challenges 2016 "
+    "searchText": "Almost surreptitiously, <b>crowdsourcing</b> has entered software engineering practice. <b>In-house development</b>, contracting, and outsourcing still dominate, but many development projects use crowdsourcing-for example, to squash bugs, test software, or gather alternative UI designs. Although the overall impact has been mundane so far, crowdsourcing could lead to <b>fundamental, disruptive changes</b> in how software is developed. Thomas D. LaToza Andre van der Hoek Crowdsourcing in Software Engineering: Models, Motivations, and Challenges 2016 "
   },
   {
     "quote": "An evaluation of recent industrial and societal trends revealed three key factors driving <b>software engineering's future</b>: <b>speed</b>, <b>data</b>, and <b>ecosystems</b>.",
@@ -2473,7 +2473,7 @@
     "searchText": "<b>Software engineering</b> for <b>Internet computing</b> involves the architecting, development, deployment, management, and quality assurance of software supporting Internet-based systems. It also addresses <b>global-development issues</b> such as <b>communication complexity</b>, <b>distributed control</b>, <b>governance policies</b>, and <b>cultural differences</b>. Antonia Bertolino M. Brian Blake Pankaj Mehra Hong Mei Tao Xie Software Engineering for Internet Computing: Internetware and Beyond [Guest editors' introduction] 2015 "
   },
   {
-    "quote": "The <b>Internet of Things (IoT)</b> has the strong potential to support a human society interacting more symbiotically with its <b>physical environment</b>. Indeed, the emergence of tiny devices that sense environmental cues and trigger actuators after consulting logic and human preferences promises a <b>more environmentally </b>aware and less wasteful society.",
+    "quote": "The <b>Internet of Things (IoT)</b> has the strong potential to support a human society interacting more symbiotically with its <b>physical environment</b>. Indeed, the emergence of tiny devices that sense environmental cues and trigger actuators after consulting logic and human preferences promises a <b>more environmentally</b> aware and less wasteful society.",
     "title": "Debugging the Internet of Things: The Case of Wireless Sensor Networks",
     "year": 2015,
     "number": 1,
@@ -2496,7 +2496,7 @@
     ],
     "authorsList": "Patrick Eugster, Vinaitheerthan Sundaram, Xiangyu Zhang",
     "citation": "Patrick Eugster, Vinaitheerthan Sundaram, Xiangyu Zhang, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2014.132\">Debugging the Internet of Things: The Case of Wireless Sensor Networks</a>, IEEE Software 2015, no. 1, p. 38",
-    "searchText": "The <b>Internet of Things (IoT)</b> has the strong potential to support a human society interacting more symbiotically with its <b>physical environment</b>. Indeed, the emergence of tiny devices that sense environmental cues and trigger actuators after consulting logic and human preferences promises a <b>more environmentally </b>aware and less wasteful society. Patrick Eugster Vinaitheerthan Sundaram Xiangyu Zhang Debugging the Internet of Things: The Case of Wireless Sensor Networks 2015 "
+    "searchText": "The <b>Internet of Things (IoT)</b> has the strong potential to support a human society interacting more symbiotically with its <b>physical environment</b>. Indeed, the emergence of tiny devices that sense environmental cues and trigger actuators after consulting logic and human preferences promises a <b>more environmentally</b> aware and less wasteful society. Patrick Eugster Vinaitheerthan Sundaram Xiangyu Zhang Debugging the Internet of Things: The Case of Wireless Sensor Networks 2015 "
   },
   {
     "quote": "<b>System operations</b> (such as deployment, upgrade, and reconfiguration) <b>for cloud</b> applications are <b>failure prone</b>. These failures occur because these operations are performed through <b>cloud APIs</b> provided by cloud providers and because cloud APIs, in turn, are <b>failure prone</b>.",
@@ -3206,7 +3206,7 @@
     "searchText": "In applications in which <b>embedded devices</b> cooperate with <b>ICT (information and communication technology)</b> systems to make industrial processes more efficient, reduce waste or raw materials, and save the environment, the concept of <b>green software</b> becomes increasingly complex. To deal with this issue, the green-software community has introduced the concepts of <b>greening ICT</b> or <b>greening through ICT</b>. Krzysztof Sierszecki Tommi Mikkonen Michaela Steffens Thomas Fogdal Juha Savolainen K1 software engineering Green Software: Greening What and How Much? 2014 "
   },
   {
-    "quote": "Hardware and software engineers are instrumental in developing <b>energy-efficient mobile systems</b>. Unfortunately, the <b>last mile of energy </b>efficiency relies on end users' choices and requirements. Imagine a user who has no power outlet access and must remain productive on the laptop's battery. How does this person maximize battery life, yet remain productive? What does the user have to give up to keep working?",
+    "quote": "Hardware and software engineers are instrumental in developing <b>energy-efficient mobile systems</b>. Unfortunately, the <b>last mile of energy</b> efficiency relies on end users' choices and requirements. Imagine a user who has no power outlet access and must remain productive on the laptop's battery. How does this person maximize battery life, yet remain productive? What does the user have to give up to keep working?",
     "title": "The Impact of User Choice on Energy Consumption",
     "year": 2014,
     "number": 3,
@@ -3229,7 +3229,7 @@
     ],
     "authorsList": "Chenlei Zhang, Abram Hindle, Daniel M. German",
     "citation": "Chenlei Zhang, Abram Hindle, Daniel M. German, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2014.27\">The Impact of User Choice on Energy Consumption</a>, IEEE Software 2014, no. 3, p. 69",
-    "searchText": "Hardware and software engineers are instrumental in developing <b>energy-efficient mobile systems</b>. Unfortunately, the <b>last mile of energy </b>efficiency relies on end users' choices and requirements. Imagine a user who has no power outlet access and must remain productive on the laptop's battery. How does this person maximize battery life, yet remain productive? What does the user have to give up to keep working? Chenlei Zhang Abram Hindle Daniel M. German The Impact of User Choice on Energy Consumption 2014 "
+    "searchText": "Hardware and software engineers are instrumental in developing <b>energy-efficient mobile systems</b>. Unfortunately, the <b>last mile of energy</b> efficiency relies on end users' choices and requirements. Imagine a user who has no power outlet access and must remain productive on the laptop's battery. How does this person maximize battery life, yet remain productive? What does the user have to give up to keep working? Chenlei Zhang Abram Hindle Daniel M. German The Impact of User Choice on Energy Consumption 2014 "
   },
   {
     "quote": "The <b>Healthcare.gov debacle</b> of 2013 leads many to wonder if a better understanding of the project's requirements could have lessened the impact of the failed launch.",
@@ -3604,7 +3604,7 @@
     "searchText": "No matter your individual position on the matter, <b>faith is a powerful element</b> of the human experience. Therefore, it comes as no surprise that <b>computing intersects</b> with the <b>story of belief</b> in many ways ... computing as a <b>medium for faith</b>, as a <b>ritual space</b>, and as a technology that itself raises certain <b>metaphysical issues</b>. Deus ex Machina 2013 "
   },
   {
-    "quote": "<b>Embedded analytics</b> and statistics for<b> big data </b>have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them.",
+    "quote": "<b>Embedded analytics</b> and statistics for<b> big data</b> have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them.",
     "title": "Embedded Analytics and Statistics for Big Data",
     "year": 2013,
     "number": 6,
@@ -3623,7 +3623,7 @@
     ],
     "authorsList": "Panos Louridas, Christof Ebert",
     "citation": "Panos Louridas, Christof Ebert, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.125\">Embedded Analytics and Statistics for Big Data</a>, IEEE Software 2013, no. 6, p. 33",
-    "searchText": "<b>Embedded analytics</b> and statistics for<b> big data </b>have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them. Panos Louridas Christof Ebert Embedded Analytics and Statistics for Big Data 2013 "
+    "searchText": "<b>Embedded analytics</b> and statistics for<b> big data</b> have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them. Panos Louridas Christof Ebert Embedded Analytics and Statistics for Big Data 2013 "
   },
   {
     "quote": "<b>Software architecture</b> is the foundation of software system development, encompassing a system's architects' and stakeholders' <b>strategic decisions</b>.",
@@ -3712,7 +3712,7 @@
     "searchText": "It's difficult to express a <b>software architecture's sustainability</b> in a single metric: relevant information is spread across requirements, architecture design documents, <b>technology choices</b>, source code, system context, and software architects' implicit knowledge. Many aspects influence economic sustainability, including design decisions facilitating <b>evolutionary changes</b>, adherence to good <b>modularization practices</b>, and <b>technology choices</b>. Heiko Koziolek Dominik Domis Thomas Goldschmidt Philipp Vorst Measuring Architecture Sustainability 2013 "
   },
   {
-    "quote": "<b>Software product lines (SPL) are <b>long-living systems</b> that enable <b>systematic reuse</b> in application </b>engineering. Product-specific changes over time can result in <b>architecture drift</b>, which requires updating assumptions made in the SPL's reuse infrastructure.",
+    "quote": "<b>Software product lines (SPL) are <b>long-living systems</b> that enable <b>systematic reuse</b> in application</b> engineering. Product-specific changes over time can result in <b>architecture drift</b>, which requires updating assumptions made in the SPL's reuse infrastructure.",
     "title": "Long-Term Product Line Sustainability with Planned Staged Investments",
     "year": 2013,
     "number": 6,
@@ -3739,7 +3739,7 @@
     ],
     "authorsList": "Juha Savolainen, Nan Niu, Tommi Mikkonen, Thomas Fogdal",
     "citation": "Juha Savolainen, Nan Niu, Tommi Mikkonen, Thomas Fogdal, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.96\">Long-Term Product Line Sustainability with Planned Staged Investments</a>, IEEE Software 2013, no. 6, p. 63",
-    "searchText": "<b>Software product lines (SPL) are <b>long-living systems</b> that enable <b>systematic reuse</b> in application </b>engineering. Product-specific changes over time can result in <b>architecture drift</b>, which requires updating assumptions made in the SPL's reuse infrastructure. Juha Savolainen Nan Niu Tommi Mikkonen Thomas Fogdal Long-Term Product Line Sustainability with Planned Staged Investments 2013 "
+    "searchText": "<b>Software product lines (SPL) are <b>long-living systems</b> that enable <b>systematic reuse</b> in application</b> engineering. Product-specific changes over time can result in <b>architecture drift</b>, which requires updating assumptions made in the SPL's reuse infrastructure. Juha Savolainen Nan Niu Tommi Mikkonen Thomas Fogdal Long-Term Product Line Sustainability with Planned Staged Investments 2013 "
   },
   {
     "quote": "One of the most notable categories of successful UI development is <b>form-oriented frameworks</b> tightly coupled with <b>relational database</b> management systems. Essentially, this approach builds a UI for relational database applications by organizing that <b>interface into forms</b>, which present values of database fields in the corresponding form controls, such as text boxes, list boxes, check boxes, grids, and so on. Tools and runtime engines support generic navigation through these forms and direct coupling of controls with the back-end data. The developer doesn't need to take care of data locking, transfer, transformation, and updates: when the user switches to another record in the master part of a master-details form, for example, the mechanism incorporated in the generic form <b>automatically refreshes</b> the values in the details part.",
@@ -3820,7 +3820,7 @@
     "searchText": "With<b> smartphones</b> being the primary handheld device for more than <b>a billion people</b>, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the <b>fast speed</b> of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to <b>understand the basic technologies</b>.  N. Serrano J. Hernantes G. Gallardo Mobile Web Apps 2013 "
   },
   {
-    "quote": "With <b>software analytics</b>, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The <b>StackMine </b>project produced a software analytics system for <b>Microsoft product teams</b>.",
+    "quote": "With <b>software analytics</b>, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The <b>StackMine</b> project produced a software analytics system for <b>Microsoft product teams</b>.",
     "title": "Software Analytics in Practice",
     "year": 2013,
     "number": 5,
@@ -3855,7 +3855,7 @@
     ],
     "authorsList": "Dongmei Zhang, Shi Han, Yingnong Dang, Jian-Guang Lou, Haidong Zhang, Tao Xie",
     "citation": "Dongmei Zhang, Shi Han, Yingnong Dang, Jian-Guang Lou, Haidong Zhang, Tao Xie, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.94\">Software Analytics in Practice</a>, IEEE Software 2013, no. 5, p. 30",
-    "searchText": "With <b>software analytics</b>, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The <b>StackMine </b>project produced a software analytics system for <b>Microsoft product teams</b>. Dongmei Zhang Shi Han Yingnong Dang Jian-Guang Lou Haidong Zhang Tao Xie Software Analytics in Practice 2013 "
+    "searchText": "With <b>software analytics</b>, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The <b>StackMine</b> project produced a software analytics system for <b>Microsoft product teams</b>. Dongmei Zhang Shi Han Yingnong Dang Jian-Guang Lou Haidong Zhang Tao Xie Software Analytics in Practice 2013 "
   },
   {
     "quote": "When free, open source software development communities work with companies that use their output, it's especially important for both parties to understand how this collaboration is performing. The use of data analytics techniques on software development repositories can improve <b>factual knowledge</b> about <b>performance metrics</b>.",
@@ -4002,7 +4002,7 @@
     "searchText": "Deciding whether to <b>write portable code</b> or not should be the outcome of a <b>cost-benefit analysis</b>. The key reason to favor portable code is that it opens up the <b>selection of resources</b> available to our project. Diverse technology choices free us from vendor lock-in, allowing us to select the best technology in each area based on quality and price, and minimize technology risks. However, portable code can <b>degrade functionality</b>, expressiveness, and efficiency. Diomidis Spinellis Portability: Goodies vs. the Hair Shirt 2013 "
   },
   {
-    "quote": "[M]any practitioners and researchers have turned to <b>analytics</b>—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '<b>Software analytics</b> is <b>analytics on software data</b> for managers and software engineers with the aim of empowering software development individuals and teams to <b>gain and share insight </b>from their data to make better decisions.'",
+    "quote": "[M]any practitioners and researchers have turned to <b>analytics</b>—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '<b>Software analytics</b> is <b>analytics on software data</b> for managers and software engineers with the aim of empowering software development individuals and teams to <b>gain and share insight</b> from their data to make better decisions.'",
     "title": "Software Analytics: So What?",
     "year": 2013,
     "number": 4,
@@ -4021,7 +4021,7 @@
     ],
     "authorsList": "Tim Menzies, Thomas Zimmermann",
     "citation": "Tim Menzies, Thomas Zimmermann, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.86\">Software Analytics: So What?</a>, IEEE Software 2013, no. 4, p. 31",
-    "searchText": "[M]any practitioners and researchers have turned to <b>analytics</b>—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '<b>Software analytics</b> is <b>analytics on software data</b> for managers and software engineers with the aim of empowering software development individuals and teams to <b>gain and share insight </b>from their data to make better decisions.' Tim Menzies Thomas Zimmermann Software Analytics: So What? 2013 "
+    "searchText": "[M]any practitioners and researchers have turned to <b>analytics</b>—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '<b>Software analytics</b> is <b>analytics on software data</b> for managers and software engineers with the aim of empowering software development individuals and teams to <b>gain and share insight</b> from their data to make better decisions.' Tim Menzies Thomas Zimmermann Software Analytics: So What? 2013 "
   },
   {
     "quote": "<b>Performance</b> is a critical component of <b>customer satisfaction</b> with network-based applications. Unfortunately, accurately evaluating the <b>performance of collaborative software</b> that operates in extremely heterogeneous environments is difficult with traditional techniques such as modeling workloads or testing in controlled environments.",
@@ -4596,7 +4596,7 @@
     "searchText": "How much <b>software</b> does it take to land a <b>spacecraft</b> safely <b>on Mars</b>, and how do you make all that code reliable? Gerard J. Holzmann Landing a Spacecraft on Mars 2013 "
   },
   {
-    "quote": "Software development teams no longer live - or want to live - in a world of <b>command and control</b>. They want to be <b>self-organizing</b> and have adaptive, supportive, and <b>collaborative leadership </b>guiding them. This new age of management requires managers to build a <b>culture of trust</b>, encourage <b>participation</b> of their teams in decision making, and <b>sponsor innovation</b>. Simply put, managers need to do away with the traditional (micro) management and <b>share power</b> with self-organizing teams.",
+    "quote": "Software development teams no longer live - or want to live - in a world of <b>command and control</b>. They want to be <b>self-organizing</b> and have adaptive, supportive, and <b>collaborative leadership</b> guiding them. This new age of management requires managers to build a <b>culture of trust</b>, encourage <b>participation</b> of their teams in decision making, and <b>sponsor innovation</b>. Simply put, managers need to do away with the traditional (micro) management and <b>share power</b> with self-organizing teams.",
     "title": "Power to the People",
     "year": 2013,
     "number": 2,
@@ -4611,7 +4611,7 @@
     ],
     "authorsList": "Rashina Hoda",
     "citation": "Rashina Hoda, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.34\">Power to the People</a>, IEEE Software 2013, no. 2, p. 92",
-    "searchText": "Software development teams no longer live - or want to live - in a world of <b>command and control</b>. They want to be <b>self-organizing</b> and have adaptive, supportive, and <b>collaborative leadership </b>guiding them. This new age of management requires managers to build a <b>culture of trust</b>, encourage <b>participation</b> of their teams in decision making, and <b>sponsor innovation</b>. Simply put, managers need to do away with the traditional (micro) management and <b>share power</b> with self-organizing teams. Rashina Hoda Power to the People 2013 "
+    "searchText": "Software development teams no longer live - or want to live - in a world of <b>command and control</b>. They want to be <b>self-organizing</b> and have adaptive, supportive, and <b>collaborative leadership</b> guiding them. This new age of management requires managers to build a <b>culture of trust</b>, encourage <b>participation</b> of their teams in decision making, and <b>sponsor innovation</b>. Simply put, managers need to do away with the traditional (micro) management and <b>share power</b> with self-organizing teams. Rashina Hoda Power to the People 2013 "
   },
   {
     "quote": "Computing is transforming every aspect of the human experience. As creators of this technology, what obligations do we have to the <b>general public</b>, for whom we make the <b>complex machinery</b> of computing increasingly invisible? ... it's important for the general public to know something about the <b>technology behind the curtain</b> of computing.",
@@ -4930,7 +4930,7 @@
     "searchText": "<b>Agile teams</b> create <b>business value</b> by responding to changing business environments and delivering working software at regular intervals. While doing so, they make <b>design tradeoffs</b> to satisfy business needs such as meeting a release schedule. <b>Technical debt</b> is the result of such decisions or tradeoffs. When this happens, agile teams must pay off the <b>accumulated debt</b> by improving designs during subsequent iterations in order to improve maintainability. Raja Bavani Distributed Agile, Agile Testing, and Technical Debt 2012 "
   },
   {
-    "quote": "<b>Technical debt </b>is more than a metaphor: applying <b>finance and accounting practices</b> typical of other business obligations to technical debt can, in addition to meeting ethical and legal governance requirements, generate real, sustained financial benefits.",
+    "quote": "<b>Technical debt</b> is more than a metaphor: applying <b>finance and accounting practices</b> typical of other business obligations to technical debt can, in addition to meeting ethical and legal governance requirements, generate real, sustained financial benefits.",
     "title": "Technical Debt: Where Are the Shareholders' Interests?",
     "year": 2012,
     "number": 6,
@@ -4945,7 +4945,7 @@
     ],
     "authorsList": "Patrick Conroy",
     "citation": "Patrick Conroy, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2012.166\">Technical Debt: Where Are the Shareholders' Interests?</a>, IEEE Software 2012, no. 6, p. 88",
-    "searchText": "<b>Technical debt </b>is more than a metaphor: applying <b>finance and accounting practices</b> typical of other business obligations to technical debt can, in addition to meeting ethical and legal governance requirements, generate real, sustained financial benefits. Patrick Conroy Technical Debt: Where Are the Shareholders' Interests? 2012 "
+    "searchText": "<b>Technical debt</b> is more than a metaphor: applying <b>finance and accounting practices</b> typical of other business obligations to technical debt can, in addition to meeting ethical and legal governance requirements, generate real, sustained financial benefits. Patrick Conroy Technical Debt: Where Are the Shareholders' Interests? 2012 "
   },
   {
     "quote": "A close look at the <b>evidence</b> underpinning the original concept of <b>lean production</b> and its popular interpretation reveals the inherent challenges of measuring and interpreting evidence for performance differences.",
@@ -5044,7 +5044,7 @@
     "searchText": "<b>Lean practices</b> use the principle of <b>Little's law</b> to improve the flow of value to the end user by eliminating sources of waste from a software development process. <b>Little's law</b> defines throughput as a ratio of <b>work in process</b> and <b>cycle time</b>. Increasing throughput (or productivity) requires continuously improving (that is, decreasing) cycle time while ensuring that the work-in-process limit doesn't exceed the capacity available to process the work. R. L. Nord I. Ozkaya R. S. Sangwan Making Architecture Visible to Improve Flow Management in Lean Software Development 2012 "
   },
   {
-    "quote": "Modern <b>virtualization technology</b> allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create <b>a virtualized development environment</b> that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a <b>pristine environment </b>and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a <b>VM appliance</b>. Finally, on the operations side, VMs make it easier for a system to support application <b>provisioning</b>, <b>maintenance windows</b>, <b>high availability</b>, and <b>disaster recovery</b>.",
+    "quote": "Modern <b>virtualization technology</b> allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create <b>a virtualized development environment</b> that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a <b>pristine environment</b> and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a <b>VM appliance</b>. Finally, on the operations side, VMs make it easier for a system to support application <b>provisioning</b>, <b>maintenance windows</b>, <b>high availability</b>, and <b>disaster recovery</b>.",
     "title": "Virtualize Me",
     "year": 2012,
     "number": 5,
@@ -5059,7 +5059,7 @@
     ],
     "authorsList": "Diomidis Spinellis",
     "citation": "Diomidis Spinellis, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2012.125\">Virtualize Me</a>, IEEE Software 2012, no. 5, p. 91",
-    "searchText": "Modern <b>virtualization technology</b> allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create <b>a virtualized development environment</b> that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a <b>pristine environment </b>and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a <b>VM appliance</b>. Finally, on the operations side, VMs make it easier for a system to support application <b>provisioning</b>, <b>maintenance windows</b>, <b>high availability</b>, and <b>disaster recovery</b>. Diomidis Spinellis Virtualize Me 2012 "
+    "searchText": "Modern <b>virtualization technology</b> allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create <b>a virtualized development environment</b> that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a <b>pristine environment</b> and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a <b>VM appliance</b>. Finally, on the operations side, VMs make it easier for a system to support application <b>provisioning</b>, <b>maintenance windows</b>, <b>high availability</b>, and <b>disaster recovery</b>. Diomidis Spinellis Virtualize Me 2012 "
   },
   {
     "quote": "<b>Smart mobile devices</b> have had a <b>huge impact</b> on the world today with new apps being produced at a prodigious rate. How we got to this point has a lot to do with the <b>ease of use</b> that manufacturers and app developers have achieved, which includes aspects such as <b>quick response time</b>, <b>intuitive interfaces</b>, and well-designed functionality.",
@@ -5420,7 +5420,7 @@
     "searchText": "<b>Cloud computing</b> is a new paradigm for software systems where applications are divided into sets of <b>composite services</b> hosted on leased,<b> highly distributed platforms</b>. There are many new software engineering challenges in building effective cloud-based software applications. Jacky Keung Gerald Kaefer Anna Liu John Grundy Guest Editors' Introduction: Software Engineering for the Cloud 2012 "
   },
   {
-    "quote": "Platforms such as <b>Windows Azure</b> let applications conduct data-intensive cloud computing. <b>Unit testing</b> can help ensure high-quality development of such applications, but the results <b>depend on</b> test inputs and the cloud <b>environment's state</b>. Manually providing various test inputs and <b>cloud states</b> is laborious and time-consuming. However, automated test generation must <b>simulate </b>various <b>cloud states</b> to achieve effective testing.",
+    "quote": "Platforms such as <b>Windows Azure</b> let applications conduct data-intensive cloud computing. <b>Unit testing</b> can help ensure high-quality development of such applications, but the results <b>depend on</b> test inputs and the cloud <b>environment's state</b>. Manually providing various test inputs and <b>cloud states</b> is laborious and time-consuming. However, automated test generation must <b>simulate</b> various <b>cloud states</b> to achieve effective testing.",
     "title": "Environmental Modeling for Automated Cloud Application Testing",
     "year": 2011,
     "number": 2,
@@ -5455,7 +5455,7 @@
     ],
     "authorsList": "Jian Lu, Linghao Zhang, Tao Xie, Nikolai Tillmann, Xiaoxing Ma, Peli de Halleux",
     "citation": "Jian Lu, Linghao Zhang, Tao Xie, Nikolai Tillmann, Xiaoxing Ma, Peli de Halleux, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2011.158\">Environmental Modeling for Automated Cloud Application Testing</a>, IEEE Software 2011, no. 2, p. 30",
-    "searchText": "Platforms such as <b>Windows Azure</b> let applications conduct data-intensive cloud computing. <b>Unit testing</b> can help ensure high-quality development of such applications, but the results <b>depend on</b> test inputs and the cloud <b>environment's state</b>. Manually providing various test inputs and <b>cloud states</b> is laborious and time-consuming. However, automated test generation must <b>simulate </b>various <b>cloud states</b> to achieve effective testing. Jian Lu Linghao Zhang Tao Xie Nikolai Tillmann Xiaoxing Ma Peli de Halleux Environmental Modeling for Automated Cloud Application Testing 2011 "
+    "searchText": "Platforms such as <b>Windows Azure</b> let applications conduct data-intensive cloud computing. <b>Unit testing</b> can help ensure high-quality development of such applications, but the results <b>depend on</b> test inputs and the cloud <b>environment's state</b>. Manually providing various test inputs and <b>cloud states</b> is laborious and time-consuming. However, automated test generation must <b>simulate</b> various <b>cloud states</b> to achieve effective testing. Jian Lu Linghao Zhang Tao Xie Nikolai Tillmann Xiaoxing Ma Peli de Halleux Environmental Modeling for Automated Cloud Application Testing 2011 "
   },
   {
     "quote": "The large-scale, dynamic, and heterogeneous nature of cloud computing poses numerous security challenges. But the <b>cloud's</b> main challenge is to provide a <b>robust authorization mechanism</b> that incorporates <b>multitenancy</b> and <b>virtualization</b> aspects of resources.",
@@ -5566,7 +5566,7 @@
     "searchText": "There is broad consensus that <b>architects should code</b>. Yet the challenging question is: how can architects program without being lost in myriads of local code details? ... <b>Agile practices</b> help architects to balance their coding activities with other duties, allowing them to be in control of the amount of time they spend on programming and the concerns and system parts on which they program. Frank Buschmann J&#x00F6;rg Bartholdt Code Matters! 2012 "
   },
   {
-    "quote": "A <b>package management system </b>organizes and simplifies the installation and maintenance of software by standardizing and organizing the production and consumption of software collections. As a software developer, you can benefit from package managers in two ways: through a rich and stable development environment and through <b>friction-free reuse</b>. Promisingly, the structure that package managers bring both to the tools we use in our development process and the libraries we reuse in our products ties nicely with the recent move emphasizing <b>DevOps</b> (development operations) as an integration between software development and IT operations.",
+    "quote": "A <b>package management system</b> organizes and simplifies the installation and maintenance of software by standardizing and organizing the production and consumption of software collections. As a software developer, you can benefit from package managers in two ways: through a rich and stable development environment and through <b>friction-free reuse</b>. Promisingly, the structure that package managers bring both to the tools we use in our development process and the libraries we reuse in our products ties nicely with the recent move emphasizing <b>DevOps</b> (development operations) as an integration between software development and IT operations.",
     "title": "Package Management Systems",
     "year": 2012,
     "number": 2,
@@ -5581,7 +5581,7 @@
     ],
     "authorsList": "Diomidis Spinellis",
     "citation": "Diomidis Spinellis, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2012.38\">Package Management Systems</a>, IEEE Software 2012, no. 2, p. 84",
-    "searchText": "A <b>package management system </b>organizes and simplifies the installation and maintenance of software by standardizing and organizing the production and consumption of software collections. As a software developer, you can benefit from package managers in two ways: through a rich and stable development environment and through <b>friction-free reuse</b>. Promisingly, the structure that package managers bring both to the tools we use in our development process and the libraries we reuse in our products ties nicely with the recent move emphasizing <b>DevOps</b> (development operations) as an integration between software development and IT operations. Diomidis Spinellis Package Management Systems 2012 "
+    "searchText": "A <b>package management system</b> organizes and simplifies the installation and maintenance of software by standardizing and organizing the production and consumption of software collections. As a software developer, you can benefit from package managers in two ways: through a rich and stable development environment and through <b>friction-free reuse</b>. Promisingly, the structure that package managers bring both to the tools we use in our development process and the libraries we reuse in our products ties nicely with the recent move emphasizing <b>DevOps</b> (development operations) as an integration between software development and IT operations. Diomidis Spinellis Package Management Systems 2012 "
   },
   {
     "quote": "Almost everyone agrees that there is <b>a gender gap</b> in computer science, where there are far too few females participating in the field. But does that gap occur in the whole of the field of computing? This sounding board explores the notion that the gap is <b>unique to CS</b>, and that any solution to the problem must occur within that field and not the broader field of computing.",
@@ -5738,7 +5738,7 @@
     "searchText": "A central task in design is deciding what artifact will best satisfy the client's needs, whether that requires creating an artifact or choosing from existing alternatives. <b>A design space</b> identifies and <b>organizes the decisions</b> that must be made, together with the alternatives for those decisions, thereby <b>providing guidance</b> for creating artifacts or a framework for comparing them. Mary Shaw The Role of Design Spaces 2011 "
   },
   {
-    "quote": "<b>Software design</b> is about <b>a sequence of steps</b> taken to achieve a goal. Designers must plan their approach to carrying out these steps. In studying designers at work, the authors observed <b>breadth- versus </b><b>depth-first</b> approaches to design-space exploration and problem- versus solution-driven approaches during the actual design.",
+    "quote": "<b>Software design</b> is about <b>a sequence of steps</b> taken to achieve a goal. Designers must plan their approach to carrying out these steps. In studying designers at work, the authors observed <b>breadth- versus</b> <b>depth-first</b> approaches to design-space exploration and problem- versus solution-driven approaches during the actual design.",
     "title": "Design Strategy and Software Design Effectiveness",
     "year": 2011,
     "number": 1,
@@ -5757,7 +5757,7 @@
     ],
     "authorsList": "Hans van Vliet, Antony Tang",
     "citation": "Hans van Vliet, Antony Tang, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2011.130\">Design Strategy and Software Design Effectiveness</a>, IEEE Software 2011, no. 1, p. 51",
-    "searchText": "<b>Software design</b> is about <b>a sequence of steps</b> taken to achieve a goal. Designers must plan their approach to carrying out these steps. In studying designers at work, the authors observed <b>breadth- versus </b><b>depth-first</b> approaches to design-space exploration and problem- versus solution-driven approaches during the actual design. Hans van Vliet Antony Tang Design Strategy and Software Design Effectiveness 2011 "
+    "searchText": "<b>Software design</b> is about <b>a sequence of steps</b> taken to achieve a goal. Designers must plan their approach to carrying out these steps. In studying designers at work, the authors observed <b>breadth- versus</b> <b>depth-first</b> approaches to design-space exploration and problem- versus solution-driven approaches during the actual design. Hans van Vliet Antony Tang Design Strategy and Software Design Effectiveness 2011 "
   },
   {
     "quote": "Enormous advances in computing power and programming environments have obscured the <b>importance of algorithms</b>, one of the <b>foundational pillars</b> of software engineering. Today, even university curricula too often pay only lip service to the teaching of algorithmic fundamentals, reinforcing the popular belief that their place at the core of a software engineer's <b>education is past</b>. Yet even today, the importance of algorithms in software engineering has not diminished, and the effects of neglect are evident everywhere in needlessly <b>inefficient industrial applications</b>.",
@@ -5852,7 +5852,7 @@
     "searchText": "If you give a <b>hurricane meteorologist</b> a giant pile of data about a storm spinning in the middle of the Atlantic Ocean and ask her to <b>determine exactly</b> where it will come ashore, she can analyze the data, construct a detailed and accurate model of the atmospheric conditions and weather patterns, run some simulations, and come up with a forecast—<b>two months after</b> the storm hits. It'll probably be wrong, but not by much, a moot point for the people in the storm's path. The <b>problem isn't</b> with the <b>forecast's accuracy</b> but with <b>the time</b> needed to prepare it. On the other extreme, if given a satellite image and a few points of other data—and a few minutes—a hurricane meteorologist can prepare a forecast so uncertain it might as well not even exist. There is a point where forecast <b>accuracy and timeliness overlap</b>. The model favored by hurricane meteorologists is to <b>do just enough</b> data acquisition and analysis to <b>be reasonably certain</b> what the storm will do and then <b>start telling people</b> to get ready. Eric Richardson What an Agile Architect Can Learn from a Hurricane Meteorologist 2011 "
   },
   {
-    "quote": "Software systems must <b>continually evolve</b> to meet ever changing needs. However, such systems often become <b>legacy systems </b>as a consequence of <b>uncontrolled maintenance</b> combined with <b>obsolete technology</b>. To control maintenance costs and preserve complex embedded business rules, companies must <b>evolve their legacy systems</b>.",
+    "quote": "Software systems must <b>continually evolve</b> to meet ever changing needs. However, such systems often become <b>legacy systems</b> as a consequence of <b>uncontrolled maintenance</b> combined with <b>obsolete technology</b>. To control maintenance costs and preserve complex embedded business rules, companies must <b>evolve their legacy systems</b>.",
     "title": "Reengineering Technologies",
     "year": 2011,
     "number": 6,
@@ -5879,7 +5879,7 @@
     ],
     "authorsList": "Mario Piattini, Ignacio Garc&#x00ED;a-Rodriguez de Guzm&#x00E1;n, Christof Ebert, Ricardo P&#x00E9;rez-Castillo",
     "citation": "Mario Piattini, Ignacio Garc&#x00ED;a-Rodriguez de Guzm&#x00E1;n, Christof Ebert, Ricardo P&#x00E9;rez-Castillo, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2011.145\">Reengineering Technologies</a>, IEEE Software 2011, no. 6, p. 13",
-    "searchText": "Software systems must <b>continually evolve</b> to meet ever changing needs. However, such systems often become <b>legacy systems </b>as a consequence of <b>uncontrolled maintenance</b> combined with <b>obsolete technology</b>. To control maintenance costs and preserve complex embedded business rules, companies must <b>evolve their legacy systems</b>. Mario Piattini Ignacio Garc&#x00ED;a-Rodriguez de Guzm&#x00E1;n Christof Ebert Ricardo P&#x00E9;rez-Castillo Reengineering Technologies 2011 "
+    "searchText": "Software systems must <b>continually evolve</b> to meet ever changing needs. However, such systems often become <b>legacy systems</b> as a consequence of <b>uncontrolled maintenance</b> combined with <b>obsolete technology</b>. To control maintenance costs and preserve complex embedded business rules, companies must <b>evolve their legacy systems</b>. Mario Piattini Ignacio Garc&#x00ED;a-Rodriguez de Guzm&#x00E1;n Christof Ebert Ricardo P&#x00E9;rez-Castillo Reengineering Technologies 2011 "
   },
   {
     "quote": "There is complexity, and then there is organized complexity. <b>Pure complexity</b> is <b>chaotic</b>; <b>organized complexity</b> is full of <b>patterns</b>. Naming these <b>patterns</b> and respecting their intention is the essence of architecture.",
@@ -5900,7 +5900,7 @@
     "searchText": "There is complexity, and then there is organized complexity. <b>Pure complexity</b> is <b>chaotic</b>; <b>organized complexity</b> is full of <b>patterns</b>. Naming these <b>patterns</b> and respecting their intention is the essence of architecture. Grady Booch The Architecture of Small Things 2011 "
   },
   {
-    "quote": "<b>Climate change</b> is likely to be one of the defining global issues of the 21st century. The past decade - the hottest in recorded history - has witnessed countries around the world struggling to deal with drought, heat waves, and extreme weather. The sheer <b>scale of the problem</b> also makes it hard to understand, predict, and solve. <b>Climate science</b> journals regularly publish special issues on specific climate models, typically timed to present results from a major new release of a given model. However, these tend to focus on the <b>new science</b> that the model enables, rather than to describe the <b>software </b>and its development.",
+    "quote": "<b>Climate change</b> is likely to be one of the defining global issues of the 21st century. The past decade - the hottest in recorded history - has witnessed countries around the world struggling to deal with drought, heat waves, and extreme weather. The sheer <b>scale of the problem</b> also makes it hard to understand, predict, and solve. <b>Climate science</b> journals regularly publish special issues on specific climate models, typically timed to present results from a major new release of a given model. However, these tend to focus on the <b>new science</b> that the model enables, rather than to describe the <b>software</b> and its development.",
     "title": "Guest Editors' Introduction: Climate Change - Science and Software",
     "year": 2011,
     "number": 6,
@@ -5927,7 +5927,7 @@
     ],
     "authorsList": "Steve M. Easterbrook, Venkatramani Balaji, Reinhard Budich, Paul N. Edwards",
     "citation": "Steve M. Easterbrook, Venkatramani Balaji, Reinhard Budich, Paul N. Edwards, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2011.141\">Guest Editors' Introduction: Climate Change - Science and Software</a>, IEEE Software 2011, no. 6, p. 32",
-    "searchText": "<b>Climate change</b> is likely to be one of the defining global issues of the 21st century. The past decade - the hottest in recorded history - has witnessed countries around the world struggling to deal with drought, heat waves, and extreme weather. The sheer <b>scale of the problem</b> also makes it hard to understand, predict, and solve. <b>Climate science</b> journals regularly publish special issues on specific climate models, typically timed to present results from a major new release of a given model. However, these tend to focus on the <b>new science</b> that the model enables, rather than to describe the <b>software </b>and its development. Steve M. Easterbrook Venkatramani Balaji Reinhard Budich Paul N. Edwards Guest Editors' Introduction: Climate Change - Science and Software 2011 "
+    "searchText": "<b>Climate change</b> is likely to be one of the defining global issues of the 21st century. The past decade - the hottest in recorded history - has witnessed countries around the world struggling to deal with drought, heat waves, and extreme weather. The sheer <b>scale of the problem</b> also makes it hard to understand, predict, and solve. <b>Climate science</b> journals regularly publish special issues on specific climate models, typically timed to present results from a major new release of a given model. However, these tend to focus on the <b>new science</b> that the model enables, rather than to describe the <b>software</b> and its development. Steve M. Easterbrook Venkatramani Balaji Reinhard Budich Paul N. Edwards Guest Editors' Introduction: Climate Change - Science and Software 2011 "
   },
   {
     "quote": "The <b>Clear Climate Code</b> project rewrote GISTEMP, a legacy software system used to produce an important global surface temperature dataset. The <b>focus</b> of the project is <b>on clarity</b>: making the source code as clear as possible to interested people, to <b>improve public understanding</b>.",
@@ -6433,7 +6433,7 @@
     "searchText": "In a typical <b>client-server scenario</b>, a server provides valuable services to client applications that run remotely on <b>untrusted client computers</b>. Typical examples are <b>video on demand</b>, online games, <b>voice-over-IP</b> communications, and many others. However, <b>client-side users</b> often hold <b>administrative privileges</b> on their machines and could tamper with the client application to fulfill the service in violation of the service usage conditions or service agreements. <b>Guaranteeing client-code security</b> is one of the most difficult security problem to address. Paolo Tonella Mariano Ceccato CodeBender: Remote Software Protection Using Orthogonal Replacement 2010 "
   },
   {
-    "quote": "<b>Unintentionally</b> <b>violating</b> open source software <b>(OSS) licenses</b> by reusing OSS code is a serious problem for both software companies and OSS developers. The simplest intuitive way to identify such reuse is to <b>measure code clones </b>- duplicated code fragments - between a suspected program and an existing OSS program.",
+    "quote": "<b>Unintentionally</b> <b>violating</b> open source software <b>(OSS) licenses</b> by reusing OSS code is a serious problem for both software companies and OSS developers. The simplest intuitive way to identify such reuse is to <b>measure code clones</b> - duplicated code fragments - between a suspected program and an existing OSS program.",
     "title": "Guilty or Not Guilty: Using Clone Metrics to Determine Open Source Licensing Violations",
     "year": 2010,
     "number": 2,
@@ -6460,7 +6460,7 @@
     ],
     "authorsList": "Yuki Manabe, Satoshi Okahara, Kenichi Matsumoto, Akito Monden",
     "citation": "Yuki Manabe, Satoshi Okahara, Kenichi Matsumoto, Akito Monden, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2010.159\">Guilty or Not Guilty: Using Clone Metrics to Determine Open Source Licensing Violations</a>, IEEE Software 2010, no. 2, p. 42",
-    "searchText": "<b>Unintentionally</b> <b>violating</b> open source software <b>(OSS) licenses</b> by reusing OSS code is a serious problem for both software companies and OSS developers. The simplest intuitive way to identify such reuse is to <b>measure code clones </b>- duplicated code fragments - between a suspected program and an existing OSS program. Yuki Manabe Satoshi Okahara Kenichi Matsumoto Akito Monden Guilty or Not Guilty: Using Clone Metrics to Determine Open Source Licensing Violations 2010 "
+    "searchText": "<b>Unintentionally</b> <b>violating</b> open source software <b>(OSS) licenses</b> by reusing OSS code is a serious problem for both software companies and OSS developers. The simplest intuitive way to identify such reuse is to <b>measure code clones</b> - duplicated code fragments - between a suspected program and an existing OSS program. Yuki Manabe Satoshi Okahara Kenichi Matsumoto Akito Monden Guilty or Not Guilty: Using Clone Metrics to Determine Open Source Licensing Violations 2010 "
   },
   {
     "quote": "The evolution of <b>software into services</b> imposes certain concerns in the form of expressing and accessing services. The seamless proliferation of services demands a <b>new kind</b> of <b>software protection</b> with respect to <b>copyrights</b> and <b>moral rights</b> of service-based software to enable services' widespread use.",
@@ -7623,7 +7623,7 @@
     "searchText": "Software is developed by people, used by people, and supports interaction among people. As such, <b>human characteristics</b> and <b>cooperation</b> are central to modern practical software construction. Janice Singer Cleidson R. B. de Souza Helen Sharp Gina Venolia Li-Te Cheng Guest Editors' Introduction: Cooperative and Human Aspects of Software Engineering 2009 "
   },
   {
-    "quote": "In the transformation from <b>traditional command-and-control </b>management to <b>collaborative self-managing</b> teams, the main challenges were the absence of <b>redundancy and conflict</b> between team- and individual-level autonomy.",
+    "quote": "In the transformation from <b>traditional command-and-control</b> management to <b>collaborative self-managing</b> teams, the main challenges were the absence of <b>redundancy and conflict</b> between team- and individual-level autonomy.",
     "title": "Overcoming Barriers to Self-Management in Software Teams",
     "year": 2009,
     "number": 6,
@@ -7646,7 +7646,7 @@
     ],
     "authorsList": "Tore Dyb&#x00E2;, Torgeir Dings&#x00F8;yr, Nils Brede Moe",
     "citation": "Tore Dyb&#x00E2;, Torgeir Dings&#x00F8;yr, Nils Brede Moe, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2009.182\">Overcoming Barriers to Self-Management in Software Teams</a>, IEEE Software 2009, no. 6, p. 20",
-    "searchText": "In the transformation from <b>traditional command-and-control </b>management to <b>collaborative self-managing</b> teams, the main challenges were the absence of <b>redundancy and conflict</b> between team- and individual-level autonomy. Tore Dyb&#x00E2; Torgeir Dings&#x00F8;yr Nils Brede Moe Overcoming Barriers to Self-Management in Software Teams 2009 "
+    "searchText": "In the transformation from <b>traditional command-and-control</b> management to <b>collaborative self-managing</b> teams, the main challenges were the absence of <b>redundancy and conflict</b> between team- and individual-level autonomy. Tore Dyb&#x00E2; Torgeir Dings&#x00F8;yr Nils Brede Moe Overcoming Barriers to Self-Management in Software Teams 2009 "
   },
   {
     "quote": "[D]ata showed that <b>learning resources</b> for <b>APIs</b> are critically important and shed light on three issues: the need to <b>discover</b> the <b>design</b> and <b>rationale</b> of the API when needed, the challenge of finding <b>credible</b> usage API <b>examples</b> at the right level of complexity, and the challenge of understanding <b>inexplicable</b> API <b>behavior</b>.",
@@ -8198,7 +8198,7 @@
     "searchText": "<b>A decision view</b> provides a useful complement to the traditional sets of architectural views and viewpoints. It gives an explanatory perspective that illuminates the <b>reasoning process</b> itself and not solely its results. The decision view documents <b>aspects</b> of the architecture that are <b>hard to reverse-engineer</b> from the software itself and that are often left tacit. Philippe Kruchten Juan Carlos Due&#x00F1;as Rafael Capilla The Decision View's Role in Software Architecture Practice 2009 "
   },
   {
-    "quote": "We rarely see the <b>traditional way </b>of software development in which one company handles design, production, sales, delivery, and service. Business models, engineering life cycles, distribution channels, and services have changed dramatically. A key driver in these new value networks is <b>open source software</b> (OSS). Worldwide companies in various industries have invested in open source. Market leaders such as Google, IBM, Microsoft, SAP, and Siemens as well as many small companies turn to OSS for multiple reasons.",
+    "quote": "We rarely see the <b>traditional way</b> of software development in which one company handles design, production, sales, delivery, and service. Business models, engineering life cycles, distribution channels, and services have changed dramatically. A key driver in these new value networks is <b>open source software</b> (OSS). Worldwide companies in various industries have invested in open source. Market leaders such as Google, IBM, Microsoft, SAP, and Siemens as well as many small companies turn to OSS for multiple reasons.",
     "title": "Guest Editor's Introduction: How Open Source Tools Can Benefit Industry",
     "year": 2009,
     "number": 2,
@@ -8213,7 +8213,7 @@
     ],
     "authorsList": "Christof Ebert",
     "citation": "Christof Ebert, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2009.38\">Guest Editor's Introduction: How Open Source Tools Can Benefit Industry</a>, IEEE Software 2009, no. 2, p. 50",
-    "searchText": "We rarely see the <b>traditional way </b>of software development in which one company handles design, production, sales, delivery, and service. Business models, engineering life cycles, distribution channels, and services have changed dramatically. A key driver in these new value networks is <b>open source software</b> (OSS). Worldwide companies in various industries have invested in open source. Market leaders such as Google, IBM, Microsoft, SAP, and Siemens as well as many small companies turn to OSS for multiple reasons. Christof Ebert Guest Editor's Introduction: How Open Source Tools Can Benefit Industry 2009 "
+    "searchText": "We rarely see the <b>traditional way</b> of software development in which one company handles design, production, sales, delivery, and service. Business models, engineering life cycles, distribution channels, and services have changed dramatically. A key driver in these new value networks is <b>open source software</b> (OSS). Worldwide companies in various industries have invested in open source. Market leaders such as Google, IBM, Microsoft, SAP, and Siemens as well as many small companies turn to OSS for multiple reasons. Christof Ebert Guest Editor's Introduction: How Open Source Tools Can Benefit Industry 2009 "
   },
   {
     "quote": "A <b>software forge</b> is a tool platform for <b>collaborative software development</b>, similar to integrated CASE environments. Unlike CASE tools, however, software forges have been designed for the software development practices of the <b>open source community</b>.",
@@ -8394,7 +8394,7 @@
     "searchText": "<b>Software archives</b> such as source code <b>version-control systems</b> and <b>issue-tracking systems</b> (for bugs and change requests) are rich sources to examine what changes have what impact on the software. Harald C. Gall Martin Pinzger Beat Fluri Change Analysis with Evolizer and ChangeDistiller 2009 "
   },
   {
-    "quote": "Mining software repositories using <b>analytics-driven dashboards</b> provides a <b>unifying mechanism </b>for <b>understanding</b>, <b>evaluating</b>, and <b>predicting</b> the development, management, and economics of large-scale systems and processes. Dashboards enable <b>measurement</b> and <b>interactive graphical displays</b> of complex information and support flexible analytic capabilities for user customizability and extensibility.",
+    "quote": "Mining software repositories using <b>analytics-driven dashboards</b> provides a <b>unifying mechanism</b> for <b>understanding</b>, <b>evaluating</b>, and <b>predicting</b> the development, management, and economics of large-scale systems and processes. Dashboards enable <b>measurement</b> and <b>interactive graphical displays</b> of complex information and support flexible analytic capabilities for user customizability and extensibility.",
     "title": "Analytics-Driven Dashboards Enable Leading Indicators for Requirements and Designs of Large-Scale Systems",
     "year": 2009,
     "number": 1,
@@ -8409,7 +8409,7 @@
     ],
     "authorsList": "Richard W. Selby",
     "citation": "Richard W. Selby, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2009.4\">Analytics-Driven Dashboards Enable Leading Indicators for Requirements and Designs of Large-Scale Systems</a>, IEEE Software 2009, no. 1, p. 41",
-    "searchText": "Mining software repositories using <b>analytics-driven dashboards</b> provides a <b>unifying mechanism </b>for <b>understanding</b>, <b>evaluating</b>, and <b>predicting</b> the development, management, and economics of large-scale systems and processes. Dashboards enable <b>measurement</b> and <b>interactive graphical displays</b> of complex information and support flexible analytic capabilities for user customizability and extensibility. Richard W. Selby Analytics-Driven Dashboards Enable Leading Indicators for Requirements and Designs of Large-Scale Systems 2009 "
+    "searchText": "Mining software repositories using <b>analytics-driven dashboards</b> provides a <b>unifying mechanism</b> for <b>understanding</b>, <b>evaluating</b>, and <b>predicting</b> the development, management, and economics of large-scale systems and processes. Dashboards enable <b>measurement</b> and <b>interactive graphical displays</b> of complex information and support flexible analytic capabilities for user customizability and extensibility. Richard W. Selby Analytics-Driven Dashboards Enable Leading Indicators for Requirements and Designs of Large-Scale Systems 2009 "
   },
   {
     "quote": "<b>Software-intensive systems</b>, like bridges and societies, are subject to <b>collapse</b>. Collapse isn't necessarily inevitable, however, but avoiding it requires active, vigorous, and intentional intervention by the system's architects.",
@@ -8692,7 +8692,7 @@
     "searchText": "A <b>not-so-subtle divide</b> separates <b>empirical</b> and <b>constructionist</b> <b>software research</b>. <b>Constructionists</b> maintain that software research should be about creating technologies, devising <b>new methods</b>. <b>Empiricists</b> are interested in studying and <b>understanding existing approaches</b>. The antagonism between the two camps does not serve our industry well - it needs both modes of research. Hakan Erdogmus Must Software Research Stand Divided? 2008 "
   },
   {
-    "quote": "<b>Trust</b> is a <b>subjective</b>, <b>user-centric</b>, <b>context-dependent </b>concept, and is thus difficult to define universally. <b>On the Internet</b>, several factors make trust more difficult to build, explaining why some successful brick-and-mortar retail chains have been <b>unable</b> to <b>translate</b> their <b>reputation</b> to the <b>virtual platform</b> the Web offers.",
+    "quote": "<b>Trust</b> is a <b>subjective</b>, <b>user-centric</b>, <b>context-dependent</b> concept, and is thus difficult to define universally. <b>On the Internet</b>, several factors make trust more difficult to build, explaining why some successful brick-and-mortar retail chains have been <b>unable</b> to <b>translate</b> their <b>reputation</b> to the <b>virtual platform</b> the Web offers.",
     "title": "How Do We Build Trust into E-commerce Web Sites?",
     "year": 2008,
     "number": 5,
@@ -8723,7 +8723,7 @@
     ],
     "authorsList": "Patricia Beatty, Ejike Ofuonye, Scott Dick, James Miller, Ian Reay",
     "citation": "Patricia Beatty, Ejike Ofuonye, Scott Dick, James Miller, Ian Reay, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2008.136\">How Do We Build Trust into E-commerce Web Sites?</a>, IEEE Software 2008, no. 5, p. 7",
-    "searchText": "<b>Trust</b> is a <b>subjective</b>, <b>user-centric</b>, <b>context-dependent </b>concept, and is thus difficult to define universally. <b>On the Internet</b>, several factors make trust more difficult to build, explaining why some successful brick-and-mortar retail chains have been <b>unable</b> to <b>translate</b> their <b>reputation</b> to the <b>virtual platform</b> the Web offers. Patricia Beatty Ejike Ofuonye Scott Dick James Miller Ian Reay How Do We Build Trust into E-commerce Web Sites? 2008 "
+    "searchText": "<b>Trust</b> is a <b>subjective</b>, <b>user-centric</b>, <b>context-dependent</b> concept, and is thus difficult to define universally. <b>On the Internet</b>, several factors make trust more difficult to build, explaining why some successful brick-and-mortar retail chains have been <b>unable</b> to <b>translate</b> their <b>reputation</b> to the <b>virtual platform</b> the Web offers. Patricia Beatty Ejike Ofuonye Scott Dick James Miller Ian Reay How Do We Build Trust into E-commerce Web Sites? 2008 "
   },
   {
     "quote": "[S]ome <b>software engineering ideas</b> have a <b>half-life</b>. ... this <b>half-life</b> is <b>roughly five years</b>, ... the need for software engineers to thus stay abreast of <b>new technologies</b>.",
@@ -8762,7 +8762,7 @@
     "searchText": "A <b>software agent</b> is defined as an <b>encapsulated</b> software entity with one or more <b>specified goals</b>. To fulfill these goals, an agent shows <b>autonomous behavior</b> and <b>interacts</b> continuously with its environment and other agents. Hisham Mubarak Developing Flexible Software Using Agent-Oriented Software Engineering 2008 "
   },
   {
-    "quote": "<b>Static analysis</b> examines code in the <b>absence of input data </b>and <b>without running the code</b>. It can detect potential <b>security violations</b> (SQL injection), <b>runtime errors</b> (dereferencing a null pointer) and <b>logical inconsistencies</b> (a conditional test that can't possibly be true). ... <b>FindBugs</b>, an open source static-analysis tool for Java ... evaluates what kinds of defects can be effectively detected with relatively simple techniques and helps developers understand how to incorporate such tools into software development.",
+    "quote": "<b>Static analysis</b> examines code in the <b>absence of input data</b> and <b>without running the code</b>. It can detect potential <b>security violations</b> (SQL injection), <b>runtime errors</b> (dereferencing a null pointer) and <b>logical inconsistencies</b> (a conditional test that can't possibly be true). ... <b>FindBugs</b>, an open source static-analysis tool for Java ... evaluates what kinds of defects can be effectively detected with relatively simple techniques and helps developers understand how to incorporate such tools into software development.",
     "title": "Using Static Analysis to Find Bugs",
     "year": 2008,
     "number": 5,
@@ -8793,7 +8793,7 @@
     ],
     "authorsList": "Nathaniel Ayewah, John Penix, J. David Morgenthaler, William Pugh, David Hovemeyer",
     "citation": "Nathaniel Ayewah, John Penix, J. David Morgenthaler, William Pugh, David Hovemeyer, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2008.130\">Using Static Analysis to Find Bugs</a>, IEEE Software 2008, no. 5, p. 22",
-    "searchText": "<b>Static analysis</b> examines code in the <b>absence of input data </b>and <b>without running the code</b>. It can detect potential <b>security violations</b> (SQL injection), <b>runtime errors</b> (dereferencing a null pointer) and <b>logical inconsistencies</b> (a conditional test that can't possibly be true). ... <b>FindBugs</b>, an open source static-analysis tool for Java ... evaluates what kinds of defects can be effectively detected with relatively simple techniques and helps developers understand how to incorporate such tools into software development. Nathaniel Ayewah John Penix J. David Morgenthaler William Pugh David Hovemeyer Using Static Analysis to Find Bugs 2008 "
+    "searchText": "<b>Static analysis</b> examines code in the <b>absence of input data</b> and <b>without running the code</b>. It can detect potential <b>security violations</b> (SQL injection), <b>runtime errors</b> (dereferencing a null pointer) and <b>logical inconsistencies</b> (a conditional test that can't possibly be true). ... <b>FindBugs</b>, an open source static-analysis tool for Java ... evaluates what kinds of defects can be effectively detected with relatively simple techniques and helps developers understand how to incorporate such tools into software development. Nathaniel Ayewah John Penix J. David Morgenthaler William Pugh David Hovemeyer Using Static Analysis to Find Bugs 2008 "
   },
   {
     "quote": "<b>Refactoring tools</b> can <b>improve</b> the <b>speed and accuracy</b> with which developers create and maintain software - but only <b>if they are used</b>. In practice, tools are not used as much as they could be; this seems to be because sometimes they do not align with the refactoring tactic preferred by most programmers, a tactic the authors call 'floss refactoring.' They propose five principles that characterize successful floss-refactoring tools&#x2014;principles that can help programmers to choose the most appropriate refactoring tools and also help toolsmiths to design tools that fit the programmer's purpose.",
@@ -8896,7 +8896,7 @@
     "searchText": "This article summarizes major achievements and challenges of <b>software resource estimation</b> over the last 40 years, emphasizing the <b>Cocomo suite</b> of models. Critical issues that have enabled major achievements include the development of good <b>model forms</b>, <b>criteria for evaluating</b> models, methods for <b>integrating expert judgment</b> and statistical data analysis, and processes for developing <b>new models</b> that cover new software development approaches. Ricardo Valerdi Barry W. Boehm Achievements and Challenges in Cocomo-Based Software Resource Estimation 2008 "
   },
   {
-    "quote": "Despite various industry reports about the <b>failure rates </b>of software projects, there's still <b>uncertainty</b> about the <b>actual figures</b>. Researchers performed a global Web survey of IT departments in 2005 and 2007. The results suggest that the software <b>crisis is perhaps exaggerated</b> and that most software projects deliver. However, the overall project failure rate, including cancelled and completed but poorly performing projects, remains arguably high for an applied discipline.",
+    "quote": "Despite various industry reports about the <b>failure rates</b> of software projects, there's still <b>uncertainty</b> about the <b>actual figures</b>. Researchers performed a global Web survey of IT departments in 2005 and 2007. The results suggest that the software <b>crisis is perhaps exaggerated</b> and that most software projects deliver. However, the overall project failure rate, including cancelled and completed but poorly performing projects, remains arguably high for an applied discipline.",
     "title": "A Replicated Survey of IT Software Project Failures",
     "year": 2008,
     "number": 5,
@@ -8915,7 +8915,7 @@
     ],
     "authorsList": "Khaled El Emam, A. G&#x00FC;nes Koru",
     "citation": "Khaled El Emam, A. G&#x00FC;nes Koru, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2008.107\">A Replicated Survey of IT Software Project Failures</a>, IEEE Software 2008, no. 5, p. 84",
-    "searchText": "Despite various industry reports about the <b>failure rates </b>of software projects, there's still <b>uncertainty</b> about the <b>actual figures</b>. Researchers performed a global Web survey of IT departments in 2005 and 2007. The results suggest that the software <b>crisis is perhaps exaggerated</b> and that most software projects deliver. However, the overall project failure rate, including cancelled and completed but poorly performing projects, remains arguably high for an applied discipline. Khaled El Emam A. G&#x00FC;nes Koru A Replicated Survey of IT Software Project Failures 2008 "
+    "searchText": "Despite various industry reports about the <b>failure rates</b> of software projects, there's still <b>uncertainty</b> about the <b>actual figures</b>. Researchers performed a global Web survey of IT departments in 2005 and 2007. The results suggest that the software <b>crisis is perhaps exaggerated</b> and that most software projects deliver. However, the overall project failure rate, including cancelled and completed but poorly performing projects, remains arguably high for an applied discipline. Khaled El Emam A. G&#x00FC;nes Koru A Replicated Survey of IT Software Project Failures 2008 "
   },
   {
     "quote": "Software developers often need to understand a large body of <b>unfamiliar code</b> with little or <b>no documentation</b>, <b>no experts</b> to consult, and <b>little time</b> to do it. ... The most common suggestions were to use a <b>code navigation tool</b>, use a <b>design recovery</b> tool, use a <b>debugger</b> to step through the code, create a <b>runtime trace</b>, use problem-based learning, ask people for help, study the code from top down, and <b>print out all</b> the code.",
@@ -8976,7 +8976,7 @@
     "searchText": "Three anecdotes show how <b>one member</b> of a work team can <b>decrease</b> the whole <b>team's productivity</b>. Robert L. Glass Negative Productivity and What to Do about It 2008 "
   },
   {
-    "quote": "<b>Process trends</b> can be placed inside a triangular map according to their emphasis on three aspects, represented by the vertices: <b>people</b>, <b>technology</b>, and <b>rigor</b>. <b>Plan-oriented</b>, engineering, and research-based approaches tend to view software as a rigid artifact, so they <b>stress</b> <b>technology</b> and <b>rigor</b> over <b>people</b>. <b>Evolutionary approaches </b>tend to view software development as an organic, skills-driven technical activity, so they <b>stress</b> <b>people</b> and <b>technology</b> over <b>rigor</b>. ... A more complete scheme requires dissection in terms of seven essential, mutually reinforcing characteristics: <b>human-centricity</b>, <b>technical orientation</b>, <b>discipline</b>, <b>pragmatism</b>, <b>empiricism</b>, <b>experimentation</b>, and <b>value orientation</b>.",
+    "quote": "<b>Process trends</b> can be placed inside a triangular map according to their emphasis on three aspects, represented by the vertices: <b>people</b>, <b>technology</b>, and <b>rigor</b>. <b>Plan-oriented</b>, engineering, and research-based approaches tend to view software as a rigid artifact, so they <b>stress</b> <b>technology</b> and <b>rigor</b> over <b>people</b>. <b>Evolutionary approaches</b> tend to view software development as an organic, skills-driven technical activity, so they <b>stress</b> <b>people</b> and <b>technology</b> over <b>rigor</b>. ... A more complete scheme requires dissection in terms of seven essential, mutually reinforcing characteristics: <b>human-centricity</b>, <b>technical orientation</b>, <b>discipline</b>, <b>pragmatism</b>, <b>empiricism</b>, <b>experimentation</b>, and <b>value orientation</b>.",
     "title": "Essentials of Software Process",
     "year": 2008,
     "number": 4,
@@ -8991,10 +8991,10 @@
     ],
     "authorsList": "Hakan Erdogmus",
     "citation": "Hakan Erdogmus, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2008.87\">Essentials of Software Process</a>, IEEE Software 2008, no. 4, p. 4",
-    "searchText": "<b>Process trends</b> can be placed inside a triangular map according to their emphasis on three aspects, represented by the vertices: <b>people</b>, <b>technology</b>, and <b>rigor</b>. <b>Plan-oriented</b>, engineering, and research-based approaches tend to view software as a rigid artifact, so they <b>stress</b> <b>technology</b> and <b>rigor</b> over <b>people</b>. <b>Evolutionary approaches </b>tend to view software development as an organic, skills-driven technical activity, so they <b>stress</b> <b>people</b> and <b>technology</b> over <b>rigor</b>. ... A more complete scheme requires dissection in terms of seven essential, mutually reinforcing characteristics: <b>human-centricity</b>, <b>technical orientation</b>, <b>discipline</b>, <b>pragmatism</b>, <b>empiricism</b>, <b>experimentation</b>, and <b>value orientation</b>. Hakan Erdogmus Essentials of Software Process 2008 "
+    "searchText": "<b>Process trends</b> can be placed inside a triangular map according to their emphasis on three aspects, represented by the vertices: <b>people</b>, <b>technology</b>, and <b>rigor</b>. <b>Plan-oriented</b>, engineering, and research-based approaches tend to view software as a rigid artifact, so they <b>stress</b> <b>technology</b> and <b>rigor</b> over <b>people</b>. <b>Evolutionary approaches</b> tend to view software development as an organic, skills-driven technical activity, so they <b>stress</b> <b>people</b> and <b>technology</b> over <b>rigor</b>. ... A more complete scheme requires dissection in terms of seven essential, mutually reinforcing characteristics: <b>human-centricity</b>, <b>technical orientation</b>, <b>discipline</b>, <b>pragmatism</b>, <b>empiricism</b>, <b>experimentation</b>, and <b>value orientation</b>. Hakan Erdogmus Essentials of Software Process 2008 "
   },
   {
-    "quote": "There can be significant benefits in thinking through a design until you get it 'right enough' before launching into a major development effort. For such <b>up-front design </b>to be effective, you must develop <b>a design rhythm</b> that balances <b>thinking</b>, <b>learning</b>, <b>and</b> doing.",
+    "quote": "There can be significant benefits in thinking through a design until you get it 'right enough' before launching into a major development effort. For such <b>up-front design</b> to be effective, you must develop <b>a design rhythm</b> that balances <b>thinking</b>, <b>learning</b>, <b>and</b> doing.",
     "title": "Up-front Design",
     "year": 2008,
     "number": 4,
@@ -9009,7 +9009,7 @@
     ],
     "authorsList": "Rebecca J. Wirfs-Brock",
     "citation": "Rebecca J. Wirfs-Brock, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2008.104\">Up-front Design</a>, IEEE Software 2008, no. 4, p. 12",
-    "searchText": "There can be significant benefits in thinking through a design until you get it 'right enough' before launching into a major development effort. For such <b>up-front design </b>to be effective, you must develop <b>a design rhythm</b> that balances <b>thinking</b>, <b>learning</b>, <b>and</b> doing. Rebecca J. Wirfs-Brock Up-front Design 2008 "
+    "searchText": "There can be significant benefits in thinking through a design until you get it 'right enough' before launching into a major development effort. For such <b>up-front design</b> to be effective, you must develop <b>a design rhythm</b> that balances <b>thinking</b>, <b>learning</b>, <b>and</b> doing. Rebecca J. Wirfs-Brock Up-front Design 2008 "
   },
   {
     "quote": "<b>Without refactoring</b>, complex software-intensive <b>systems</b> become <b>increasingly irregular</b> and thus increasingly chaotic over time. We can <b>understand</b> complex software systems only when they're <b>nearly decomposable</b> and <b>hierarchic</b>. One measure ... is <b>lines of source code</b>: the greater the SLOC, the <b>more inertia</b> to change the system will have, the more people it will take to keep it fed, the more stakeholders who will be crawling all over it. ... the more complex measures ... are tuned to Philippe Kruchten's 4+1 view model of architecture.",
@@ -9182,7 +9182,7 @@
     "searchText": "<b>Checklists</b> are an important part of <b>code</b> and <b>design inspections</b>. Ideally, they aim to increase the number of faults found per inspection hour by highlighting known areas of previous failure. ... The author subjects checklists' effectiveness to <b>formal statistical testing</b>, using data from <b>308 inspections</b> by industrial engineers over a three-year period. The results showed <b>no evidence</b> that checklists <b>significantly improved</b> these inspections. Les Hatton Testing the Value of Checklists in Code Inspections 2008 "
   },
   {
-    "quote": "<b>Software engineers</b> will do <b>better work and stay with a company</b> if they are <b>motivated</b> - as a result the success of software projects is likely to improve. ... in-depth review of the <b>92 studies</b> published in the last <b>25 years </b>on software engineer motivation ... give an overview of what <b>managers need to know</b> to improve motivation among their employees.",
+    "quote": "<b>Software engineers</b> will do <b>better work and stay with a company</b> if they are <b>motivated</b> - as a result the success of software projects is likely to improve. ... in-depth review of the <b>92 studies</b> published in the last <b>25 years</b> on software engineer motivation ... give an overview of what <b>managers need to know</b> to improve motivation among their employees.",
     "title": "What Do We Know about Developer Motivation?",
     "year": 2008,
     "number": 4,
@@ -9213,7 +9213,7 @@
     ],
     "authorsList": "Nathan Baddoo, Tracy Hall, Sarah Beecham, Helen Sharp, Hugh Robinson",
     "citation": "Nathan Baddoo, Tracy Hall, Sarah Beecham, Helen Sharp, Hugh Robinson, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2008.105\">What Do We Know about Developer Motivation?</a>, IEEE Software 2008, no. 4, p. 92",
-    "searchText": "<b>Software engineers</b> will do <b>better work and stay with a company</b> if they are <b>motivated</b> - as a result the success of software projects is likely to improve. ... in-depth review of the <b>92 studies</b> published in the last <b>25 years </b>on software engineer motivation ... give an overview of what <b>managers need to know</b> to improve motivation among their employees. Nathan Baddoo Tracy Hall Sarah Beecham Helen Sharp Hugh Robinson What Do We Know about Developer Motivation? 2008 "
+    "searchText": "<b>Software engineers</b> will do <b>better work and stay with a company</b> if they are <b>motivated</b> - as a result the success of software projects is likely to improve. ... in-depth review of the <b>92 studies</b> published in the last <b>25 years</b> on software engineer motivation ... give an overview of what <b>managers need to know</b> to improve motivation among their employees. Nathan Baddoo Tracy Hall Sarah Beecham Helen Sharp Hugh Robinson What Do We Know about Developer Motivation? 2008 "
   },
   {
     "quote": "The software development process and the resulting product are so complex that no <b>error-detecting approach</b> will ever be able to produce <b>error-free software</b>.",
@@ -9664,7 +9664,7 @@
     "searchText": "<b>Service-centric software system</b> is a multidisciplinary paradigm concerned with software systems that are constructed as <b>compositions of autonomous services</b>. These systems extend the service-oriented architecture paradigm by focusing on the design, development, and maintenance of software built under SOAs. Olivier Nano Andrea Zisman Guest Editors' Introduction: Realizing Service-Centric Software Systems 2007 "
   },
   {
-    "quote": "<b>Composing software services</b> requires solving both <b>low-level technical problems </b>and <b>high-level semantic issues</b>.",
+    "quote": "<b>Composing software services</b> requires solving both <b>low-level technical problems</b> and <b>high-level semantic issues</b>.",
     "title": "A Domain-Configurable Development Environment for Service-Oriented Applications",
     "year": 2007,
     "number": 6,
@@ -9683,7 +9683,7 @@
     ],
     "authorsList": "Philippe Lalanda, Cristina Marin",
     "citation": "Philippe Lalanda, Cristina Marin, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2007.154\">A Domain-Configurable Development Environment for Service-Oriented Applications</a>, IEEE Software 2007, no. 6, p. 31",
-    "searchText": "<b>Composing software services</b> requires solving both <b>low-level technical problems </b>and <b>high-level semantic issues</b>. Philippe Lalanda Cristina Marin A Domain-Configurable Development Environment for Service-Oriented Applications 2007 "
+    "searchText": "<b>Composing software services</b> requires solving both <b>low-level technical problems</b> and <b>high-level semantic issues</b>. Philippe Lalanda Cristina Marin A Domain-Configurable Development Environment for Service-Oriented Applications 2007 "
   },
   {
     "quote": "Development of today's information systems must take a <b>service-centric</b> approach. The drive is toward designing <b>service-centric</b> systems involving <b>well-defined</b>, <b>loosely coupled</b> services that are <b>reusable</b>, <b>discoverable</b>, and <b>composable</b>.",
@@ -9776,7 +9776,7 @@
     "searchText": "<b>Ruby on Rails</b> is a novel Web 2.0 application development framework that attempts to combine <b>PHP</b>'s simple immediacy with <b>Java</b>'s architecture, purity, and quality. Paul Kirchberg Michael B&#x00E4;chle Ruby on Rails 2007 "
   },
   {
-    "quote": "Building and acquiring software requires making <b>many decisions</b> and choosing between numerous solutions, yet the infrastructure to help people make decisions <b>based on good evidence </b>isn't well developed. The software engineering community needs better communication between researchers and practitioners to help make <b>useful bodies of evidence</b> available that can impact practice.",
+    "quote": "Building and acquiring software requires making <b>many decisions</b> and choosing between numerous solutions, yet the infrastructure to help people make decisions <b>based on good evidence</b> isn't well developed. The software engineering community needs better communication between researchers and practitioners to help make <b>useful bodies of evidence</b> available that can impact practice.",
     "title": "Who Needs Evidence, Anyway?",
     "year": 2007,
     "number": 5,
@@ -9791,7 +9791,7 @@
     ],
     "authorsList": "Forrest Shull",
     "citation": "Forrest Shull, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2007.152\">Who Needs Evidence, Anyway?</a>, IEEE Software 2007, no. 5, p. 10",
-    "searchText": "Building and acquiring software requires making <b>many decisions</b> and choosing between numerous solutions, yet the infrastructure to help people make decisions <b>based on good evidence </b>isn't well developed. The software engineering community needs better communication between researchers and practitioners to help make <b>useful bodies of evidence</b> available that can impact practice. Forrest Shull Who Needs Evidence, Anyway? 2007 "
+    "searchText": "Building and acquiring software requires making <b>many decisions</b> and choosing between numerous solutions, yet the infrastructure to help people make decisions <b>based on good evidence</b> isn't well developed. The software engineering community needs better communication between researchers and practitioners to help make <b>useful bodies of evidence</b> available that can impact practice. Forrest Shull Who Needs Evidence, Anyway? 2007 "
   },
   {
     "quote": "Since 2005, developers have used <b>Ajax</b> to let users interact with Web applications much as they do with desktop applications. But the <b>Ajax</b> features represented in applications such as <b>Google Maps</b>, <b>Netvibes</b>, and Zimbra Collaboration Suite demand detailed coding. <b>Ajax frameworks</b> are utility sets that make it easier to develop and maintain these applications.",
@@ -10006,7 +10006,7 @@
     "searchText": "Cognitive biases exist, and designers are remiss if we ignore them. By becoming aware of some common <b>cognitive biases in design discussions</b>, you can learn when it's worthwhile to tweak your message to increase the likelihood of it being accepted. Rebecca J. Wirfs-Brock Giving Design Advice 2007 "
   },
   {
-    "quote": "<b>A domain-specific language</b> for building user interfaces offers a transparent way for programmers to specify interface elements. <b>Microsoft's Extensible Application Markup Language </b>is an XML dialect for this purpose. However, <b>XAML</b> isn't the only choice for programmers who wish to try a declarative approach, and some options are even open source.",
+    "quote": "<b>A domain-specific language</b> for building user interfaces offers a transparent way for programmers to specify interface elements. <b>Microsoft's Extensible Application Markup Language</b> is an XML dialect for this purpose. However, <b>XAML</b> isn't the only choice for programmers who wish to try a declarative approach, and some options are even open source.",
     "title": "Declarative GUI Programming in Microsoft Windows",
     "year": 2007,
     "number": 4,
@@ -10021,7 +10021,7 @@
     ],
     "authorsList": "Panagiotis Louridas",
     "citation": "Panagiotis Louridas, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2007.105\">Declarative GUI Programming in Microsoft Windows</a>, IEEE Software 2007, no. 4, p. 16",
-    "searchText": "<b>A domain-specific language</b> for building user interfaces offers a transparent way for programmers to specify interface elements. <b>Microsoft's Extensible Application Markup Language </b>is an XML dialect for this purpose. However, <b>XAML</b> isn't the only choice for programmers who wish to try a declarative approach, and some options are even open source. Panagiotis Louridas Declarative GUI Programming in Microsoft Windows 2007 "
+    "searchText": "<b>A domain-specific language</b> for building user interfaces offers a transparent way for programmers to specify interface elements. <b>Microsoft's Extensible Application Markup Language</b> is an XML dialect for this purpose. However, <b>XAML</b> isn't the only choice for programmers who wish to try a declarative approach, and some options are even open source. Panagiotis Louridas Declarative GUI Programming in Microsoft Windows 2007 "
   },
   {
     "quote": "Virtually all <b>well-structured music</b>, music that pleases the ear and moves the spirit, is <b>full of patterns</b>. By comparing musical and software patterns, the author helps clarify the purposes and forms of patterns. Architectural and design patterns make software-intensive systems easier to understand and adapt to because of their <b>regularity and simplicity</b>.",
@@ -10594,7 +10594,7 @@
     "searchText": "On behalf of the Computer History Museum and the ACM, <b>Grady Booch</b> recently interviewed <b>John Backus</b>, who led the IBM team that created Fortran in the 1950s. Backus went on to coinvent the <b>Backus-Naur Form</b> (which was first applied to the definition of ALGOL), then later pioneered important advances in <b>functional programming</b>. Grady Booch Goodness of Fit 2006 "
   },
   {
-    "quote": "The first <b>software engineering programs </b>were at the graduate level, primarily as terminal master's degrees for those already developing commercial and industrial software. By the early 1990s, educators began to consider software engineering's role at the undergraduate level.",
+    "quote": "The first <b>software engineering programs</b> were at the graduate level, primarily as terminal master's degrees for those already developing commercial and industrial software. By the early 1990s, educators began to consider software engineering's role at the undergraduate level.",
     "title": "Guest Editors' Introduction: Software Engineering Curriculum Development",
     "year": 2006,
     "number": 6,
@@ -10613,7 +10613,7 @@
     ],
     "authorsList": "Donald Bagert, Michael J. Lutz",
     "citation": "Donald Bagert, Michael J. Lutz, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2006.164\">Guest Editors' Introduction: Software Engineering Curriculum Development</a>, IEEE Software 2006, no. 6, p. 16",
-    "searchText": "The first <b>software engineering programs </b>were at the graduate level, primarily as terminal master's degrees for those already developing commercial and industrial software. By the early 1990s, educators began to consider software engineering's role at the undergraduate level. Donald Bagert Michael J. Lutz Guest Editors' Introduction: Software Engineering Curriculum Development 2006 "
+    "searchText": "The first <b>software engineering programs</b> were at the graduate level, primarily as terminal master's degrees for those already developing commercial and industrial software. By the early 1990s, educators began to consider software engineering's role at the undergraduate level. Donald Bagert Michael J. Lutz Guest Editors' Introduction: Software Engineering Curriculum Development 2006 "
   },
   {
     "quote": "The recommendations in <b>Software Engineering 2004</b>: Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering, form a volume of the larger Computing Curriculum project of the IEEE-CS and ACM. SE2004 evolved from an analysis of <b>desired student outcomes</b> for a software engineering graduate as compared to those for computer science and computer engineering graduates.",
@@ -10870,7 +10870,7 @@
     "searchText": "<b>Participation in open source projects</b> can <b>make us better programmers</b> by exposing us to maintenance, new technologies, and different application domains, and make us better system administrators by forcing us to tinker with complex system setups.  Diomidis Spinellis Open Source and Professional Advancement 2006 "
   },
   {
-    "quote": "The following is a <b>familiar scenario</b>: management, feeling pressure from corporate headquarters and the marketplace, <b>dictates</b> that a product will be <b>released ahead of</b> the agreed-upon <b>schedule</b>. This is an all-too-common example of a company's political climate in which influential people base their desire for success more on <b>personal agendas</b> than on quality. This scenario illustrates two key issues: the <b>frustrations</b> involved in <b>producing quality products </b>and the <b>conflicts</b> between self and team. ",
+    "quote": "The following is a <b>familiar scenario</b>: management, feeling pressure from corporate headquarters and the marketplace, <b>dictates</b> that a product will be <b>released ahead of</b> the agreed-upon <b>schedule</b>. This is an all-too-common example of a company's political climate in which influential people base their desire for success more on <b>personal agendas</b> than on quality. This scenario illustrates two key issues: the <b>frustrations</b> involved in <b>producing quality products</b> and the <b>conflicts</b> between self and team. ",
     "title": "When Politics Overshadow Software Quality",
     "year": 2006,
     "number": 5,
@@ -10889,7 +10889,7 @@
     ],
     "authorsList": "Fran Boehme Mackin, Scott Stribrny",
     "citation": "Fran Boehme Mackin, Scott Stribrny, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2006.145\">When Politics Overshadow Software Quality</a>, IEEE Software 2006, no. 5, p. 72",
-    "searchText": "The following is a <b>familiar scenario</b>: management, feeling pressure from corporate headquarters and the marketplace, <b>dictates</b> that a product will be <b>released ahead of</b> the agreed-upon <b>schedule</b>. This is an all-too-common example of a company's political climate in which influential people base their desire for success more on <b>personal agendas</b> than on quality. This scenario illustrates two key issues: the <b>frustrations</b> involved in <b>producing quality products </b>and the <b>conflicts</b> between self and team.  Fran Boehme Mackin Scott Stribrny When Politics Overshadow Software Quality 2006 "
+    "searchText": "The following is a <b>familiar scenario</b>: management, feeling pressure from corporate headquarters and the marketplace, <b>dictates</b> that a product will be <b>released ahead of</b> the agreed-upon <b>schedule</b>. This is an all-too-common example of a company's political climate in which influential people base their desire for success more on <b>personal agendas</b> than on quality. This scenario illustrates two key issues: the <b>frustrations</b> involved in <b>producing quality products</b> and the <b>conflicts</b> between self and team.  Fran Boehme Mackin Scott Stribrny When Politics Overshadow Software Quality 2006 "
   },
   {
     "quote": "'Do you use <b>the same password</b> for multiple Web sites?' ... <b>41 percent</b> of the respondents said they always use <b>the same password</b>, <b>45 percent</b> said they have a <b>few different passwords</b>, and <b>14 percent</b> said they <b>never use the same password</b> on multiple Web sites. Those 14 percent probably either <b>don't have an Internet connection</b> or are '<b>security professionals</b>.' The problem is that where the 'security professional' sees prudent, responsible behavior, users <b>simply see overhead</b> that gets in the way of performing whatever task they're trying to do.",
@@ -11402,7 +11402,7 @@
     "searchText": "Although design is a highly creative activity, we can still <b>learn</b> <b>fundamental design skills</b>--and accomplish a lot with them. Rebecca J. Wirfs-Brock Looking for Powerful Abstractions 2006 "
   },
   {
-    "quote": "<b>Basili's</b> contributions cover three broad areas: research in the 1970s and early 1980s on <b>software measurement</b> and the <b>Goal Question Metric (GQM) model</b>, research in the 1980s and 1990s on these measurement ideas' maturation into a software engineering model of empirical studies, including the development of the <b>Quality Improvement Paradigm (QIP) </b>and the influence of the NASA Goddard Space Flight Center Software Engineering Laboratory, and research since 1990 in the Experience Factory as a model for creating learning organizations for continuous software process improvement.",
+    "quote": "<b>Basili's</b> contributions cover three broad areas: research in the 1970s and early 1980s on <b>software measurement</b> and the <b>Goal Question Metric (GQM) model</b>, research in the 1980s and 1990s on these measurement ideas' maturation into a software engineering model of empirical studies, including the development of the <b>Quality Improvement Paradigm (QIP)</b> and the influence of the NASA Goddard Space Flight Center Software Engineering Laboratory, and research since 1990 in the Experience Factory as a model for creating learning organizations for continuous software process improvement.",
     "title": "Victor R. Basili's Contributions to Software Quality",
     "year": 2006,
     "number": 1,
@@ -11425,7 +11425,7 @@
     ],
     "authorsList": "Marvin Zelkowitz, Carolyn Seaman, Forrest Shull",
     "citation": "Marvin Zelkowitz, Carolyn Seaman, Forrest Shull, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2006.33\">Victor R. Basili's Contributions to Software Quality</a>, IEEE Software 2006, no. 1, p. 16",
-    "searchText": "<b>Basili's</b> contributions cover three broad areas: research in the 1970s and early 1980s on <b>software measurement</b> and the <b>Goal Question Metric (GQM) model</b>, research in the 1980s and 1990s on these measurement ideas' maturation into a software engineering model of empirical studies, including the development of the <b>Quality Improvement Paradigm (QIP) </b>and the influence of the NASA Goddard Space Flight Center Software Engineering Laboratory, and research since 1990 in the Experience Factory as a model for creating learning organizations for continuous software process improvement. Marvin Zelkowitz Carolyn Seaman Forrest Shull Victor R. Basili's Contributions to Software Quality 2006 "
+    "searchText": "<b>Basili's</b> contributions cover three broad areas: research in the 1970s and early 1980s on <b>software measurement</b> and the <b>Goal Question Metric (GQM) model</b>, research in the 1980s and 1990s on these measurement ideas' maturation into a software engineering model of empirical studies, including the development of the <b>Quality Improvement Paradigm (QIP)</b> and the influence of the NASA Goddard Space Flight Center Software Engineering Laboratory, and research since 1990 in the Experience Factory as a model for creating learning organizations for continuous software process improvement. Marvin Zelkowitz Carolyn Seaman Forrest Shull Victor R. Basili's Contributions to Software Quality 2006 "
   },
   {
     "quote": "<b>Aspect-oriented programming</b> technologies aim to improve system modularity by <b>modularizing crosscutting concerns</b>. Global properties and programming and design issues can lead to crosscutting concerns--for example, error handling or transaction code, interacting features, and reliability and security. ",
@@ -11730,7 +11730,7 @@
     "searchText": "An enormous <b>intellectual distance</b> exists between the fields of <b>computer science</b> and <b>information systems</b>, which needs to be fixed soon. Robert L. Glass Never the CS and IS Twain Shall Meet? 2005 "
   },
   {
-    "quote": "[W]riting <b>stand-alone</b> tools that you can <b>combine </b>efficiently with others to handle more demanding tasks appears to be becoming a <b>forgotten art</b>.",
+    "quote": "[W]riting <b>stand-alone</b> tools that you can <b>combine</b> efficiently with others to handle more demanding tasks appears to be becoming a <b>forgotten art</b>.",
     "title": "Tool Writing: A Forgotten Art?",
     "year": 2005,
     "number": 4,
@@ -11745,7 +11745,7 @@
     ],
     "authorsList": "Diomidis Spinellis",
     "citation": "Diomidis Spinellis, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2005.111\">Tool Writing: A Forgotten Art?</a>, IEEE Software 2005, no. 4, p. 9",
-    "searchText": "[W]riting <b>stand-alone</b> tools that you can <b>combine </b>efficiently with others to handle more demanding tasks appears to be becoming a <b>forgotten art</b>. Diomidis Spinellis Tool Writing: A Forgotten Art? 2005 "
+    "searchText": "[W]riting <b>stand-alone</b> tools that you can <b>combine</b> efficiently with others to handle more demanding tasks appears to be becoming a <b>forgotten art</b>. Diomidis Spinellis Tool Writing: A Forgotten Art? 2005 "
   },
   {
     "quote": "<b>JUnit</b> is an open source Java library that purports to make <b>unit testing</b> so <b>much fun</b> that programmers will actually want to write tests for their code.",
@@ -12202,7 +12202,7 @@
     "searchText": "You <b>know</b> you're a <b>geek</b> when <b>going to the coffee shop</b> gets you thinking about interaction patterns between loosely coupled systems. ... Interestingly, the <b>optimization for throughput</b> results in a <b>concurrent and asynchronous processing model</b>: when you place your order, the cashier marks a coffee cup with your order and places it into a queue.  Gregor Hohpe Your Coffee Shop Doesn't Use Two-Phase Commit 2005 "
   },
   {
-    "quote": "In many domains, the <b>problem space</b> is too <b>large</b> to <b>explore</b> up front. <b>Expert designers</b> often <b>explore</b> the <b>problem and solution </b>spaces <b>in parallel</b>, using the emerging solution space to decide what information to elicit next about the problem space. They also often look for chinks—that is, <b>omissions and inconsistencies</b>—in problems and requirement specifications that would enable them to discover more innovative solutions.",
+    "quote": "In many domains, the <b>problem space</b> is too <b>large</b> to <b>explore</b> up front. <b>Expert designers</b> often <b>explore</b> the <b>problem and solution</b> spaces <b>in parallel</b>, using the emerging solution space to decide what information to elicit next about the problem space. They also often look for chinks—that is, <b>omissions and inconsistencies</b>—in problems and requirement specifications that would enable them to discover more innovative solutions.",
     "title": "Guest Editors' Introduction: Shake, Rattle, and Requirements",
     "year": 2005,
     "number": 1,
@@ -12225,7 +12225,7 @@
     ],
     "authorsList": "Neil Maiden, Christof Ebert, Suzanne Robertson",
     "citation": "Neil Maiden, Christof Ebert, Suzanne Robertson, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2005.8\">Guest Editors' Introduction: Shake, Rattle, and Requirements</a>, IEEE Software 2005, no. 1, p. 13",
-    "searchText": "In many domains, the <b>problem space</b> is too <b>large</b> to <b>explore</b> up front. <b>Expert designers</b> often <b>explore</b> the <b>problem and solution </b>spaces <b>in parallel</b>, using the emerging solution space to decide what information to elicit next about the problem space. They also often look for chinks—that is, <b>omissions and inconsistencies</b>—in problems and requirement specifications that would enable them to discover more innovative solutions. Neil Maiden Christof Ebert Suzanne Robertson Guest Editors' Introduction: Shake, Rattle, and Requirements 2005 "
+    "searchText": "In many domains, the <b>problem space</b> is too <b>large</b> to <b>explore</b> up front. <b>Expert designers</b> often <b>explore</b> the <b>problem and solution</b> spaces <b>in parallel</b>, using the emerging solution space to decide what information to elicit next about the problem space. They also often look for chinks—that is, <b>omissions and inconsistencies</b>—in problems and requirement specifications that would enable them to discover more innovative solutions. Neil Maiden Christof Ebert Suzanne Robertson Guest Editors' Introduction: Shake, Rattle, and Requirements 2005 "
   },
   {
     "quote": "[S]ome <b>activities</b> are fundamental to all <b>RE</b> [requirements engineering] processes: <b>Elicitation</b>. Identify sources of information ... <b>Analysis</b>. Understand the requirements ... <b>Validation</b>. Go back to the system stakeholders and check ... <b>Negotiation</b>. ... reconcile conflicting views .... <b>Documentation</b>. Write down the requirements ... <b>Management</b>. Control the requirements changes ... ",
@@ -12628,7 +12628,7 @@
     "searchText": "<b>[N]etwork effects</b> can lead to a '<b>social dilemma</b>,' in which the actions of consumers can result in serious <b>negative consequences</b> for the <b>same consumers</b> and the society as a whole in the long term.  Nirup M. Menon Glenn J. Browne Network Effects and Social Dilemmas in Technology Industries 2004 "
   },
   {
-    "quote": "The well-known <b>black-box model</b> of software <b>development outsourcing </b>is typically effective. The approach assumes that the vendor can successfully solve a client organization's business problem without either organization having to deeply understand the other's domain. ... key finding is that the black-box approach usually works <b>well in routine projects</b> but <b>fails</b> in projects involving <b>novelty</b>.",
+    "quote": "The well-known <b>black-box model</b> of software <b>development outsourcing</b> is typically effective. The approach assumes that the vendor can successfully solve a client organization's business problem without either organization having to deeply understand the other's domain. ... key finding is that the black-box approach usually works <b>well in routine projects</b> but <b>fails</b> in projects involving <b>novelty</b>.",
     "title": "Beyond the Black Box: Knowledge Overlaps in Software Outsourcing",
     "year": 2004,
     "number": 5,
@@ -12643,7 +12643,7 @@
     ],
     "authorsList": "Amrit Tiwana",
     "citation": "Amrit Tiwana, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2004.1331302\">Beyond the Black Box: Knowledge Overlaps in Software Outsourcing</a>, IEEE Software 2004, no. 5, p. 51",
-    "searchText": "The well-known <b>black-box model</b> of software <b>development outsourcing </b>is typically effective. The approach assumes that the vendor can successfully solve a client organization's business problem without either organization having to deeply understand the other's domain. ... key finding is that the black-box approach usually works <b>well in routine projects</b> but <b>fails</b> in projects involving <b>novelty</b>. Amrit Tiwana Beyond the Black Box: Knowledge Overlaps in Software Outsourcing 2004 "
+    "searchText": "The well-known <b>black-box model</b> of software <b>development outsourcing</b> is typically effective. The approach assumes that the vendor can successfully solve a client organization's business problem without either organization having to deeply understand the other's domain. ... key finding is that the black-box approach usually works <b>well in routine projects</b> but <b>fails</b> in projects involving <b>novelty</b>. Amrit Tiwana Beyond the Black Box: Knowledge Overlaps in Software Outsourcing 2004 "
   },
   {
     "quote": "The international standard <b>ISO/IEC 9126</b> defines a <b>quality model</b> for <b>software products</b>. The model categorizes software product attributes into six characteristics, which are further subdivided into 27 subcharacteristics.",
@@ -13124,7 +13124,7 @@
     "searchText": "'We resolve to <b>keep all</b> program design <b>documentation</b> complete, precise, and <b>up to date</b>'. - David Lorge Parnas Nancy Leveson Barry Boehm Shari Lawrence Pfleeger Nancy R. Mead Elaine Weyuker Al Davis Watts S. Humphrey David Lorge Parnas Victor R. Basili John D. Musa New Year's Resolutions for Software Quality 2004 "
   },
   {
-    "quote": "When you dig into the knowledge base of experience, you find the following <b>seven best practices</b> for <b>outsourcing</b> common to reported successes in the literature ... <b>Never</b> outsource a <b>core competency</b> ... Establish <b>win-win conditions</b> with your suppliers ... <b>Nurture your relationships </b>with your suppliers ... <b>Measure</b> performance as <b>quantitatively</b> as possible ... Make <b>exceptional performance </b>financially worthwhile ... Treat outsourcing as a <b>technology transfer</b> opportunity ...",
+    "quote": "When you dig into the knowledge base of experience, you find the following <b>seven best practices</b> for <b>outsourcing</b> common to reported successes in the literature ... <b>Never</b> outsource a <b>core competency</b> ... Establish <b>win-win conditions</b> with your suppliers ... <b>Nurture your relationships</b> with your suppliers ... <b>Measure</b> performance as <b>quantitatively</b> as possible ... Make <b>exceptional performance</b> financially worthwhile ... Treat outsourcing as a <b>technology transfer</b> opportunity ...",
     "title": "Seven Hot Outsourcing Practices",
     "year": 2004,
     "number": 1,
@@ -13139,7 +13139,7 @@
     ],
     "authorsList": "Donald J. Reifer",
     "citation": "Donald J. Reifer, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2004.1259166\">Seven Hot Outsourcing Practices</a>, IEEE Software 2004, no. 1, p. 14",
-    "searchText": "When you dig into the knowledge base of experience, you find the following <b>seven best practices</b> for <b>outsourcing</b> common to reported successes in the literature ... <b>Never</b> outsource a <b>core competency</b> ... Establish <b>win-win conditions</b> with your suppliers ... <b>Nurture your relationships </b>with your suppliers ... <b>Measure</b> performance as <b>quantitatively</b> as possible ... Make <b>exceptional performance </b>financially worthwhile ... Treat outsourcing as a <b>technology transfer</b> opportunity ... Donald J. Reifer Seven Hot Outsourcing Practices 2004 "
+    "searchText": "When you dig into the knowledge base of experience, you find the following <b>seven best practices</b> for <b>outsourcing</b> common to reported successes in the literature ... <b>Never</b> outsource a <b>core competency</b> ... Establish <b>win-win conditions</b> with your suppliers ... <b>Nurture your relationships</b> with your suppliers ... <b>Measure</b> performance as <b>quantitatively</b> as possible ... Make <b>exceptional performance</b> financially worthwhile ... Treat outsourcing as a <b>technology transfer</b> opportunity ... Donald J. Reifer Seven Hot Outsourcing Practices 2004 "
   },
   {
     "quote": "This month, the column looks at how to <b>ruin a software project</b> in just <b>three easy steps</b>. ... (1) <b>Don't bother to check</b> if the code is doing what you think it's doing (2) <b>Never let go</b> of code ... (3) Whether you are compiling, testing, creating a release, or doing end-user product installation, <b>do it differently every time</b>. ... Fortunately, three simple practices can <b>save a project</b> from these and other common mishaps: <b>version control</b>, <b>unit testing</b>, and <b>automation</b>.",
@@ -13384,7 +13384,7 @@
     "searchText": "The studies confirm the widely held belief that most <b>software engineers</b> <b>don't update</b> most software <b>documentation</b> in a timely manner. The only notable exception is documentation <b>types</b> that are <b>highly structured</b> and easy to maintain, such as test cases and inline comments. Andrew Forward Timothy C. Lethbridge Janice Singer How Software Engineers Use Documentation: The State of the Practice 2003 "
   },
   {
-    "quote": "One of the most important things about <b>good design</b> is <b>modularity</b> — dividing a system into separate pieces so that you can <b>modify one module </b>without the <b>changes rippling</b> all over the system. Early on, David <b>Parnas</b> observed that modules should be arranged <b>around system secrets</b>, each module hiding its secret from the other modules. Then if the secret thing changes, you avoid a ripple effect. One of the <b>most common secrets</b> to hide these days is <b>data structures</b>. ",
+    "quote": "One of the most important things about <b>good design</b> is <b>modularity</b> — dividing a system into separate pieces so that you can <b>modify one module</b> without the <b>changes rippling</b> all over the system. Early on, David <b>Parnas</b> observed that modules should be arranged <b>around system secrets</b>, each module hiding its secret from the other modules. Then if the secret thing changes, you avoid a ripple effect. One of the <b>most common secrets</b> to hide these days is <b>data structures</b>. ",
     "title": "Data Access Routines",
     "year": 2003,
     "number": 6,
@@ -13399,7 +13399,7 @@
     ],
     "authorsList": "Martin Fowler",
     "citation": "Martin Fowler, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2003.1241375\">Data Access Routines</a>, IEEE Software 2003, no. 6, p. 96",
-    "searchText": "One of the most important things about <b>good design</b> is <b>modularity</b> — dividing a system into separate pieces so that you can <b>modify one module </b>without the <b>changes rippling</b> all over the system. Early on, David <b>Parnas</b> observed that modules should be arranged <b>around system secrets</b>, each module hiding its secret from the other modules. Then if the secret thing changes, you avoid a ripple effect. One of the <b>most common secrets</b> to hide these days is <b>data structures</b>.  Martin Fowler Data Access Routines 2003 "
+    "searchText": "One of the most important things about <b>good design</b> is <b>modularity</b> — dividing a system into separate pieces so that you can <b>modify one module</b> without the <b>changes rippling</b> all over the system. Early on, David <b>Parnas</b> observed that modules should be arranged <b>around system secrets</b>, each module hiding its secret from the other modules. Then if the secret thing changes, you avoid a ripple effect. One of the <b>most common secrets</b> to hide these days is <b>data structures</b>.  Martin Fowler Data Access Routines 2003 "
   },
   {
     "quote": "Despite more than 30 years' effort to improve software quality, companies still release programs containing <b>numerous errors</b>. Many major products have <b>thousands of bugs</b>. It's not for lack of trying; all major software developers stress software quality assurance and try to remove bugs before release. The problem is the <b>code's complexity</b>. It's easy to review code but <b>fail to notice significant errors</b>.",
@@ -14696,7 +14696,7 @@
     "searchText": "How to <b>test output from the server</b> is another classic problem because of the nature of Web applications. How do you test HTML? Certainly we don't want tests that assert that the output is some <b>long string of HTML</b>. ... Testing the Web page look is not usually the goal; <b>testing the data in the output</b> is. Any <b>slight change</b> to the output—for example, a cosmetic change such as making a word appear in red—<b>should not break an output test</b>. Robert Mee Edward Hieatt Going Faster: Testing The Web Application 2002 "
   },
   {
-    "quote": "Software designers in a <b>networked world</b> cannot pretend to work in isolation. <b>People </b>are a <b>critical part </b>of the full software security equation, and software that makes unrealistic or <b>unreasonable security-related demands</b> on users (for example, requiring them to memorize too many passwords that change too often) is software whose security will <b>inevitably be breached</b>.",
+    "quote": "Software designers in a <b>networked world</b> cannot pretend to work in isolation. <b>People</b> are a <b>critical part</b> of the full software security equation, and software that makes unrealistic or <b>unreasonable security-related demands</b> on users (for example, requiring them to memorize too many passwords that change too often) is software whose security will <b>inevitably be breached</b>.",
     "title": "Building Software Securely from the Ground Up",
     "year": 2002,
     "number": 1,
@@ -14719,7 +14719,7 @@
     ],
     "authorsList": "James A. Whittaker, Chuck Howell, Anup K. Ghosh",
     "citation": "James A. Whittaker, Chuck Howell, Anup K. Ghosh, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2002.976936\">Building Software Securely from the Ground Up</a>, IEEE Software 2002, no. 1, p. 14",
-    "searchText": "Software designers in a <b>networked world</b> cannot pretend to work in isolation. <b>People </b>are a <b>critical part </b>of the full software security equation, and software that makes unrealistic or <b>unreasonable security-related demands</b> on users (for example, requiring them to memorize too many passwords that change too often) is software whose security will <b>inevitably be breached</b>. James A. Whittaker Chuck Howell Anup K. Ghosh Building Software Securely from the Ground Up 2002 "
+    "searchText": "Software designers in a <b>networked world</b> cannot pretend to work in isolation. <b>People</b> are a <b>critical part</b> of the full software security equation, and software that makes unrealistic or <b>unreasonable security-related demands</b> on users (for example, requiring them to memorize too many passwords that change too often) is software whose security will <b>inevitably be breached</b>. James A. Whittaker Chuck Howell Anup K. Ghosh Building Software Securely from the Ground Up 2002 "
   },
   {
     "quote": "<b>Buffer overflow vulnerabilities</b> are perhaps the single most important security problem of the past decade. ",
@@ -15056,7 +15056,7 @@
     "searchText": " In the software and information technology industry, <b>organizational change</b> has been a way of life. It is quite telling to listen to individuals discussing change in their organizations. Their words frame their philosophies: some <b>plan and lead</b> change, others <b>manage</b> it, still others <b>accommodate</b> change, and many simply try to <b>cope</b> with it.  Ann Miller Guest Editor's Introduction: Organizational Change 2001 "
   },
   {
-    "quote": "Software process improvement efforts will <b>fail</b> if we try to make development <b>processes completely uniform </b>across an organization.",
+    "quote": "Software process improvement efforts will <b>fail</b> if we try to make development <b>processes completely uniform</b> across an organization.",
     "title": "Managing Process Diversity While Improving Your Practices",
     "year": 2001,
     "number": 3,
@@ -15071,7 +15071,7 @@
     ],
     "authorsList": "Michael Deck",
     "citation": "Michael Deck, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.922721\">Managing Process Diversity While Improving Your Practices</a>, IEEE Software 2001, no. 3, p. 21",
-    "searchText": "Software process improvement efforts will <b>fail</b> if we try to make development <b>processes completely uniform </b>across an organization. Michael Deck Managing Process Diversity While Improving Your Practices 2001 "
+    "searchText": "Software process improvement efforts will <b>fail</b> if we try to make development <b>processes completely uniform</b> across an organization. Michael Deck Managing Process Diversity While Improving Your Practices 2001 "
   },
   {
     "quote": "[T]raditional <b>software measurement</b>, like traditional software process improvement, is <b>misaligned</b> with two of the three <b>basic strategies</b>, <b>customer intimacy</b> and <b>product innovativeness</b>. Measurement initiatives can succeed if you understand your organization's strategic objectives and then tailor your measurement practices to fit.",
@@ -15700,7 +15700,7 @@
     "searchText": "There's something I <b>don't understand</b> about the <b>open-source movement</b>. Oh, I understand open source <b>intellectually</b>. ... What I <b>don't understand</b> is something more <b>sociological</b>. I don't understand who those folks are who want to do all that <b>code reading and reviewing</b> for <b>no recompense</b>. It goes against the grain of everything I know about the software field. Robert L. Glass The Sociology of Open Source: Of Cults and Cultures 2000 "
   },
   {
-    "quote": "That philosophy of <b>extinction</b> has been replaced with one of <b>extension</b> and inclusion. <b>Cobol applications</b> are, by and large, <b>too critical </b>and <b>too valuable</b> to consider replacing en masse.",
+    "quote": "That philosophy of <b>extinction</b> has been replaced with one of <b>extension</b> and inclusion. <b>Cobol applications</b> are, by and large, <b>too critical</b> and <b>too valuable</b> to consider replacing en masse.",
     "title": "Guest Editors' Introduction: Fresh from Y2K, What's Next for Cobol?",
     "year": 2000,
     "number": 2,
@@ -15719,7 +15719,7 @@
     ],
     "authorsList": "Edmund C. Arranga, Wilson Price",
     "citation": "Edmund C. Arranga, Wilson Price, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2000.841599\">Guest Editors' Introduction: Fresh from Y2K, What's Next for Cobol?</a>, IEEE Software 2000, no. 2, p. 16",
-    "searchText": "That philosophy of <b>extinction</b> has been replaced with one of <b>extension</b> and inclusion. <b>Cobol applications</b> are, by and large, <b>too critical </b>and <b>too valuable</b> to consider replacing en masse. Edmund C. Arranga Wilson Price Guest Editors' Introduction: Fresh from Y2K, What's Next for Cobol? 2000 "
+    "searchText": "That philosophy of <b>extinction</b> has been replaced with one of <b>extension</b> and inclusion. <b>Cobol applications</b> are, by and large, <b>too critical</b> and <b>too valuable</b> to consider replacing en masse. Edmund C. Arranga Wilson Price Guest Editors' Introduction: Fresh from Y2K, What's Next for Cobol? 2000 "
   },
   {
     "quote": "Although recent Internet, Java, and OO trends threaten <b>Cobol's dominance</b>, industry will continue to need the language and its programmers for development as well as maintenance--especially once OO Cobol becomes an official standard.",
@@ -16858,7 +16858,7 @@
     "searchText": "Something is <b>seriously wrong</b> with <b>reuse</b>. If there is a motherpie-and-applehood topic in software engineering, <b>reuse</b> is it. Everyone believes in it; everyone thinks we should be doing more of it. So do I. ... 'Why hasn't that potential already been achieved?' ... I think reuse hasn't succeeded to the extent we would like because <b>there aren't that many software components</b> that <b>can be reused</b>. Robert L. Glass Reuse: What's Wrong with This Picture? 1998 "
   },
   {
-    "quote": "Some software designers have recently turned to <b>building architecture for inspiration </b>in their efforts to improve professional practice. An attempt to apply <b>the studio method</b> of architectural training to <b>software design education</b> ... reveals much about education and practice in both professions. Studio courses <b>provoke creative reflection</b> on how to improve current training practices and could provide a new way to develop software design expertise.",
+    "quote": "Some software designers have recently turned to <b>building architecture for inspiration</b> in their efforts to improve professional practice. An attempt to apply <b>the studio method</b> of architectural training to <b>software design education</b> ... reveals much about education and practice in both professions. Studio courses <b>provoke creative reflection</b> on how to improve current training practices and could provide a new way to develop software design expertise.",
     "title": "The Software Design Studio: An Exploration",
     "year": 1998,
     "number": 2,
@@ -16873,7 +16873,7 @@
     ],
     "authorsList": "Sarah Kuhn",
     "citation": "Sarah Kuhn, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.663788\">The Software Design Studio: An Exploration</a>, IEEE Software 1998, no. 2, p. 65",
-    "searchText": "Some software designers have recently turned to <b>building architecture for inspiration </b>in their efforts to improve professional practice. An attempt to apply <b>the studio method</b> of architectural training to <b>software design education</b> ... reveals much about education and practice in both professions. Studio courses <b>provoke creative reflection</b> on how to improve current training practices and could provide a new way to develop software design expertise. Sarah Kuhn The Software Design Studio: An Exploration 1998 "
+    "searchText": "Some software designers have recently turned to <b>building architecture for inspiration</b> in their efforts to improve professional practice. An attempt to apply <b>the studio method</b> of architectural training to <b>software design education</b> ... reveals much about education and practice in both professions. Studio courses <b>provoke creative reflection</b> on how to improve current training practices and could provide a new way to develop software design expertise. Sarah Kuhn The Software Design Studio: An Exploration 1998 "
   },
   {
     "quote": "We ended up <b>merging NeWS and X</b>, which <b>was just torture</b>. I was constantly agitating for mercy; I wanted them to just shoot us. ",
@@ -17626,7 +17626,7 @@
     "searchText": "It's difficult to determine event order in <b>distributed systems</b> because of the <b>problem of observability</b>. Colin Fidge Fundamentals of Distributed System Observation 1996 "
   },
   {
-    "quote": "<b>Software tools</b> and new <b>software methodologies</b> can together play a key role in achieving a higher level of <b>software quality and productivity</b>. Software quality can be greatly improved by selecting a <b>correct development tool </b> ... Selecting an <b>inappropriate tool</b>, on the other hand, can actually hinder software development.",
+    "quote": "<b>Software tools</b> and new <b>software methodologies</b> can together play a key role in achieving a higher level of <b>software quality and productivity</b>. Software quality can be greatly improved by selecting a <b>correct development tool</b> ... Selecting an <b>inappropriate tool</b>, on the other hand, can actually hinder software development.",
     "title": "Guest Editors' Introduction: Software Tools Assessment",
     "year": 1996,
     "number": 5,
@@ -17645,7 +17645,7 @@
     ],
     "authorsList": "Ez Nahouraii, Krishna Kavi",
     "citation": "Ez Nahouraii, Krishna Kavi, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1996.536455\">Guest Editors' Introduction: Software Tools Assessment</a>, IEEE Software 1996, no. 5, p. 23",
-    "searchText": "<b>Software tools</b> and new <b>software methodologies</b> can together play a key role in achieving a higher level of <b>software quality and productivity</b>. Software quality can be greatly improved by selecting a <b>correct development tool </b> ... Selecting an <b>inappropriate tool</b>, on the other hand, can actually hinder software development. Ez Nahouraii Krishna Kavi Guest Editors' Introduction: Software Tools Assessment 1996 "
+    "searchText": "<b>Software tools</b> and new <b>software methodologies</b> can together play a key role in achieving a higher level of <b>software quality and productivity</b>. Software quality can be greatly improved by selecting a <b>correct development tool</b> ... Selecting an <b>inappropriate tool</b>, on the other hand, can actually hinder software development. Ez Nahouraii Krishna Kavi Guest Editors' Introduction: Software Tools Assessment 1996 "
   },
   {
     "quote": "Because we don't know <b>how to analyze a tool's impact</b> on specific projects, we generally adopt them based on an <b>intuitive understanding</b> of their expected impact. In many cases, the actual <b>results</b> of this practice are <b>disappointing</b>. The problem is aggravated because tool adoption often brings considerable costs.",
@@ -17744,7 +17744,7 @@
     "searchText": "<b>Thirty years ago</b>, as the software industry was first gathering steam, most software projects were <b>run by people</b> with <b>no software experience</b>. Today this is <b>no longer true</b>. ... Yet few would <b>argue</b> that the quality of software project management <b>has improved</b> in the same period. Ann Miller Tom DeMarco Managing Large Software Projects 1996 "
   },
   {
-    "quote": "[O]rganizations have invested in <b>dozens of technological innovations</b> such as <b>fourth-generation</b> languages, <b>CASE</b> products, <b>object-oriented</b> analysis and programming, and software <b>reuse</b>. Yet productivity tools simply <b>aren't delivering increased productivity</b> even when a project is managed 'by the book.'  ... the software development environment is <b>a complex social system </b>that causes such practices to have unintended consequences.",
+    "quote": "[O]rganizations have invested in <b>dozens of technological innovations</b> such as <b>fourth-generation</b> languages, <b>CASE</b> products, <b>object-oriented</b> analysis and programming, and software <b>reuse</b>. Yet productivity tools simply <b>aren't delivering increased productivity</b> even when a project is managed 'by the book.' ... the software development environment is <b>a complex social system</b> that causes such practices to have unintended consequences.",
     "title": "The Slippery Path to Productivity Improvement",
     "year": 1996,
     "number": 4,
@@ -17759,7 +17759,7 @@
     ],
     "authorsList": "Tarek K. Abdel-Hamid",
     "citation": "Tarek K. Abdel-Hamid, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.526831\">The Slippery Path to Productivity Improvement</a>, IEEE Software 1996, no. 4, p. 43",
-    "searchText": "[O]rganizations have invested in <b>dozens of technological innovations</b> such as <b>fourth-generation</b> languages, <b>CASE</b> products, <b>object-oriented</b> analysis and programming, and software <b>reuse</b>. Yet productivity tools simply <b>aren't delivering increased productivity</b> even when a project is managed 'by the book.'  ... the software development environment is <b>a complex social system </b>that causes such practices to have unintended consequences. Tarek K. Abdel-Hamid The Slippery Path to Productivity Improvement 1996 "
+    "searchText": "[O]rganizations have invested in <b>dozens of technological innovations</b> such as <b>fourth-generation</b> languages, <b>CASE</b> products, <b>object-oriented</b> analysis and programming, and software <b>reuse</b>. Yet productivity tools simply <b>aren't delivering increased productivity</b> even when a project is managed 'by the book.'  ... the software development environment is <b>a complex social system</b> that causes such practices to have unintended consequences. Tarek K. Abdel-Hamid The Slippery Path to Productivity Improvement 1996 "
   },
   {
     "quote": "The most important lesson we have learned is to <b>follow up with suppliers</b> so that they <b>know</b> the <b>importance we place</b> on <b>quality</b> and process improvement.",
@@ -17984,7 +17984,7 @@
     "searchText": "Discussions of <b>software quality</b> typically <b>focus on</b> the development <b>process</b> or the characteristics of the software <b>product</b>. The third level of quality - <b>the outcome</b> of software development - is usually neglected, although this is perhaps of greatest interest to business management. <b>Outcome</b> depends on how the product is used and determines <b>the business value</b> obtained from the development project. Pamela Simmons Quality Outcomes: Determining Business Value 1996 "
   },
   {
-    "quote": "Today the dominant modus operandi for software development is <b>heavily process-oriented</b> ... the <b>emphasis on process</b> ... <b>comes at the expense</b> of ... using adequate <b><b>product quality model</b>s</b>. The fundamental axiom of software product quality is: ... tangible <b>internal</b> <b>characteristics</b> ... determine its external quality attributes. ... A <b>product quality model</b> ... must ... identify the tangible (measurable and/or assessable) <b>internal</b> product <b>characteristics</b> that have the most significant effect on external quality attributes. ",
+    "quote": "Today the dominant modus operandi for software development is <b>heavily process-oriented</b> ... the <b>emphasis on process</b> ... comes at the expense of ... using adequate <b>product quality models</b>. The fundamental axiom of software product quality is: ... tangible <b>internal</b> <b>characteristics</b> ... determine its external quality attributes. ... A <b>product quality model</b> ... must ... identify the tangible (measurable and/or assessable) <b>internal</b> product <b>characteristics</b> that have the most significant effect on external quality attributes. ",
     "title": "Cornering the Chimera",
     "year": 1996,
     "number": 1,
