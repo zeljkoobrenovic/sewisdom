@@ -319,7 +319,7 @@
     "searchText": "When customers visit a <b>Brazilian e-commerce</b> site and search for a product, they're likely using software developed by <b>Neemu</b>, a start-up created in <b>Manaus</b>, a city in the heart of the <b>Amazon rainforest</b>. Nowadays, millions of people throughout Brazil use this software, which demonstrates alternative economic <b>development in Amazonia</b> that has low impact on the environment. Edleno Silva de Moura Mauro Rojas Herrera Leonardo Santos Tayana Conte When Software Impacts the Economy and Environment 2016 "
   },
   {
-    "quote": "Forty years ago, <b>Thomas McCabe</b> introduced his famous<b> cyclomatic complexity</b> (CC) metric. Today, it’s still one of the <b>most popular and meaningful</b> measurements for analyzing code. ",
+    "quote": "Forty years ago, <b>Thomas McCabe</b> introduced his famous <b>cyclomatic complexity</b> (CC) metric. Today, it’s still one of the <b>most popular and meaningful</b> measurements for analyzing code. ",
     "title": "Cyclomatic Complexity",
     "year": 2016,
     "number": 6,
@@ -338,7 +338,7 @@
     ],
     "authorsList": "Christof Ebert, James Cain",
     "citation": "Christof Ebert, James Cain, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2016.147\">Cyclomatic Complexity</a>, IEEE Software 2016, no. 6, p. 27",
-    "searchText": "Forty years ago, <b>Thomas McCabe</b> introduced his famous<b> cyclomatic complexity</b> (CC) metric. Today, it’s still one of the <b>most popular and meaningful</b> measurements for analyzing code.  Christof Ebert James Cain Cyclomatic Complexity 2016 "
+    "searchText": "Forty years ago, <b>Thomas McCabe</b> introduced his famous <b>cyclomatic complexity</b> (CC) metric. Today, it’s still one of the <b>most popular and meaningful</b> measurements for analyzing code.  Christof Ebert James Cain Cyclomatic Complexity 2016 "
   },
   {
     "quote": "<b>Internet scale</b>, the increasing rate of technology evolution, and the broad adoption of lean and agile methods have triggered a profound change in not only application and infrastructure architectures but also the <b>software architect</b>'s roles and responsibilities.",
@@ -371,7 +371,7 @@
     "searchText": "<b>Internet scale</b>, the increasing rate of technology evolution, and the broad adoption of lean and agile methods have triggered a profound change in not only application and infrastructure architectures but also the <b>software architect</b>'s roles and responsibilities. Gregor Hohpe Ipek Ozkaya Uwe Zdun Olaf Zimmermann The Software Architect's Role in the Digital Age 2016 "
   },
   {
-    "quote": "The popularity of agile methods such as <b>Scrum</b> and <b>Kanban</b>, with their clear focus on <b>team collaboration</b>, threatens many roles traditionally assigned to individual experts. Some organizations are even challenging the raison d'&#x00EA;tre of the software architect role. However, researchers' experiences developing connected-vehicle software revealed <b>two reasons</b> why successful projects still often assign <b>architecture-related responsibilities</b> to individual experts acting as software architects. First,<b> the experts</b> help effectively <b>manage complexity</b>; second, they act as <b>knowledge multipliers</b> when development must scale up.",
+    "quote": "The popularity of agile methods such as <b>Scrum</b> and <b>Kanban</b>, with their clear focus on <b>team collaboration</b>, threatens many roles traditionally assigned to individual experts. Some organizations are even challenging the raison d'&#x00EA;tre of the software architect role. However, researchers' experiences developing connected-vehicle software revealed <b>two reasons</b> why successful projects still often assign <b>architecture-related responsibilities</b> to individual experts acting as software architects. First, <b>the experts</b> help effectively <b>manage complexity</b>; second, they act as <b>knowledge multipliers</b> when development must scale up.",
     "title": "How Software Architects Drive Connected Vehicles",
     "year": 2016,
     "number": 6,
@@ -728,7 +728,7 @@
     "searchText": "Many organizations use <b>business process models</b> to document business operations and formalize business requirements in software-engineering projects. The <b>Business Process Model and Notation</b> (BPMN), a specification by the Object Management Group, has evolved into the <b>leading standard</b> for <b>process modeling</b>. One challenge is <b>BPMN's complexity</b>: it offers a huge variety of elements and often several representational choices for the same semantics. Henrik Leopold Jan Mendling Oliver Gunther Learning from Quality Issues of BPMN Models from Industry 2016 "
   },
   {
-    "quote": "In the<b> mobile-app ecosystem</b>, <b>user ratings</b> of apps (a measure of <b>user perception</b>) are extremely important because they correlate strongly with downloads and hence revenue.",
+    "quote": "In the <b>mobile-app ecosystem</b>, <b>user ratings</b> of apps (a measure of <b>user perception</b>) are extremely important because they correlate strongly with downloads and hence revenue.",
     "title": "Examining the Relationship between FindBugs Warnings and App Ratings",
     "year": 2016,
     "number": 4,
@@ -751,7 +751,7 @@
     ],
     "authorsList": "Hammad Khalid, Meiyappan Nagappan, Ahmed E. Hassan",
     "citation": "Hammad Khalid, Meiyappan Nagappan, Ahmed E. Hassan, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2015.29\">Examining the Relationship between FindBugs Warnings and App Ratings</a>, IEEE Software 2016, no. 4, p. 34",
-    "searchText": "In the<b> mobile-app ecosystem</b>, <b>user ratings</b> of apps (a measure of <b>user perception</b>) are extremely important because they correlate strongly with downloads and hence revenue. Hammad Khalid Meiyappan Nagappan Ahmed E. Hassan Examining the Relationship between FindBugs Warnings and App Ratings 2016 "
+    "searchText": "In the <b>mobile-app ecosystem</b>, <b>user ratings</b> of apps (a measure of <b>user perception</b>) are extremely important because they correlate strongly with downloads and hence revenue. Hammad Khalid Meiyappan Nagappan Ahmed E. Hassan Examining the Relationship between FindBugs Warnings and App Ratings 2016 "
   },
   {
     "quote": "A proposed <b>data-driven</b> software <b>quality improvement</b> method has three elements. First, the downstream <b>Customer Quality Metric</b> (CQM) quantifies quality as customers perceive it. On the basis of data collected after systems are deployed, it measures how serious defects affect customers. Second, the upstream Implementation <b>Quality Index</b> (IQI) measures the effectiveness of error removal during development. IQI predicts future customer quality; it has a positive correlation with CQM. Finally, <b>prioritization tools</b> and techniques help focus limited development resources on the riskiest files in the code.",
@@ -2870,7 +2870,7 @@
     "searchText": "The <b>capacity to reflect</b> on past practice is important for <b>continuous learning</b> in software development. Reflection often takes place <b>in cycles</b> of <b>experience</b> followed by <b>conscious application</b> of learning from that experience, during which a software developer might explore comparisons, ponder alternatives, take diverse perspectives, and draw inferences, especially in new and/or complex situations. Such reflective practice has been shown in different disciplines to be an <b>effective developmental practice</b> for <b>organizations</b>, for <b>teams</b>, and for <b>individuals</b>. Tore Dyba Neil Maiden Robert Glass K1 practitioners The Reflective Software Engineer: Reflective Practice 2014 "
   },
   {
-    "quote": "<b>Project retrospectives</b> can be powerful tools for project teams to collectively identify communication gaps and practices to improve for future projects. However, even if project members take the time for a retrospective, it can be hard to <b>correctly remember</b> and<b> jointly discuss</b> past events in a constructive way. <b>Fact-based timelines</b> that visualize a project's events offer a possible solution.",
+    "quote": "<b>Project retrospectives</b> can be powerful tools for project teams to collectively identify communication gaps and practices to improve for future projects. However, even if project members take the time for a retrospective, it can be hard to <b>correctly remember</b> and <b>jointly discuss</b> past events in a constructive way. <b>Fact-based timelines</b> that visualize a project's events offer a possible solution.",
     "title": "Reflecting on Evidence-Based Timelines",
     "year": 2014,
     "number": 4,
@@ -2901,7 +2901,7 @@
     ],
     "authorsList": "Elizabeth Bjarnason, Anne Hess, Richard Berntsson Svensson, Bjorn Regnell, Joerg Doerr",
     "citation": "Elizabeth Bjarnason, Anne Hess, Richard Berntsson Svensson, Bjorn Regnell, Joerg Doerr, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2014.26\">Reflecting on Evidence-Based Timelines</a>, IEEE Software 2014, no. 4, p. 37",
-    "searchText": "<b>Project retrospectives</b> can be powerful tools for project teams to collectively identify communication gaps and practices to improve for future projects. However, even if project members take the time for a retrospective, it can be hard to <b>correctly remember</b> and<b> jointly discuss</b> past events in a constructive way. <b>Fact-based timelines</b> that visualize a project's events offer a possible solution. Elizabeth Bjarnason Anne Hess Richard Berntsson Svensson Bjorn Regnell Joerg Doerr Reflecting on Evidence-Based Timelines 2014 "
+    "searchText": "<b>Project retrospectives</b> can be powerful tools for project teams to collectively identify communication gaps and practices to improve for future projects. However, even if project members take the time for a retrospective, it can be hard to <b>correctly remember</b> and <b>jointly discuss</b> past events in a constructive way. <b>Fact-based timelines</b> that visualize a project's events offer a possible solution. Elizabeth Bjarnason Anne Hess Richard Berntsson Svensson Bjorn Regnell Joerg Doerr Reflecting on Evidence-Based Timelines 2014 "
   },
   {
     "quote": "<b>Learning</b> is a <b>lifelong process</b>, especially in the fast-paced software industry. In addition to <b>formal training</b> courses, good software developers continually <b>learn by reflecting</b> on what they've done in the past. However, reflective practice is <b>rarely taught</b> explicitly in university software engineering education. One way to teach reflective techniques from the start is through <b>studio-based learning</b>.",
@@ -3604,7 +3604,7 @@
     "searchText": "No matter your individual position on the matter, <b>faith is a powerful element</b> of the human experience. Therefore, it comes as no surprise that <b>computing intersects</b> with the <b>story of belief</b> in many ways ... computing as a <b>medium for faith</b>, as a <b>ritual space</b>, and as a technology that itself raises certain <b>metaphysical issues</b>. Deus ex Machina 2013 "
   },
   {
-    "quote": "<b>Embedded analytics</b> and statistics for<b> big data</b> have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them.",
+    "quote": "<b>Embedded analytics</b> and statistics for <b>big data</b> have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them.",
     "title": "Embedded Analytics and Statistics for Big Data",
     "year": 2013,
     "number": 6,
@@ -3623,7 +3623,7 @@
     ],
     "authorsList": "Panos Louridas, Christof Ebert",
     "citation": "Panos Louridas, Christof Ebert, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.125\">Embedded Analytics and Statistics for Big Data</a>, IEEE Software 2013, no. 6, p. 33",
-    "searchText": "<b>Embedded analytics</b> and statistics for<b> big data</b> have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them. Panos Louridas Christof Ebert Embedded Analytics and Statistics for Big Data 2013 "
+    "searchText": "<b>Embedded analytics</b> and statistics for <b>big data</b> have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them. Panos Louridas Christof Ebert Embedded Analytics and Statistics for Big Data 2013 "
   },
   {
     "quote": "<b>Software architecture</b> is the foundation of software system development, encompassing a system's architects' and stakeholders' <b>strategic decisions</b>.",
@@ -3794,7 +3794,7 @@
     "searchText": "A <b>conservative estimate</b> puts today’s number of <b>published patterns</b> at more than <b>7,500</b>, and growing.  Gregor Hohpe Rebecca Wirfs-Brock Joseph W. Yoder Olaf Zimmermann K1 architectural knowledge Twenty Years of Patterns' Impact 2013 "
   },
   {
-    "quote": "With<b> smartphones</b> being the primary handheld device for more than <b>a billion people</b>, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the <b>fast speed</b> of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to <b>understand the basic technologies</b>. ",
+    "quote": "With <b>smartphones</b> being the primary handheld device for more than <b>a billion people</b>, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the <b>fast speed</b> of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to <b>understand the basic technologies</b>. ",
     "title": "Mobile Web Apps",
     "year": 2013,
     "number": 5,
@@ -3817,7 +3817,7 @@
     ],
     "authorsList": "N. Serrano, J. Hernantes, G. Gallardo",
     "citation": "N. Serrano, J. Hernantes, G. Gallardo, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.111\">Mobile Web Apps</a>, IEEE Software 2013, no. 5, p. 22",
-    "searchText": "With<b> smartphones</b> being the primary handheld device for more than <b>a billion people</b>, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the <b>fast speed</b> of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to <b>understand the basic technologies</b>.  N. Serrano J. Hernantes G. Gallardo Mobile Web Apps 2013 "
+    "searchText": "With <b>smartphones</b> being the primary handheld device for more than <b>a billion people</b>, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the <b>fast speed</b> of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to <b>understand the basic technologies</b>.  N. Serrano J. Hernantes G. Gallardo Mobile Web Apps 2013 "
   },
   {
     "quote": "With <b>software analytics</b>, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The <b>StackMine</b> project produced a software analytics system for <b>Microsoft product teams</b>.",
@@ -3944,7 +3944,7 @@
     "searchText": "<b>Software analytics</b> guide practitioners in <b>decision making</b> throughout the software development process. In this context, <b>prediction models</b> help managers efficiently organize their resources and identify problems by <b>analyzing patterns</b> on existing project data in an intelligent and meaningful manner. A. T. Misirli B. Caglayan A. Bener B. Turhan A Retrospective Study of Software Analytics Projects: In-Depth Interviews with Practitioners 2013 "
   },
   {
-    "quote": "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where <b>agile development</b> should be<b> part of all software engineering curricula</b>? And if so, shouldn't new curriculum standards ensure that it is?",
+    "quote": "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where <b>agile development</b> should be <b>part of all software engineering curricula</b>? And if so, shouldn't new curriculum standards ensure that it is?",
     "title": "Is the New Software Engineering Curriculum Agile?",
     "year": 2013,
     "number": 5,
@@ -3963,7 +3963,7 @@
     ],
     "authorsList": "A. Fox, D. Patterson",
     "citation": "A. Fox, D. Patterson, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.109\">Is the New Software Engineering Curriculum Agile?</a>, IEEE Software 2013, no. 5, p. 88",
-    "searchText": "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where <b>agile development</b> should be<b> part of all software engineering curricula</b>? And if so, shouldn't new curriculum standards ensure that it is? A. Fox D. Patterson Is the New Software Engineering Curriculum Agile? 2013 "
+    "searchText": "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where <b>agile development</b> should be <b>part of all software engineering curricula</b>? And if so, shouldn't new curriculum standards ensure that it is? A. Fox D. Patterson Is the New Software Engineering Curriculum Agile? 2013 "
   },
   {
     "quote": "For those on the outside of the <b>curtain of computing</b>, there is <b>much mystery</b> behind the matter of software-intensive systems. To some, it looks like magic; to most, its inner workings are irrelevant insofar that it simply works. To those of us behind the curtain, however, we know that such systems are filled with <b>chaos, regularity, and beauty</b>.",
@@ -4650,7 +4650,7 @@
     "searchText": "Most people think of <b>requirements</b> as things to manipulate at the <b>start of a project</b>. Others, more enlightened, recognize that requirements also have a role toward the end of projects to <b>test compliance</b>. But few people have recognized an active role for requirements during their <b>system's use</b> - to <b>monitor</b> whether the system continues to <b>comply with its <b>requirements</b></b> during its lifetime. Neil Maiden Monitoring Our Requirements 2013 "
   },
   {
-    "quote": "'<b>Innovation</b>' and '<b>innovative architecture</b>' are topics of broad popularity in software engineering. Yet, the two terms appear to mean different things to different people - with interpretations of both driven more by <b>personal interests</b> than by their <b>true meanings</b>. It's therefore essential for architects to have a clear understanding of what 'innovation' means in the context of their projects if they are to make the<b> right design decisions</b> and communicate the <b>intended messages</b> to project stakeholders.",
+    "quote": "'<b>Innovation</b>' and '<b>innovative architecture</b>' are topics of broad popularity in software engineering. Yet, the two terms appear to mean different things to different people - with interpretations of both driven more by <b>personal interests</b> than by their <b>true meanings</b>. It's therefore essential for architects to have a clear understanding of what 'innovation' means in the context of their projects if they are to make the <b>right design decisions</b> and communicate the <b>intended messages</b> to project stakeholders.",
     "title": "Innovation Reconsidered",
     "year": 2013,
     "number": 1,
@@ -4665,7 +4665,7 @@
     ],
     "authorsList": "Frank Buschmann",
     "citation": "Frank Buschmann, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.9\">Innovation Reconsidered</a>, IEEE Software 2013, no. 1, p. 18",
-    "searchText": "'<b>Innovation</b>' and '<b>innovative architecture</b>' are topics of broad popularity in software engineering. Yet, the two terms appear to mean different things to different people - with interpretations of both driven more by <b>personal interests</b> than by their <b>true meanings</b>. It's therefore essential for architects to have a clear understanding of what 'innovation' means in the context of their projects if they are to make the<b> right design decisions</b> and communicate the <b>intended messages</b> to project stakeholders. Frank Buschmann Innovation Reconsidered 2013 "
+    "searchText": "'<b>Innovation</b>' and '<b>innovative architecture</b>' are topics of broad popularity in software engineering. Yet, the two terms appear to mean different things to different people - with interpretations of both driven more by <b>personal interests</b> than by their <b>true meanings</b>. It's therefore essential for architects to have a clear understanding of what 'innovation' means in the context of their projects if they are to make the <b>right design decisions</b> and communicate the <b>intended messages</b> to project stakeholders. Frank Buschmann Innovation Reconsidered 2013 "
   },
   {
     "quote": "Over the past decade, the advent of <b>social networking</b> has fundamentally altered the landscape of how software is used, designed, and developed. It has expanded how <b>communities of software stakeholders</b> communicate, <b>collaborate</b>, <b>learn</b> from, and <b>coordinate</b> with one another.",
@@ -5080,7 +5080,7 @@
     "searchText": "<b>Smart mobile devices</b> have had a <b>huge impact</b> on the world today with new apps being produced at a prodigious rate. How we got to this point has a lot to do with the <b>ease of use</b> that manufacturers and app developers have achieved, which includes aspects such as <b>quick response time</b>, <b>intuitive interfaces</b>, and well-designed functionality. Forrest Shull Designing a World at Your Fingertips: A Look at Mobile User Interfaces 2012 "
   },
   {
-    "quote": "<b>Computing has transformed humanity</b> in ways that we have only begun to metabolize. Computing amplifies what we celebrate most about being human, but it also has the capacity to magnify that which we mourn.<b> Exploring the story of computing</b> has value, for an <b>educated populace</b> is far more able to reconcile its past, reason about its present, and be intentional about its future.",
+    "quote": "<b>Computing has transformed humanity</b> in ways that we have only begun to metabolize. Computing amplifies what we celebrate most about being human, but it also has the capacity to magnify that which we mourn. <b>Exploring the story of computing</b> has value, for an <b>educated populace</b> is far more able to reconcile its past, reason about its present, and be intentional about its future.",
     "title": "The Human Experience",
     "year": 2012,
     "number": 4,
@@ -5095,7 +5095,7 @@
     ],
     "authorsList": "Grady Booch",
     "citation": "Grady Booch, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2012.103\">The Human Experience</a>, IEEE Software 2012, no. 4, p. 13",
-    "searchText": "<b>Computing has transformed humanity</b> in ways that we have only begun to metabolize. Computing amplifies what we celebrate most about being human, but it also has the capacity to magnify that which we mourn.<b> Exploring the story of computing</b> has value, for an <b>educated populace</b> is far more able to reconcile its past, reason about its present, and be intentional about its future. Grady Booch The Human Experience 2012 "
+    "searchText": "<b>Computing has transformed humanity</b> in ways that we have only begun to metabolize. Computing amplifies what we celebrate most about being human, but it also has the capacity to magnify that which we mourn. <b>Exploring the story of computing</b> has value, for an <b>educated populace</b> is far more able to reconcile its past, reason about its present, and be intentional about its future. Grady Booch The Human Experience 2012 "
   },
   {
     "quote": "<b>Smartphones</b> aren't very 'smart' without the <b>software apps</b> that give them their usability and versatility. Apps, like all software, need some degree of guidance, regulation, and measurement to ensure a user is receiving proper functionality and quality of service.",
@@ -5390,7 +5390,7 @@
     "searchText": "There comes <b>a point of no return</b> in the life of every successful software-intensive system, a point where you can no longer place a pile of your best developers at one end of a lever and expect them to move the world. Rather, you must come to realize that <b>putting piles of developers</b> at the end of even the longest lever is no longer the right tool to use. Crossing that point while still preserving the values and the <b>tribal memory</b> of your organization's development culture requires some serious adult supervision. Grady Booch Facing Future 2012 "
   },
   {
-    "quote": "<b>Cloud computing</b> is a new paradigm for software systems where applications are divided into sets of <b>composite services</b> hosted on leased,<b> highly distributed platforms</b>. There are many new software engineering challenges in building effective cloud-based software applications.",
+    "quote": "<b>Cloud computing</b> is a new paradigm for software systems where applications are divided into sets of <b>composite services</b> hosted on leased, <b>highly distributed platforms</b>. There are many new software engineering challenges in building effective cloud-based software applications.",
     "title": "Guest Editors' Introduction: Software Engineering for the Cloud",
     "year": 2012,
     "number": 2,
@@ -5417,7 +5417,7 @@
     ],
     "authorsList": "Jacky Keung, Gerald Kaefer, Anna Liu, John Grundy",
     "citation": "Jacky Keung, Gerald Kaefer, Anna Liu, John Grundy, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2012.31\">Guest Editors' Introduction: Software Engineering for the Cloud</a>, IEEE Software 2012, no. 2, p. 26",
-    "searchText": "<b>Cloud computing</b> is a new paradigm for software systems where applications are divided into sets of <b>composite services</b> hosted on leased,<b> highly distributed platforms</b>. There are many new software engineering challenges in building effective cloud-based software applications. Jacky Keung Gerald Kaefer Anna Liu John Grundy Guest Editors' Introduction: Software Engineering for the Cloud 2012 "
+    "searchText": "<b>Cloud computing</b> is a new paradigm for software systems where applications are divided into sets of <b>composite services</b> hosted on leased, <b>highly distributed platforms</b>. There are many new software engineering challenges in building effective cloud-based software applications. Jacky Keung Gerald Kaefer Anna Liu John Grundy Guest Editors' Introduction: Software Engineering for the Cloud 2012 "
   },
   {
     "quote": "Platforms such as <b>Windows Azure</b> let applications conduct data-intensive cloud computing. <b>Unit testing</b> can help ensure high-quality development of such applications, but the results <b>depend on</b> test inputs and the cloud <b>environment's state</b>. Manually providing various test inputs and <b>cloud states</b> is laborious and time-consuming. However, automated test generation must <b>simulate</b> various <b>cloud states</b> to achieve effective testing.",
@@ -6247,7 +6247,7 @@
     "searchText": "<b>Architecting</b> a software-intensive system encompasses <b>technical elements</b>, <b>social considerations</b>, and a <b>technical core</b>. Most interesting systems start small and focus on technical concerns, but once they grow to the point of <b>economic significance</b>, <b>social issues</b> begin to loom large. Grady Booch The Architect's Journey 2011 "
   },
   {
-    "quote": "In the last decade,<b> software components</b> have been of an increased interest in software engineering community. The appealing concepts of <b>building systems from existing components</b> and reusing components, as well as the appearance of new technologies that enabled the separation of component development from system development, attracted researchers and industry to develop and apply principles of component-based software engineering.",
+    "quote": "In the last decade, <b>software components</b> have been of an increased interest in software engineering community. The appealing concepts of <b>building systems from existing components</b> and reusing components, as well as the appearance of new technologies that enabled the separation of component development from system development, attracted researchers and industry to develop and apply principles of component-based software engineering.",
     "title": "Software Components beyond Programming: From Routines to Services",
     "year": 2011,
     "number": 3,
@@ -6270,7 +6270,7 @@
     ],
     "authorsList": "Ivica Crnkovic, Clemens Szyperski, Judith Stafford",
     "citation": "Ivica Crnkovic, Clemens Szyperski, Judith Stafford, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2011.62\">Software Components beyond Programming: From Routines to Services</a>, IEEE Software 2011, no. 3, p. 22",
-    "searchText": "In the last decade,<b> software components</b> have been of an increased interest in software engineering community. The appealing concepts of <b>building systems from existing components</b> and reusing components, as well as the appearance of new technologies that enabled the separation of component development from system development, attracted researchers and industry to develop and apply principles of component-based software engineering. Ivica Crnkovic Clemens Szyperski Judith Stafford Software Components beyond Programming: From Routines to Services 2011 "
+    "searchText": "In the last decade, <b>software components</b> have been of an increased interest in software engineering community. The appealing concepts of <b>building systems from existing components</b> and reusing components, as well as the appearance of new technologies that enabled the separation of component development from system development, attracted researchers and industry to develop and apply principles of component-based software engineering. Ivica Crnkovic Clemens Szyperski Judith Stafford Software Components beyond Programming: From Routines to Services 2011 "
   },
   {
     "quote": "Scientists commonly describe their data-processing systems metaphorically as <b>software pipelines</b>. These pipelines input one or more data sources and apply steps to transform the data and create useful results. Although <b>conceptually simple</b>, pipelines often adopt <b>complex topologies</b> and must meet stringent <b>quality-of-service</b> requirements that stress the software infrastructure used to construct the pipeline.",
@@ -9588,7 +9588,7 @@
     "searchText": "Software development teams need to <b>make decisions</b> effectively <b>as a team</b>, but most groups spend more time in <b>meetings and discussions</b> than they need. Sometimes, to <b>evaluate an idea</b>, we have to <b>try it</b> for a while. If you see your team bogged down in meetings, it's time to <b>run an experiment</b> and replace <b>opinions</b> with <b>facts</b>. J.B. Rainsberger Just Try It 2007 "
   },
   {
-    "quote": "<b>Yukijiro Matsumoto</b>, chief designer of the <b>Ruby</b> programming language, claims brevity is one of the most important contributors to <b>beautiful code</b>. Although brevity can contribute to code beauty, clarity of purpose, expressive use of the programming language, and design elegance also play a part. But is there more to<b> good design</b> than <b>beautiful code</b>?",
+    "quote": "<b>Yukijiro Matsumoto</b>, chief designer of the <b>Ruby</b> programming language, claims brevity is one of the most important contributors to <b>beautiful code</b>. Although brevity can contribute to code beauty, clarity of purpose, expressive use of the programming language, and design elegance also play a part. But is there more to <b>good design</b> than <b>beautiful code</b>?",
     "title": "Does Beautiful Code Imply Beautiful Design?",
     "year": 2007,
     "number": 6,
@@ -9603,7 +9603,7 @@
     ],
     "authorsList": "Rebecca J. Wirfs-Brock",
     "citation": "Rebecca J. Wirfs-Brock, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2007.163\">Does Beautiful Code Imply Beautiful Design?</a>, IEEE Software 2007, no. 6, p. 18",
-    "searchText": "<b>Yukijiro Matsumoto</b>, chief designer of the <b>Ruby</b> programming language, claims brevity is one of the most important contributors to <b>beautiful code</b>. Although brevity can contribute to code beauty, clarity of purpose, expressive use of the programming language, and design elegance also play a part. But is there more to<b> good design</b> than <b>beautiful code</b>? Rebecca J. Wirfs-Brock Does Beautiful Code Imply Beautiful Design? 2007 "
+    "searchText": "<b>Yukijiro Matsumoto</b>, chief designer of the <b>Ruby</b> programming language, claims brevity is one of the most important contributors to <b>beautiful code</b>. Although brevity can contribute to code beauty, clarity of purpose, expressive use of the programming language, and design elegance also play a part. But is there more to <b>good design</b> than <b>beautiful code</b>? Rebecca J. Wirfs-Brock Does Beautiful Code Imply Beautiful Design? 2007 "
   },
   {
     "quote": "<b>Paper as a tool</b> for <b>expressing our thoughts</b> offers superb usability and versatility, letting us mix various notations and multiple levels of abstraction. This makes it easier to pour out our thoughts on it. In contrast to software tools, paper doesn't provide feedback and <b>won't interrupt us</b> with various notifications. This gives us a <b>chance to meditate</b> on our design in a state of flow.",
@@ -9816,7 +9816,7 @@
     "searchText": "Since 2005, developers have used <b>Ajax</b> to let users interact with Web applications much as they do with desktop applications. But the <b>Ajax</b> features represented in applications such as <b>Google Maps</b>, <b>Netvibes</b>, and Zimbra Collaboration Suite demand detailed coding. <b>Ajax frameworks</b> are utility sets that make it easier to develop and maintain these applications. Juan Pablo Aroztegi Nicol&#x00E1;s Serrano Ajax Frameworks in Interactive Web Apps 2007 "
   },
   {
-    "quote": "Building <b>clean abstractions</b> with <b>clearly defined extension points</b> is satisfying, but the best design choice isn't always obvious. How much access should you give a subclass to a class's inner workings? How much freedom should you give a subclass designer to 'bend' inherited behaviors to make a new abstraction fit in or to extend an existing one? These decisions involve nuanced reasoning. The contract between a class and its subclasses requires <b>thoughtful design</b>, <b>experimentation</b>, and<b> careful specification</b>.",
+    "quote": "Building <b>clean abstractions</b> with <b>clearly defined extension points</b> is satisfying, but the best design choice isn't always obvious. How much access should you give a subclass to a class's inner workings? How much freedom should you give a subclass designer to 'bend' inherited behaviors to make a new abstraction fit in or to extend an existing one? These decisions involve nuanced reasoning. The contract between a class and its subclasses requires <b>thoughtful design</b>, <b>experimentation</b>, and <b>careful specification</b>.",
     "title": "Designing Extensible Classes",
     "year": 2007,
     "number": 5,
@@ -9831,7 +9831,7 @@
     ],
     "authorsList": "Rebecca J. Wirfs-Brock",
     "citation": "Rebecca J. Wirfs-Brock, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2007.137\">Designing Extensible Classes</a>, IEEE Software 2007, no. 5, p. 15",
-    "searchText": "Building <b>clean abstractions</b> with <b>clearly defined extension points</b> is satisfying, but the best design choice isn't always obvious. How much access should you give a subclass to a class's inner workings? How much freedom should you give a subclass designer to 'bend' inherited behaviors to make a new abstraction fit in or to extend an existing one? These decisions involve nuanced reasoning. The contract between a class and its subclasses requires <b>thoughtful design</b>, <b>experimentation</b>, and<b> careful specification</b>. Rebecca J. Wirfs-Brock Designing Extensible Classes 2007 "
+    "searchText": "Building <b>clean abstractions</b> with <b>clearly defined extension points</b> is satisfying, but the best design choice isn't always obvious. How much access should you give a subclass to a class's inner workings? How much freedom should you give a subclass designer to 'bend' inherited behaviors to make a new abstraction fit in or to extend an existing one? These decisions involve nuanced reasoning. The contract between a class and its subclasses requires <b>thoughtful design</b>, <b>experimentation</b>, and <b>careful specification</b>. Rebecca J. Wirfs-Brock Designing Extensible Classes 2007 "
   },
   {
     "quote": "<b>The architect</b>, either as an individual, a role, or a team, lovingly crafts, grows, and governs that architecture as it emerges from the <b>thousands of individual design decisions</b> of which it's composed. In this sense, an <b>architecture-first approach</b> appears to be a reflection of sound development practices.",
@@ -10710,7 +10710,7 @@
     "searchText": "<b>Open source software</b> offers a unique opportunity for <b>improving learning</b> outcomes for software engineering and computer science education. Kal Toth Experiences with Open Source Software Engineering Tools 2006 "
   },
   {
-    "quote": "In May 2000, the World Wide Web Consortium issued the specification for version 1.1 of the<b> Simple Object Access Protocol</b>. The name SOAP stuck; in version 1.2, the W3C ceased to consider <b>SOAP to be an acronym</b>. SOAP is just SOAP, a way applications can use XML to exchange structured and typed information. SOAP-based services are the foundation of the current push toward service-oriented Web architecture. Unfortunately, getting from the foundation to the complete edifice still involves a lot of work.",
+    "quote": "In May 2000, the World Wide Web Consortium issued the specification for version 1.1 of the <b>Simple Object Access Protocol</b>. The name SOAP stuck; in version 1.2, the W3C ceased to consider <b>SOAP to be an acronym</b>. SOAP is just SOAP, a way applications can use XML to exchange structured and typed information. SOAP-based services are the foundation of the current push toward service-oriented Web architecture. Unfortunately, getting from the foundation to the complete edifice still involves a lot of work.",
     "title": "SOAP and Web Services",
     "year": 2006,
     "number": 6,
@@ -10725,7 +10725,7 @@
     ],
     "authorsList": "Panagiotis Louridas",
     "citation": "Panagiotis Louridas, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2006.172\">SOAP and Web Services</a>, IEEE Software 2006, no. 6, p. 62",
-    "searchText": "In May 2000, the World Wide Web Consortium issued the specification for version 1.1 of the<b> Simple Object Access Protocol</b>. The name SOAP stuck; in version 1.2, the W3C ceased to consider <b>SOAP to be an acronym</b>. SOAP is just SOAP, a way applications can use XML to exchange structured and typed information. SOAP-based services are the foundation of the current push toward service-oriented Web architecture. Unfortunately, getting from the foundation to the complete edifice still involves a lot of work. Panagiotis Louridas SOAP and Web Services 2006 "
+    "searchText": "In May 2000, the World Wide Web Consortium issued the specification for version 1.1 of the <b>Simple Object Access Protocol</b>. The name SOAP stuck; in version 1.2, the W3C ceased to consider <b>SOAP to be an acronym</b>. SOAP is just SOAP, a way applications can use XML to exchange structured and typed information. SOAP-based services are the foundation of the current push toward service-oriented Web architecture. Unfortunately, getting from the foundation to the complete edifice still involves a lot of work. Panagiotis Louridas SOAP and Web Services 2006 "
   },
   {
     "quote": "<b>Quantification</b> helps you better understand your <b>requirements</b>, improving them and sometimes even revealing new <b>requirements</b> or stakeholders.",
@@ -14326,7 +14326,7 @@
     "searchText": "<b>The discipline of completeness</b> is a willingness and ability to search for and deal not just with every <b>conceivable mode</b> of failure but with as many <b>inconceivable mode</b>s as you can find through exploration and testing. Terry Bollinger Guest Editor's Introduction: Breaking Out of the Software Engineering Mind-Mold 2002 "
   },
   {
-    "quote": "[T]wo dichotomies characterize software process improvement efforts and approaches: <b>disciplined</b> vs. <b>creative</b> work and<b> procurer risks</b> vs. <b>user satisfaction</b>. ",
+    "quote": "[T]wo dichotomies characterize software process improvement efforts and approaches: <b>disciplined</b> vs. <b>creative</b> work and <b>procurer risks</b> vs. <b>user satisfaction</b>. ",
     "title": "Improving Software Process Improvement",
     "year": 2002,
     "number": 4,
@@ -14345,7 +14345,7 @@
     ],
     "authorsList": "Reidar Conradi, Alfonso Fuggetta",
     "citation": "Reidar Conradi, Alfonso Fuggetta, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2002.1020295\">Improving Software Process Improvement</a>, IEEE Software 2002, no. 4, p. 92",
-    "searchText": "[T]wo dichotomies characterize software process improvement efforts and approaches: <b>disciplined</b> vs. <b>creative</b> work and<b> procurer risks</b> vs. <b>user satisfaction</b>.  Reidar Conradi Alfonso Fuggetta Improving Software Process Improvement 2002 "
+    "searchText": "[T]wo dichotomies characterize software process improvement efforts and approaches: <b>disciplined</b> vs. <b>creative</b> work and <b>procurer risks</b> vs. <b>user satisfaction</b>.  Reidar Conradi Alfonso Fuggetta Improving Software Process Improvement 2002 "
   },
   {
     "quote": "<b>Books</b> on the subject <b>favor the 'light' side</b> of the discipline: <b>project management</b>, software <b>process improvement</b>, schedule and cost estimation, and so forth. The real <b>technology</b> necessary to build software is often <b>described abstractly</b>, given as obvious, <b>or ignored</b> altogether. But software <b>development is a fundamentally technical problem</b> for which management solutions can only be partially effective.",
@@ -16096,7 +16096,7 @@
     "searchText": "Designers, researchers, and developers are already using <b>virtual environments</b> in many ways and in many domains. The technology has matured enough that VEs are beginning to be used to <b>certify the systems they simulate</b>. Robyn R. Lutz Carolina Cruz-Neira Using Immersive Virtual Environments for Certification 1999 "
   },
   {
-    "quote": "The<b> general-purpose computing</b> environment that characterizes the PC and Internet was <b>not designed for privacy</b> or integrity.",
+    "quote": "The <b>general-purpose computing</b> environment that characterizes the PC and Internet was <b>not designed for privacy</b> or integrity.",
     "title": "System Insecurity in the Internet Age",
     "year": 1999,
     "number": 4,
@@ -16111,7 +16111,7 @@
     ],
     "authorsList": "John Michener",
     "citation": "John Michener, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.776951\">System Insecurity in the Internet Age</a>, IEEE Software 1999, no. 4, p. 62",
-    "searchText": "The<b> general-purpose computing</b> environment that characterizes the PC and Internet was <b>not designed for privacy</b> or integrity. John Michener System Insecurity in the Internet Age 1999 "
+    "searchText": "The <b>general-purpose computing</b> environment that characterizes the PC and Internet was <b>not designed for privacy</b> or integrity. John Michener System Insecurity in the Internet Age 1999 "
   },
   {
     "quote": "One of the strangest stories in the software world centers around the programming language <b>Cobol</b>. Academics have <b>reviled it</b> for decades; its <b>demise</b> has been <b>predicted</b> since the 1960s; industry gurus have suggested that programmers who know only Cobol are <b>committing career suicide</b>. ... Yet <b>the giant</b> lumbers on.",
@@ -18636,7 +18636,7 @@
     "searchText": "Who wants to <b>try new techniques</b> when there are <b>madman prowling for someone to blame or ax</b>? Tom DeMarco Sheila Brady Management-Aided Software Engineering 1994 "
   },
   {
-    "quote": "Many <b>developing countries<b> are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century.",
+    "quote": "Many <b>developing countries <b>are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century.",
     "title": "Globalization of Software Supply and Demand",
     "year": 1994,
     "number": 6,
@@ -18651,10 +18651,10 @@
     ],
     "authorsList": "Capers Jones",
     "citation": "Capers Jones, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.329397\">Globalization of Software Supply and Demand</a>, IEEE Software 1994, no. 6, p. 17",
-    "searchText": "Many <b>developing countries<b> are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century. Capers Jones Globalization of Software Supply and Demand 1994 "
+    "searchText": "Many <b>developing countries <b>are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century. Capers Jones Globalization of Software Supply and Demand 1994 "
   },
   {
-    "quote": "The large aspiration to place the whole of <b>software development<b> alongside the <b>established branches<b> as one more branch of engineering is <b>misconceived<b>. ... [O]ur aspiration should be to <b>develop specialized branches of software</b> engineering, each meriting its own place alongside the specialized established branches.",
+    "quote": "The large aspiration to place the whole of <b>software development <b>alongside the <b>established branches <b>as one more branch of engineering is <b>misconceived<b>. ... [O]ur aspiration should be to <b>develop specialized branches of software</b> engineering, each meriting its own place alongside the specialized established branches.",
     "title": "Problems, Methods and Specialization",
     "year": 1994,
     "number": 6,
@@ -18669,7 +18669,7 @@
     ],
     "authorsList": "Michael Jackson",
     "citation": "Michael Jackson, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.329402\">Problems, Methods and Specialization</a>, IEEE Software 1994, no. 6, p. 57",
-    "searchText": "The large aspiration to place the whole of <b>software development<b> alongside the <b>established branches<b> as one more branch of engineering is <b>misconceived<b>. ... [O]ur aspiration should be to <b>develop specialized branches of software</b> engineering, each meriting its own place alongside the specialized established branches. Michael Jackson Problems, Methods and Specialization 1994 "
+    "searchText": "The large aspiration to place the whole of <b>software development <b>alongside the <b>established branches <b>as one more branch of engineering is <b>misconceived<b>. ... [O]ur aspiration should be to <b>develop specialized branches of software</b> engineering, each meriting its own place alongside the specialized established branches. Michael Jackson Problems, Methods and Specialization 1994 "
   },
   {
     "quote": "<b>Systematic software reuse</b> is a paradigm shift in software engineering from building single systems to <b>building families of related systems</b>. The goal of software reuse research is to discover systematic procedures for engineering new systems from existing assets. Implementing systematic reuse is risky. Not doing it is also risky.",
@@ -19584,7 +19584,7 @@
     "searchText": "Most developers either aren‘t familiar with <b>reliability models</b> or don‘t know bow to select and apply them. But the need for accurate predictions is acute, focusing attention on this comparatively young field.  Pradip K. Srimani Yashwant K. Malaiya Guest Editors' Introduction: Steps to Practical Reliability Measurement 1992 "
   },
   {
-    "quote": "<b>Reliability<b> is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose.",
+    "quote": "<b>Reliability <b>is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose.",
     "title": "Reliability Measurement: From Theory to Practice",
     "year": 1992,
     "number": 4,
@@ -19619,7 +19619,7 @@
     ],
     "authorsList": "Krishna M. Kavi, Robert C. Tausworth, William W. Everett, Frederick T. Sheldon, Ralph Brettschneider, James T. Yu",
     "citation": "Krishna M. Kavi, Robert C. Tausworth, William W. Everett, Frederick T. Sheldon, Ralph Brettschneider, James T. Yu, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.143095\">Reliability Measurement: From Theory to Practice</a>, IEEE Software 1992, no. 4, p. 13",
-    "searchText": "<b>Reliability<b> is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose. Krishna M. Kavi Robert C. Tausworth William W. Everett Frederick T. Sheldon Ralph Brettschneider James T. Yu Reliability Measurement: From Theory to Practice 1992 "
+    "searchText": "<b>Reliability <b>is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose. Krishna M. Kavi Robert C. Tausworth William W. Everett Frederick T. Sheldon Ralph Brettschneider James T. Yu Reliability Measurement: From Theory to Practice 1992 "
   },
   {
     "quote": "<b>Reliability</b> is the <b>statistical study of failures</b>, which occur because of some defect in the program. The failure is evident, but you don’t know what mistake is responsible or what you can do to make the failure disappear. <b>Reliability models</b> are supposed to tell you what <b>confidence</b> you can have in the <b>program’s correctness</b>. ",
@@ -20308,7 +20308,7 @@
     "searchText": "<b>Schools</b> represent a challenge for the software industry. Although <b>diverting corporate resources to schools</b> may appear to be folly in the short run, in the long run it is a strategy for survival. [P]rogrammers and their organizations [should] devote their time and services to schools at the primary and secondary levels. Tom DeMarco Making a Difference in the Schools 1990 "
   },
   {
-    "quote": "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can <b>guarantee<b> that software is perfect; they work by <b>proving</b> that the programs are correct; only highly critical systems <b>benefit</b> from their use; they involve <b>complex mathematics</b>; they <b>increase the cost</b> of development; they are <b>incomprehensible<b> to clients; and <b>nobody uses them</b> for real projects.",
+    "quote": "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can <b>guarantee <b>that software is perfect; they work by <b>proving</b> that the programs are correct; only highly critical systems <b>benefit</b> from their use; they involve <b>complex mathematics</b>; they <b>increase the cost</b> of development; they are <b>incomprehensible <b>to clients; and <b>nobody uses them</b> for real projects.",
     "title": "Seven Myths of Formal Methods",
     "year": 1990,
     "number": 5,
@@ -20323,7 +20323,7 @@
     ],
     "authorsList": "Anthony Hall",
     "citation": "Anthony Hall, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.57887\">Seven Myths of Formal Methods</a>, IEEE Software 1990, no. 5, p. 11",
-    "searchText": "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can <b>guarantee<b> that software is perfect; they work by <b>proving</b> that the programs are correct; only highly critical systems <b>benefit</b> from their use; they involve <b>complex mathematics</b>; they <b>increase the cost</b> of development; they are <b>incomprehensible<b> to clients; and <b>nobody uses them</b> for real projects. Anthony Hall Seven Myths of Formal Methods 1990 "
+    "searchText": "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can <b>guarantee <b>that software is perfect; they work by <b>proving</b> that the programs are correct; only highly critical systems <b>benefit</b> from their use; they involve <b>complex mathematics</b>; they <b>increase the cost</b> of development; they are <b>incomprehensible <b>to clients; and <b>nobody uses them</b> for real projects. Anthony Hall Seven Myths of Formal Methods 1990 "
   },
   {
     "quote": "An environment for <b>creating user interfaces for embedded systems</b>, called the graphical specification system (GSS) ... combines graphical and minimal low-level textual specification with a prototyping capability for rapid user-interface design and evaluation.",
@@ -20926,7 +20926,7 @@
     "searchText": "Today tools help systems analysts, so <b>why aren’t they widely used</b>?  Charles F. Martin Second-Generation CASE Tools: A Challenge to Vendors 1988 "
   },
   {
-    "quote": "[C]urrent computer-aided-software engineering (CASE) tools have several <b>inherent limitations<b> that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement.",
+    "quote": "[C]urrent computer-aided-software engineering (CASE) tools have several <b>inherent limitations <b>that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement.",
     "title": "Second-Generation CASE Tools: A Challenge to Vendors",
     "year": 1988,
     "number": 2,
@@ -20941,7 +20941,7 @@
     ],
     "authorsList": "Charles F. Martin",
     "citation": "Charles F. Martin, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2010\">Second-Generation CASE Tools: A Challenge to Vendors</a>, IEEE Software 1988, no. 2, p. 46",
-    "searchText": "[C]urrent computer-aided-software engineering (CASE) tools have several <b>inherent limitations<b> that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement. Charles F. Martin Second-Generation CASE Tools: A Challenge to Vendors 1988 "
+    "searchText": "[C]urrent computer-aided-software engineering (CASE) tools have several <b>inherent limitations <b>that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement. Charles F. Martin Second-Generation CASE Tools: A Challenge to Vendors 1988 "
   },
   {
     "quote": "There are several applications where a <b>universal-relation \ninterface</b> to an existing database-management system is essential. \nThe most obvious example is <b>natural-language</b> interface - \nindeed, it is hard to see how a natural-language interface \ncould reliably use anything else, since it is unreasonable to \nmake the user talk in terms of the <b>database's logical structure</b>.\n",

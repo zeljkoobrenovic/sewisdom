@@ -3938,7 +3938,7 @@
   
 * * *
 
-| "Today the dominant modus operandi for software development is **heavily process-oriented** ... the **emphasis on process** ... **comes at the expense** of ... using adequate ****product quality model**s**. The fundamental axiom of software product quality is: ... tangible **internal** **characteristics** ... determine its external quality attributes. ... A **product quality model** ... must ... identify the tangible (measurable and/or assessable) **internal** product **characteristics** that have the most significant effect on external quality attributes. " |
+| "Today the dominant modus operandi for software development is **heavily process-oriented** ... the **emphasis on process** ... comes at the expense of ... using adequate **product quality models**. The fundamental axiom of software product quality is: ... tangible **internal** **characteristics** ... determine its external quality attributes. ... A **product quality model** ... must ... identify the tangible (measurable and/or assessable) **internal** product **characteristics** that have the most significant effect on external quality attributes. " |
 
 
 * * *
@@ -4131,7 +4131,7 @@
   
 * * *
 
-| "Organizations have invested in **dozens of technological innovations** such as **fourth-generation** languages, **CASE** products, **object-oriented** analysis and programming, and software **reuse**. Yet productivity tools simply **aren't delivering increased productivity** even when a project is managed 'by the book.'  ... the software development environment is **a complex social system **that causes such practices to have unintended consequences." |
+| "Organizations have invested in **dozens of technological innovations** such as **fourth-generation** languages, **CASE** products, **object-oriented** analysis and programming, and software **reuse**. Yet productivity tools simply **aren't delivering increased productivity** even when a project is managed 'by the book.' ... the software development environment is **a complex social system** that causes such practices to have unintended consequences." |
 
 
 * * *
@@ -4190,7 +4190,7 @@
   
 * * *
 
-| "**Software tools** and new **software methodologies** can together play a key role in achieving a higher level of **software quality and productivity**. Software quality can be greatly improved by selecting a **correct development tool ** ... Selecting an **inappropriate tool**, on the other hand, can actually hinder software development." |
+| "**Software tools** and new **software methodologies** can together play a key role in achieving a higher level of **software quality and productivity**. Software quality can be greatly improved by selecting a **correct development tool** ... Selecting an **inappropriate tool**, on the other hand, can actually hinder software development." |
 
 
 * * *
@@ -5049,7 +5049,7 @@
   
 * * *
 
-| "Some software designers have recently turned to **building architecture for inspiration **in their efforts to improve professional practice. An attempt to apply **the studio method** of architectural training to **software design education** ... reveals much about education and practice in both professions. Studio courses **provoke creative reflection** on how to improve current training practices and could provide a new way to develop software design expertise." |
+| "Some software designers have recently turned to **building architecture for inspiration** in their efforts to improve professional practice. An attempt to apply **the studio method** of architectural training to **software design education** ... reveals much about education and practice in both professions. Studio courses **provoke creative reflection** on how to improve current training practices and could provide a new way to develop software design expertise." |
 
 
 * * *
@@ -5957,7 +5957,7 @@
   
 * * *
 
-| "That philosophy of **extinction** has been replaced with one of **extension** and inclusion. **Cobol applications** are, by and large, **too critical **and **too valuable** to consider replacing en masse." |
+| "That philosophy of **extinction** has been replaced with one of **extension** and inclusion. **Cobol applications** are, by and large, **too critical** and **too valuable** to consider replacing en masse." |
 
 
 * * *
@@ -6550,7 +6550,7 @@
   
 * * *
 
-| "Software process improvement efforts will **fail** if we try to make development **processes completely uniform **across an organization." |
+| "Software process improvement efforts will **fail** if we try to make development **processes completely uniform** across an organization." |
 
 
 * * *
@@ -6870,7 +6870,7 @@
   
 * * *
 
-| "Software designers in a **networked world** cannot pretend to work in isolation. **People **are a **critical part **of the full software security equation, and software that makes unrealistic or **unreasonable security-related demands** on users (for example, requiring them to memorize too many passwords that change too often) is software whose security will **inevitably be breached**." |
+| "Software designers in a **networked world** cannot pretend to work in isolation. **People** are a **critical part** of the full software security equation, and software that makes unrealistic or **unreasonable security-related demands** on users (for example, requiring them to memorize too many passwords that change too often) is software whose security will **inevitably be breached**." |
 
 
 * * *
@@ -8083,7 +8083,7 @@
   
 * * *
 
-| "One of the most important things about **good design** is **modularity** — dividing a system into separate pieces so that you can **modify one module **without the **changes rippling** all over the system. Early on, David **Parnas** observed that modules should be arranged **around system secrets**, each module hiding its secret from the other modules. Then if the secret thing changes, you avoid a ripple effect. One of the **most common secrets** to hide these days is **data structures**. " |
+| "One of the most important things about **good design** is **modularity** — dividing a system into separate pieces so that you can **modify one module** without the **changes rippling** all over the system. Early on, David **Parnas** observed that modules should be arranged **around system secrets**, each module hiding its secret from the other modules. Then if the secret thing changes, you avoid a ripple effect. One of the **most common secrets** to hide these days is **data structures**. " |
 
 
 * * *
@@ -8146,7 +8146,7 @@
   
 * * *
 
-| "When you dig into the knowledge base of experience, you find the following **seven best practices** for **outsourcing** common to reported successes in the literature ... **Never** outsource a **core competency** ... Establish **win-win conditions** with your suppliers ... **Nurture your relationships **with your suppliers ... **Measure** performance as **quantitatively** as possible ... Make **exceptional performance **financially worthwhile ... Treat outsourcing as a **technology transfer** opportunity ..." |
+| "When you dig into the knowledge base of experience, you find the following **seven best practices** for **outsourcing** common to reported successes in the literature ... **Never** outsource a **core competency** ... Establish **win-win conditions** with your suppliers ... **Nurture your relationships** with your suppliers ... **Measure** performance as **quantitatively** as possible ... Make **exceptional performance** financially worthwhile ... Treat outsourcing as a **technology transfer** opportunity ..." |
 
 
 * * *
@@ -8643,7 +8643,7 @@
   
 * * *
 
-| "The well-known **black-box model** of software **development outsourcing **is typically effective. The approach assumes that the vendor can successfully solve a client organization's business problem without either organization having to deeply understand the other's domain. ... key finding is that the black-box approach usually works **well in routine projects** but **fails** in projects involving **novelty**." |
+| "The well-known **black-box model** of software **development outsourcing** is typically effective. The approach assumes that the vendor can successfully solve a client organization's business problem without either organization having to deeply understand the other's domain. ... key finding is that the black-box approach usually works **well in routine projects** but **fails** in projects involving **novelty**." |
 
 
 * * *
@@ -8829,7 +8829,7 @@
   
 * * *
 
-| "In many domains, the **problem space** is too **large** to **explore** up front. **Expert designers** often **explore** the **problem and solution **spaces **in parallel**, using the emerging solution space to decide what information to elicit next about the problem space. They also often look for chinks—that is, **omissions and inconsistencies**—in problems and requirement specifications that would enable them to discover more innovative solutions." |
+| "In many domains, the **problem space** is too **large** to **explore** up front. **Expert designers** often **explore** the **problem and solution** spaces **in parallel**, using the emerging solution space to decide what information to elicit next about the problem space. They also often look for chinks—that is, **omissions and inconsistencies**—in problems and requirement specifications that would enable them to discover more innovative solutions." |
 
 
 * * *
@@ -9262,7 +9262,7 @@
   
 * * *
 
-| "Writing **stand-alone** tools that you can **combine **efficiently with others to handle more demanding tasks appears to be becoming a **forgotten art**." |
+| "Writing **stand-alone** tools that you can **combine** efficiently with others to handle more demanding tasks appears to be becoming a **forgotten art**." |
 
 
 * * *
@@ -9523,7 +9523,7 @@
   
 * * *
 
-| "**Basili's** contributions cover three broad areas: research in the 1970s and early 1980s on **software measurement** and the **Goal Question Metric (GQM) model**, research in the 1980s and 1990s on these measurement ideas' maturation into a software engineering model of empirical studies, including the development of the **Quality Improvement Paradigm (QIP) **and the influence of the NASA Goddard Space Flight Center Software Engineering Laboratory, and research since 1990 in the Experience Factory as a model for creating learning organizations for continuous software process improvement." |
+| "**Basili's** contributions cover three broad areas: research in the 1970s and early 1980s on **software measurement** and the **Goal Question Metric (GQM) model**, research in the 1980s and 1990s on these measurement ideas' maturation into a software engineering model of empirical studies, including the development of the **Quality Improvement Paradigm (QIP)** and the influence of the NASA Goddard Space Flight Center Software Engineering Laboratory, and research since 1990 in the Experience Factory as a model for creating learning organizations for continuous software process improvement." |
 
 
 * * *
@@ -10111,7 +10111,7 @@
   
 * * *
 
-| "The following is a **familiar scenario**: management, feeling pressure from corporate headquarters and the marketplace, **dictates** that a product will be **released ahead of** the agreed-upon **schedule**. This is an all-too-common example of a company's political climate in which influential people base their desire for success more on **personal agendas** than on quality. This scenario illustrates two key issues: the **frustrations** involved in **producing quality products **and the **conflicts** between self and team. " |
+| "The following is a **familiar scenario**: management, feeling pressure from corporate headquarters and the marketplace, **dictates** that a product will be **released ahead of** the agreed-upon **schedule**. This is an all-too-common example of a company's political climate in which influential people base their desire for success more on **personal agendas** than on quality. This scenario illustrates two key issues: the **frustrations** involved in **producing quality products** and the **conflicts** between self and team. " |
 
 
 * * *
@@ -10154,7 +10154,7 @@
   
 * * *
 
-| "The first **software engineering programs **were at the graduate level, primarily as terminal master's degrees for those already developing commercial and industrial software. By the early 1990s, educators began to consider software engineering's role at the undergraduate level." |
+| "The first **software engineering programs** were at the graduate level, primarily as terminal master's degrees for those already developing commercial and industrial software. By the early 1990s, educators began to consider software engineering's role at the undergraduate level." |
 
 
 * * *
@@ -10650,7 +10650,7 @@
   
 * * *
 
-| "**A domain-specific language** for building user interfaces offers a transparent way for programmers to specify interface elements. **Microsoft's Extensible Application Markup Language **is an XML dialect for this purpose. However, **XAML** isn't the only choice for programmers who wish to try a declarative approach, and some options are even open source." |
+| "**A domain-specific language** for building user interfaces offers a transparent way for programmers to specify interface elements. **Microsoft's Extensible Application Markup Language** is an XML dialect for this purpose. However, **XAML** isn't the only choice for programmers who wish to try a declarative approach, and some options are even open source." |
 
 
 * * *
@@ -10789,7 +10789,7 @@
   
 * * *
 
-| "Building and acquiring software requires making **many decisions** and choosing between numerous solutions, yet the infrastructure to help people make decisions **based on good evidence **isn't well developed. The software engineering community needs better communication between researchers and practitioners to help make **useful bodies of evidence** available that can impact practice." |
+| "Building and acquiring software requires making **many decisions** and choosing between numerous solutions, yet the infrastructure to help people make decisions **based on good evidence** isn't well developed. The software engineering community needs better communication between researchers and practitioners to help make **useful bodies of evidence** available that can impact practice." |
 
 
 * * *
@@ -11056,7 +11056,7 @@
   
 * * *
 
-| "**Composing software services** requires solving both **low-level technical problems **and **high-level semantic issues**." |
+| "**Composing software services** requires solving both **low-level technical problems** and **high-level semantic issues**." |
 
 
 * * *
@@ -11413,7 +11413,7 @@
   
 * * *
 
-| "**Process trends** can be placed inside a triangular map according to their emphasis on three aspects, represented by the vertices: **people**, **technology**, and **rigor**. **Plan-oriented**, engineering, and research-based approaches tend to view software as a rigid artifact, so they **stress** **technology** and **rigor** over **people**. **Evolutionary approaches **tend to view software development as an organic, skills-driven technical activity, so they **stress** **people** and **technology** over **rigor**. ... A more complete scheme requires dissection in terms of seven essential, mutually reinforcing characteristics: **human-centricity**, **technical orientation**, **discipline**, **pragmatism**, **empiricism**, **experimentation**, and **value orientation**." |
+| "**Process trends** can be placed inside a triangular map according to their emphasis on three aspects, represented by the vertices: **people**, **technology**, and **rigor**. **Plan-oriented**, engineering, and research-based approaches tend to view software as a rigid artifact, so they **stress** **technology** and **rigor** over **people**. **Evolutionary approaches** tend to view software development as an organic, skills-driven technical activity, so they **stress** **people** and **technology** over **rigor**. ... A more complete scheme requires dissection in terms of seven essential, mutually reinforcing characteristics: **human-centricity**, **technical orientation**, **discipline**, **pragmatism**, **empiricism**, **experimentation**, and **value orientation**." |
 
 
 * * *
@@ -11429,7 +11429,7 @@
   
 * * *
 
-| "There can be significant benefits in thinking through a design until you get it 'right enough' before launching into a major development effort. For such **up-front design **to be effective, you must develop **a design rhythm** that balances **thinking**, **learning**, **and** doing." |
+| "There can be significant benefits in thinking through a design until you get it 'right enough' before launching into a major development effort. For such **up-front design** to be effective, you must develop **a design rhythm** that balances **thinking**, **learning**, **and** doing." |
 
 
 * * *
@@ -11557,7 +11557,7 @@
   
 * * *
 
-| "**Software engineers** will do **better work and stay with a company** if they are **motivated** - as a result the success of software projects is likely to improve. ... in-depth review of the **92 studies** published in the last **25 years **on software engineer motivation ... give an overview of what **managers need to know** to improve motivation among their employees." |
+| "**Software engineers** will do **better work and stay with a company** if they are **motivated** - as a result the success of software projects is likely to improve. ... in-depth review of the **92 studies** published in the last **25 years** on software engineer motivation ... give an overview of what **managers need to know** to improve motivation among their employees." |
 
 
 * * *
@@ -11616,7 +11616,7 @@
   
 * * *
 
-| "**Trust** is a **subjective**, **user-centric**, **context-dependent **concept, and is thus difficult to define universally. **On the Internet**, several factors make trust more difficult to build, explaining why some successful brick-and-mortar retail chains have been **unable** to **translate** their **reputation** to the **virtual platform** the Web offers." |
+| "**Trust** is a **subjective**, **user-centric**, **context-dependent** concept, and is thus difficult to define universally. **On the Internet**, several factors make trust more difficult to build, explaining why some successful brick-and-mortar retail chains have been **unable** to **translate** their **reputation** to the **virtual platform** the Web offers." |
 
 
 * * *
@@ -11664,7 +11664,7 @@
   
 * * *
 
-| "**Static analysis** examines code in the **absence of input data **and **without running the code**. It can detect potential **security violations** (SQL injection), **runtime errors** (dereferencing a null pointer) and **logical inconsistencies** (a conditional test that can't possibly be true). ... **FindBugs**, an open source static-analysis tool for Java ... evaluates what kinds of defects can be effectively detected with relatively simple techniques and helps developers understand how to incorporate such tools into software development." |
+| "**Static analysis** examines code in the **absence of input data** and **without running the code**. It can detect potential **security violations** (SQL injection), **runtime errors** (dereferencing a null pointer) and **logical inconsistencies** (a conditional test that can't possibly be true). ... **FindBugs**, an open source static-analysis tool for Java ... evaluates what kinds of defects can be effectively detected with relatively simple techniques and helps developers understand how to incorporate such tools into software development." |
 
 
 * * *
@@ -11744,7 +11744,7 @@
   
 * * *
 
-| "Despite various industry reports about the **failure rates **of software projects, there's still **uncertainty** about the **actual figures**. Researchers performed a global Web survey of IT departments in 2005 and 2007. The results suggest that the software **crisis is perhaps exaggerated** and that most software projects deliver. However, the overall project failure rate, including cancelled and completed but poorly performing projects, remains arguably high for an applied discipline." |
+| "Despite various industry reports about the **failure rates** of software projects, there's still **uncertainty** about the **actual figures**. Researchers performed a global Web survey of IT departments in 2005 and 2007. The results suggest that the software **crisis is perhaps exaggerated** and that most software projects deliver. However, the overall project failure rate, including cancelled and completed but poorly performing projects, remains arguably high for an applied discipline." |
 
 
 * * *
@@ -12090,7 +12090,7 @@
   
 * * *
 
-| "Mining software repositories using **analytics-driven dashboards** provides a **unifying mechanism **for **understanding**, **evaluating**, and **predicting** the development, management, and economics of large-scale systems and processes. Dashboards enable **measurement** and **interactive graphical displays** of complex information and support flexible analytic capabilities for user customizability and extensibility." |
+| "Mining software repositories using **analytics-driven dashboards** provides a **unifying mechanism** for **understanding**, **evaluating**, and **predicting** the development, management, and economics of large-scale systems and processes. Dashboards enable **measurement** and **interactive graphical displays** of complex information and support flexible analytic capabilities for user customizability and extensibility." |
 
 
 * * *
@@ -12261,7 +12261,7 @@
   
 * * *
 
-| "We rarely see the **traditional way **of software development in which one company handles design, production, sales, delivery, and service. Business models, engineering life cycles, distribution channels, and services have changed dramatically. A key driver in these new value networks is **open source software** (OSS). Worldwide companies in various industries have invested in open source. Market leaders such as Google, IBM, Microsoft, SAP, and Siemens as well as many small companies turn to OSS for multiple reasons." |
+| "We rarely see the **traditional way** of software development in which one company handles design, production, sales, delivery, and service. Business models, engineering life cycles, distribution channels, and services have changed dramatically. A key driver in these new value networks is **open source software** (OSS). Worldwide companies in various industries have invested in open source. Market leaders such as Google, IBM, Microsoft, SAP, and Siemens as well as many small companies turn to OSS for multiple reasons." |
 
 
 * * *
@@ -12646,7 +12646,7 @@
   
 * * *
 
-| "In the transformation from **traditional command-and-control **management to **collaborative self-managing** teams, the main challenges were the absence of **redundancy and conflict** between team- and individual-level autonomy." |
+| "In the transformation from **traditional command-and-control** management to **collaborative self-managing** teams, the main challenges were the absence of **redundancy and conflict** between team- and individual-level autonomy." |
 
 
 * * *
@@ -12960,7 +12960,7 @@
   
 * * *
 
-| "**Unintentionally** **violating** open source software **(OSS) licenses** by reusing OSS code is a serious problem for both software companies and OSS developers. The simplest intuitive way to identify such reuse is to **measure code clones **- duplicated code fragments - between a suspected program and an existing OSS program." |
+| "**Unintentionally** **violating** open source software **(OSS) licenses** by reusing OSS code is a serious problem for both software companies and OSS developers. The simplest intuitive way to identify such reuse is to **measure code clones** - duplicated code fragments - between a suspected program and an existing OSS program." |
 
 
 * * *
@@ -13659,7 +13659,7 @@
   
 * * *
 
-| "**Software design** is about **a sequence of steps** taken to achieve a goal. Designers must plan their approach to carrying out these steps. In studying designers at work, the authors observed **breadth- versus ****depth-first** approaches to design-space exploration and problem- versus solution-driven approaches during the actual design." |
+| "**Software design** is about **a sequence of steps** taken to achieve a goal. Designers must plan their approach to carrying out these steps. In studying designers at work, the authors observed **breadth- versus** **depth-first** approaches to design-space exploration and problem- versus solution-driven approaches during the actual design." |
 
 
 * * *
@@ -13750,7 +13750,7 @@
   
 * * *
 
-| "Platforms such as **Windows Azure** let applications conduct data-intensive cloud computing. **Unit testing** can help ensure high-quality development of such applications, but the results **depend on** test inputs and the cloud **environment's state**. Manually providing various test inputs and **cloud states** is laborious and time-consuming. However, automated test generation must **simulate **various **cloud states** to achieve effective testing." |
+| "Platforms such as **Windows Azure** let applications conduct data-intensive cloud computing. **Unit testing** can help ensure high-quality development of such applications, but the results **depend on** test inputs and the cloud **environment's state**. Manually providing various test inputs and **cloud states** is laborious and time-consuming. However, automated test generation must **simulate** various **cloud states** to achieve effective testing." |
 
 
 * * *
@@ -14082,7 +14082,7 @@
   
 * * *
 
-| "Software systems must **continually evolve** to meet ever changing needs. However, such systems often become **legacy systems **as a consequence of **uncontrolled maintenance** combined with **obsolete technology**. To control maintenance costs and preserve complex embedded business rules, companies must **evolve their legacy systems**." |
+| "Software systems must **continually evolve** to meet ever changing needs. However, such systems often become **legacy systems** as a consequence of **uncontrolled maintenance** combined with **obsolete technology**. To control maintenance costs and preserve complex embedded business rules, companies must **evolve their legacy systems**." |
 
 
 * * *
@@ -14114,7 +14114,7 @@
   
 * * *
 
-| "**Climate change** is likely to be one of the defining global issues of the 21st century. The past decade - the hottest in recorded history - has witnessed countries around the world struggling to deal with drought, heat waves, and extreme weather. The sheer **scale of the problem** also makes it hard to understand, predict, and solve. **Climate science** journals regularly publish special issues on specific climate models, typically timed to present results from a major new release of a given model. However, these tend to focus on the **new science** that the model enables, rather than to describe the **software **and its development." |
+| "**Climate change** is likely to be one of the defining global issues of the 21st century. The past decade - the hottest in recorded history - has witnessed countries around the world struggling to deal with drought, heat waves, and extreme weather. The sheer **scale of the problem** also makes it hard to understand, predict, and solve. **Climate science** journals regularly publish special issues on specific climate models, typically timed to present results from a major new release of a given model. However, these tend to focus on the **new science** that the model enables, rather than to describe the **software** and its development." |
 
 
 * * *
@@ -14364,7 +14364,7 @@
   
 * * *
 
-| "A **package management system **organizes and simplifies the installation and maintenance of software by standardizing and organizing the production and consumption of software collections. As a software developer, you can benefit from package managers in two ways: through a rich and stable development environment and through **friction-free reuse**. Promisingly, the structure that package managers bring both to the tools we use in our development process and the libraries we reuse in our products ties nicely with the recent move emphasizing **DevOps** (development operations) as an integration between software development and IT operations." |
+| "A **package management system** organizes and simplifies the installation and maintenance of software by standardizing and organizing the production and consumption of software collections. As a software developer, you can benefit from package managers in two ways: through a rich and stable development environment and through **friction-free reuse**. Promisingly, the structure that package managers bring both to the tools we use in our development process and the libraries we reuse in our products ties nicely with the recent move emphasizing **DevOps** (development operations) as an integration between software development and IT operations." |
 
 
 * * *
@@ -14685,7 +14685,7 @@
   
 * * *
 
-| "Modern **virtualization technology** allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create **a virtualized development environment** that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a **pristine environment **and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a **VM appliance**. Finally, on the operations side, VMs make it easier for a system to support application **provisioning**, **maintenance windows**, **high availability**, and **disaster recovery**." |
+| "Modern **virtualization technology** allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create **a virtualized development environment** that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a **pristine environment** and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a **VM appliance**. Finally, on the operations side, VMs make it easier for a system to support application **provisioning**, **maintenance windows**, **high availability**, and **disaster recovery**." |
 
 
 * * *
@@ -14760,7 +14760,7 @@
   
 * * *
 
-| "**Technical debt **is more than a metaphor: applying **finance and accounting practices** typical of other business obligations to technical debt can, in addition to meeting ethical and legal governance requirements, generate real, sustained financial benefits." |
+| "**Technical debt** is more than a metaphor: applying **finance and accounting practices** typical of other business obligations to technical debt can, in addition to meeting ethical and legal governance requirements, generate real, sustained financial benefits." |
 
 
 * * *
@@ -15106,7 +15106,7 @@
   
 * * *
 
-| "Software development teams no longer live - or want to live - in a world of **command and control**. They want to be **self-organizing** and have adaptive, supportive, and **collaborative leadership **guiding them. This new age of management requires managers to build a **culture of trust**, encourage **participation** of their teams in decision making, and **sponsor innovation**. Simply put, managers need to do away with the traditional (micro) management and **share power** with self-organizing teams." |
+| "Software development teams no longer live - or want to live - in a world of **command and control**. They want to be **self-organizing** and have adaptive, supportive, and **collaborative leadership** guiding them. This new age of management requires managers to build a **culture of trust**, encourage **participation** of their teams in decision making, and **sponsor innovation**. Simply put, managers need to do away with the traditional (micro) management and **share power** with self-organizing teams." |
 
 
 * * *
@@ -15336,7 +15336,7 @@
   
 * * *
 
-| "Many practitioners and researchers have turned to **analytics**—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '**Software analytics** is **analytics on software data** for managers and software engineers with the aim of empowering software development individuals and teams to **gain and share insight **from their data to make better decisions.'" |
+| "Many practitioners and researchers have turned to **analytics**—that is, the use of analysis, data, and systematic reasoning for making decisions. We can define software analytics as follows: '**Software analytics** is **analytics on software data** for managers and software engineers with the aim of empowering software development individuals and teams to **gain and share insight** from their data to make better decisions.'" |
 
 
 * * *
@@ -15443,7 +15443,7 @@
   
 * * *
 
-| "With **software analytics**, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The **StackMine **project produced a software analytics system for **Microsoft product teams**." |
+| "With **software analytics**, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The **StackMine** project produced a software analytics system for **Microsoft product teams**." |
 
 
 * * *
@@ -15550,7 +15550,7 @@
   
 * * *
 
-| "**Embedded analytics** and statistics for** big data **have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them." |
+| "**Embedded analytics** and statistics for** big data** have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them." |
 
 
 * * *
@@ -15614,7 +15614,7 @@
   
 * * *
 
-| "**Software product lines (SPL) are **long-living systems** that enable **systematic reuse** in application **engineering. Product-specific changes over time can result in **architecture drift**, which requires updating assumptions made in the SPL's reuse infrastructure." |
+| "**Software product lines (SPL) are **long-living systems** that enable **systematic reuse** in application** engineering. Product-specific changes over time can result in **architecture drift**, which requires updating assumptions made in the SPL's reuse infrastructure." |
 
 
 * * *
@@ -16051,7 +16051,7 @@
   
 * * *
 
-| "Hardware and software engineers are instrumental in developing **energy-efficient mobile systems**. Unfortunately, the **last mile of energy **efficiency relies on end users' choices and requirements. Imagine a user who has no power outlet access and must remain productive on the laptop's battery. How does this person maximize battery life, yet remain productive? What does the user have to give up to keep working?" |
+| "Hardware and software engineers are instrumental in developing **energy-efficient mobile systems**. Unfortunately, the **last mile of energy** efficiency relies on end users' choices and requirements. Imagine a user who has no power outlet access and must remain productive on the laptop's battery. How does this person maximize battery life, yet remain productive? What does the user have to give up to keep working?" |
 
 
 * * *
@@ -16451,7 +16451,7 @@
   
 * * *
 
-| "The **Internet of Things (IoT)** has the strong potential to support a human society interacting more symbiotically with its **physical environment**. Indeed, the emergence of tiny devices that sense environmental cues and trigger actuators after consulting logic and human preferences promises a **more environmentally **aware and less wasteful society." |
+| "The **Internet of Things (IoT)** has the strong potential to support a human society interacting more symbiotically with its **physical environment**. Indeed, the emergence of tiny devices that sense environmental cues and trigger actuators after consulting logic and human preferences promises a **more environmentally** aware and less wasteful society." |
 
 
 * * *
@@ -17161,7 +17161,7 @@
   
 * * *
 
-| "Almost surreptitiously, **crowdsourcing** has entered software engineering practice. **In-house development**, contracting, and outsourcing still dominate, but many development projects use crowdsourcing-for example, to squash bugs, test software, or gather alternative UI designs. Although the overall impact has been mundane so far, crowdsourcing could lead to **fundamental, disruptive changes **in how software is developed." |
+| "Almost surreptitiously, **crowdsourcing** has entered software engineering practice. **In-house development**, contracting, and outsourcing still dominate, but many development projects use crowdsourcing-for example, to squash bugs, test software, or gather alternative UI designs. Although the overall impact has been mundane so far, crowdsourcing could lead to **fundamental, disruptive changes** in how software is developed." |
 
 
 * * *
@@ -17252,7 +17252,7 @@
   
 * * *
 
-| "**Different ages **of humanity have required **different modes of thinking**. These modes aren't only reflections of the particular circumstances of life in each age; they're also projections of the forces that propel us to the next." |
+| "**Different ages** of humanity have required **different modes of thinking**. These modes aren't only reflections of the particular circumstances of life in each age; they're also projections of the forces that propel us to the next." |
 
 
 * * *
@@ -17551,7 +17551,7 @@
   
 * * *
 
-| "With the increasing importance, size, and complexity of **automated test suites**, the need exists for suitable methods and tools to develop, assess the quality of, and **maintain test code **(scripts) in parallel with **regular production** (application) code." |
+| "With the increasing importance, size, and complexity of **automated test suites**, the need exists for suitable methods and tools to develop, assess the quality of, and **maintain test code** (scripts) in parallel with **regular production** (application) code." |
 
 
 * * *
@@ -18111,7 +18111,7 @@
   
 * * *
 
-| "The proper **alignment of requirements engineering and testing** (RET) can be key to software's success. Three practices can provide effective RET alignment: using **test cases **as requirements, harvesting **trace links**, and **reducing distances** between requirements engineers and testers." |
+| "The proper **alignment of requirements engineering and testing** (RET) can be key to software's success. Three practices can provide effective RET alignment: using **test cases** as requirements, harvesting **trace links**, and **reducing distances** between requirements engineers and testers." |
 
 
 * * *
@@ -18143,7 +18143,7 @@
   
 * * *
 
-| "The **Internet of Things (IoT) **is a challenging combination of **distribution and heterogeneity**. A number of software engineering solutions address those challenges in isolation, but few solutions tackle them in combination, which poses a set of concrete challenges. The **ThingML** (Internet of Things Modeling Language) approach attempts to address those challenges." |
+| "The **Internet of Things (IoT)** is a challenging combination of **distribution and heterogeneity**. A number of software engineering solutions address those challenges in isolation, but few solutions tackle them in combination, which poses a set of concrete challenges. The **ThingML** (Internet of Things Modeling Language) approach attempts to address those challenges." |
 
 
 * * *
