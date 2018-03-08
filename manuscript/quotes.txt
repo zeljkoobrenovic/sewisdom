@@ -1165,7 +1165,7 @@
   
 * * *
 
-| "Current computer-aided-software engineering (CASE) tools have several **inherent limitations** that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement." |
+| "Current computer-aided-software engineering (CASE) tools have several **inherent limitations **that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement." |
 
 
 * * *
@@ -1850,7 +1850,7 @@
   
 * * *
 
-| "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can **guarantee** that software is perfect; they work by **proving** that the programs are correct; only highly critical systems **benefit** from their use; they involve **complex mathematics**; they **increase the cost** of development; they are **incomprehensible** to clients; and **nobody uses them** for real projects." |
+| "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can **guarantee **that software is perfect; they work by **proving** that the programs are correct; only highly critical systems **benefit** from their use; they involve **complex mathematics**; they **increase the cost** of development; they are **incomprehensible **to clients; and **nobody uses them** for real projects." |
 
 
 * * *
@@ -2475,7 +2475,7 @@
   
 * * *
 
-| "**Reliability** is a probability of **failure-free operation** for a specified time in a specified environment for a specified purpose." |
+| "**Reliability **is a probability of **failure-free operation** for a specified time in a specified environment for a specified purpose." |
 
 
 * * *
@@ -3293,7 +3293,7 @@
   
 * * *
 
-| "Many **developing countries** are now **entering the commercial software domain**, and this trend should accelerate in the twenty-first century." |
+| "Many **developing countries **are now **entering the commercial software domain**, and this trend should accelerate in the twenty-first century." |
 
 
 * * *
@@ -3357,7 +3357,7 @@
   
 * * *
 
-| "The large aspiration to place the whole of **software development** alongside the **established branches** as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
+| "The large aspiration to place the whole of **software development **alongside the **established branches **as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
 
 
 * * *
@@ -5685,7 +5685,7 @@
   
 * * *
 
-| "The** general-purpose computing** environment that characterizes the PC and Internet was **not designed for privacy** or integrity." |
+| "The **general-purpose computing** environment that characterizes the PC and Internet was **not designed for privacy** or integrity." |
 
 
 * * *
@@ -7239,7 +7239,7 @@
   
 * * *
 
-| "Two dichotomies characterize software process improvement efforts and approaches: **disciplined** vs. **creative** work and** procurer risks** vs. **user satisfaction**. " |
+| "Two dichotomies characterize software process improvement efforts and approaches: **disciplined** vs. **creative** work and **procurer risks** vs. **user satisfaction**. " |
 
 
 * * *
@@ -10218,7 +10218,7 @@
   
 * * *
 
-| "In May 2000, the World Wide Web Consortium issued the specification for version 1.1 of the** Simple Object Access Protocol**. The name SOAP stuck; in version 1.2, the W3C ceased to consider **SOAP to be an acronym**. SOAP is just SOAP, a way applications can use XML to exchange structured and typed information. SOAP-based services are the foundation of the current push toward service-oriented Web architecture. Unfortunately, getting from the foundation to the complete edifice still involves a lot of work." |
+| "In May 2000, the World Wide Web Consortium issued the specification for version 1.1 of the **Simple Object Access Protocol**. The name SOAP stuck; in version 1.2, the W3C ceased to consider **SOAP to be an acronym**. SOAP is just SOAP, a way applications can use XML to exchange structured and typed information. SOAP-based services are the foundation of the current push toward service-oriented Web architecture. Unfortunately, getting from the foundation to the complete edifice still involves a lot of work." |
 
 
 * * *
@@ -10821,7 +10821,7 @@
   
 * * *
 
-| "Building **clean abstractions** with **clearly defined extension points** is satisfying, but the best design choice isn't always obvious. How much access should you give a subclass to a class's inner workings? How much freedom should you give a subclass designer to 'bend' inherited behaviors to make a new abstraction fit in or to extend an existing one? These decisions involve nuanced reasoning. The contract between a class and its subclasses requires **thoughtful design**, **experimentation**, and** careful specification**." |
+| "Building **clean abstractions** with **clearly defined extension points** is satisfying, but the best design choice isn't always obvious. How much access should you give a subclass to a class's inner workings? How much freedom should you give a subclass designer to 'bend' inherited behaviors to make a new abstraction fit in or to extend an existing one? These decisions involve nuanced reasoning. The contract between a class and its subclasses requires **thoughtful design**, **experimentation**, and **careful specification**." |
 
 
 * * *
@@ -10992,7 +10992,7 @@
   
 * * *
 
-| "**Yukijiro Matsumoto**, chief designer of the **Ruby** programming language, claims brevity is one of the most important contributors to **beautiful code**. Although brevity can contribute to code beauty, clarity of purpose, expressive use of the programming language, and design elegance also play a part. But is there more to** good design** than **beautiful code**?" |
+| "**Yukijiro Matsumoto**, chief designer of the **Ruby** programming language, claims brevity is one of the most important contributors to **beautiful code**. Although brevity can contribute to code beauty, clarity of purpose, expressive use of the programming language, and design elegance also play a part. But is there more to **good design** than **beautiful code**?" |
 
 
 * * *
@@ -13857,7 +13857,7 @@
   
 * * *
 
-| "In the last decade,** software components** have been of an increased interest in software engineering community. The appealing concepts of **building systems from existing components** and reusing components, as well as the appearance of new technologies that enabled the separation of component development from system development, attracted researchers and industry to develop and apply principles of component-based software engineering." |
+| "In the last decade, **software components** have been of an increased interest in software engineering community. The appealing concepts of **building systems from existing components** and reusing components, as well as the appearance of new technologies that enabled the separation of component development from system development, attracted researchers and industry to develop and apply principles of component-based software engineering." |
 
 
 * * *
@@ -14332,7 +14332,7 @@
   
 * * *
 
-| "**Cloud computing** is a new paradigm for software systems where applications are divided into sets of **composite services** hosted on leased,** highly distributed platforms**. There are many new software engineering challenges in building effective cloud-based software applications." |
+| "**Cloud computing** is a new paradigm for software systems where applications are divided into sets of **composite services** hosted on leased, **highly distributed platforms**. There are many new software engineering challenges in building effective cloud-based software applications." |
 
 
 * * *
@@ -14530,7 +14530,7 @@
   
 * * *
 
-| "**Computing has transformed humanity** in ways that we have only begun to metabolize. Computing amplifies what we celebrate most about being human, but it also has the capacity to magnify that which we mourn.** Exploring the story of computing** has value, for an **educated populace** is far more able to reconcile its past, reason about its present, and be intentional about its future." |
+| "**Computing has transformed humanity** in ways that we have only begun to metabolize. Computing amplifies what we celebrate most about being human, but it also has the capacity to magnify that which we mourn. **Exploring the story of computing** has value, for an **educated populace** is far more able to reconcile its past, reason about its present, and be intentional about its future." |
 
 
 * * *
@@ -14823,7 +14823,7 @@
   
 * * *
 
-| "'**Innovation**' and '**innovative architecture**' are topics of broad popularity in software engineering. Yet, the two terms appear to mean different things to different people - with interpretations of both driven more by **personal interests** than by their **true meanings**. It's therefore essential for architects to have a clear understanding of what 'innovation' means in the context of their projects if they are to make the** right design decisions** and communicate the **intended messages** to project stakeholders." |
+| "'**Innovation**' and '**innovative architecture**' are topics of broad popularity in software engineering. Yet, the two terms appear to mean different things to different people - with interpretations of both driven more by **personal interests** than by their **true meanings**. It's therefore essential for architects to have a clear understanding of what 'innovation' means in the context of their projects if they are to make the **right design decisions** and communicate the **intended messages** to project stakeholders." |
 
 
 * * *
@@ -15427,7 +15427,7 @@
   
 * * *
 
-| "With** smartphones** being the primary handheld device for more than **a billion people**, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the **fast speed** of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to **understand the basic technologies**. " |
+| "With **smartphones** being the primary handheld device for more than **a billion people**, mobile Web apps are a necessity in both technical and commercial fields. There are several approaches to developing mobile Web apps, but given the **fast speed** of mobile software evolution, in which the leading companies become marginal in months and new gadgets continually appear, it's crucial to **understand the basic technologies**. " |
 
 
 * * *
@@ -15507,7 +15507,7 @@
   
 * * *
 
-| "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where **agile development** should be** part of all software engineering curricula**? And if so, shouldn't new curriculum standards ensure that it is?" |
+| "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where **agile development** should be **part of all software engineering curricula**? And if so, shouldn't new curriculum standards ensure that it is?" |
 
 
 * * *
@@ -15550,7 +15550,7 @@
   
 * * *
 
-| "**Embedded analytics** and statistics for** big data** have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them." |
+| "**Embedded analytics** and statistics for **big data** have emerged as an important topic across industries. As the volumes of data have increased, software engineers are called to support data analysis and applying some kind of statistics to them." |
 
 
 * * *
@@ -16110,7 +16110,7 @@
   
 * * *
 
-| "**Project retrospectives** can be powerful tools for project teams to collectively identify communication gaps and practices to improve for future projects. However, even if project members take the time for a retrospective, it can be hard to **correctly remember** and** jointly discuss** past events in a constructive way. **Fact-based timelines** that visualize a project's events offer a possible solution." |
+| "**Project retrospectives** can be powerful tools for project teams to collectively identify communication gaps and practices to improve for future projects. However, even if project members take the time for a retrospective, it can be hard to **correctly remember** and **jointly discuss** past events in a constructive way. **Fact-based timelines** that visualize a project's events offer a possible solution." |
 
 
 * * *
@@ -17626,7 +17626,7 @@
   
 * * *
 
-| "In the** mobile-app ecosystem**, **user ratings** of apps (a measure of **user perception**) are extremely important because they correlate strongly with downloads and hence revenue." |
+| "In the **mobile-app ecosystem**, **user ratings** of apps (a measure of **user perception**) are extremely important because they correlate strongly with downloads and hence revenue." |
 
 
 * * *
@@ -17968,7 +17968,7 @@
   
 * * *
 
-| "Forty years ago, **Thomas McCabe** introduced his famous** cyclomatic complexity** (CC) metric. Today, it’s still one of the **most popular and meaningful** measurements for analyzing code. " |
+| "Forty years ago, **Thomas McCabe** introduced his famous **cyclomatic complexity** (CC) metric. Today, it’s still one of the **most popular and meaningful** measurements for analyzing code. " |
 
 
 * * *
@@ -18000,7 +18000,7 @@
   
 * * *
 
-| "The popularity of agile methods such as **Scrum** and **Kanban**, with their clear focus on **team collaboration**, threatens many roles traditionally assigned to individual experts. Some organizations are even challenging the raison d'&#x00EA;tre of the software architect role. However, researchers' experiences developing connected-vehicle software revealed **two reasons** why successful projects still often assign **architecture-related responsibilities** to individual experts acting as software architects. First,** the experts** help effectively **manage complexity**; second, they act as **knowledge multipliers** when development must scale up." |
+| "The popularity of agile methods such as **Scrum** and **Kanban**, with their clear focus on **team collaboration**, threatens many roles traditionally assigned to individual experts. Some organizations are even challenging the raison d'&#x00EA;tre of the software architect role. However, researchers' experiences developing connected-vehicle software revealed **two reasons** why successful projects still often assign **architecture-related responsibilities** to individual experts acting as software architects. First, **the experts** help effectively **manage complexity**; second, they act as **knowledge multipliers** when development must scale up." |
 
 
 * * *
