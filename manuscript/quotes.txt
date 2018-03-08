@@ -16,7 +16,7 @@
   
 * * *
 
-| "Many of the **challenges facing the software industry** today are a direct result of our **insatiable appetite for new** computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of **problems that we ourselves created many years ago**." |
+| "Many of the **challenges facing the software industry** today are a direct result of our **insatiable appetite** for new computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of **problems that we ourselves created many years ago**." |
 
 
 * * *

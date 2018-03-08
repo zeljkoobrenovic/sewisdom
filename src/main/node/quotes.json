@@ -22058,7 +22058,7 @@
     "searchText": "There probably isn't a best way to build the system or even a major part of it. Much more important is to <b>avoid choosing a terrible way</b> and to <b>have a clear division of responsibilities</b> among the parts. Butler W. Lampson Hints for Computer System Design 1984 "
   },
   {
-    "quote": "Many of the <b>challenges facing the software industry</b> today are a direct result of our <b>insatiable appetite for new</b> computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of <b>problems that we ourselves created many years ago</b>.",
+    "quote": "Many of the <b>challenges facing the software industry</b> today are a direct result of our <b>insatiable appetite</b> for new computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of <b>problems that we ourselves created many years ago</b>.",
     "title": "From the Editor-in-Chief",
     "year": 1984,
     "number": 1,
