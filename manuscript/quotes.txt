@@ -21,7 +21,7 @@
 
 * * *
 
-| ***Bruce D. Shriver, From the Editor-in-Chief, IEEE Software 1984, no. 1, p. 4.***[^foo1] |
+| ***Bruce D. Shriver, Bruce D. Shriver, From the Editor-in-Chief, IEEE Software 1984, no. 1, p. 4.***[^foo1] |
 
 [^foo1]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.233385>
  
@@ -37,7 +37,7 @@
 
 * * *
 
-| ***Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo2] |
+| ***Butler W. Lampson, Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo2] |
 
 [^foo2]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391>
  
@@ -53,7 +53,7 @@
 
 * * *
 
-| ***Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo3] |
+| ***Butler W. Lampson, Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo3] |
 
 [^foo3]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391>
  
@@ -96,7 +96,7 @@
 
 * * *
 
-| ***Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 11.***[^foo5] |
+| ***Sir Charles Antony Richard Hoare, Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 11.***[^foo5] |
 
 [^foo5]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042>
  
@@ -112,7 +112,7 @@
 
 * * *
 
-| ***Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 16.***[^foo6] |
+| ***Sir Charles Antony Richard Hoare, Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 16.***[^foo6] |
 
 [^foo6]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042>
  
@@ -139,7 +139,7 @@
 
 * * *
 
-| ***Peter Wegner, Capital-Intensive Software Technology, IEEE Software 1984, no. 3, p. 9.***[^foo7] |
+| ***Peter Wegner, Peter Wegner, Capital-Intensive Software Technology, IEEE Software 1984, no. 3, p. 9.***[^foo7] |
 
 [^foo7]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384>
  
@@ -155,7 +155,7 @@
 
 * * *
 
-| ***Peter Wegner, Capital-Intensive Software Technology Conclusion, IEEE Software 1984, no. 3, p. 43.***[^foo8] |
+| ***Peter Wegner, Peter Wegner, Capital-Intensive Software Technology Conclusion, IEEE Software 1984, no. 3, p. 43.***[^foo8] |
 
 [^foo8]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234706>
  
@@ -182,7 +182,7 @@
 
 * * *
 
-| ***Mary Shaw, Abstraction Techniques in Modern Programming Languages, IEEE Software 1984, no. 4, p. 10.***[^foo9] |
+| ***Mary Shaw, Mary Shaw, Abstraction Techniques in Modern Programming Languages, IEEE Software 1984, no. 4, p. 10.***[^foo9] |
 
 [^foo9]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384>
  
@@ -213,7 +213,7 @@
 
 * * *
 
-| ***Bertrand Meyer, On Formalism in Specifications, IEEE Software 1985, no. 1, p. 22.***[^foo10] |
+| ***Bertrand Meyer, Bertrand Meyer, On Formalism in Specifications, IEEE Software 1985, no. 1, p. 22.***[^foo10] |
 
 [^foo10]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.229776>
  
@@ -240,7 +240,7 @@
 
 * * *
 
-| ***Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, Ada-Based support for programming-in-the-Large, IEEE Software 1985, no. 2, p. 58.***[^foo11] |
+| ***Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, Ada-Based support for programming-in-the-Large, IEEE Software 1985, no. 2, p. 58.***[^foo11] |
 
 [^foo11]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.230352>
  
@@ -310,7 +310,7 @@
 
 * * *
 
-| ***Joanne L. Martin, Operating Systems and Environments for Large-Scale Parallel Processors, IEEE Software 1985, no. 4, p. 5.***[^foo14] |
+| ***Joanne L. Martin, Joanne L. Martin, Operating Systems and Environments for Large-Scale Parallel Processors, IEEE Software 1985, no. 4, p. 5.***[^foo14] |
 
 [^foo14]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.231051>
  
@@ -337,7 +337,7 @@
 
 * * *
 
-| ***William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 6.***[^foo15] |
+| ***William E. Howden, William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 6.***[^foo15] |
 
 [^foo15]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754>
  
@@ -353,7 +353,7 @@
 
 * * *
 
-| ***William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 8.***[^foo16] |
+| ***William E. Howden, William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 8.***[^foo16] |
 
 [^foo16]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754>
  
@@ -427,7 +427,7 @@
 
 * * *
 
-| ***Brent Hailpern, Guest Editor's Introduction Multiparadigm Languages and Environments, IEEE Software 1986, no. 1, p. 6.***[^foo19] |
+| ***Brent Hailpern, Brent Hailpern, Guest Editor's Introduction Multiparadigm Languages and Environments, IEEE Software 1986, no. 1, p. 6.***[^foo19] |
 
 [^foo19]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.232426>
  
@@ -443,7 +443,7 @@
 
 * * *
 
-| ***Bjarne Stroustrup, Multiparadigm Research: A Survey of Nine Projects, IEEE Software 1986, no. 1, p. 71.***[^foo20] |
+| ***Bjarne Stroustrup, Bjarne Stroustrup, Multiparadigm Research: A Survey of Nine Projects, IEEE Software 1986, no. 1, p. 71.***[^foo20] |
 
 [^foo20]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.232757>
  
@@ -470,7 +470,7 @@
 
 * * *
 
-| ***Duvvuru Sriram, Michael D. Rychener, Knowledge-Based Expert Systems for Engineering, IEEE Software 1986, no. 2, p. 3.***[^foo21] |
+| ***Duvvuru Sriram, Michael D. Rychener, Duvvuru Sriram, Michael D. Rychener, Knowledge-Based Expert Systems for Engineering, IEEE Software 1986, no. 2, p. 3.***[^foo21] |
 
 [^foo21]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.232780>
  
@@ -545,7 +545,7 @@
 
 * * *
 
-| ***Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, Display Strategies for Program Browsing: Concepts and Experiment, IEEE Software 1986, no. 3, p. 16.***[^foo25] |
+| ***Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, Display Strategies for Program Browsing: Concepts and Experiment, IEEE Software 1986, no. 3, p. 16.***[^foo25] |
 
 [^foo25]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.233405>
  
@@ -588,7 +588,7 @@
 
 * * *
 
-| ***Subrata Dasgupta, Robert A. Mueller, Firmware Engineering: The Interaction of Microprogramming and Software Technology, IEEE Software 1986, no. 4, p. 5.***[^foo27] |
+| ***Subrata Dasgupta, Robert A. Mueller, Subrata Dasgupta, Robert A. Mueller, Firmware Engineering: The Interaction of Microprogramming and Software Technology, IEEE Software 1986, no. 4, p. 5.***[^foo27] |
 
 [^foo27]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.233747>
  
@@ -658,7 +658,7 @@
 
 * * *
 
-| ***Robert P. Cook, Modula-2 Experiments Will Help Future Language Designs, IEEE Software 1986, no. 6, p. 4.***[^foo30] |
+| ***Robert P. Cook, Robert P. Cook, Modula-2 Experiments Will Help Future Language Designs, IEEE Software 1986, no. 6, p. 4.***[^foo30] |
 
 [^foo30]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.234419>
  
@@ -674,7 +674,7 @@
 
 * * *
 
-| ***Harlan D. Mills, Structured Programming: Retrospect and Prospect, IEEE Software 1986, no. 6, p. 61.***[^foo31] |
+| ***Harlan D. Mills, Harlan D. Mills, Structured Programming: Retrospect and Prospect, IEEE Software 1986, no. 6, p. 61.***[^foo31] |
 
 [^foo31]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.229478>
  
@@ -705,7 +705,7 @@
 
 * * *
 
-| ***Bruce D. Shriver, Editor in Chief Introduction Reuse revisited, IEEE Software 1987, no. 1, p. 4.***[^foo32] |
+| ***Bruce D. Shriver, Bruce D. Shriver, Editor in Chief Introduction Reuse revisited, IEEE Software 1987, no. 1, p. 4.***[^foo32] |
 
 [^foo32]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229788>
  
@@ -753,7 +753,7 @@
 
 * * *
 
-| ***Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 29.***[^foo35] |
+| ***Shi-Kuo Chang, Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 29.***[^foo35] |
 
 [^foo35]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792>
  
@@ -769,7 +769,7 @@
 
 * * *
 
-| ***Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 31.***[^foo36] |
+| ***Shi-Kuo Chang, Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 31.***[^foo36] |
 
 [^foo36]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792>
  
@@ -785,7 +785,7 @@
 
 * * *
 
-| ***Steven Pemberton, An Alternative Simple Language and Environment for PCs, IEEE Software 1987, no. 1, p. 56.***[^foo37] |
+| ***Steven Pemberton, Steven Pemberton, An Alternative Simple Language and Environment for PCs, IEEE Software 1987, no. 1, p. 56.***[^foo37] |
 
 [^foo37]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229797>
  
@@ -828,7 +828,7 @@
 
 * * *
 
-| ***Bertrand Meyer, Reusability: The Case for Object-Oriented Design, IEEE Software 1987, no. 2, p. 50.***[^foo39] |
+| ***Bertrand Meyer, Bertrand Meyer, Reusability: The Case for Object-Oriented Design, IEEE Software 1987, no. 2, p. 50.***[^foo39] |
 
 [^foo39]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.230097>
  
@@ -1202,7 +1202,7 @@
 
 * * *
 
-| ***Watts S. Humphrey, Characterizing the Software Process: A Maturity Framework, IEEE Software 1988, no. 2, p. 73.***[^foo58] |
+| ***Watts S. Humphrey, Watts S. Humphrey, Characterizing the Software Process: A Maturity Framework, IEEE Software 1988, no. 2, p. 73.***[^foo58] |
 
 [^foo58]: <http://doi.ieeecomputersociety.org/10.1109/52.2014>
  
@@ -1218,7 +1218,7 @@
 
 * * *
 
-| ***Moshe Y. Vardi, The Universal-Relation Data Model for Logical Independence, IEEE Software 1988, no. 2, p. 81.***[^foo59] |
+| ***Moshe Y. Vardi, Moshe Y. Vardi, The Universal-Relation Data Model for Logical Independence, IEEE Software 1988, no. 2, p. 81.***[^foo59] |
 
 [^foo59]: <http://doi.ieeecomputersociety.org/10.1109/52.2015>
  
@@ -1245,7 +1245,7 @@
 
 * * *
 
-| ***Bjarne Stroustrup, What Is Object-Oriented Programming?, IEEE Software 1988, no. 3, p. 10.***[^foo60] |
+| ***Bjarne Stroustrup, Bjarne Stroustrup, What Is Object-Oriented Programming?, IEEE Software 1988, no. 3, p. 10.***[^foo60] |
 
 [^foo60]: <http://doi.ieeecomputersociety.org/10.1109/52.2020>
  
@@ -1373,7 +1373,7 @@
 
 * * *
 
-| ***Deborah Hix, Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer, IEEE Software 1989, no. 1, p. 8.***[^foo65] |
+| ***Deborah Hix, Deborah Hix, Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer, IEEE Software 1989, no. 1, p. 8.***[^foo65] |
 
 [^foo65]: <http://doi.ieeecomputersociety.org/10.1109/MS.1989.10004>
  
@@ -1389,7 +1389,7 @@
 
 * * *
 
-| ***Brad A. Myers, User-Interface Tools: Introduction and Survey, IEEE Software 1989, no. 1, p. 15.***[^foo66] |
+| ***Brad A. Myers, Brad A. Myers, User-Interface Tools: Introduction and Survey, IEEE Software 1989, no. 1, p. 15.***[^foo66] |
 
 [^foo66]: <http://doi.ieeecomputersociety.org/10.1109/52.16898>
  
@@ -2661,7 +2661,7 @@
 
 * * *
 
-| ***Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 24.***[^foo128] |
+| ***Ivar Jacobson, Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 24.***[^foo128] |
 
 [^foo128]: <http://doi.ieeecomputersociety.org/10.1109/52.207218>
  
@@ -2677,7 +2677,7 @@
 
 * * *
 
-| ***Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 26.***[^foo129] |
+| ***Ivar Jacobson, Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 26.***[^foo129] |
 
 [^foo129]: <http://doi.ieeecomputersociety.org/10.1109/52.207218>
  
@@ -3357,7 +3357,7 @@
   
 * * *
 
-| "The large aspiration to place the whole of **software development** alongside the **established branches **as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
+| "The large aspiration to place the whole of **software development** alongside the **established branches** as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
 
 
 * * *
@@ -4958,7 +4958,7 @@
 
 * * *
 
-| ***Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo249] |
+| ***Alan Kay, Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo249] |
 
 [^foo249]: <http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013>
  
@@ -4974,7 +4974,7 @@
 
 * * *
 
-| ***Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo250] |
+| ***Alan Kay, Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo250] |
 
 [^foo250]: <http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013>
  
@@ -4990,7 +4990,7 @@
 
 * * *
 
-| ***Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo251] |
+| ***Alan Kay, Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo251] |
 
 [^foo251]: <http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013>
  
@@ -5006,7 +5006,7 @@
 
 * * *
 
-| ***Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo252] |
+| ***Alan Kay, Alan Kay: Inventing the Future, IEEE Software 1998, no. 2, p. 22.***[^foo252] |
 
 [^foo252]: <http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013>
  
@@ -10890,7 +10890,7 @@
 
 * * *
 
-| ***Traveling Light, the Lua Way, IEEE Software 2007, no. 5, p. 31.***[^foo579] |
+| ***Ashwin Hirschi, Traveling Light, the Lua Way, IEEE Software 2007, no. 5, p. 31.***[^foo579] |
 
 [^foo579]: <http://doi.ieeecomputersociety.org/10.1109/MS.2007.150>
  
@@ -12544,7 +12544,7 @@
 
 * * *
 
-| ***Writing Code to Prototype, Ideate, and Discover, IEEE Software 2009, no. 5, p. 18.***[^foo675] |
+| ***Joel Brandt, Philip J. Guo, Joel Lewenstein, and Scott R. Klemmer, Mira Dontcheva, Writing Code to Prototype, Ideate, and Discover, IEEE Software 2009, no. 5, p. 18.***[^foo675] |
 
 [^foo675]: <http://doi.ieeecomputersociety.org/10.1109/MS.2009.147>
  
@@ -13937,7 +13937,7 @@
 
 * * *
 
-| ***Developing Cloud Business Models: A Case Study on Cloud Gaming, IEEE Software 2011, no. 4, p. 42.***[^foo754] |
+| ***Arto Ojala, Pasi Tyrväinen, Developing Cloud Business Models: A Case Study on Cloud Gaming, IEEE Software 2011, no. 4, p. 42.***[^foo754] |
 
 [^foo754]: <http://doi.ieeecomputersociety.org/10.1109/MS.2011.51>
  
@@ -15539,7 +15539,7 @@
 
 * * *
 
-| ***Deus ex Machina, IEEE Software 2013, no. 6, p. 14.***[^foo844] |
+| ***Grady Booch, Deus ex Machina, IEEE Software 2013, no. 6, p. 14.***[^foo844] |
 
 [^foo844]: <http://doi.ieeecomputersociety.org/10.1109/MS.2013.122>
  
@@ -15682,7 +15682,7 @@
 
 * * *
 
-| ***The Human and Ethical Aspects of Big Data, IEEE Software 2014, no. 1, p. 20.***[^foo852] |
+| ***Grady Booch, The Human and Ethical Aspects of Big Data, IEEE Software 2014, no. 1, p. 20.***[^foo852] |
 
 [^foo852]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.16>
  
@@ -15730,7 +15730,7 @@
 
 * * *
 
-| ***Data Protection in Healthcare Social Networks, IEEE Software 2014, no. 1, p. 46.***[^foo855] |
+| ***Jingquan Li, Data Protection in Healthcare Social Networks, IEEE Software 2014, no. 1, p. 46.***[^foo855] |
 
 [^foo855]: <http://doi.ieeecomputersociety.org/10.1109/MS.2013.99>
  
@@ -15778,7 +15778,7 @@
 
 * * *
 
-| ***Practicing What We Preach, IEEE Software 2014, no. 1, p. 88.***[^foo858] |
+| ***Smita Ghaisas, Practicing What We Preach, IEEE Software 2014, no. 1, p. 88.***[^foo858] |
 
 [^foo858]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.10>
  
@@ -15805,7 +15805,7 @@
 
 * * *
 
-| ***Don't Fire the Architect! Where Were the Requirements?, IEEE Software 2014, no. 2, p. 27.***[^foo859] |
+| ***Jane Cleland-Huang, Don't Fire the Architect! Where Were the Requirements?, IEEE Software 2014, no. 2, p. 27.***[^foo859] |
 
 [^foo859]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.34>
  
@@ -15821,7 +15821,7 @@
 
 * * *
 
-| ***Developing in the Cloud, IEEE Software 2014, no. 2, p. 41.***[^foo860] |
+| ***Diomidis Spinellis, Developing in the Cloud, IEEE Software 2014, no. 2, p. 41.***[^foo860] |
 
 [^foo860]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.33>
  
@@ -15928,7 +15928,7 @@
 
 * * *
 
-| ***Return of the Pragmatic ArchitectK1 infrastructure, IEEE Software 2014, no. 3, p. 10.***[^foo866] |
+| ***Eoin Woods, Return of the Pragmatic ArchitectK1 infrastructure, IEEE Software 2014, no. 3, p. 10.***[^foo866] |
 
 [^foo866]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.69>
  
@@ -15944,7 +15944,7 @@
 
 * * *
 
-| ***Continuous Integration and Its ToolsK1 testing, IEEE Software 2014, no. 3, p. 14.***[^foo867] |
+| ***Mathias Meyer, Continuous Integration and Its ToolsK1 testing, IEEE Software 2014, no. 3, p. 14.***[^foo867] |
 
 [^foo867]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.58>
  
@@ -16206,7 +16206,7 @@
 
 * * *
 
-| ***Privacy Requirements in an Age of Increased Sharing, IEEE Software 2014, no. 5, p. 24.***[^foo882] |
+| ***Travis Breaux, Privacy Requirements in an Age of Increased Sharing, IEEE Software 2014, no. 5, p. 24.***[^foo882] |
 
 [^foo882]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.118>
  
@@ -16318,7 +16318,7 @@
 
 * * *
 
-| ***The Go Programming LanguageK1 syntax, IEEE Software 2014, no. 5, p. 104.***[^foo889] |
+| ***Jeff Meyerson, The Go Programming LanguageK1 syntax, IEEE Software 2014, no. 5, p. 104.***[^foo889] |
 
 [^foo889]: <http://doi.ieeecomputersociety.org/10.1109/MS.2014.127>
  
@@ -16408,7 +16408,7 @@
 
 * * *
 
-| ***Of Boilers, Bit, and Bots, IEEE Software 2015, no. 1, p. 11.***[^foo893] |
+| ***Grady Booch, Of Boilers, Bit, and Bots, IEEE Software 2015, no. 1, p. 11.***[^foo893] |
 
 [^foo893]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.13>
  
@@ -16488,7 +16488,7 @@
 
 * * *
 
-| ***Microservices, IEEE Software 2015, no. 1, p. 116.***[^foo898] |
+| ***Johannes Thones, Microservices, IEEE Software 2015, no. 1, p. 116.***[^foo898] |
 
 [^foo898]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.11>
  
@@ -16531,7 +16531,7 @@
 
 * * *
 
-| ***Architectural Refactoring: A Task-Centric View on Software Evolution, IEEE Software 2015, no. 2, p. 26.***[^foo900] |
+| ***Olaf Zimmermann, Architectural Refactoring: A Task-Centric View on Software Evolution, IEEE Software 2015, no. 2, p. 26.***[^foo900] |
 
 [^foo900]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.37>
  
@@ -16579,7 +16579,7 @@
 
 * * *
 
-| ***Continuous Delivery: Huge Benefits, but Challenges Too, IEEE Software 2015, no. 2, p. 50.***[^foo903] |
+| ***Lianping Chen, Continuous Delivery: Huge Benefits, but Challenges Too, IEEE Software 2015, no. 2, p. 50.***[^foo903] |
 
 [^foo903]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.27>
  
@@ -16638,7 +16638,7 @@
 
 * * *
 
-| ***Architecture Haiku: A Case Study in Lean Documentation [The Pragmatic Architect], IEEE Software 2015, no. 3, p. 35.***[^foo906] |
+| ***Michael Keeling, Architecture Haiku: A Case Study in Lean Documentation [The Pragmatic Architect], IEEE Software 2015, no. 3, p. 35.***[^foo906] |
 
 [^foo906]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.59>
  
@@ -16702,7 +16702,7 @@
 
 * * *
 
-| ***Docker [Software engineering], IEEE Software 2015, no. 3, p. 102.***[^foo910] |
+| ***Charles Anderson, Docker [Software engineering], IEEE Software 2015, no. 3, p. 102.***[^foo910] |
 
 [^foo910]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.62>
  
@@ -16729,7 +16729,7 @@
 
 * * *
 
-| ***Points of Truth, IEEE Software 2015, no. 4, p. 18.***[^foo911] |
+| ***Gerard J. Holzmann, Points of Truth, IEEE Software 2015, no. 4, p. 18.***[^foo911] |
 
 [^foo911]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.103>
  
@@ -16825,7 +16825,7 @@
 
 * * *
 
-| ***Lifelong Learning for Lifelong Employment, IEEE Software 2015, no. 4, p. 85.***[^foo917] |
+| ***Philippe Kruchten, Lifelong Learning for Lifelong Employment, IEEE Software 2015, no. 4, p. 85.***[^foo917] |
 
 [^foo917]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.97>
  
@@ -17007,7 +17007,7 @@
 
 * * *
 
-| ***Refactoring for Asynchronous Execution on Mobile Devices, IEEE Software 2015, no. 6, p. 52.***[^foo927] |
+| ***Danny Dig, Refactoring for Asynchronous Execution on Mobile Devices, IEEE Software 2015, no. 6, p. 52.***[^foo927] |
 
 [^foo927]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.133>
  
@@ -17023,7 +17023,7 @@
 
 * * *
 
-| ***Database Refactoring: Lessons from the Trenches, IEEE Software 2015, no. 6, p. 71.***[^foo928] |
+| ***Gregory Vial, Database Refactoring: Lessons from the Trenches, IEEE Software 2015, no. 6, p. 71.***[^foo928] |
 
 [^foo928]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.131>
  
@@ -17054,7 +17054,7 @@
 
 * * *
 
-| ***Remembrance of Things Past, IEEE Software 2016, no. 1, p. 10.***[^foo929] |
+| ***Grady Booch, Remembrance of Things Past, IEEE Software 2016, no. 1, p. 10.***[^foo929] |
 
 [^foo929]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.10>
  
@@ -17182,7 +17182,7 @@
 
 * * *
 
-| ***Speed, Data, and Ecosystems: The Future of Software Engineering, IEEE Software 2016, no. 1, p. 82.***[^foo937] |
+| ***Jan Bosch, Speed, Data, and Ecosystems: The Future of Software Engineering, IEEE Software 2016, no. 1, p. 82.***[^foo937] |
 
 [^foo937]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.14>
  
@@ -17230,7 +17230,7 @@
 
 * * *
 
-| ***Ben Hindman on Apache Mesos, IEEE Software 2016, no. 1, p. 117.***[^foo940] |
+| ***Jeff Meyerson, Ben Hindman on Apache Mesos, IEEE Software 2016, no. 1, p. 117.***[^foo940] |
 
 [^foo940]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.18>
  
@@ -17257,7 +17257,7 @@
 
 * * *
 
-| ***The Computational Human, IEEE Software 2016, no. 2, p. 8.***[^foo941] |
+| ***Grady Booch, The Computational Human, IEEE Software 2016, no. 2, p. 8.***[^foo941] |
 
 [^foo941]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.59>
  
@@ -17273,7 +17273,7 @@
 
 * * *
 
-| ***Software Retrofit in High-Availability Systems: When Uptime Matters, IEEE Software 2016, no. 2, p. 11.***[^foo942] |
+| ***Thomas Ronzon, Software Retrofit in High-Availability Systems: When Uptime Matters, IEEE Software 2016, no. 2, p. 11.***[^foo942] |
 
 [^foo942]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.49>
  
@@ -17289,7 +17289,7 @@
 
 * * *
 
-| ***Code Clarity, IEEE Software 2016, no. 2, p. 22.***[^foo943] |
+| ***Gerard J. Holzmann, Code Clarity, IEEE Software 2016, no. 2, p. 22.***[^foo943] |
 
 [^foo943]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.44>
  
@@ -17412,7 +17412,7 @@
 
 * * *
 
-| ***It Is Cold. And Lonely., IEEE Software 2016, no. 3, p. 7.***[^foo950] |
+| ***Grady Booch, It Is Cold. And Lonely., IEEE Software 2016, no. 3, p. 7.***[^foo950] |
 
 [^foo950]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.85>
  
@@ -17444,7 +17444,7 @@
 
 * * *
 
-| ***Operational: The Forgotten Architectural View, IEEE Software 2016, no. 3, p. 20.***[^foo952] |
+| ***Eoin Woods, Operational: The Forgotten Architectural View, IEEE Software 2016, no. 3, p. 20.***[^foo952] |
 
 [^foo952]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.86>
  
@@ -17738,7 +17738,7 @@
 
 * * *
 
-| ***Managing a Software Business, IEEE Software 2016, no. 5, p. 4.***[^foo969] |
+| ***Diomidis Spinellis, Managing a Software Business, IEEE Software 2016, no. 5, p. 4.***[^foo969] |
 
 [^foo969]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.111>
  
@@ -17754,7 +17754,7 @@
 
 * * *
 
-| ***No Laughing Matter, IEEE Software 2016, no. 5, p. 9.***[^foo970] |
+| ***Grady Booch, No Laughing Matter, IEEE Software 2016, no. 5, p. 9.***[^foo970] |
 
 [^foo970]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.127>
  
@@ -17834,7 +17834,7 @@
 
 * * *
 
-| ***Better Selection of Software Providers through Trialsourcing, IEEE Software 2016, no. 5, p. 48.***[^foo975] |
+| ***Magne Jorgensen, Better Selection of Software Providers through Trialsourcing, IEEE Software 2016, no. 5, p. 48.***[^foo975] |
 
 [^foo975]: <http://doi.ieeecomputersociety.org/10.1109/MS.2015.24>
  
@@ -17882,7 +17882,7 @@
 
 * * *
 
-| ***Jay Fields on Working with Unit Tests, IEEE Software 2016, no. 5, p. 117.***[^foo978] |
+| ***Stefan Tilkov, Jay Fields on Working with Unit Tests, IEEE Software 2016, no. 5, p. 117.***[^foo978] |
 
 [^foo978]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.121>
  
@@ -17909,7 +17909,7 @@
 
 * * *
 
-| ***The Changing Role of the Software Architect, IEEE Software 2016, no. 6, p. 4.***[^foo979] |
+| ***Diomidis Spinellis, The Changing Role of the Software Architect, IEEE Software 2016, no. 6, p. 4.***[^foo979] |
 
 [^foo979]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.133>
  
@@ -17925,7 +17925,7 @@
 
 * * *
 
-| ***Just Enough Anticipation: Architect Your Time Dimension, IEEE Software 2016, no. 6, p. 11.***[^foo980] |
+| ***Eltjo Poort, Just Enough Anticipation: Architect Your Time Dimension, IEEE Software 2016, no. 6, p. 11.***[^foo980] |
 
 [^foo980]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.134>
  
@@ -18069,7 +18069,7 @@
 
 * * *
 
-| ***Software Architecture in a Changing World, IEEE Software 2016, no. 6, p. 94.***[^foo989] |
+| ***Eoin Woods, Software Architecture in a Changing World, IEEE Software 2016, no. 6, p. 94.***[^foo989] |
 
 [^foo989]: <http://doi.ieeecomputersociety.org/10.1109/MS.2016.149>
  
@@ -18100,7 +18100,7 @@
 
 * * *
 
-| ***Software-Engineering the Internet of Things, IEEE Software 2017, no. 1, p. 4.***[^foo990] |
+| ***Diomidis Spinellis, Software-Engineering the Internet of Things, IEEE Software 2017, no. 1, p. 4.***[^foo990] |
 
 [^foo990]: <http://doi.ieeecomputersociety.org/10.1109/MS.2017.15>
  
@@ -18164,7 +18164,7 @@
 
 * * *
 
-| ***Key Abstractions for IoT-Oriented Software Engineering, IEEE Software 2017, no. 1, p. 38.***[^foo994] |
+| ***Franco Zambonelli, Key Abstractions for IoT-Oriented Software Engineering, IEEE Software 2017, no. 1, p. 38.***[^foo994] |
 
 [^foo994]: <http://doi.ieeecomputersociety.org/10.1109/MS.2017.3>
  
@@ -18228,7 +18228,7 @@
 
 * * *
 
-| ***Darkitecture: The Reality Skirted by Architecture, IEEE Software 2017, no. 1, p. 103.***[^foo998] |
+| ***Balaji Prasad, Darkitecture: The Reality Skirted by Architecture, IEEE Software 2017, no. 1, p. 103.***[^foo998] |
 
 [^foo998]: <http://doi.ieeecomputersociety.org/10.1109/MS.2017.7>
  
@@ -18244,7 +18244,7 @@
 
 * * *
 
-| ***Practices and Technologies in Computer Game Software Engineering, IEEE Software 2017, no. 1, p. 110.***[^foo999] |
+| ***Walt Scacchi, Practices and Technologies in Computer Game Software Engineering, IEEE Software 2017, no. 1, p. 110.***[^foo999] |
 
 [^foo999]: <http://doi.ieeecomputersociety.org/10.1109/MS.2017.20>
  
@@ -18260,7 +18260,7 @@
 
 * * *
 
-| ***Kief Morris on Infrastructure as Code, IEEE Software 2017, no. 1, p. 117.***[^foo1000] |
+| ***Sven Johann, Kief Morris on Infrastructure as Code, IEEE Software 2017, no. 1, p. 117.***[^foo1000] |
 
 [^foo1000]: <http://doi.ieeecomputersociety.org/10.1109/MS.2017.13>
  
