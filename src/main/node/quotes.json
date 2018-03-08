@@ -19400,7 +19400,7 @@
       }
     ],
     "authorsList": "Ivar Jacobson",
-    "citation": "Ivar Jacobson, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ivar_Jacobson\">Ivar Jacobson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.207218\">Is Object Technology Software's Industrial Platform?</a>, IEEE Software 1993, no. 1, p. 24",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ivar_Jacobson\">Ivar Jacobson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.207218\">Is Object Technology Software's Industrial Platform?</a>, IEEE Software 1993, no. 1, p. 24",
     "searchText": "The wide <b>acceptance of the object-oriented approach</b> is unprecedented in computer technoLogy. Judging from the the experience the last 25 year, developers who adopt this platform stand to  reap generous rewards. Ivar Jacobson Is Object Technology Software's Industrial Platform? 1993 "
   },
   {
@@ -19418,7 +19418,7 @@
       }
     ],
     "authorsList": "Ivar Jacobson",
-    "citation": "Ivar Jacobson, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ivar_Jacobson\">Ivar Jacobson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.207218\">Is Object Technology Software's Industrial Platform?</a>, IEEE Software 1993, no. 1, p. 26",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ivar_Jacobson\">Ivar Jacobson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.207218\">Is Object Technology Software's Industrial Platform?</a>, IEEE Software 1993, no. 1, p. 26",
     "searchText": "For better or worse, the <b>real language winner today is C++</b>. Ivar Jacobson Is Object Technology Software's Industrial Platform? 1993 "
   },
   {
@@ -20770,7 +20770,7 @@
       }
     ],
     "authorsList": "Deborah Hix",
-    "citation": "Deborah Hix, <a target=\"_blank\" href=\"http://www.cc.gatech.edu/grads/h/Shanda.Lanisa.Harper/cs6751/hix.html\">Deborah Hix</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1989.10004\">Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer</a>, IEEE Software 1989, no. 1, p. 8",
+    "citation": "Deborah Hix, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1989.10004\">Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer</a>, IEEE Software 1989, no. 1, p. 8",
     "searchText": "An <b>interactive system</b> - one with a human-computer interface - is not judged solely on its ability to compute. It is also judged on its <b>ability to communicate</b>. In fact, if users cannot communicate effectively with an interactive system, its computational ability may be  inaccessible.  Deborah Hix Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer 1989 "
   },
   {
@@ -20788,7 +20788,7 @@
       }
     ],
     "authorsList": "Brad A. Myers",
-    "citation": "Brad A. Myers, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Brad_Myers\">Brad A. Myers</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.16898\">User-Interface Tools: Introduction and Survey</a>, IEEE Software 1989, no. 1, p. 15",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Brad_Myers\">Brad A. Myers</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.16898\">User-Interface Tools: Introduction and Survey</a>, IEEE Software 1989, no. 1, p. 15",
     "searchText": "An overview is given of <b>user-interface development systems</b> (UIDS). ... The three types are <b>language-based</b>, <b>graphical</b>, and <b>automatic creation interfaces</b>. Brad A. Myers User-Interface Tools: Introduction and Survey 1989 "
   },
   {
@@ -20886,7 +20886,7 @@
       }
     ],
     "authorsList": "Bjarne Stroustrup",
-    "citation": "Bjarne Stroustrup, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bjarne_Stroustrup\">Bjarne Stroustrup</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2020\">What Is Object-Oriented Programming?</a>, IEEE Software 1988, no. 3, p. 10",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bjarne_Stroustrup\">Bjarne Stroustrup</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2020\">What Is Object-Oriented Programming?</a>, IEEE Software 1988, no. 3, p. 10",
     "searchText": "The meaning of the term '<b>object oriented</b>' is examined in the context of the general-purpose programming language C++. This choice is made partly to <b>introduce C++</b> and partly because C++ is one of the few languages that supports data abstraction, object-oriented programming, and traditional programming techniques. ... four paradigms are examined: <b>procedural</b>, <b>data hiding</b>, <b>data abstraction</b>, and <b>object-oriented</b> programming. Bjarne Stroustrup What Is Object-Oriented Programming? 1988 "
   },
   {
@@ -20958,7 +20958,7 @@
       }
     ],
     "authorsList": "Moshe Y. Vardi",
-    "citation": "Moshe Y. Vardi, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Moshe_Vardi\">Moshe Y. Vardi</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2015\">The Universal-Relation Data Model for Logical Independence</a>, IEEE Software 1988, no. 2, p. 81",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Moshe_Vardi\">Moshe Y. Vardi</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2015\">The Universal-Relation Data Model for Logical Independence</a>, IEEE Software 1988, no. 2, p. 81",
     "searchText": "There are several applications where a <b>universal-relation \ninterface</b> to an existing database-management system is essential. \nThe most obvious example is <b>natural-language</b> interface - \nindeed, it is hard to see how a natural-language interface \ncould reliably use anything else, since it is unreasonable to \nmake the user talk in terms of the <b>database's logical structure</b>.\n Moshe Y. Vardi The Universal-Relation Data Model for Logical Independence 1988 "
   },
   {
@@ -20976,7 +20976,7 @@
       }
     ],
     "authorsList": "Watts S. Humphrey",
-    "citation": "Watts S. Humphrey, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Watts_Humphrey\">Watts S. Humphrey</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2014\">Characterizing the Software Process: A Maturity Framework</a>, IEEE Software 1988, no. 2, p. 73",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Watts_Humphrey\">Watts S. Humphrey</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.2014\">Characterizing the Software Process: A Maturity Framework</a>, IEEE Software 1988, no. 2, p. 73",
     "searchText": "[A] <b>software-process maturity framework</b> ... has been developed to provide the US Department of Defense with a means to characterize the capabilities of software-development organizations. This software-development process-maturity model reasonably represents the actual ways in which software-development organizations improve. It provides a framework for assessing these organizations and identifying the priority areas for immediate improvement. It also helps identify those places where advanced technology can be most valuable in improving the software-development process. Watts S. Humphrey Characterizing the Software Process: A Maturity Framework 1988 "
   },
   {
@@ -21346,7 +21346,7 @@
       }
     ],
     "authorsList": "Bertrand Meyer",
-    "citation": "Bertrand Meyer, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bertrand_Meyer\">Bertrand Meyer</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.230097\">Reusability: The Case for Object-Oriented Design</a>, IEEE Software 1987, no. 2, p. 50",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bertrand_Meyer\">Bertrand Meyer</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.230097\">Reusability: The Case for Object-Oriented Design</a>, IEEE Software 1987, no. 2, p. 50",
     "searchText": "Simply being more organized will not make <b>the reuse problem</b> go away. The issues are technical, not managerial. The answers lie in <b>object-oriented design</b>. Bertrand Meyer Reusability: The Case for Object-Oriented Design 1987 "
   },
   {
@@ -21364,7 +21364,7 @@
       }
     ],
     "authorsList": "Bruce D. Shriver",
-    "citation": "Bruce D. Shriver, <a target=\"_blank\" href=\"https://www.computer.org/web/cshistory/bruce-shriver\">Bruce D. Shriver</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229788\">Editor in Chief Introduction Reuse revisited</a>, IEEE Software 1987, no. 1, p. 4",
+    "citation": "<a target=\"_blank\" href=\"https://www.computer.org/web/cshistory/bruce-shriver\">Bruce D. Shriver</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229788\">Editor in Chief Introduction Reuse revisited</a>, IEEE Software 1987, no. 1, p. 4",
     "searchText": "<b>Reusing</b> and <b>reworking</b> software is not new; it has been done since the very beginnings of our industry in the early 1950s. Reuse means using an entity in a different context from that in it initially had been used. This is often called <b>'black-box' reuse</b>. When an entity is modified before it is used in the new setting, it is called \"rework\" or <b>'white-box' reuse</b>. Bruce D. Shriver Editor in Chief Introduction Reuse revisited 1987 "
   },
   {
@@ -21426,7 +21426,7 @@
       }
     ],
     "authorsList": "Shi-Kuo Chang",
-    "citation": "Shi-Kuo Chang, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Shi-Kuo_Chang\">Shi-Kuo Chang</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792\">Visual Languages: A Tutorial and Survey</a>, IEEE Software 1987, no. 1, p. 29",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Shi-Kuo_Chang\">Shi-Kuo Chang</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792\">Visual Languages: A Tutorial and Survey</a>, IEEE Software 1987, no. 1, p. 29",
     "searchText": "<b>[V]isual programming languages</b> ... deal with objects that do not have an inherent visual representation. This includes traditional data types such as arrays, stacks, and queues and application data types such as forms, documents, and databases. ... both programming constructs and and the rules to combine these constructs should be presented visually. Shi-Kuo Chang Visual Languages: A Tutorial and Survey 1987 "
   },
   {
@@ -21444,7 +21444,7 @@
       }
     ],
     "authorsList": "Shi-Kuo Chang",
-    "citation": "Shi-Kuo Chang, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Shi-Kuo_Chang\">Shi-Kuo Chang</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792\">Visual Languages: A Tutorial and Survey</a>, IEEE Software 1987, no. 1, p. 31",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Shi-Kuo_Chang\">Shi-Kuo Chang</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792\">Visual Languages: A Tutorial and Survey</a>, IEEE Software 1987, no. 1, p. 31",
     "searchText": "The level of a language is inversely related to the amount of details a user must\nsupply the computer to achieve the desired results. The scope of the language ranges\nfrom the general and widely applicable to the specific and narrowly applicable. Shi-Kuo Chang Visual Languages: A Tutorial and Survey 1987 "
   },
   {
@@ -21462,7 +21462,7 @@
       }
     ],
     "authorsList": "Steven Pemberton",
-    "citation": "Steven Pemberton, <a target=\"_blank\" href=\"http://homepages.cwi.nl/~steven/\">Steven Pemberton</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229797\">An Alternative Simple Language and Environment for PCs</a>, IEEE Software 1987, no. 1, p. 56",
+    "citation": "<a target=\"_blank\" href=\"http://homepages.cwi.nl/~steven/\">Steven Pemberton</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229797\">An Alternative Simple Language and Environment for PCs</a>, IEEE Software 1987, no. 1, p. 56",
     "searchText": "<b>ABC</b> is being designed and implemented with an <b>integrated programming environment</b>. ... [T]he main design objectives ... : <b>simplicity</b>, suitability for <b>interactive use</b>, and <b>availability of tools</b> for structured programming. Steven Pemberton An Alternative Simple Language and Environment for PCs 1987 "
   },
   {
@@ -21480,7 +21480,7 @@
       }
     ],
     "authorsList": "Robert P. Cook",
-    "citation": "Robert P. Cook, <a target=\"_blank\" href=\"http://professorcook.org/\">Robert P. Cook</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.234419\">Modula-2 Experiments Will Help Future Language Designs</a>, IEEE Software 1986, no. 6, p. 4",
+    "citation": "<a target=\"_blank\" href=\"http://professorcook.org/\">Robert P. Cook</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.234419\">Modula-2 Experiments Will Help Future Language Designs</a>, IEEE Software 1986, no. 6, p. 4",
     "searchText": "<b>Modula-2</b> has been adopted as the foundation for a number of <b>experimental systems</b>. The insights gained from those experiments will prove valuable to both current <b>designers and future users of programming systems</b>, no matter what the language.  Robert P. Cook Modula-2 Experiments Will Help Future Language Designs 1986 "
   },
   {
@@ -21498,7 +21498,7 @@
       }
     ],
     "authorsList": "Harlan D. Mills",
-    "citation": "Harlan D. Mills, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Harlan_Mills\">Harlan D. Mills</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.229478\">Structured Programming: Retrospect and Prospect</a>, IEEE Software 1986, no. 6, p. 61",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Harlan_Mills\">Harlan D. Mills</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.229478\">Structured Programming: Retrospect and Prospect</a>, IEEE Software 1986, no. 6, p. 61",
     "searchText": "Dijkstra's proposal to prohibit the <b>GOTO</b> was greeted with controversy: '<b>You must be kidding!</b>' Harlan D. Mills Structured Programming: Retrospect and Prospect 1986 "
   },
   {
@@ -21574,7 +21574,7 @@
       }
     ],
     "authorsList": "Subrata Dasgupta, Robert A. Mueller",
-    "citation": "Subrata Dasgupta, Robert A. Mueller, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Subrata_Dasgupta\">Subrata Dasgupta</a>, Robert A. Mueller, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.233747\">Firmware Engineering: The Interaction of Microprogramming and Software Technology</a>, IEEE Software 1986, no. 4, p. 5",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Subrata_Dasgupta\">Subrata Dasgupta</a>, Robert A. Mueller, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.233747\">Firmware Engineering: The Interaction of Microprogramming and Software Technology</a>, IEEE Software 1986, no. 4, p. 5",
     "searchText": "We chose IEEE Software as our forum because <b>firmware engineering</b> involves transferring theory, principle, and technique <b>from software to firmware</b>, with appropriate adaptations. Subrata Dasgupta Robert A. Mueller Firmware Engineering: The Interaction of Microprogramming and Software Technology 1986 "
   },
   {
@@ -21648,7 +21648,7 @@
       }
     ],
     "authorsList": "Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon",
-    "citation": "Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ben_Shneiderman\">Ben Shneiderman</a>, <a target=\"_blank\" href=\"https://www.linkedin.com/in/phil-shafer-b324bb86\">Philip Shafer</a>, Roland Simon, Linda Weldon, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.233405\">Display Strategies for Program Browsing: Concepts and Experiment</a>, IEEE Software 1986, no. 3, p. 16",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ben_Shneiderman\">Ben Shneiderman</a>, <a target=\"_blank\" href=\"https://www.linkedin.com/in/phil-shafer-b324bb86\">Philip Shafer</a>, Roland Simon, Linda Weldon, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.233405\">Display Strategies for Program Browsing: Concepts and Experiment</a>, IEEE Software 1986, no. 3, p. 16",
     "searchText": "<b>User interfaces</b> in the software environment are much <b>like spices in good recipes</b>; the right arrangement must be found or the food will not show its full flavor. Factors such as data availability and complexity and the size of the display must be carefully weighed and accounted for in the design of any software environment. Ben Shneiderman Philip Shafer Roland Simon Linda Weldon Display Strategies for Program Browsing: Concepts and Experiment 1986 "
   },
   {
@@ -21670,7 +21670,7 @@
       }
     ],
     "authorsList": "Duvvuru Sriram, Michael D. Rychener",
-    "citation": "Duvvuru Sriram, Michael D. Rychener, <a target=\"_blank\" href=\"https://www.nist.gov/people/ram-d-sriram\">Duvvuru Sriram</a>, Michael D. Rychener, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.232780\">Knowledge-Based Expert Systems for Engineering</a>, IEEE Software 1986, no. 2, p. 3",
+    "citation": "<a target=\"_blank\" href=\"https://www.nist.gov/people/ram-d-sriram\">Duvvuru Sriram</a>, Michael D. Rychener, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.232780\">Knowledge-Based Expert Systems for Engineering</a>, IEEE Software 1986, no. 2, p. 3",
     "searchText": "Knowledge-based expert systems provide a programming methodology for <b>solving  ill-structured engineering problems</b>. ... these systems also provide a flexible software development methodology-by <b>separating the knowledge base</b> from the <b>inference mechanism</b> ... Duvvuru Sriram Michael D. Rychener Knowledge-Based Expert Systems for Engineering 1986 "
   },
   {
@@ -21714,7 +21714,7 @@
       }
     ],
     "authorsList": "Brent Hailpern",
-    "citation": "Brent Hailpern, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Brent_Hailpern\">Brent Hailpern</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.232426\">Guest Editor's Introduction Multiparadigm Languages and Environments</a>, IEEE Software 1986, no. 1, p. 6",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Brent_Hailpern\">Brent Hailpern</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.232426\">Guest Editor's Introduction Multiparadigm Languages and Environments</a>, IEEE Software 1986, no. 1, p. 6",
     "searchText": "... <b>multiparadigm systems</b> incorporating <b>two or more of the conventional program paradigms</b>. For example, the Loops system ... combines features of the Lisp, functional, rule-oriented, and object-oriented paradigms. Brent Hailpern Guest Editor's Introduction Multiparadigm Languages and Environments 1986 "
   },
   {
@@ -21732,7 +21732,7 @@
       }
     ],
     "authorsList": "Bjarne Stroustrup",
-    "citation": "Bjarne Stroustrup, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bjarne_Stroustrup\">Bjarne Stroustrup</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.232757\">Multiparadigm Research: A Survey of Nine Projects</a>, IEEE Software 1986, no. 1, p. 71",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bjarne_Stroustrup\">Bjarne Stroustrup</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.232757\">Multiparadigm Research: A Survey of Nine Projects</a>, IEEE Software 1986, no. 1, p. 71",
     "searchText": "The <b>C++</b> programming language was designed to make the task of <b>programming more enjoyable for the serious programmer</b>. Bjarne Stroustrup Multiparadigm Research: A Survey of Nine Projects 1986 "
   },
   {
@@ -21772,7 +21772,7 @@
       }
     ],
     "authorsList": "William E. Howden",
-    "citation": "William E. Howden, <a target=\"_blank\" href=\"https://cseweb.ucsd.edu/~howden/\">William E. Howden</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754\">The Theory and Practice of Foundation Testing</a>, IEEE Software 1985, no. 5, p. 6",
+    "citation": "<a target=\"_blank\" href=\"https://cseweb.ucsd.edu/~howden/\">William E. Howden</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754\">The Theory and Practice of Foundation Testing</a>, IEEE Software 1985, no. 5, p. 6",
     "searchText": "Program <b>testing</b> consists of scattered collection of <b>rules of thumb</b>, <b>coverage</b> measures, and testing <b>philosophies</b>. William E. Howden The Theory and Practice of Foundation Testing 1985 "
   },
   {
@@ -21790,7 +21790,7 @@
       }
     ],
     "authorsList": "William E. Howden",
-    "citation": "William E. Howden, <a target=\"_blank\" href=\"https://cseweb.ucsd.edu/~howden/\">William E. Howden</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754\">The Theory and Practice of Foundation Testing</a>, IEEE Software 1985, no. 5, p. 8",
+    "citation": "<a target=\"_blank\" href=\"https://cseweb.ucsd.edu/~howden/\">William E. Howden</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754\">The Theory and Practice of Foundation Testing</a>, IEEE Software 1985, no. 5, p. 8",
     "searchText": "Today we tend to go on for years, with tremendous effort to find that the system, which was not well understood to start with, does not work as anticipated. We <b>build systems like the Wright brothers</b> built airplanes-build the whole thing, push it off the cliff, let it crash, and start over again. William E. Howden The Theory and Practice of Foundation Testing 1985 "
   },
   {
@@ -21826,7 +21826,7 @@
       }
     ],
     "authorsList": "Joanne L. Martin",
-    "citation": "Joanne L. Martin, <a target=\"_blank\" href=\"https://www.linkedin.com/in/jlmconsultingllc\">Joanne L. Martin</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.231051\">Operating Systems and Environments for Large-Scale Parallel Processors</a>, IEEE Software 1985, no. 4, p. 5",
+    "citation": "<a target=\"_blank\" href=\"https://www.linkedin.com/in/jlmconsultingllc\">Joanne L. Martin</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.231051\">Operating Systems and Environments for Large-Scale Parallel Processors</a>, IEEE Software 1985, no. 4, p. 5",
     "searchText": "System designers should provide for such practical issues as <b>deadlock</b> avoidance, <b>scheduling</b>, necessary and sufficient primitives to allow for <b>synchronization</b>, and the combination of\n<b>multiprogramming</b> (a single system dividing its time and resources among many jobs) and <b>multiprocessing</b> (multiple processing units operating on a single job). Joanne L. Martin Operating Systems and Environments for Large-Scale Parallel Processors 1985 "
   },
   {
@@ -21874,7 +21874,7 @@
       }
     ],
     "authorsList": "Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden",
-    "citation": "Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Alexander_L._Wolf\">Alexander L. Wolf</a>, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Lori_A._Clarke\">Lori A. Clarke</a>, <a target=\"_blank\" href=\"https://www.cics.umass.edu/faculty/directory/wileden_jack\">Jack C. Wileden</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.230352\">Ada-Based support for programming-in-the-Large</a>, IEEE Software 1985, no. 2, p. 58",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Alexander_L._Wolf\">Alexander L. Wolf</a>, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Lori_A._Clarke\">Lori A. Clarke</a>, <a target=\"_blank\" href=\"https://www.cics.umass.edu/faculty/directory/wileden_jack\">Jack C. Wileden</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.230352\">Ada-Based support for programming-in-the-Large</a>, IEEE Software 1985, no. 2, p. 58",
     "searchText": "In essence, <b>programming-in-the large</b> involves the two complementary activities of modularization and interface control. <b>Modularization</b> is the identification of the major system modules and the entities those modules\ncontain, where entities are language elements that are given names, such as\nsubprograms, data objects, and types. <b>Interface control</b> is the specification\nand control of the interactions among entities in different modules. Alexander L. Wolf Lori A. Clarke Jack C. Wileden Ada-Based support for programming-in-the-Large 1985 "
   },
   {
@@ -21910,7 +21910,7 @@
       }
     ],
     "authorsList": "Bertrand Meyer",
-    "citation": "Bertrand Meyer, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bertrand_Meyer\">Bertrand Meyer</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.229776\">On Formalism in Specifications</a>, IEEE Software 1985, no. 1, p. 22",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Bertrand_Meyer\">Bertrand Meyer</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1985.229776\">On Formalism in Specifications</a>, IEEE Software 1985, no. 1, p. 22",
     "searchText": "The use of <b>formal notation</b> does not, however, preclude that of <b>natural language</b>. In fact, mathematical specification  of a problem usually leads to a  better natural-language description. This is because formal notations naturally lead the specifier to <b>raise\nsome questions</b> that might have remained unasked, and thus unanswered, in an informal approach. Bertrand Meyer On Formalism in Specifications 1985 "
   },
   {
@@ -21928,7 +21928,7 @@
       }
     ],
     "authorsList": "Mary Shaw",
-    "citation": "Mary Shaw, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Mary_Shaw_(computer_scientist)\">Mary Shaw</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384\">Abstraction Techniques in Modern Programming Languages</a>, IEEE Software 1984, no. 4, p. 10",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Mary_Shaw_(computer_scientist)\">Mary Shaw</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384\">Abstraction Techniques in Modern Programming Languages</a>, IEEE Software 1984, no. 4, p. 10",
     "searchText": "An <b>abstraction is a simplified description</b>, or specification, of a system that <b>emphasizes</b> some of the system's  details or properties while <b>suppressing</b> others. A good abstraction is one that <b>emphasizes details that are significant</b> to the reader or user and suppresses details that are, at least for the moment immaterial or diversionary. Mary Shaw Abstraction Techniques in Modern Programming Languages 1984 "
   },
   {
@@ -21946,7 +21946,7 @@
       }
     ],
     "authorsList": "Peter Wegner",
-    "citation": "Peter Wegner, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Peter_Wegner\">Peter Wegner</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384\">Capital-Intensive Software Technology</a>, IEEE Software 1984, no. 3, p. 9",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Peter_Wegner\">Peter Wegner</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384\">Capital-Intensive Software Technology</a>, IEEE Software 1984, no. 3, p. 9",
     "searchText": "The greater speed of  technical change means that <b>capital investment  must be recovered more quickly</b> and that enhancement and  evolution consume proportionately more resources than in a slowly changing  technology. This contributes to the fact that <b>maintenance and enhancement</b>  are the <b>dominant costs</b> in the  software life cycle today. Peter Wegner Capital-Intensive Software Technology 1984 "
   },
   {
@@ -21964,7 +21964,7 @@
       }
     ],
     "authorsList": "Peter Wegner",
-    "citation": "Peter Wegner, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Peter_Wegner\">Peter Wegner</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234706\">Capital-Intensive Software Technology Conclusion</a>, IEEE Software 1984, no. 3, p. 43",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Peter_Wegner\">Peter Wegner</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234706\">Capital-Intensive Software Technology Conclusion</a>, IEEE Software 1984, no. 3, p. 43",
     "searchText": "Periods of <b>rapid technological change</b> require <b>more innovation</b> and <b>greater risks</b> than periods of stability. Peter Wegner Capital-Intensive Software Technology Conclusion 1984 "
   },
   {
@@ -21982,7 +21982,7 @@
       }
     ],
     "authorsList": "Sir Charles Antony Richard Hoare",
-    "citation": "Sir Charles Antony Richard Hoare, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Tony_Hoare\">Sir Charles Antony Richard Hoare</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042\">Programming: Sorcery or Science?</a>, IEEE Software 1984, no. 2, p. 11",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Tony_Hoare\">Sir Charles Antony Richard Hoare</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042\">Programming: Sorcery or Science?</a>, IEEE Software 1984, no. 2, p. 11",
     "searchText": "One does not use structural engineering analysis to build a <b>sandcastle</b>. But neither does one choose the prize-winning builder of sandcastles as architect for <b>a tower block of offices</b> in a city. Sir Charles Antony Richard Hoare Programming: Sorcery or Science? 1984 "
   },
   {
@@ -22000,7 +22000,7 @@
       }
     ],
     "authorsList": "Sir Charles Antony Richard Hoare",
-    "citation": "Sir Charles Antony Richard Hoare, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Tony_Hoare\">Sir Charles Antony Richard Hoare</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042\">Programming: Sorcery or Science?</a>, IEEE Software 1984, no. 2, p. 16",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Tony_Hoare\">Sir Charles Antony Richard Hoare</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042\">Programming: Sorcery or Science?</a>, IEEE Software 1984, no. 2, p. 16",
     "searchText": "... I believe that in our branch of engineering, above all others, the academic ideals of <b>rigor and elegance will pay the highest dividends</b> in practical terms of reducing costs, increasing performance, and in directing the great sources of computational power on the surface of a silicon chip to the use and convenience of man. Sir Charles Antony Richard Hoare Programming: Sorcery or Science? 1984 "
   },
   {
@@ -22036,7 +22036,7 @@
       }
     ],
     "authorsList": "Butler W. Lampson",
-    "citation": "Butler W. Lampson, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Butler_Lampson\">Butler W. Lampson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391\">Hints for Computer System Design</a>, IEEE Software 1984, no. 1, p. 11",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Butler_Lampson\">Butler W. Lampson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391\">Hints for Computer System Design</a>, IEEE Software 1984, no. 1, p. 11",
     "searchText": "Designing a computer system is very <b>different from designing an algorithm</b>: ... the requirement - is less precisely defined more complex, and more subject to change; the system has much more internal structure - hence, many internal interfaces; and the measure of success is much less clear. The designer usually finds himself flondering in a sea of possibilities, unclear about how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system. Butler W. Lampson Hints for Computer System Design 1984 "
   },
   {
@@ -22054,7 +22054,7 @@
       }
     ],
     "authorsList": "Butler W. Lampson",
-    "citation": "Butler W. Lampson, <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Butler_Lampson\">Butler W. Lampson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391\">Hints for Computer System Design</a>, IEEE Software 1984, no. 1, p. 11",
+    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Butler_Lampson\">Butler W. Lampson</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391\">Hints for Computer System Design</a>, IEEE Software 1984, no. 1, p. 11",
     "searchText": "There probably isn't a best way to build the system or even a major part of it. Much more important is to <b>avoid choosing a terrible way</b> and to <b>have a clear division of responsibilities</b> among the parts. Butler W. Lampson Hints for Computer System Design 1984 "
   },
   {
@@ -22072,7 +22072,7 @@
       }
     ],
     "authorsList": "Bruce D. Shriver",
-    "citation": "Bruce D. Shriver, <a target=\"_blank\" href=\"https://www.computer.org/web/cshistory/bruce-shriver\">Bruce D. Shriver</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.233385\">From the Editor-in-Chief</a>, IEEE Software 1984, no. 1, p. 4",
+    "citation": "<a target=\"_blank\" href=\"https://www.computer.org/web/cshistory/bruce-shriver\">Bruce D. Shriver</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1984.233385\">From the Editor-in-Chief</a>, IEEE Software 1984, no. 1, p. 4",
     "searchText": "Many of the <b>challenges facing the software industry</b> today are a direct result of our <b>insatiable appetite for new</b> computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of <b>problems that we ourselves created many years ago</b>. Bruce D. Shriver From the Editor-in-Chief 1984 "
   }
 ]
