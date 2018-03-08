@@ -4578,7 +4578,7 @@
     "searchText": "Software architects often must work with <b>incomplete or ill-specified</b> <b>non-functional requirements</b> (NFRs) and use them to make decisions. Through this process, existing NFRs are <b>refined or modified</b> and new ones emerge. ... The survey revealed that architects usually elicit NFRs themselves in an iterative process; they usually <b>don't document</b> the NFRs and only <b>partially validate</b> them. Claudia Ayala David Ameller Jordi Cabot Xavier Franch Non-functional Requirements in Architectural Decision Making 2013 "
   },
   {
-    "quote": "How much <b>software</b> does it take to land a <b>spacecraft</b> safely <b>on Mars</b>, and how do you make all that code reliable?",
+    "quote": "There's clearly <b>no single magic tool</b> or technique that can be used to secure the reliability of any large and complex software application; rather, it takes good tools, workmanship, and a carefully managed process. The three main control points in this process are <b>prevention</b>, <b>detection</b>, and <b>containment</b>.",
     "title": "Landing a Spacecraft on Mars",
     "year": 2013,
     "number": 2,
@@ -4970,7 +4970,7 @@
     "searchText": "A close look at the <b>evidence</b> underpinning the original concept of <b>lean production</b> and its popular interpretation reveals the inherent challenges of measuring and interpreting evidence for performance differences. Helen Sharp Tore Dyb&amp;#x00E5; What's the Evidence for Lean? 2012 "
   },
   {
-    "quote": "<b>[L]ean software development</b>. What principles <b>deliver value</b>, and how are they introduced to best manage change?",
+    "quote": "Although some claim that <b>principles from other fields</b> can't apply to a creative and design-oriented discipline such as software development, many studies have proven <b>the simple wisdom</b> that we all benefit from <b>empowered and motivated teams</b>, we build our products faster and with better quality if <b>market strategy is understood</b> and <b>requirements changes managed</b>, we <b>learn from previous defects</b>, we can emphasize <b>repeatable processes</b>, and we should build from high-quality components. The software industry is now poised to transform to <b>customer-centric development</b>, which translates into both reducing the total life-cycle cost and increasing efficiency and effectiveness by <b>eliminating waste</b> and <b>adding value</b>.",
     "title": "Lean Software Development",
     "year": 2012,
     "number": 5,
@@ -5214,7 +5214,7 @@
     "searchText": "<b>Codification</b> and <b>testing of business rules</b> in application programs has historically been a challenge in software engineering. Many organizations have adopted the business rules approach to formalize and compartmentalize business rules as a separate component from application code. Euntae T. Lee Chen Zhang Thomas O. Meservy Jasbir Dhaliwal The Business Rules Approach and Its Effect on Software Testing 2012 "
   },
   {
-    "quote": "<b>Time zone differences</b> are a challenge to global software engineering.",
+    "quote": "Even the fanciest videoconferencing or 3G holography can't overcome <b>the fundamental time-zone problem</b> — that it's sleep time on the other side of the world. Consequently, no miracle technology will overcome time-zone differences.",
     "title": "Technologies to Support Collaboration across Time Zones",
     "year": 2012,
     "number": 3,
@@ -5602,7 +5602,7 @@
     "searchText": "Almost everyone agrees that there is <b>a gender gap</b> in computer science, where there are far too few females participating in the field. But does that gap occur in the whole of the field of computing? This sounding board explores the notion that the gap is <b>unique to CS</b>, and that any solution to the problem must occur within that field and not the broader field of computing. Robert L. Glass The Gender Gap: Is It a Computing Problem or Simply a Computer Science Problem? 2012 "
   },
   {
-    "quote": "<b>Model-based testing</b> (MBT) strives to <b>automatically</b> and systematically <b>generate test cases</b>. ",
+    "quote": "In <b>model-based testing</b> (MBT), manually selected algorithms automatically and systematically <b>generate test cases</b> from a set of models of the system under test or its environment. Whereas test automation replaces manual test execution with automated test scripts, MBT replaces manual test designs with automated test designs and test generation. ",
     "title": "Model-Based Testing",
     "year": 2012,
     "number": 1,
@@ -7395,7 +7395,7 @@
     "searchText": "The <b>software project management</b> body of knowledge is gradually being renewed across the entire lifecycle. In the <b>conception phase</b>, the focus is on <b>fostering innovation</b> through new approaches such as business analysis and crowdsourcing techniques. In the <b>construction phase</b>, the rise of <b>global software development</b> has shrunk the world and led to new approaches to risk management that take into account factors such as cultural diversity. In the <b>project conclusion</b> phase, new approaches to the evaluation of project success are being introduced, such as project <b>retrospectives</b> and <b>intellectual capital reporting</b>. John Favaro Guest Editor's Introduction: Renewing the Software Project Management Life Cycle 2010 "
   },
   {
-    "quote": "<b>Distributed software projects</b> represent <b>particular risks</b> that need careful managerial attention.",
+    "quote": "Today, many software projects are <b>geographically distributed</b>, so software managers must know how to manage <b>distributed teams</b>. For example, they need to know how to build teams across sites, how to break down and distribute tasks, how to share knowledge across time, space, and cultural differences, and how to coordinate work to produce coherent outcomes.",
     "title": "A Process for Managing Risks in Distributed Teams",
     "year": 2009,
     "number": 1,
@@ -8958,7 +8958,7 @@
     "searchText": "Every new line of code quickly becomes <b>legacy</b>. When that <b>legacy</b> mounts, it forms a significantly massive pile of software, which cannot be ignored. ... what we can do intentionally with such piles, from <b>abandonment</b> to <b>evolution</b> and many <b>things in between</b>. Grady Booch Nine Things You Can Do with Old Software 2008 "
   },
   {
-    "quote": "Three anecdotes show how <b>one member</b> of a work team can <b>decrease</b> the whole <b>team's productivity</b>.",
+    "quote": "<b>One member</b> of a work team can <b>decrease</b> the whole <b>team's productivity</b>.",
     "title": "Negative Productivity and What to Do about It",
     "year": 2008,
     "number": 5,
@@ -9392,7 +9392,7 @@
     "searchText": "A successful project effectively manages four cornerstones - <b>schedule</b>, <b>cost</b>, <b>scope</b>, and <b>quality</b> - to achieve its goals. Every project activity influences these four cornerstones. <b>Stochastic optimization modeling</b> factors in the uncertainties associated with project activities and provides insight into the expected project outputs as probability distributions rather than as deterministic approximations. Uma Sudhakar Rao Chinmay Pradhan Srikanth Kestur Stochastic Optimization Modeling and Quantitative Project Management 2008 "
   },
   {
-    "quote": "Many of today's <b>most innovative products</b> and solutions are developed on the basis of free and <b>open source software</b> (FOSS).",
+    "quote": "<b>Open source</b> refers to software that you may freely use, modify, or distribute provided you observe certain restrictions with respect to copyright and protection of its open source status. A major difference between free and open source software (FOSS) and freeware or public-domain software is that FOSS generally has a copyright. FOSS isn't free software and often <b>requires substantial investment</b> before you can deploy it in the marketplace. ",
     "title": "Open Source Software in Industry",
     "year": 2008,
     "number": 3,
@@ -9975,7 +9975,7 @@
     "searchText": "By harnessing <b>Smalltalk's dynamic nature</b> and reflective capabilities, Seaside is able to incorporate key features such as a component architecture that supports multiple, simultaneously active control flows; programmatical <b>XHTML</b> generation; and on-the-fly debugging, code editing, and recompilation. St&#x00E9;phane Ducasse Lukas Renggli Adrian Lienhard Seaside: A Flexible Environment for Building Dynamic Web Applications 2007 "
   },
   {
-    "quote": "The Semantic Web application framework extends <b>Ruby on Rails</b> to enable rapid development of integrated <b>Semantic Web mash-ups</b>.",
+    "quote": "Although the <b>Semantic Web</b> is <b>data oriented</b> and the <b>World Wide Web</b> is <b>document oriented</b>, both are fundamentally <b>decentralized</b>, <b>heterogeneous</b>, and <b>open</b>. The Semantic Web isn’t a global database, centralized in one location with one agreed-upon schema and one meaning. Instead, anyone can make any statement at any location, using any vocabulary or structure.",
     "title": "A Flexible Integration Framework for Semantic Web 2.0 Applications",
     "year": 2007,
     "number": 5,
@@ -11110,7 +11110,7 @@
     "searchText": "[O]rganizations frequently commit to requirements and contracts to <b>boost short-term revenues</b> without properly aligning sales, product management, project management, and marketing. Such misalignment results in <b>insufficient capacity planning</b> or product-development resource allocation, thus delaying projects. Christof Ebert Understanding the Product Life Cycle: Four Key Requirements Engineering Techniques 2006 "
   },
   {
-    "quote": "<b>Ethno</b>graphies--using video to <b>observe users</b> in their own work environments--can support <b>requirements elicitation</b>.",
+    "quote": "<b>Ethnographies</b> - using video to <b>observe users</b> in their own work environments--can support <b>requirements elicitation</b>.",
     "title": "Supporting Requirements with Video-Based Analysis",
     "year": 2006,
     "number": 3,
@@ -11384,7 +11384,7 @@
     "searchText": "One way to <b>deal with bugs</b> is to <b>avoid them entirely</b> through stringent quality control. To conserve our valuable resources, we can use tools to catch the bugs before they end-up in production code. We can use <b>type-safe</b> languages, pay attention to <b>compiler warnings</b>, adopt specialized <b>bug-finding tools</b>, or we can adjust our code to make it locate bugs during <b>testing</b>. Diomidis Spinellis Bug Busters 2006 "
   },
   {
-    "quote": "Although design is a highly creative activity, we can still <b>learn</b> <b>fundamental design skills</b>--and accomplish a lot with them.",
+    "quote": "Although design is a highly creative activity, we can still <b>learn fundamental design skills</b> - and accomplish a lot with them.",
     "title": "Looking for Powerful Abstractions",
     "year": 2006,
     "number": 1,
@@ -11672,7 +11672,7 @@
     "searchText": "<b>Twenty years</b> is a very long time in the computing field. Yet, <b>SEPM's</b> [software engineering project management] progress has been <b>agonizingly slow</b> in many ways, probably because it's driven more by <b>human behavior</b> than by technology. People change their behavior much more slowly than technology advances.  Arthur B. Pyster Richard H. Thayer Guest Editors' Introduction:  Software Engineering Project Management 20 Years Later 2005 "
   },
   {
-    "quote": "<b>Agile</b> software development processes have shown <b>positive impacts</b> on cost, schedule, and customer satisfaction. ",
+    "quote": "Our discussions with <b>traditional developers and managers</b> concerning <b>agile software development</b> practices nearly always contain two somewhat contradictory ideas. They find that on small, stand-alone projects, agile practices are less burdensome and more in tune with the software industry's increasing needs for rapid development and coping with continuous change. However, they're frustrated with <b>the difficulty of scaling up</b> and integrating them into traditional, top-down systems development organizations.",
     "title": "Management Challenges to Implementing Agile Processes in Traditional Development Organizations",
     "year": 2005,
     "number": 5,
@@ -12482,7 +12482,7 @@
     "searchText": "[I]f <b>developers</b> are willing to <b>work hard</b> and carefully <b>introduce an agile process</b> into their organization, their efforts should yield <b>positive results</b>. David Noftz Rekha Raghu Jerry Drobka Piloting XP on Four Mission-Critical Projects 2004 "
   },
   {
-    "quote": "<b>Apache's Ant</b> tool, like Make, helps automate the code-building process.",
+    "quote": "<b>Routine tasks</b> are the easiest ones for programmers to <b>avoid</b>. So, to develop a single program—even a program with only one file — it's common to have a script that compiles it with the desired options and executes it with some arguments. When your project has hundreds or thousands of files and a large team of developers, the script isn't a utility, but a necessity; it becomes even more critical when the project's structures are complicated and the dependencies are hard to remember.",
     "title": "Ant: Automating the Process of Building Applications",
     "year": 2004,
     "number": 6,
@@ -13230,7 +13230,7 @@
     "searchText": "Mission operators at <b>NASA's Jet Propulsion Laboratory</b> use Science Activity Planners to analyze data acquired by rovers and direct their activities. In designing the SAP for the <b>Mars Exploration Rovers</b> project, developers <b>relied</b> heavily <b>on open source</b> components. They found that using open source software components not only helped keep the project within budget but also resulted in a <b>more robust and flexible</b> tool. Jeffrey S. Norris Poul-Henning Kamp Mission-Critical Development with Open Source Software: Lessons Learned 2004 "
   },
   {
-    "quote": "In a two-phase <b>OSS implementation</b>, Beaumont will <b>save over 30 million</b> euros over five years.",
+    "quote": "The importance of changing the mindset in relation to the new support paradigm implied by <b>open-source software</b> (OSS) is also significant. By and large, reliance on a standard maintenance contract isn't an option, and bulletin boards might be the main source of support. Thus, it is hardly surprising that support from top management is critical. Also, even though OSS may be available at little or no cost, organizations should not expect maintenance and support to be available at a lesser cost than would apply for commercial software. Indeed, OSS represents a good opportunity for small software companies all around the world to treat it as <b>an infrastructure component</b>, like the highway or telecommunications lines, and then use it as a bootstrap to build a service and support business model on top.",
     "title": "Developing an Information Systems Infrastructure with Open Source Software",
     "year": 2004,
     "number": 1,
@@ -13252,7 +13252,7 @@
     "searchText": "In a two-phase <b>OSS implementation</b>, Beaumont will <b>save over 30 million</b> euros over five years. Tony Kenny Brian Fitzgerald Developing an Information Systems Infrastructure with Open Source Software 2004 "
   },
   {
-    "quote": "There are <b>important legal aspects</b> involved in using <b>open source</b> software in commercial products.",
+    "quote": "Any company dealing with <b>OSS</b> needs a <b>few simple rules</b> for using it in product development: Control the introduction and use of OSS; it must be <b>explicitly authorized</b> on a per-version basis. Disseminate <b>technical</b>, <b>managerial</b>, and <b>legal</b> information widely in your company. Systematically qualify OSS components before integrating them.",
     "title": "Using Open Source Software in Product Development: A Primer",
     "year": 2004,
     "number": 1,
@@ -14744,7 +14744,7 @@
     "searchText": "<b>Buffer overflow vulnerabilities</b> are perhaps the single most important security problem of the past decade.  David Larochelle David Evans Improving Security Using Extensible Lightweight Static Analysis 2002 "
   },
   {
-    "quote": "Shout it from the rooftops! <b>Computing and software are maturing</b> into amazing, useful, and—hooray, hooray!—dependable disciplines.",
+    "quote": "Shout it from the rooftops! <b>Computing and software are maturing</b> into amazing, useful, and — hooray, hooray! — dependable disciplines.",
     "title": "Failure Is Looking More like Success These Days",
     "year": 2002,
     "number": 1,
@@ -14816,7 +14816,7 @@
     "searchText": "The <b>SW-CMM</b> focuses on both the <b>management issues</b> ... <b>XP</b>, on the other hand, is a specific <b>set of practices</b>—a 'methodology'—that is effective in the context of small, colocated teams with rapidly changing requirements. <b>Taken together</b>, the two methods can create <b>synergy</b>, particularly in conjunction with other good engineering and management practices.  Mark C. Paulk Extreme Programming from a CMM Perspective 2001 "
   },
   {
-    "quote": "<b>Defect logging</b> and <b>defect data analysis</b> aim to decrease programmers' <b>repetitive errors</b>.",
+    "quote": "All programmers <b>learn from experience</b>. A few are rather fast at it and learn to avoid repeating mistakes after once or twice. Others are slower and repeat mistakes hundreds of times. Most programmers' behavior falls somewhere in between: They reliably <b>learn from their mistakes</b>, but the process is <b>slow and tedious</b>. The probability of making a structurally similar mistake again decreases slightly during each of some dozen repetitions. Because of this a programmer often takes years to learn a certain rule—positive or negative—about his or her behavior. ",
     "title": "Accelerating Learning from Experience: Avoiding Defects Faster",
     "year": 2001,
     "number": 6,
@@ -14966,7 +14966,7 @@
     "searchText": "Most commercial software producers <b>guard access to the source code</b> of their systems, making it difficult for anyone outside their organizations to apply a variety of measures that could potentially improve system security. But since an attacker could also examine public source code to find flaws, would source code access be a net gain or loss for security? ... having <b>source code available</b> should on balance work <b>in favor of system security</b>. Michael Caloyannides Carl Landwehr Brian Witten Does Open Source Improve System Security? 2001 "
   },
   {
-    "quote": "Is developing software <b>easy and automatable</b> or <b>complex and demanding of creativity</b>?",
+    "quote": "There are two widely different views on the <b>nature of software work</b>: (1) It is easy, is automatable, and <b>can be done by anyone</b>. (2) It is <b>the most complex undertaking</b> humanity has ever tried.",
     "title": "A Story about the Creativity Involved in Software Work",
     "year": 2001,
     "number": 5,
@@ -14984,7 +14984,7 @@
     "searchText": "Is developing software <b>easy and automatable</b> or <b>complex and demanding of creativity</b>? Robert L. Glass A Story about the Creativity Involved in Software Work 2001 "
   },
   {
-    "quote": "Modern software systems, even <b>if correct</b>, can still exhibit <b>undesirable behaviors</b> as they execute. ",
+    "quote": "Between the late 1960s and early 1990s, the software engineering community strove to formalize schemes that would lead to <b>perfectly correct software</b>. Although a noble undertaking at first, it soon became apparent that correct software was, in general, unobtainable. And furthermore, the costs, even if achievable, would be overwhelming. Modern software systems, even <b>if correct</b>, can still exhibit <b>undesirable behaviors</b> as they execute. ",
     "title": "Guest Editor's Introduction: Software Fault Tolerance-Making Software Behave",
     "year": 2001,
     "number": 4,
@@ -16168,7 +16168,7 @@
     "searchText": "You <b>cannot go back</b> and <b>add quality</b>. By the time you figure out you have a quality problem, it is probably <b>too late to fix it</b>. John S. Reel Critical Success Factors In Software Projects 1999 "
   },
   {
-    "quote": "Is there a software <b>labor shortage</b>? If so, what are its causes, and what can we do to make up the shortfall?",
+    "quote": "The world has become used to having just about <b>every object, from cars to toasters</b>, equipped with computers. The hardware chip density has for many years followed Moore's law of doubling in capacity every 18 months, and experts agree that there is no end in sight to this trend. The increase in hardware power will continue largely independent of advances in software technology. As hardware performance increases, so will the demand to feed this hardware with software.",
     "title": "Guest Editor's Introduction: What's the Problem: Labor Shortage or Industry Practices?",
     "year": 1999,
     "number": 3,
@@ -16500,7 +16500,7 @@
     "searchText": "Adler differentiates between <b>four levels of reading</b>. <b>Elementary reading</b> ... recognize individual words on a page. <b>Inspectional reading</b> is ... trying to get the most out of a book or article within a <b>given amount of time</b>. <b>Analytical reading</b> is ... by trying to get the most out of a book or article with <b>an unlimited amount of time</b>. <b>Syntopical reading</b> ... involves <b>reading sets of books or articles</b> on a common topic in a way that enables you to extract information that might or might not be present in any of the individual materials studied. Steve McConnell How To Read a Technical Article 1998 "
   },
   {
-    "quote": "<b>Components are 'hot,'</b> and changing at a fast pace.",
+    "quote": "The <b>rate of change</b> in the software world is such that shortly after the ink dries on this issue, we can only hope to have captured a snapshot of a rapidly maturing domain.",
     "title": "Guest Editors' Introduction: Component-Based Software Engineering",
     "year": 1998,
     "number": 5,
@@ -17386,7 +17386,7 @@
     "searchText": "There are approximately <b>670 working days</b> between now and <b>January 1, 2000</b>. Is that enough time to fix the date fields in your programs? John Charles Capers Jones Interview with Capers Jones: Slow Response to Year 2000 Problem 1997 "
   },
   {
-    "quote": "Ben Shneiderman ... presents a conceptual framework for <b>improving Web search</b> interfaces.",
+    "quote": "The goals of consistent design can be clarified by a look at early <b>user interface design for automobiles</b>. Early automobile designers offered their own distinct designs for a profusion of controls. Some designs, such as a brake that was too far from the gas pedal, were dangerous. There was also a consistency issue. If your brake was to the left of the gas pedal and your neighbor's car had the reverse design, it might be risky to trade cars. Achieving good design and appropriate consistency in automobiles took half a century. Let's hope we can make the transition faster for Web-search user interfaces.",
     "title": "A Framework for Search Interfaces",
     "year": 1997,
     "number": 2,
@@ -18158,7 +18158,7 @@
     "searchText": " Erran Carmel John P. Reilly Point-Counterpoint: Does RAD Live Up to the Hype? 1995 "
   },
   {
-    "quote": "<b>Parnas</b> was right and <b>I was wrong</b> about <b>information hinding</b>.",
+    "quote": "The <b>Mythical Man-Month</b> is <b>only incidentally about software</b> but <b>primarily about how people in teams make things</b>.There is surely some truth in this; in the preface to the 1975 edition I said that managing a software project is more like other management than most programmers initially believe. I still believe that to be true. Human history is a drama in which the stories stay the same, the scripts of those stories change slowly with evolving cultures, and the stage settings change all the time. So it is that we see our twentieth-century selves mirrored in Shakespeare, Homer,and the Bible.",
     "title": "The Mythical Man-Month: After 20 Years",
     "year": 1995,
     "number": 5,
@@ -18402,7 +18402,7 @@
     "searchText": "Computer technology is <b>exploding</b>. Friendly interfaces, a full range of media, and unlimited connectivity are pushing technology ever deeper into the fabric of society. How can developers incorporate all this new technology into their applications? Today's development environments are taking advantage of emerging integration standards to offer specialized tools. David Sharon Rodney Bell Tools to Engineer New Technologies into Applications 1995 "
   },
   {
-    "quote": "Tomorrow’s tools will give users a competitive advantage by supporting <b>a coherent development proces</b>.",
+    "quote": "<b>Tools</b> are not the driving force of software technology they used to be. But this does not mean they have become less important; on the contrary, a full set of supporting tools for each development phase is now a basic requirement. It does mean <b>other things are now as important as tools</b>...",
     "title": "The Future Belongs to the Specialized Tool",
     "year": 1995,
     "number": 2,
@@ -19070,7 +19070,7 @@
     "searchText": "A big problem in technology transfer is that <b>no one believes in the product</b>. By using a system of <b>hypotheses and experiments</b>, technology providers can begin to offer <b>real benefits instead of hype</b>. Heinz Saria Christophe Debou Norbert Fuchs Selling Believable Technology 1993 "
   },
   {
-    "quote": "Considers how <b>dynamic queries</b> allow users to <b>'fly through'</b> databases by adjusting widgets and viewing the animated results.",
+    "quote": "For data in which there is a <b>known relationship among variables</b>, the dynamic queries interface is useful for training and <b>education by exploration</b>. For situations in which there are understood correlations, but their complexity makes it difficult for nonexperts to follow, dynamic queries can allow a wider range of people to explore the interactions (among health and demographic variables, a table of elements, and economic or market data, for example).",
     "title": "Dynamic Queries for Visual Information Seeking",
     "year": 1994,
     "number": 6,
