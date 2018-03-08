@@ -3712,7 +3712,7 @@
     "searchText": "It's difficult to express a <b>software architecture's sustainability</b> in a single metric: relevant information is spread across requirements, architecture design documents, <b>technology choices</b>, source code, system context, and software architects' implicit knowledge. Many aspects influence economic sustainability, including design decisions facilitating <b>evolutionary changes</b>, adherence to good <b>modularization practices</b>, and <b>technology choices</b>. Heiko Koziolek Dominik Domis Thomas Goldschmidt Philipp Vorst Measuring Architecture Sustainability 2013 "
   },
   {
-    "quote": "<b>Software product lines (SPL) are <b>long-living systems</b> that enable <b>systematic reuse</b> in application</b> engineering. Product-specific changes over time can result in <b>architecture drift</b>, which requires updating assumptions made in the SPL's reuse infrastructure.",
+    "quote": "<b>Software product lines (SPLs)</b> are <b>long-living systems</b> that enable <b>systematic reuse</b> in application engineering. Product-specific changes over time can result in <b>architecture drift</b>, which requires updating assumptions made in the SPL's reuse infrastructure.",
     "title": "Long-Term Product Line Sustainability with Planned Staged Investments",
     "year": 2013,
     "number": 6,
@@ -4432,7 +4432,7 @@
     "searchText": "<b>Requirements work</b> is really about <b>problem solving</b>. Its primary function is to locate and scope problems, then create and describe solutions for them. Neil Maiden So, What Is Requirements Work? 2013 "
   },
   {
-    "quote": "<b>Quality concerns</b>, often referred to as <b>nonfunctional requirements</b>, <b>service-level agreements</b>, <b>quality attributes</b>, <b><b>performance</b> constraints</b>, or <b>architecturally significant requirements</b>, describe system-level attributes such as <b>security</b>, <b>performance</b>, <b>reliability</b>, and <b>maintainability</b>. In conjunction with functional requirements, these quality concerns drive and constrain a <b>system's architectural design</b> and often introduce significant <b>trade-offs</b> that must be carefully considered and balanced. The dependencies that exist between requirements and architecture have been referred to as the <b>twin peaks</b> of requirements and architecture.",
+    "quote": "<b>Quality concerns</b>, often referred to as <b>nonfunctional requirements</b>, <b>service-level agreements</b>, <b>quality attributes</b>, <b>performance constraints</b>, or <b>architecturally significant requirements</b>, describe system-level attributes such as <b>security</b>, <b>performance</b>, <b>reliability</b>, and <b>maintainability</b>. In conjunction with functional requirements, these quality concerns drive and constrain a <b>system's architectural design</b> and often introduce significant <b>trade-offs</b> that must be carefully considered and balanced. The dependencies that exist between requirements and architecture have been referred to as the <b>twin peaks</b> of requirements and architecture.",
     "title": "The Twin Peaks of Requirements and Architecture",
     "year": 2013,
     "number": 2,
@@ -4632,7 +4632,7 @@
     "searchText": "Computing is transforming every aspect of the human experience. As creators of this technology, what obligations do we have to the <b>general public</b>, for whom we make the <b>complex machinery</b> of computing increasingly invisible? ... it's important for the general public to know something about the <b>technology behind the curtain</b> of computing. Grady Booch The Great and Terrible Oz 2013 "
   },
   {
-    "quote": "Most people think of <b>requirements</b> as things to manipulate at the <b>start of a project</b>. Others, more enlightened, recognize that requirements also have a role toward the end of projects to <b>test compliance</b>. But few people have recognized an active role for requirements during their <b>system's use</b> - to <b>monitor</b> whether the system continues to <b>comply with its <b>requirements</b></b> during its lifetime.",
+    "quote": "Most people think of <b>requirements</b> as things to manipulate at the <b>start of a project</b>. Others, more enlightened, recognize that requirements also have a role toward the end of projects to <b>test compliance</b>. But few people have recognized an active role for requirements during their <b>system's use</b> - to <b>monitor</b> whether the system continues to <b>comply with its requirements</b> during its lifetime.",
     "title": "Monitoring Our Requirements",
     "year": 2013,
     "number": 1,
@@ -5808,7 +5808,7 @@
     "searchText": "Formally speaking, <b>mastering complexity</b> requires a proof of the asymptotic computation, storage, and communication needs of a system. While we don't always do formal specifications and proofs of the properties of our algorithms, the underlying <b>behavior of the algorithms</b> factors into our <b>capacity modeling</b>—and therefore our capital and operational expense planning—in a fundamental way. John Favaro Excellence in Search: An Interview with David Chaiken 2012 "
   },
   {
-    "quote": "<b>Conway's law</b>, also called the <b><b>mirror</b>ing hypothesis</b>, predicts that a development <b>organization</b> will inevitably design <b>systems</b> that <b>mirror</b> its <b>organizational communication</b> structure.",
+    "quote": "<b>Conway's law</b>, also called the <b>mirroring hypothesis</b>, predicts that a development <b>organization</b> will inevitably design <b>systems</b> that <b>mirror</b> its <b>organizational communication</b> structure.",
     "title": "Conway's Law Revisited: The Evidence for a Task-Based Perspective",
     "year": 2012,
     "number": 1,
@@ -12994,7 +12994,7 @@
     "searchText": "For commercial software sold in the <b>general marketplace</b>, many software-planning and design decisions are based not only on meeting user needs but also on various <b>marketplace issues</b>. Many of these issues fall into one of three standard ROI categories: <b>revenue</b>, <b>cost</b>, and <b>risk</b>.  David G. Messerschmitt Clemens Szyperski Marketplace Issues in Software Planning and Design 2004 "
   },
   {
-    "quote": "The trait that I value in effective quality assurance analysts is the ability to question what others often too readily accept. This admirable characteristic manifests itself in three ways: <b>know what you know</b>, <b><b>ask when you do</b>n't</b>, and <b>ask when you do</b>.",
+    "quote": "The trait that I value in effective quality assurance analysts is the ability to question what others often too readily accept. This admirable characteristic manifests itself in three ways: <b>know what you know</b>, <b>ask when you don't</b>, and <b>ask when you do</b>.",
     "title": "On the Virtues of Not Knowing",
     "year": 2004,
     "number": 3,
@@ -13506,7 +13506,7 @@
     "searchText": "<b>Software inspection</b> reduces the number of defects early in the software life cycle. <b>Cost savings</b> are realized because errors are significantly more expensive to eliminate with each successive development phase. An important part of the inspection process is a detailed inspection of the source code .... Recent advances in research on <b>static program analysis</b> can be used to address this aspect of <b>software inspection</b>. Paul Anderson Tim Teitelbaum Thomas Reps Mark Zarins Tool Support for Fine-Grained Software Inspection 2003 "
   },
   {
-    "quote": "We can divide software systems architecturally along two broad dimensions. The first is the <b><b>tarchitect</b>ure</b> or '<b>technical architecture</b>' and the second is the <b><b>marketect</b>ure</b> or '<b>marketing architecture</b>.' I refer to the traditional software architect or chief technologist as the <b>tarchitect</b> and the product-marketing manager, business manager, or program manager responsible for the system as the <b>marketect</b>.",
+    "quote": "We can divide software systems architecturally along two broad dimensions. The first is the <b>tarchitecture</b> or '<b>technical architecture</b>' and the second is the <b>marketecture</b> or '<b>marketing architecture</b>.' I refer to the traditional software architect or chief technologist as the <b>tarchitect</b> and the product-marketing manager, business manager, or program manager responsible for the system as the <b>marketect</b>.",
     "title": "The Difference between Marketecture and Tarchitecture",
     "year": 2003,
     "number": 4,
@@ -13990,7 +13990,7 @@
     "searchText": "The potential benefits of <b>using models</b> are significantly greater in <b>software</b> than in <b>other engineering disciplines</b> because of the potential for a seamless link between models and the systems they represent. Unfortunately, models have <b>rarely produced anticipated benefits</b>. The key lies in <b>resolving pragmatic issues</b> related to the artifacts and culture of the previous generation of software technologies. Bran Selic The Pragmatics of Model-Driven Development 2003 "
   },
   {
-    "quote": "A <b>model</b> is a <b>set of <b>statement</b>s</b> about some <b>system under study</b>. Here, <b>statement</b> means some expression about the SUS that can be considered <b>true or false</b> (although no truth value has to necessarily be assigned at any particular point in time). We can use a model <b>to describe</b> an SUS. In this case, we consider the model <b>correct</b> if all its statements are true for the SUS. ... Alternatively, we can use a <b>model as a specification</b> for an SUS or a class of SUS. In this case, we consider a specific SUS <b>valid</b> relative to this specification if no statement in the model is false for the SUS. ",
+    "quote": "A <b>model</b> is a <b>set of statements</b> about some <b>system under study</b>. Here, <b>statement</b> means some expression about the SUS that can be considered <b>true or false</b> (although no truth value has to necessarily be assigned at any particular point in time). We can use a model <b>to describe</b> an SUS. In this case, we consider the model <b>correct</b> if all its statements are true for the SUS. ... Alternatively, we can use a <b>model as a specification</b> for an SUS or a class of SUS. In this case, we consider a specific SUS <b>valid</b> relative to this specification if no statement in the model is false for the SUS. ",
     "title": "What Models Mean",
     "year": 2003,
     "number": 5,
@@ -18636,7 +18636,7 @@
     "searchText": "Who wants to <b>try new techniques</b> when there are <b>madman prowling for someone to blame or ax</b>? Tom DeMarco Sheila Brady Management-Aided Software Engineering 1994 "
   },
   {
-    "quote": "Many <b>developing countries <b>are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century.",
+    "quote": "Many <b>developing countries</b> are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century.",
     "title": "Globalization of Software Supply and Demand",
     "year": 1994,
     "number": 6,
@@ -18654,7 +18654,7 @@
     "searchText": "Many <b>developing countries <b>are now <b>entering the commercial software domain</b>, and this trend should accelerate in the twenty-first century. Capers Jones Globalization of Software Supply and Demand 1994 "
   },
   {
-    "quote": "The large aspiration to place the whole of <b>software development <b>alongside the <b>established branches <b>as one more branch of engineering is <b>misconceived<b>. ... [O]ur aspiration should be to <b>develop specialized branches of software</b> engineering, each meriting its own place alongside the specialized established branches.",
+    "quote": "The large aspiration to place the whole of <b>software development</b> alongside the <b>established branches <b>as one more branch of engineering is <b>misconceived</b>. ... [O]ur aspiration should be to <b>develop specialized branches of software</b> engineering, each meriting its own place alongside the specialized established branches.",
     "title": "Problems, Methods and Specialization",
     "year": 1994,
     "number": 6,
@@ -19584,7 +19584,7 @@
     "searchText": "Most developers either aren‘t familiar with <b>reliability models</b> or don‘t know bow to select and apply them. But the need for accurate predictions is acute, focusing attention on this comparatively young field.  Pradip K. Srimani Yashwant K. Malaiya Guest Editors' Introduction: Steps to Practical Reliability Measurement 1992 "
   },
   {
-    "quote": "<b>Reliability <b>is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose.",
+    "quote": "<b>Reliability</b> is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose.",
     "title": "Reliability Measurement: From Theory to Practice",
     "year": 1992,
     "number": 4,
@@ -19619,7 +19619,7 @@
     ],
     "authorsList": "Krishna M. Kavi, Robert C. Tausworth, William W. Everett, Frederick T. Sheldon, Ralph Brettschneider, James T. Yu",
     "citation": "Krishna M. Kavi, Robert C. Tausworth, William W. Everett, Frederick T. Sheldon, Ralph Brettschneider, James T. Yu, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.143095\">Reliability Measurement: From Theory to Practice</a>, IEEE Software 1992, no. 4, p. 13",
-    "searchText": "<b>Reliability <b>is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose. Krishna M. Kavi Robert C. Tausworth William W. Everett Frederick T. Sheldon Ralph Brettschneider James T. Yu Reliability Measurement: From Theory to Practice 1992 "
+    "searchText": "<b>Reliability<b>is a probability of <b>failure-free operation</b> for a specified time in a specified environment for a specified purpose. Krishna M. Kavi Robert C. Tausworth William W. Everett Frederick T. Sheldon Ralph Brettschneider James T. Yu Reliability Measurement: From Theory to Practice 1992 "
   },
   {
     "quote": "<b>Reliability</b> is the <b>statistical study of failures</b>, which occur because of some defect in the program. The failure is evident, but you don’t know what mistake is responsible or what you can do to make the failure disappear. <b>Reliability models</b> are supposed to tell you what <b>confidence</b> you can have in the <b>program’s correctness</b>. ",
@@ -20308,7 +20308,7 @@
     "searchText": "<b>Schools</b> represent a challenge for the software industry. Although <b>diverting corporate resources to schools</b> may appear to be folly in the short run, in the long run it is a strategy for survival. [P]rogrammers and their organizations [should] devote their time and services to schools at the primary and secondary levels. Tom DeMarco Making a Difference in the Schools 1990 "
   },
   {
-    "quote": "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can <b>guarantee <b>that software is perfect; they work by <b>proving</b> that the programs are correct; only highly critical systems <b>benefit</b> from their use; they involve <b>complex mathematics</b>; they <b>increase the cost</b> of development; they are <b>incomprehensible <b>to clients; and <b>nobody uses them</b> for real projects.",
+    "quote": "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can <b>guarantee</b> that software is perfect; they work by <b>proving</b> that the programs are correct; only highly critical systems <b>benefit</b> from their use; they involve <b>complex mathematics</b>; they <b>increase the cost</b> of development; they are <b>incomprehensible</b> to clients; and <b>nobody uses them</b> for real projects.",
     "title": "Seven Myths of Formal Methods",
     "year": 1990,
     "number": 5,
@@ -20926,7 +20926,7 @@
     "searchText": "Today tools help systems analysts, so <b>why aren’t they widely used</b>?  Charles F. Martin Second-Generation CASE Tools: A Challenge to Vendors 1988 "
   },
   {
-    "quote": "[C]urrent computer-aided-software engineering (CASE) tools have several <b>inherent limitations <b>that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement.",
+    "quote": "[C]urrent computer-aided-software engineering (CASE) tools have several <b>inherent limitations</b> that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement.",
     "title": "Second-Generation CASE Tools: A Challenge to Vendors",
     "year": 1988,
     "number": 2,

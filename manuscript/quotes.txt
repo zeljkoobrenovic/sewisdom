@@ -1165,7 +1165,7 @@
   
 * * *
 
-| "Current computer-aided-software engineering (CASE) tools have several **inherent limitations **that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement." |
+| "Current computer-aided-software engineering (CASE) tools have several **inherent limitations** that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement." |
 
 
 * * *
@@ -1850,7 +1850,7 @@
   
 * * *
 
-| "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can **guarantee **that software is perfect; they work by **proving** that the programs are correct; only highly critical systems **benefit** from their use; they involve **complex mathematics**; they **increase the cost** of development; they are **incomprehensible **to clients; and **nobody uses them** for real projects." |
+| "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can **guarantee** that software is perfect; they work by **proving** that the programs are correct; only highly critical systems **benefit** from their use; they involve **complex mathematics**; they **increase the cost** of development; they are **incomprehensible** to clients; and **nobody uses them** for real projects." |
 
 
 * * *
@@ -2475,7 +2475,7 @@
   
 * * *
 
-| "**Reliability **is a probability of **failure-free operation** for a specified time in a specified environment for a specified purpose." |
+| "**Reliability** is a probability of **failure-free operation** for a specified time in a specified environment for a specified purpose." |
 
 
 * * *
@@ -3293,7 +3293,7 @@
   
 * * *
 
-| "Many **developing countries **are now **entering the commercial software domain**, and this trend should accelerate in the twenty-first century." |
+| "Many **developing countries** are now **entering the commercial software domain**, and this trend should accelerate in the twenty-first century." |
 
 
 * * *
@@ -3357,7 +3357,7 @@
   
 * * *
 
-| "The large aspiration to place the whole of **software development **alongside the **established branches **as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
+| "The large aspiration to place the whole of **software development** alongside the **established branches **as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
 
 
 * * *
@@ -7869,7 +7869,7 @@
   
 * * *
 
-| "We can divide software systems architecturally along two broad dimensions. The first is the ****tarchitect**ure** or '**technical architecture**' and the second is the ****marketect**ure** or '**marketing architecture**.' I refer to the traditional software architect or chief technologist as the **tarchitect** and the product-marketing manager, business manager, or program manager responsible for the system as the **marketect**." |
+| "We can divide software systems architecturally along two broad dimensions. The first is the **tarchitecture** or '**technical architecture**' and the second is the **marketecture** or '**marketing architecture**.' I refer to the traditional software architect or chief technologist as the **tarchitect** and the product-marketing manager, business manager, or program manager responsible for the system as the **marketect**." |
 
 
 * * *
@@ -7960,7 +7960,7 @@
   
 * * *
 
-| "A **model** is a **set of **statement**s** about some **system under study**. Here, **statement** means some expression about the SUS that can be considered **true or false** (although no truth value has to necessarily be assigned at any particular point in time). We can use a model **to describe** an SUS. In this case, we consider the model **correct** if all its statements are true for the SUS. ... Alternatively, we can use a **model as a specification** for an SUS or a class of SUS. In this case, we consider a specific SUS **valid** relative to this specification if no statement in the model is false for the SUS. " |
+| "A **model** is a **set of statements** about some **system under study**. Here, **statement** means some expression about the SUS that can be considered **true or false** (although no truth value has to necessarily be assigned at any particular point in time). We can use a model **to describe** an SUS. In this case, we consider the model **correct** if all its statements are true for the SUS. ... Alternatively, we can use a **model as a specification** for an SUS or a class of SUS. In this case, we consider a specific SUS **valid** relative to this specification if no statement in the model is false for the SUS. " |
 
 
 * * *
@@ -8365,7 +8365,7 @@
   
 * * *
 
-| "The trait that I value in effective quality assurance analysts is the ability to question what others often too readily accept. This admirable characteristic manifests itself in three ways: **know what you know**, ****ask when you do**n't**, and **ask when you do**." |
+| "The trait that I value in effective quality assurance analysts is the ability to question what others often too readily accept. This admirable characteristic manifests itself in three ways: **know what you know**, **ask when you don't**, and **ask when you do**." |
 
 
 * * *
@@ -14273,7 +14273,7 @@
   
 * * *
 
-| "**Conway's law**, also called the ****mirror**ing hypothesis**, predicts that a development **organization** will inevitably design **systems** that **mirror** its **organizational communication** structure." |
+| "**Conway's law**, also called the **mirroring hypothesis**, predicts that a development **organization** will inevitably design **systems** that **mirror** its **organizational communication** structure." |
 
 
 * * *
@@ -14807,7 +14807,7 @@
   
 * * *
 
-| "Most people think of **requirements** as things to manipulate at the **start of a project**. Others, more enlightened, recognize that requirements also have a role toward the end of projects to **test compliance**. But few people have recognized an active role for requirements during their **system's use** - to **monitor** whether the system continues to **comply with its **requirements**** during its lifetime." |
+| "Most people think of **requirements** as things to manipulate at the **start of a project**. Others, more enlightened, recognize that requirements also have a role toward the end of projects to **test compliance**. But few people have recognized an active role for requirements during their **system's use** - to **monitor** whether the system continues to **comply with its requirements** during its lifetime." |
 
 
 * * *
@@ -15010,7 +15010,7 @@
   
 * * *
 
-| "**Quality concerns**, often referred to as **nonfunctional requirements**, **service-level agreements**, **quality attributes**, ****performance** constraints**, or **architecturally significant requirements**, describe system-level attributes such as **security**, **performance**, **reliability**, and **maintainability**. In conjunction with functional requirements, these quality concerns drive and constrain a **system's architectural design** and often introduce significant **trade-offs** that must be carefully considered and balanced. The dependencies that exist between requirements and architecture have been referred to as the **twin peaks** of requirements and architecture." |
+| "**Quality concerns**, often referred to as **nonfunctional requirements**, **service-level agreements**, **quality attributes**, **performance constraints**, or **architecturally significant requirements**, describe system-level attributes such as **security**, **performance**, **reliability**, and **maintainability**. In conjunction with functional requirements, these quality concerns drive and constrain a **system's architectural design** and often introduce significant **trade-offs** that must be carefully considered and balanced. The dependencies that exist between requirements and architecture have been referred to as the **twin peaks** of requirements and architecture." |
 
 
 * * *
@@ -15614,7 +15614,7 @@
   
 * * *
 
-| "**Software product lines (SPL) are **long-living systems** that enable **systematic reuse** in application** engineering. Product-specific changes over time can result in **architecture drift**, which requires updating assumptions made in the SPL's reuse infrastructure." |
+| "**Software product lines (SPLs)** are **long-living systems** that enable **systematic reuse** in application engineering. Product-specific changes over time can result in **architecture drift**, which requires updating assumptions made in the SPL's reuse infrastructure." |
 
 
 * * *
