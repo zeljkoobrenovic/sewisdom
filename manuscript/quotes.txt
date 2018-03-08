@@ -21,7 +21,7 @@
 
 * * *
 
-| ***Bruce D. Shriver, Bruce D. Shriver, From the Editor-in-Chief, IEEE Software 1984, no. 1, p. 4.***[^foo1] |
+| ***Bruce D. Shriver, From the Editor-in-Chief, IEEE Software 1984, no. 1, p. 4.***[^foo1] |
 
 [^foo1]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.233385>
  
@@ -37,7 +37,7 @@
 
 * * *
 
-| ***Butler W. Lampson, Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo2] |
+| ***Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo2] |
 
 [^foo2]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391>
  
@@ -53,7 +53,7 @@
 
 * * *
 
-| ***Butler W. Lampson, Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo3] |
+| ***Butler W. Lampson, Hints for Computer System Design, IEEE Software 1984, no. 1, p. 11.***[^foo3] |
 
 [^foo3]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391>
  
@@ -96,7 +96,7 @@
 
 * * *
 
-| ***Sir Charles Antony Richard Hoare, Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 11.***[^foo5] |
+| ***Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 11.***[^foo5] |
 
 [^foo5]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042>
  
@@ -112,7 +112,7 @@
 
 * * *
 
-| ***Sir Charles Antony Richard Hoare, Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 16.***[^foo6] |
+| ***Sir Charles Antony Richard Hoare, Programming: Sorcery or Science?, IEEE Software 1984, no. 2, p. 16.***[^foo6] |
 
 [^foo6]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042>
  
@@ -139,7 +139,7 @@
 
 * * *
 
-| ***Peter Wegner, Peter Wegner, Capital-Intensive Software Technology, IEEE Software 1984, no. 3, p. 9.***[^foo7] |
+| ***Peter Wegner, Capital-Intensive Software Technology, IEEE Software 1984, no. 3, p. 9.***[^foo7] |
 
 [^foo7]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384>
  
@@ -155,7 +155,7 @@
 
 * * *
 
-| ***Peter Wegner, Peter Wegner, Capital-Intensive Software Technology Conclusion, IEEE Software 1984, no. 3, p. 43.***[^foo8] |
+| ***Peter Wegner, Capital-Intensive Software Technology Conclusion, IEEE Software 1984, no. 3, p. 43.***[^foo8] |
 
 [^foo8]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234706>
  
@@ -182,7 +182,7 @@
 
 * * *
 
-| ***Mary Shaw, Mary Shaw, Abstraction Techniques in Modern Programming Languages, IEEE Software 1984, no. 4, p. 10.***[^foo9] |
+| ***Mary Shaw, Abstraction Techniques in Modern Programming Languages, IEEE Software 1984, no. 4, p. 10.***[^foo9] |
 
 [^foo9]: <http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384>
  
@@ -213,7 +213,7 @@
 
 * * *
 
-| ***Bertrand Meyer, Bertrand Meyer, On Formalism in Specifications, IEEE Software 1985, no. 1, p. 22.***[^foo10] |
+| ***Bertrand Meyer, On Formalism in Specifications, IEEE Software 1985, no. 1, p. 22.***[^foo10] |
 
 [^foo10]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.229776>
  
@@ -240,7 +240,7 @@
 
 * * *
 
-| ***Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, Ada-Based support for programming-in-the-Large, IEEE Software 1985, no. 2, p. 58.***[^foo11] |
+| ***Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, Ada-Based support for programming-in-the-Large, IEEE Software 1985, no. 2, p. 58.***[^foo11] |
 
 [^foo11]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.230352>
  
@@ -310,7 +310,7 @@
 
 * * *
 
-| ***Joanne L. Martin, Joanne L. Martin, Operating Systems and Environments for Large-Scale Parallel Processors, IEEE Software 1985, no. 4, p. 5.***[^foo14] |
+| ***Joanne L. Martin, Operating Systems and Environments for Large-Scale Parallel Processors, IEEE Software 1985, no. 4, p. 5.***[^foo14] |
 
 [^foo14]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.231051>
  
@@ -337,7 +337,7 @@
 
 * * *
 
-| ***William E. Howden, William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 6.***[^foo15] |
+| ***William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 6.***[^foo15] |
 
 [^foo15]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754>
  
@@ -353,7 +353,7 @@
 
 * * *
 
-| ***William E. Howden, William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 8.***[^foo16] |
+| ***William E. Howden, The Theory and Practice of Foundation Testing, IEEE Software 1985, no. 5, p. 8.***[^foo16] |
 
 [^foo16]: <http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754>
  
@@ -427,7 +427,7 @@
 
 * * *
 
-| ***Brent Hailpern, Brent Hailpern, Guest Editor's Introduction Multiparadigm Languages and Environments, IEEE Software 1986, no. 1, p. 6.***[^foo19] |
+| ***Brent Hailpern, Guest Editor's Introduction Multiparadigm Languages and Environments, IEEE Software 1986, no. 1, p. 6.***[^foo19] |
 
 [^foo19]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.232426>
  
@@ -443,7 +443,7 @@
 
 * * *
 
-| ***Bjarne Stroustrup, Bjarne Stroustrup, Multiparadigm Research: A Survey of Nine Projects, IEEE Software 1986, no. 1, p. 71.***[^foo20] |
+| ***Bjarne Stroustrup, Multiparadigm Research: A Survey of Nine Projects, IEEE Software 1986, no. 1, p. 71.***[^foo20] |
 
 [^foo20]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.232757>
  
@@ -470,7 +470,7 @@
 
 * * *
 
-| ***Duvvuru Sriram, Michael D. Rychener, Duvvuru Sriram, Michael D. Rychener, Knowledge-Based Expert Systems for Engineering, IEEE Software 1986, no. 2, p. 3.***[^foo21] |
+| ***Duvvuru Sriram, Michael D. Rychener, Knowledge-Based Expert Systems for Engineering, IEEE Software 1986, no. 2, p. 3.***[^foo21] |
 
 [^foo21]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.232780>
  
@@ -545,7 +545,7 @@
 
 * * *
 
-| ***Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, Display Strategies for Program Browsing: Concepts and Experiment, IEEE Software 1986, no. 3, p. 16.***[^foo25] |
+| ***Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, Display Strategies for Program Browsing: Concepts and Experiment, IEEE Software 1986, no. 3, p. 16.***[^foo25] |
 
 [^foo25]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.233405>
  
@@ -588,7 +588,7 @@
 
 * * *
 
-| ***Subrata Dasgupta, Robert A. Mueller, Subrata Dasgupta, Robert A. Mueller, Firmware Engineering: The Interaction of Microprogramming and Software Technology, IEEE Software 1986, no. 4, p. 5.***[^foo27] |
+| ***Subrata Dasgupta, Robert A. Mueller, Firmware Engineering: The Interaction of Microprogramming and Software Technology, IEEE Software 1986, no. 4, p. 5.***[^foo27] |
 
 [^foo27]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.233747>
  
@@ -658,7 +658,7 @@
 
 * * *
 
-| ***Robert P. Cook, Robert P. Cook, Modula-2 Experiments Will Help Future Language Designs, IEEE Software 1986, no. 6, p. 4.***[^foo30] |
+| ***Robert P. Cook, Modula-2 Experiments Will Help Future Language Designs, IEEE Software 1986, no. 6, p. 4.***[^foo30] |
 
 [^foo30]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.234419>
  
@@ -674,7 +674,7 @@
 
 * * *
 
-| ***Harlan D. Mills, Harlan D. Mills, Structured Programming: Retrospect and Prospect, IEEE Software 1986, no. 6, p. 61.***[^foo31] |
+| ***Harlan D. Mills, Structured Programming: Retrospect and Prospect, IEEE Software 1986, no. 6, p. 61.***[^foo31] |
 
 [^foo31]: <http://doi.ieeecomputersociety.org/10.1109/MS.1986.229478>
  
@@ -705,7 +705,7 @@
 
 * * *
 
-| ***Bruce D. Shriver, Bruce D. Shriver, Editor in Chief Introduction Reuse revisited, IEEE Software 1987, no. 1, p. 4.***[^foo32] |
+| ***Bruce D. Shriver, Editor in Chief Introduction Reuse revisited, IEEE Software 1987, no. 1, p. 4.***[^foo32] |
 
 [^foo32]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229788>
  
@@ -753,7 +753,7 @@
 
 * * *
 
-| ***Shi-Kuo Chang, Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 29.***[^foo35] |
+| ***Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 29.***[^foo35] |
 
 [^foo35]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792>
  
@@ -769,7 +769,7 @@
 
 * * *
 
-| ***Shi-Kuo Chang, Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 31.***[^foo36] |
+| ***Shi-Kuo Chang, Visual Languages: A Tutorial and Survey, IEEE Software 1987, no. 1, p. 31.***[^foo36] |
 
 [^foo36]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792>
  
@@ -785,7 +785,7 @@
 
 * * *
 
-| ***Steven Pemberton, Steven Pemberton, An Alternative Simple Language and Environment for PCs, IEEE Software 1987, no. 1, p. 56.***[^foo37] |
+| ***Steven Pemberton, An Alternative Simple Language and Environment for PCs, IEEE Software 1987, no. 1, p. 56.***[^foo37] |
 
 [^foo37]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.229797>
  
@@ -828,7 +828,7 @@
 
 * * *
 
-| ***Bertrand Meyer, Bertrand Meyer, Reusability: The Case for Object-Oriented Design, IEEE Software 1987, no. 2, p. 50.***[^foo39] |
+| ***Bertrand Meyer, Reusability: The Case for Object-Oriented Design, IEEE Software 1987, no. 2, p. 50.***[^foo39] |
 
 [^foo39]: <http://doi.ieeecomputersociety.org/10.1109/MS.1987.230097>
  
@@ -1202,7 +1202,7 @@
 
 * * *
 
-| ***Watts S. Humphrey, Watts S. Humphrey, Characterizing the Software Process: A Maturity Framework, IEEE Software 1988, no. 2, p. 73.***[^foo58] |
+| ***Watts S. Humphrey, Characterizing the Software Process: A Maturity Framework, IEEE Software 1988, no. 2, p. 73.***[^foo58] |
 
 [^foo58]: <http://doi.ieeecomputersociety.org/10.1109/52.2014>
  
@@ -1218,7 +1218,7 @@
 
 * * *
 
-| ***Moshe Y. Vardi, Moshe Y. Vardi, The Universal-Relation Data Model for Logical Independence, IEEE Software 1988, no. 2, p. 81.***[^foo59] |
+| ***Moshe Y. Vardi, The Universal-Relation Data Model for Logical Independence, IEEE Software 1988, no. 2, p. 81.***[^foo59] |
 
 [^foo59]: <http://doi.ieeecomputersociety.org/10.1109/52.2015>
  
@@ -1245,7 +1245,7 @@
 
 * * *
 
-| ***Bjarne Stroustrup, Bjarne Stroustrup, What Is Object-Oriented Programming?, IEEE Software 1988, no. 3, p. 10.***[^foo60] |
+| ***Bjarne Stroustrup, What Is Object-Oriented Programming?, IEEE Software 1988, no. 3, p. 10.***[^foo60] |
 
 [^foo60]: <http://doi.ieeecomputersociety.org/10.1109/52.2020>
  
@@ -1373,7 +1373,7 @@
 
 * * *
 
-| ***Deborah Hix, Deborah Hix, Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer, IEEE Software 1989, no. 1, p. 8.***[^foo65] |
+| ***Deborah Hix, Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer, IEEE Software 1989, no. 1, p. 8.***[^foo65] |
 
 [^foo65]: <http://doi.ieeecomputersociety.org/10.1109/MS.1989.10004>
  
@@ -1389,7 +1389,7 @@
 
 * * *
 
-| ***Brad A. Myers, Brad A. Myers, User-Interface Tools: Introduction and Survey, IEEE Software 1989, no. 1, p. 15.***[^foo66] |
+| ***Brad A. Myers, User-Interface Tools: Introduction and Survey, IEEE Software 1989, no. 1, p. 15.***[^foo66] |
 
 [^foo66]: <http://doi.ieeecomputersociety.org/10.1109/52.16898>
  
@@ -2661,7 +2661,7 @@
 
 * * *
 
-| ***Ivar Jacobson, Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 24.***[^foo128] |
+| ***Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 24.***[^foo128] |
 
 [^foo128]: <http://doi.ieeecomputersociety.org/10.1109/52.207218>
  
@@ -2677,7 +2677,7 @@
 
 * * *
 
-| ***Ivar Jacobson, Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 26.***[^foo129] |
+| ***Ivar Jacobson, Is Object Technology Software's Industrial Platform?, IEEE Software 1993, no. 1, p. 26.***[^foo129] |
 
 [^foo129]: <http://doi.ieeecomputersociety.org/10.1109/52.207218>
  
@@ -3373,7 +3373,7 @@
   
 * * *
 
-| "Considers how **dynamic queries** allow users to **'fly through'** databases by adjusting widgets and viewing the animated results." |
+| "For data in which there is a **known relationship among variables**, the dynamic queries interface is useful for training and **education by exploration**. For situations in which there are understood correlations, but their complexity makes it difficult for nonexperts to follow, dynamic queries can allow a wider range of people to explore the interactions (among health and demographic variables, a table of elements, and economic or market data, for example)." |
 
 
 * * *
@@ -3479,7 +3479,7 @@
   
 * * *
 
-| "Tomorrow’s tools will give users a competitive advantage by supporting **a coherent development proces**." |
+| "**Tools** are not the driving force of software technology they used to be. But this does not mean they have become less important; on the contrary, a full set of supporting tools for each development phase is now a basic requirement. It does mean **other things are now as important as tools**..." |
 
 
 * * *
@@ -3736,7 +3736,7 @@
   
 * * *
 
-| "**Parnas** was right and **I was wrong** about **information hinding**." |
+| "The **Mythical Man-Month** is **only incidentally about software** but **primarily about how people in teams make things**.There is surely some truth in this; in the preface to the 1975 edition I said that managing a software project is more like other management than most programmers initially believe. I still believe that to be true. Human history is a drama in which the stories stay the same, the scripts of those stories change slowly with evolving cultures, and the stage settings change all the time. So it is that we see our twentieth-century selves mirrored in Shakespeare, Homer,and the Bible." |
 
 
 * * *
@@ -4419,7 +4419,7 @@
   
 * * *
 
-| "Ben Shneiderman ... presents a conceptual framework for **improving Web search** interfaces." |
+| "The goals of consistent design can be clarified by a look at early **user interface design for automobiles**. Early automobile designers offered their own distinct designs for a profusion of controls. Some designs, such as a brake that was too far from the gas pedal, were dangerous. There was also a consistency issue. If your brake was to the left of the gas pedal and your neighbor's car had the reverse design, it might be risky to trade cars. Achieving good design and appropriate consistency in automobiles took half a century. Let's hope we can make the transition faster for Web-search user interfaces." |
 
 
 * * *
@@ -5242,7 +5242,7 @@
   
 * * *
 
-| "**Components are 'hot,'** and changing at a fast pace." |
+| "The **rate of change** in the software world is such that shortly after the ink dries on this issue, we can only hope to have captured a snapshot of a rapidly maturing domain." |
 
 
 * * *
@@ -5578,7 +5578,7 @@
   
 * * *
 
-| "Is there a software **labor shortage**? If so, what are its causes, and what can we do to make up the shortfall?" |
+| "The world has become used to having just about **every object, from cars to toasters**, equipped with computers. The hardware chip density has for many years followed Moore's law of doubling in capacity every 18 months, and experts agree that there is no end in sight to this trend. The increase in hardware power will continue largely independent of advances in software technology. As hardware performance increases, so will the demand to feed this hardware with software." |
 
 
 * * *
@@ -6609,7 +6609,7 @@
   
 * * *
 
-| "Modern software systems, even **if correct**, can still exhibit **undesirable behaviors** as they execute. " |
+| "Between the late 1960s and early 1990s, the software engineering community strove to formalize schemes that would lead to **perfectly correct software**. Although a noble undertaking at first, it soon became apparent that correct software was, in general, unobtainable. And furthermore, the costs, even if achievable, would be overwhelming. Modern software systems, even **if correct**, can still exhibit **undesirable behaviors** as they execute. " |
 
 
 * * *
@@ -6748,7 +6748,7 @@
   
 * * *
 
-| "Is developing software **easy and automatable** or **complex and demanding of creativity**?" |
+| "There are two widely different views on the **nature of software work**: (1) It is easy, is automatable, and **can be done by anyone**. (2) It is **the most complex undertaking** humanity has ever tried." |
 
 
 * * *
@@ -6823,7 +6823,7 @@
   
 * * *
 
-| "**Defect logging** and **defect data analysis** aim to decrease programmers' **repetitive errors**." |
+| "All programmers **learn from experience**. A few are rather fast at it and learn to avoid repeating mistakes after once or twice. Others are slower and repeat mistakes hundreds of times. Most programmers' behavior falls somewhere in between: They reliably **learn from their mistakes**, but the process is **slow and tedious**. The probability of making a structurally similar mistake again decreases slightly during each of some dozen repetitions. Because of this a programmer often takes years to learn a certain rule—positive or negative—about his or her behavior. " |
 
 
 * * *
@@ -6902,7 +6902,7 @@
   
 * * *
 
-| "Shout it from the rooftops! **Computing and software are maturing** into amazing, useful, and—hooray, hooray!—dependable disciplines." |
+| "Shout it from the rooftops! **Computing and software are maturing** into amazing, useful, and — hooray, hooray! — dependable disciplines." |
 
 
 * * *
@@ -8226,7 +8226,7 @@
   
 * * *
 
-| "In a two-phase **OSS implementation**, Beaumont will **save over 30 million** euros over five years." |
+| "The importance of changing the mindset in relation to the new support paradigm implied by **open-source software** (OSS) is also significant. By and large, reliance on a standard maintenance contract isn't an option, and bulletin boards might be the main source of support. Thus, it is hardly surprising that support from top management is critical. Also, even though OSS may be available at little or no cost, organizations should not expect maintenance and support to be available at a lesser cost than would apply for commercial software. Indeed, OSS represents a good opportunity for small software companies all around the world to treat it as **an infrastructure component**, like the highway or telecommunications lines, and then use it as a bootstrap to build a service and support business model on top." |
 
 
 * * *
@@ -8242,7 +8242,7 @@
   
 * * *
 
-| "There are **important legal aspects** involved in using **open source** software in commercial products." |
+| "Any company dealing with **OSS** needs a **few simple rules** for using it in product development: Control the introduction and use of OSS; it must be **explicitly authorized** on a per-version basis. Disseminate **technical**, **managerial**, and **legal** information widely in your company. Systematically qualify OSS components before integrating them." |
 
 
 * * *
@@ -8782,7 +8782,7 @@
   
 * * *
 
-| "**Apache's Ant** tool, like Make, helps automate the code-building process." |
+| "**Routine tasks** are the easiest ones for programmers to **avoid**. So, to develop a single program—even a program with only one file — it's common to have a script that compiles it with the desired options and executes it with some arguments. When your project has hundreds or thousands of files and a large team of developers, the script isn't a utility, but a necessity; it becomes even more critical when the project's structures are complicated and the dependencies are hard to remember." |
 
 
 * * *
@@ -9385,7 +9385,7 @@
   
 * * *
 
-| "**Agile** software development processes have shown **positive impacts** on cost, schedule, and customer satisfaction. " |
+| "Our discussions with **traditional developers and managers** concerning **agile software development** practices nearly always contain two somewhat contradictory ideas. They find that on small, stand-alone projects, agile practices are less burdensome and more in tune with the software industry's increasing needs for rapid development and coping with continuous change. However, they're frustrated with **the difficulty of scaling up** and integrating them into traditional, top-down systems development organizations." |
 
 
 * * *
@@ -9507,7 +9507,7 @@
   
 * * *
 
-| "Although design is a highly creative activity, we can still **learn** **fundamental design skills**--and accomplish a lot with them." |
+| "Although design is a highly creative activity, we can still **learn fundamental design skills** - and accomplish a lot with them." |
 
 
 * * *
@@ -9849,7 +9849,7 @@
   
 * * *
 
-| "**Ethno**graphies--using video to **observe users** in their own work environments--can support **requirements elicitation**." |
+| "**Ethnographies** - using video to **observe users** in their own work environments--can support **requirements elicitation**." |
 
 
 * * *
@@ -10949,7 +10949,7 @@
   
 * * *
 
-| "The Semantic Web application framework extends **Ruby on Rails** to enable rapid development of integrated **Semantic Web mash-ups**." |
+| "Although the **Semantic Web** is **data oriented** and the **World Wide Web** is **document oriented**, both are fundamentally **decentralized**, **heterogeneous**, and **open**. The Semantic Web isn’t a global database, centralized in one location with one agreed-upon schema and one meaning. Instead, anyone can make any statement at any location, using any vocabulary or structure." |
 
 
 * * *
@@ -11354,7 +11354,7 @@
   
 * * *
 
-| "Many of today's **most innovative products** and solutions are developed on the basis of free and **open source software** (FOSS)." |
+| "**Open source** refers to software that you may freely use, modify, or distribute provided you observe certain restrictions with respect to copyright and protection of its open source status. A major difference between free and open source software (FOSS) and freeware or public-domain software is that FOSS generally has a copyright. FOSS isn't free software and often **requires substantial investment** before you can deploy it in the marketplace. " |
 
 
 * * *
@@ -11792,7 +11792,7 @@
   
 * * *
 
-| "Three anecdotes show how **one member** of a work team can **decrease** the whole **team's productivity**." |
+| "**One member** of a work team can **decrease** the whole **team's productivity**." |
 
 
 * * *
@@ -12010,7 +12010,7 @@
   
 * * *
 
-| "**Distributed software projects** represent **particular risks** that need careful managerial attention." |
+| "Today, many software projects are **geographically distributed**, so software managers must know how to manage **distributed teams**. For example, they need to know how to build teams across sites, how to break down and distribute tasks, how to share knowledge across time, space, and cultural differences, and how to coordinate work to produce coherent outcomes." |
 
 
 * * *
@@ -14209,7 +14209,7 @@
   
 * * *
 
-| "**Model-based testing** (MBT) strives to **automatically** and systematically **generate test cases**. " |
+| "In **model-based testing** (MBT), manually selected algorithms automatically and systematically **generate test cases** from a set of models of the system under test or its environment. Whereas test automation replaces manual test execution with automated test scripts, MBT replaces manual test designs with automated test designs and test generation. " |
 
 
 * * *
@@ -14407,7 +14407,7 @@
   
 * * *
 
-| "**Time zone differences** are a challenge to global software engineering." |
+| "Even the fanciest videoconferencing or 3G holography can't overcome **the fundamental time-zone problem** — that it's sleep time on the other side of the world. Consequently, no miracle technology will overcome time-zone differences." |
 
 
 * * *
@@ -14637,7 +14637,7 @@
   
 * * *
 
-| "**Lean software development**. What principles **deliver value**, and how are they introduced to best manage change?" |
+| "Although some claim that **principles from other fields** can't apply to a creative and design-oriented discipline such as software development, many studies have proven **the simple wisdom** that we all benefit from **empowered and motivated teams**, we build our products faster and with better quality if **market strategy is understood** and **requirements changes managed**, we **learn from previous defects**, we can emphasize **repeatable processes**, and we should build from high-quality components. The software industry is now poised to transform to **customer-centric development**, which translates into both reducing the total life-cycle cost and increasing efficiency and effectiveness by **eliminating waste** and **adding value**." |
 
 
 * * *
@@ -15090,7 +15090,7 @@
   
 * * *
 
-| "How much **software** does it take to land a **spacecraft** safely **on Mars**, and how do you make all that code reliable?" |
+| "There's clearly **no single magic tool** or technique that can be used to secure the reliability of any large and complex software application; rather, it takes good tools, workmanship, and a carefully managed process. The three main control points in this process are **prevention**, **detection**, and **containment**." |
 
 
 * * *
