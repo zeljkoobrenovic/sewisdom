@@ -19131,7 +19131,7 @@
     "searchText": ""
   },
   {
-    "quote": "<b>Safety-critical software</b> must perform as desired and <b>should never fail</b>. The need for dependability stems from the fact that the <b>consequences of failure are extremely high</b>, usually a <b>threat to human life</b>. To write such systems, most now agree that we must adopt rigorous techniques, rooted in mathematics.\n",
+    "quote": "<b>Safety-critical software</b> must perform as desired and <b>should never fail</b>. The need for dependability stems from the fact that the <b>consequences of failure are extremely high</b>, usually a <b>threat to human life</b>. To write such systems, most now agree that we must adopt rigorous techniques, rooted in mathematics.",
     "title": "Guest Editors' Introduction: Critical Task of Writing Dependable Software",
     "year": 1994,
     "number": 1,
@@ -19535,7 +19535,7 @@
     "searchText": ""
   },
   {
-    "quote": "<b>The Shlaer-Mellor object-oriented analysis method</b> provides a structured means of identifying objects within a system by analyzing abstract data types and uses these objects as a basis for building three formal models: <b>information</b>, <b>state</b>, and <b>process</b>.\n",
+    "quote": "<b>The Shlaer-Mellor object-oriented analysis method</b> provides a structured means of identifying objects within a system by analyzing abstract data types and uses these objects as a basis for building three formal models: <b>information</b>, <b>state</b>, and <b>process</b>.",
     "title": "Using the Shlaer-Mellor Object-Oriented Analysis Method",
     "year": 1993,
     "number": 2,
@@ -20235,7 +20235,7 @@
     "searchText": ""
   },
   {
-    "quote": "In a nutshel <b>performance analysis</b> is the measuring, modeling, and tuning of software's time, space, efficiency, and accuracy.\n",
+    "quote": "In a nutshel <b>performance analysis</b> is the measuring, modeling, and tuning of software's time, space, efficiency, and accuracy.",
     "title": "Guest Editors' Introduction: Navigating Complexity to Achieve High Performance",
     "year": 1991,
     "number": 5,
@@ -21145,7 +21145,7 @@
     "searchText": ""
   },
   {
-    "quote": "There are several applications where a <b>universal-relation \ninterface</b> to an existing database-management system is essential. \nThe most obvious example is <b>natural-language</b> interface - \nindeed, it is hard to see how a natural-language interface \ncould reliably use anything else, since it is unreasonable to \nmake the user talk in terms of the <b>database's logical structure</b>.\n",
+    "quote": "There are several applications where a <b>universal-relation interface</b> to an existing database-management system is essential. The most obvious example is <b>natural-language</b> interface - indeed, it is hard to see how a natural-language interface could reliably use anything else, since it is unreasonable to make the user talk in terms of the <b>database's logical structure</b>.",
     "title": "The Universal-Relation Data Model for Logical Independence",
     "year": 1988,
     "number": 2,
@@ -21591,7 +21591,7 @@
     "searchText": ""
   },
   {
-    "quote": "There are two levels of <b>reuse</b> to consider: the reuse of\n<b>ideas and knowledge</b> and the reuse of particular <b>artifacts and components</b>.",
+    "quote": "There are two levels of <b>reuse</b> to consider: the reuse of <b>ideas and knowledge</b> and the reuse of particular <b>artifacts and components</b>.",
     "title": "Clasifying Software for Reusability",
     "year": 1987,
     "number": 1,
@@ -21631,7 +21631,7 @@
     "searchText": ""
   },
   {
-    "quote": "The level of a language is inversely related to the amount of details a user must\nsupply the computer to achieve the desired results. The scope of the language ranges\nfrom the general and widely applicable to the specific and narrowly applicable.",
+    "quote": "The level of a language is inversely related to the amount of details a user must supply the computer to achieve the desired results. The scope of the language ranges from the general and widely applicable to the specific and narrowly applicable.",
     "title": "Visual Languages: A Tutorial and Survey",
     "year": 1987,
     "number": 1,
@@ -21801,7 +21801,7 @@
     "searchText": ""
   },
   {
-    "quote": "One of the major challenges facing project software system managers and\nmaintainers in the 1980's is <b>how  to upgrade</b> large, complex, embedded\nsystem, written a decade or more ago in unstructured languages according to <b>designs that make modification difficult</b>.",
+    "quote": "One of the major challenges facing project software system managers and maintainers in the 1980's is <b>how  to upgrade</b> large, complex, embedded system, written a decade or more ago in unstructured languages according to <b>designs that make modification difficult</b>.",
     "title": "Using Modem Design Practices to Upgrade Aging Software Systems",
     "year": 1986,
     "number": 3,
@@ -22013,7 +22013,7 @@
     "searchText": ""
   },
   {
-    "quote": "System designers should provide for such practical issues as <b>deadlock</b> avoidance, <b>scheduling</b>, necessary and sufficient primitives to allow for <b>synchronization</b>, and the combination of\n<b>multiprogramming</b> (a single system dividing its time and resources among many jobs) and <b>multiprocessing</b> (multiple processing units operating on a single job).",
+    "quote": "System designers should provide for such practical issues as <b>deadlock</b> avoidance, <b>scheduling</b>, necessary and sufficient primitives to allow for <b>synchronization</b>, and the combination of <b>multiprogramming</b> (a single system dividing its time and resources among many jobs) and <b>multiprocessing</b> (multiple processing units operating on a single job).",
     "title": "Operating Systems and Environments for Large-Scale Parallel Processors",
     "year": 1985,
     "number": 4,
@@ -22053,7 +22053,7 @@
     "searchText": ""
   },
   {
-    "quote": "In essence, <b>programming-in-the large</b> involves the two complementary activities of modularization and interface control. <b>Modularization</b> is the identification of the major system modules and the entities those modules\ncontain, where entities are language elements that are given names, such as\nsubprograms, data objects, and types. <b>Interface control</b> is the specification\nand control of the interactions among entities in different modules.",
+    "quote": "In essence, <b>programming-in-the large</b> involves the two complementary activities of modularization and interface control. <b>Modularization</b> is the identification of the major system modules and the entities those modules contain, where entities are language elements that are given names, such as subprograms, data objects, and types. <b>Interface control</b> is the specification and control of the interactions among entities in different modules.",
     "title": "Ada-Based support for programming-in-the-Large",
     "year": 1985,
     "number": 2,
@@ -22079,7 +22079,7 @@
     "searchText": ""
   },
   {
-    "quote": "Engineers may be able to design a <b>better interface</b> if they take into account the <b>control structures</b> underlying the <b>interface syntax</b>.The <b>syntactic</b>, <b>semantic</b>, and <b>protocol</b> aspects of\nthe interface each have their <b>own 'complexity.'</b>.",
+    "quote": "Engineers may be able to design a <b>better interface</b> if they take into account the <b>control structures</b> underlying the <b>interface syntax</b>.The <b>syntactic</b>, <b>semantic</b>, and <b>protocol</b> aspects of the interface each have their <b>own 'complexity.'</b>.",
     "title": "Assessing the Usability of Human-Computer Interfaces",
     "year": 1985,
     "number": 2,
@@ -22097,7 +22097,7 @@
     "searchText": ""
   },
   {
-    "quote": "The use of <b>formal notation</b> does not, however, preclude that of <b>natural language</b>. In fact, mathematical specification  of a problem usually leads to a  better natural-language description. This is because formal notations naturally lead the specifier to <b>raise\nsome questions</b> that might have remained unasked, and thus unanswered, in an informal approach.",
+    "quote": "The use of <b>formal notation</b> does not, however, preclude that of <b>natural language</b>. In fact, mathematical specification  of a problem usually leads to a  better natural-language description. This is because formal notations naturally lead the specifier to <b>raise some questions</b> that might have remained unasked, and thus unanswered, in an informal approach.",
     "title": "On Formalism in Specifications",
     "year": 1985,
     "number": 1,
@@ -22205,7 +22205,7 @@
     "searchText": ""
   },
   {
-    "quote": "Booch offers a software design methodology, which he calls \"<b>object-oriented design</b>\" in contrast to earlier popular methods he designates as either <b>functional</b> or <b>data-oriented</b>. In contrast to\nsuggestions that we either identify a program's principal function and describe it in the top box in a hierarchy chart or carefully identify the patterns of data and their flows, Booch suggests, 'Define the problem, develop an informal strategy; formalize the strategy.'",
+    "quote": "Booch offers a software design methodology, which he calls \"<b>object-oriented design</b>\" in contrast to earlier popular methods he designates as either <b>functional</b> or <b>data-oriented</b>. In contrast to suggestions that we either identify a program's principal function and describe it in the top box in a hierarchy chart or carefully identify the patterns of data and their flows, Booch suggests, 'Define the problem, develop an informal strategy; formalize the strategy.'",
     "title": "Review of Grady Booch's book 'Software Engineering with Ada'",
     "year": 1984,
     "number": 1,

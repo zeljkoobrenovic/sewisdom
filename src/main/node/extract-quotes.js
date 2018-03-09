@@ -1,12 +1,12 @@
 const fs = require('fs');
 
 var issues = [
-    "January / February",
-    "March / April",
-    "May / June",
-    "July / August",
-    "September / October",
-    "November / December"
+    "January",
+    "March",
+    "May",
+    "July",
+    "September",
+    "November"
 ]
 
 var issues1984 = [
@@ -26,7 +26,7 @@ var run = function (id, startYear, endYear) {
         var i = 0;
 
         quotes.filter(function (q) {
-            return q.year >= startYear && q.year <= endYear;
+            return q.title && q.year >= startYear && q.year <= endYear;
         }).sort(function (a, b) {
             return (a.year * 100000 + a.number * 1000 + a.page) - (b.year * 100000 + b.number * 1000 + b.page);
         }).forEach(function (q) {
@@ -68,7 +68,7 @@ var run = function (id, startYear, endYear) {
                 quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + "." + footnoteId;
 
             quote += "*|\n\n";
-            quote += footnoteId + ": <" + q.doiLink + ">";
+            quote += footnoteId + ": [DOI: " + q.doiLink.replace("http://doi.ieeecomputersociety.org/", "") +" ](" + q.doiLink + ")";
 
             quote += "\n";
 
