@@ -56,7 +56,7 @@ var run = function (id, startYear, endYear) {
             quote = quote.replace(/\n/g, " ");
 
             quote = "  \n* * *\n\n| \"" + quote + "\" |\n";
-            quote += "\n\n* * *\n\n";
+            quote += "\n\n\n\n";
             quote += "|*";
             quote += q.authorsList + ", ";
             quote += "**" + q.title + "**, ";
@@ -72,7 +72,7 @@ var run = function (id, startYear, endYear) {
 
             quote += "\n";
 
-            text += quote + " \n \n{pagebreak}\n\n\n";
+            text += quote + " \n \n\n\n\n";
             console.log(quote);
         });
 
