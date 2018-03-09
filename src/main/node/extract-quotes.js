@@ -55,9 +55,9 @@ var run = function (id, startYear, endYear) {
             quote = quote.replace(/"/g, "'");
             quote = quote.replace(/\n/g, " ");
 
-            quote = "  \n* * *\n\n\"" + quote + "\"\n";
-            quote += "\n\n\n\n";
-            quote += "*";
+            quote = "  \n* * *\n\n| \"" + quote + "\" |\n";
+            quote += "\n\n* * *\n\n";
+            quote += "|*";
             quote += q.authorsList + ", ";
             quote += "**" + q.title + "**, ";
             var footnoteId = "[^foo" + i + "]";
@@ -67,12 +67,12 @@ var run = function (id, startYear, endYear) {
             else
                 quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + "." + footnoteId;
 
-            quote += "*\n\n";
+            quote += "*|\n\n";
             quote += footnoteId + ": [DOI: " + q.doiLink.replace("http://doi.ieeecomputersociety.org/", "") +" ](" + q.doiLink + ")";
 
             quote += "\n";
 
-            text += quote + " \n \n\n\n\n";
+            text += quote + " \n \n{pagebreak}\n\n\n";
             console.log(quote);
         });
 
