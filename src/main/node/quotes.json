@@ -17990,23 +17990,7 @@
     "page": 55,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/52.476286",
     "selected": false,
-    "authors": [
-      {
-        "name": "Hans Aerts",
-        "link": ""
-      },
-      {
-        "name": "Jan Rooijmans",
-        "link": ""
-      },
-      {
-        "name": "Michiel Van Genuchten",
-        "link": ""
-      }
-    ],
-    "authorsList": "Hans Aerts, Jan Rooijmans, Michiel Van Genuchten",
-    "citation": "Hans Aerts, Jan Rooijmans, Michiel Van Genuchten, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.476286\">Software Quality in Consumer Electronics Products</a>, IEEE Software 1996, no. 1, p. 55",
-    "searchText": ""
+    "authorsList": "Hans Aerts, Jan Rooijmans, Michiel Van Genuchten"
   },
   {
     "quote": "[T]he <b>need to be beautiful</b> and produce more elaborate and <b>polished designs</b> changes our traditionally restrained and functionality-oriented design focus.",
