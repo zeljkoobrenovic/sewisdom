@@ -17,8 +17,7 @@
     "number": 5,
     "page": 22,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2016.112",
-    "authorsList": "M. Vierhauser, R. Rabiser, P. Granbacher",
-    "citation": "M. Vierhauser, R. Rabiser, P. Granbacher, “Monitoring Requirements in Systems of Systems”, IEEE Software 2016 (issue 5), p. 22"
+    "authorsList": "Michael Vierhauser, Rick Rabiser, Paul Granbacher"
   },
   {
     "quote": "<b>The fast-changing nature</b> of our field is one of the things that make working in software so much <b>fun</b> — and so <b>challenging</b>.",
@@ -37,7 +36,7 @@
     "number": 5,
     "page": 10,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2005.137",
-    "authorsList": "A. B. Pyster and R. H. Thayer",
+    "authorsList": "Arthur B. Pyster, Richard H. Thayer",
     "citation": ""
   },
   {
@@ -47,8 +46,7 @@
     "number": 5,
     "page": 80,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2015.78",
-    "authorsList": "H. M. Sneed and C. Verhoef",
-    "citation": "H. M. Sneed and C. Verhoef, From Software Development to Software Assembly, in IEEE Software, vol. 33, no. 5, pp. 80-85, 2016"
+    "authorsList": "Harry M. Sneed, Chris Verhoef"
   },
   {
     "quote": "The capacity to <b>reflect on past practice</b> is important for continuous learning in software development. Reflection often takes place in cycles of experience followed by conscious application of learning from that experience, during which a software developer might explore comparisons, ponder alternatives, take diverse perspectives, and draw inferences, especially in new and/or complex situations.",
@@ -57,7 +55,7 @@
     "number": 4,
     "page": 32,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2014.97",
-    "authorsList": "T. Dybea, N. Maiden, R. L. Glass",
+    "authorsList": "Tore Dyba, Neil Maiden, Robert Glass",
     "citation": "T. Dybea, N. Maiden, R. L. Glass, The Reflective Software Engineer: Reflective Practice, IEEE Software 2014 (issue 4), p. 32"
   },
   {
@@ -67,7 +65,7 @@
     "number": 6,
     "page": 98,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2016.153",
-    "authorsList": "G. J. Holzmann",
+    "authorsList": "Gerard J. Holzmann",
     "citation": "G. J. Holzmann, Hi Maintenance - IEEE Software 2016 (issue 6), p. 98"
   },
   {
@@ -87,7 +85,7 @@
     "number": 5,
     "page": 19,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2013.103",
-    "authorsList": "D. Spinellis",
+    "authorsList": "Diomidis Spinellis",
     "citation": ""
   },
   {
@@ -97,7 +95,7 @@
     "number": 4,
     "page": 107,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/52.31661",
-    "authorsList": "E. Chikofsky",
+    "authorsList": "Elliot Chikofsky",
     "citation": ""
   },
   {
@@ -107,7 +105,7 @@
     "number": 6,
     "page": 96,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2014.140",
-    "authorsList": "T. Kaatz",
+    "authorsList": "Tobias Kaatz",
     "citation": ""
   },
   {
@@ -117,7 +115,7 @@
     "number": 5,
     "page": 20,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2010.119",
-    "authorsList": "D. Wampler, T. Clark",
+    "authorsList": "Dean Wampler, Tony Clark",
     "citation": ""
   },
   {
@@ -127,7 +125,7 @@
     "number": 1,
     "page": 51,
     "doiLink": "https://doi.ieeecomputersociety.org/10.1109/MS.2017.4541039",
-    "authorsList": "Y. Yang, D. Falessi, T. Menzies and J. Hihn",
+    "authorsList": "Ye Yang, Davide Falessi, Tim Menzies and Jairus Hihn",
     "citation": ""
   },
   {
@@ -151,16 +149,6 @@
     "page": 20,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2017.14",
     "selected": false,
-    "authors": [
-      {
-        "name": "Elizabeth Bjarnason",
-        "link": ""
-      },
-      {
-        "name": "Markus Borg",
-        "link": ""
-      }
-    ],
     "authorsList": "Elizabeth Bjarnason, Markus Borg",
     "citation": "Elizabeth Bjarnason, Markus Borg, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2017.14\">Aligning Requirements and Testing: Working Together toward the Same Goal</a>, IEEE Software 2017, no. 1, p. 20",
     "searchText": ""
@@ -173,24 +161,6 @@
     "page": 24,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2017.28",
     "selected": false,
-    "authors": [
-      {
-        "name": "Xabier Larrucea",
-        "link": ""
-      },
-      {
-        "name": "Annie Combelles",
-        "link": ""
-      },
-      {
-        "name": "John Favaro",
-        "link": ""
-      },
-      {
-        "name": "Kunal Taneja",
-        "link": ""
-      }
-    ],
     "authorsList": "Xabier Larrucea, Annie Combelles, John Favaro, Kunal Taneja",
     "citation": "Xabier Larrucea, Annie Combelles, John Favaro, Kunal Taneja, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2017.28\">Software Engineering for the Internet of Things</a>, IEEE Software 2017, no. 1, p. 24",
     "searchText": ""
@@ -3932,23 +3902,7 @@
     "page": 22,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2013.111",
     "selected": false,
-    "authors": [
-      {
-        "name": "N. Serrano",
-        "link": ""
-      },
-      {
-        "name": "J. Hernantes",
-        "link": ""
-      },
-      {
-        "name": "G. Gallardo",
-        "link": ""
-      }
-    ],
-    "authorsList": "N. Serrano, J. Hernantes, G. Gallardo",
-    "citation": "N. Serrano, J. Hernantes, G. Gallardo, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.111\">Mobile Web Apps</a>, IEEE Software 2013, no. 5, p. 22",
-    "searchText": ""
+    "authorsList": "Nicolás Serrano, Josune Hernantes, Gorka Gallardo"
   },
   {
     "quote": "With <b>software analytics</b>, software practitioners explore and analyze data to obtain insightful, actionable information for tasks regarding software development, systems, and users. The <b>StackMine</b> project produced a software analytics system for <b>Microsoft product teams</b>.",
@@ -3996,27 +3950,7 @@
     "page": 38,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2013.95",
     "selected": false,
-    "authors": [
-      {
-        "name": "J. M. Gonzalez-Barahona",
-        "link": ""
-      },
-      {
-        "name": "D. Izquierdo-Cortazar",
-        "link": ""
-      },
-      {
-        "name": "S. Maffulli",
-        "link": ""
-      },
-      {
-        "name": "G. Robles",
-        "link": ""
-      }
-    ],
-    "authorsList": "J. M. Gonzalez-Barahona, D. Izquierdo-Cortazar, S. Maffulli, G. Robles",
-    "citation": "J. M. Gonzalez-Barahona, D. Izquierdo-Cortazar, S. Maffulli, G. Robles, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.95\">Understanding How Companies Interact with Free Software Communities</a>, IEEE Software 2013, no. 5, p. 38",
-    "searchText": ""
+    "authorsList": "Jesus M. Gonzalez-Barahona, Daniel Izquierdo-Cortazar, Stefano Maffulli, Gregorio Robles"
   },
   {
     "quote": "Amisoft, a <b>Chilean software company</b> with <b>43 employees</b>, successfully uses <b>software analytics</b> in its projects. These support a variety of <b>strategic and tactical decisions</b>, resulting in <b>less overwork</b> of employees. However, the analytics done at Amisoft are <b>very different</b> from the ones used in larger companies.",
@@ -4026,23 +3960,7 @@
     "page": 46,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2013.92",
     "selected": false,
-    "authors": [
-      {
-        "name": "R. Robbes",
-        "link": ""
-      },
-      {
-        "name": "R. Vidal",
-        "link": ""
-      },
-      {
-        "name": "M. C. Bastarrica",
-        "link": ""
-      }
-    ],
-    "authorsList": "R. Robbes, R. Vidal, M. C. Bastarrica",
-    "citation": "R. Robbes, R. Vidal, M. C. Bastarrica, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.92\">Are Software Analytics Efforts Worthwhile for Small Companies? The Case of Amisoft</a>, IEEE Software 2013, no. 5, p. 46",
-    "searchText": ""
+    "authorsList": "Romain Robbes, René Vidal, María Cecilia Bastarrica"
   },
   {
     "quote": "<b>Software analytics</b> guide practitioners in <b>decision making</b> throughout the software development process. In this context, <b>prediction models</b> help managers efficiently organize their resources and identify problems by <b>analyzing patterns</b> on existing project data in an intelligent and meaningful manner.",
@@ -4052,27 +3970,7 @@
     "page": 54,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2013.93",
     "selected": false,
-    "authors": [
-      {
-        "name": "A. T. Misirli",
-        "link": ""
-      },
-      {
-        "name": "B. Caglayan",
-        "link": ""
-      },
-      {
-        "name": "A. Bener",
-        "link": ""
-      },
-      {
-        "name": "B. Turhan",
-        "link": ""
-      }
-    ],
-    "authorsList": "A. T. Misirli, B. Caglayan, A. Bener, B. Turhan",
-    "citation": "A. T. Misirli, B. Caglayan, A. Bener, B. Turhan, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.93\">A Retrospective Study of Software Analytics Projects: In-Depth Interviews with Practitioners</a>, IEEE Software 2013, no. 5, p. 54",
-    "searchText": ""
+    "authorsList": "Ayse Tosun Misirli, Ayse Tosun Misirli, Ayse Bener, Burak Turhan"
   },
   {
     "quote": "As the last standardization effort was done in 2004, the software engineering curriculum is currently being revised. Haven't we reached the point where <b>agile development</b> should be <b>part of all software engineering curricula</b>? And if so, shouldn't new curriculum standards ensure that it is?",
@@ -4082,19 +3980,7 @@
     "page": 88,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2013.109",
     "selected": false,
-    "authors": [
-      {
-        "name": "A. Fox",
-        "link": ""
-      },
-      {
-        "name": "D. Patterson",
-        "link": ""
-      }
-    ],
-    "authorsList": "A. Fox, D. Patterson",
-    "citation": "A. Fox, D. Patterson, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2013.109\">Is the New Software Engineering Curriculum Agile?</a>, IEEE Software 2013, no. 5, p. 88",
-    "searchText": ""
+    "authorsList": "Armando Fox, David Patterson"
   },
   {
     "quote": "For those on the outside of the <b>curtain of computing</b>, there is <b>much mystery</b> behind the matter of software-intensive systems. To some, it looks like magic; to most, its inner workings are irrelevant insofar that it simply works. To those of us behind the curtain, however, we know that such systems are filled with <b>chaos, regularity, and beauty</b>.",
@@ -5156,23 +5042,7 @@
     "page": 33,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2012.109",
     "selected": false,
-    "authors": [
-      {
-        "name": "R. L. Nord",
-        "link": ""
-      },
-      {
-        "name": "I. Ozkaya",
-        "link": ""
-      },
-      {
-        "name": "R. S. Sangwan",
-        "link": ""
-      }
-    ],
-    "authorsList": "R. L. Nord, I. Ozkaya, R. S. Sangwan",
-    "citation": "R. L. Nord, I. Ozkaya, R. S. Sangwan, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2012.109\">Making Architecture Visible to Improve Flow Management in Lean Software Development</a>, IEEE Software 2012, no. 5, p. 33",
-    "searchText": ""
+    "authorsList": "Robert L. Nord, Ipek Ozkaya, Raghvinder S. Sangwan"
   },
   {
     "quote": "Modern <b>virtualization technology</b> allows us to run operating systems in a virtual machine that can be hosted on facilities ranging from our laptop to a datacenter in the cloud. It's thus possible to create <b>a virtualized development environment</b> that contains all the tools, applications, and libraries that a programmer requires. This speeds up developer setup time, brings economies of scale, introduces parity between development and production environments, allows the use of platform-specific tools, and simplifies embedded-system development. Using VMs, testers can ensure a <b>pristine environment</b> and access to diverse (virtual) platforms. Deployment is also simplified by packaging all the system's components and setup into a <b>VM appliance</b>. Finally, on the operations side, VMs make it easier for a system to support application <b>provisioning</b>, <b>maintenance windows</b>, <b>high availability</b>, and <b>disaster recovery</b>.",
@@ -10053,7 +9923,7 @@
         "link": ""
       }
     ],
-    "authorsList": "F. Hank Grant, Suleyman Karabuk",
+    "authorsList": "Suleyman Karabuk, F. Hank Grant",
     "citation": "F. Hank Grant, Suleyman Karabuk, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2007.125\">A Common Medium for Programming Operations-Research Models</a>, IEEE Software 2007, no. 5, p. 39",
     "searchText": ""
   },
@@ -11218,7 +11088,7 @@
         "link": ""
       }
     ],
-    "authorsList": "E. Ashlee Holbrook, Jane Hayes, Nancy Eickelmann",
+    "authorsList": "Jane Huffman Hayes, Nancy Eickelmann, E. Ashlee Holbrook, Frank Perry",
     "citation": "E. Ashlee Holbrook, Jane Hayes, Nancy Eickelmann, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2006.83\">Security and Software Quality: An Interview with Frank Perry</a>, IEEE Software 2006, no. 3, p. 12",
     "searchText": ""
   },
@@ -12948,19 +12818,7 @@
     "page": 54,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.2004.12",
     "selected": false,
-    "authors": [
-      {
-        "name": "A. G? Koru",
-        "link": ""
-      },
-      {
-        "name": "Jeff Tian",
-        "link": ""
-      }
-    ],
-    "authorsList": "A. G? Koru, Jeff Tian",
-    "citation": "A. G? Koru, Jeff Tian, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.2004.12\">Defect Handling in Medium and Large Open Source Projects</a>, IEEE Software 2004, no. 4, p. 54",
-    "searchText": ""
+    "authorsList": "Günes Koru, Jeff Tian"
   },
   {
     "quote": "<b>[I]ncremental change</b> activities [include]: change request, concept extraction, concept location, impact analysis, actualization, incorporation, change propagation, refactoring, and role splitting ...",
@@ -18012,7 +17870,7 @@
         "link": ""
       }
     ],
-    "authorsList": "M. Chandra Shekaran, Jawed Siddiqi",
+    "authorsList": "Jawed Siddiqi, M. Chandra Shekaran",
     "citation": "M. Chandra Shekaran, Jawed Siddiqi, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1996.506458\">Requirements Engineering: The Emerging Wisdom</a>, IEEE Software 1996, no. 2, p. 15",
     "searchText": ""
   },
@@ -18122,15 +17980,7 @@
     "page": 33,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/52.476284",
     "selected": false,
-    "authors": [
-      {
-        "name": "R. Geoff Dromey",
-        "link": ""
-      }
-    ],
-    "authorsList": "R. Geoff Dromey",
-    "citation": "R. Geoff Dromey, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/52.476284\">Cornering the Chimera</a>, IEEE Software 1996, no. 1, p. 33",
-    "searchText": ""
+    "authorsList": "R. Geoff Dromey"
   },
   {
     "quote": "In 1991, <b>Philips' CEO</b> named a <b>Software Process Improvement task force</b> to focus on the increasing importance of software ... In addition to improving its processes, the organization improved its requirements-and-design engineering architecture and its <b>inspections</b>, and it <b>introduced metrics</b>.",
@@ -21352,23 +21202,7 @@
     "page": 8,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.1987.230394",
     "selected": false,
-    "authors": [
-      {
-        "name": "S. Isoda",
-        "link": ""
-      },
-      {
-        "name": "Y. Ono",
-        "link": ""
-      },
-      {
-        "name": "T. Shimomura",
-        "link": ""
-      }
-    ],
-    "authorsList": "S. Isoda, Y. Ono, T. Shimomura",
-    "citation": "S. Isoda, Y. Ono, T. Shimomura, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.230394\">VIPS: A Visual Debugger</a>, IEEE Software 1987, no. 3, p. 8",
-    "searchText": ""
+    "authorsList": "Sadahiro Isoda, Yuji Ono, Takao Shimomura"
   },
   {
     "quote": "Smalltalk promotes <b>fearless</b> programming.",
@@ -21378,19 +21212,7 @@
     "page": 50,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.1987.230707",
     "selected": false,
-    "authors": [
-      {
-        "name": "J. Diederich",
-        "link": ""
-      },
-      {
-        "name": "J. Milton",
-        "link": ""
-      }
-    ],
-    "authorsList": "J. Diederich, J. Milton",
-    "citation": "J. Diederich, J. Milton, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.230707\">Experimental Prototyping in Smalltalk</a>, IEEE Software 1987, no. 3, p. 50",
-    "searchText": ""
+    "authorsList": "Jim Diederich, Jack Milton"
   },
   {
     "quote": "<b>No one likes to debug programs</b>, and there is no way to automate the task.",
@@ -21482,7 +21304,7 @@
   },
   {
     "quote": "<b>Reusing</b> and <b>reworking</b> software is not new; it has been done since the very beginnings of our industry in the early 1950s. Reuse means using an entity in a different context from that in it initially had been used. This is often called <b>'black-box' reuse</b>. When an entity is modified before it is used in the new setting, it is called \"rework\" or <b>'white-box' reuse</b>.",
-    "title": "Editor in Chief Introduction Reuse revisited",
+    "title": "Editor in Chief Introduction Reuse Revisited",
     "year": 1987,
     "number": 1,
     "page": 4,
@@ -21561,24 +21383,6 @@
     "searchText": ""
   },
   {
-    "quote": "The level of a language is inversely related to the amount of details a user must supply the computer to achieve the desired results. The scope of the language ranges from the general and widely applicable to the specific and narrowly applicable.",
-    "title": "Visual Languages: A Tutorial and Survey",
-    "year": 1987,
-    "number": 1,
-    "page": 31,
-    "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792",
-    "selected": false,
-    "authors": [
-      {
-        "name": "Shi-Kuo Chang",
-        "link": "https://en.wikipedia.org/wiki/Shi-Kuo_Chang"
-      }
-    ],
-    "authorsList": "Shi-Kuo Chang",
-    "citation": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Shi-Kuo_Chang\">Shi-Kuo Chang</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792\">Visual Languages: A Tutorial and Survey</a>, IEEE Software 1987, no. 1, p. 31",
-    "searchText": ""
-  },
-  {
     "quote": "<b>ABC</b> is being designed and implemented with an <b>integrated programming environment</b>. ... [T]he main design objectives ... : <b>simplicity</b>, suitability for <b>interactive use</b>, and <b>availability of tools</b> for structured programming.",
     "title": "An Alternative Simple Language and Environment for PCs",
     "year": 1987,
@@ -21593,7 +21397,6 @@
       }
     ],
     "authorsList": "Steven Pemberton",
-    "citation": "<a target=\"_blank\" href=\"http://homepages.cwi.nl/~steven/\">Steven Pemberton</a>, <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1987.229797\">An Alternative Simple Language and Environment for PCs</a>, IEEE Software 1987, no. 1, p. 56",
     "searchText": ""
   },
   {
@@ -21658,13 +21461,7 @@
     "page": 34,
     "doiLink": "http://doi.ieeecomputersociety.org/10.1109/MS.1986.234396",
     "selected": false,
-    "authors": [
-      {
-        "name": "M. Malek et al.",
-        "link": ""
-      }
-    ],
-    "authorsList": "M. Malek et al.",
+    "authorsList": "Paul A. Suhler, Nadar Bagherzadeh, Miroslaw Malek, Neil Iscoe",
     "citation": "M. Malek et al., <a target=\"_blank\" href=\"http://doi.ieeecomputersociety.org/10.1109/MS.1986.234396\">Software Authorization Systems</a>, IEEE Software 1986, no. 5, p. 34",
     "searchText": ""
   },
