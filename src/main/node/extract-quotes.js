@@ -1,5 +1,21 @@
 const fs = require('fs');
 
+var issues = [
+    "January / February",
+    "March / April",
+    "May / June",
+    "July / August",
+    "September / October",
+    "November / December"
+]
+
+var issues1984 = [
+    "January",
+    "April",
+    "July",
+    "October"
+]
+
 var run = function (id, startYear, endYear) {
     fs.readFile('quotes.json', 'utf8', function (err, contents) {
         var quotes = JSON.parse(contents);
@@ -40,7 +56,15 @@ var run = function (id, startYear, endYear) {
             quote = quote.replace(/\n/g, " ");
 
             quote = "  \n* * *\n\n| \"" + quote + "\" |\n";
-            quote += "\n\n* * *\n\n| ***" + q.citation.replace(/<.*?>/g, "") + ".***[^foo" + i + "] |\n\n";
+            quote += "\n\n* * *\n\n";
+            quote += "|";
+            quote += q.authorsList + ", ";
+            quote += "**" + q.title + "**, ";
+            if (q.year === 1984)
+                quote += "IEEE Software, " + issues1984[q.number - 1] + " " + q.year + ".";
+            else
+                quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + ".";
+            quote += "|\n\n";
             quote += "[^foo" + i + "]: <" + q.doiLink + ">";
 
             quote += "\n";
