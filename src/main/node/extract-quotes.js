@@ -63,7 +63,7 @@ var run = function (id, startYear, endYear) {
             var footnoteId = "[^foo" + i + "]";
 
             if (q.year === 1984)
-                quote += "IEEE Software, " + issues1984[q.number - 1] + " " + q.year + ".";
+                quote += "IEEE Software, " + issues1984[q.number - 1] + " " + q.year + "." + footnoteId;
             else
                 quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + "." + footnoteId;
 
