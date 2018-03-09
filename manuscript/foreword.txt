@@ -2,6 +2,6 @@
 
 This book contains a selection of 1000 quotes from [IEEE Software](https://publications.computer.org/software-magazine/). IEEE Software is a leading software engineering magazine with a very rich history. Since 1984, many of the leading software engineering professionals have contributed to IEEE Software. The content is based on the material from the [IEEE Software history website](<https://obren.info/ieeesw>). Visit this site to find more details about IEEE Software and its history.
 
-Selected quotes are not intended to serve as a comprehensive overview of the history of software engineering. Rather, the book is designed as a "coffee table book". It is intended for casual reading, offering interesting, educative, thought-provoking, and sometimes controversial quotes. I hope you will enjoy reading the book!
+Selected quotes are not intended to serve as a comprehensive overview of the history of software engineering. Rather, the book is designed as a "coffee table book". It is intended for casual reading, offering interesting, educative, thought-provoking, and sometimes controversial quotes.
 
-Željko Obrenović (March 2018)
+Zeljko Obrenovic
