@@ -57,15 +57,18 @@ var run = function (id, startYear, endYear) {
 
             quote = "  \n* * *\n\n| \"" + quote + "\" |\n";
             quote += "\n\n* * *\n\n";
-            quote += "|";
+            quote += "|*";
             quote += q.authorsList + ", ";
             quote += "**" + q.title + "**, ";
+            var footnoteId = "[^foo" + i + "]";
+
             if (q.year === 1984)
                 quote += "IEEE Software, " + issues1984[q.number - 1] + " " + q.year + ".";
             else
-                quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + ".";
-            quote += "|\n\n";
-            quote += "[^foo" + i + "]: <" + q.doiLink + ">";
+                quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + "." + footnoteId;
+
+            quote += "*|\n\n";
+            quote += footnoteId + ": <" + q.doiLink + ">";
 
             quote += "\n";
 
