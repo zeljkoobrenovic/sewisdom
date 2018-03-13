@@ -6,7 +6,7 @@
 
 
 
-![](images-high-quality/2000-1.jpg)
+![](images-medium-quality/2000-1.jpg)
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-![](images-high-quality/2000-2.jpg)
+![](images-medium-quality/2000-2.jpg)
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-![](images-high-quality/2000-3.jpg)
+![](images-medium-quality/2000-3.jpg)
 
 
 
@@ -167,7 +167,7 @@
 
 
 
-![](images-high-quality/2000-4.jpg)
+![](images-medium-quality/2000-4.jpg)
 
 
 
@@ -274,7 +274,7 @@
 
 
 
-![](images-high-quality/2000-5.jpg)
+![](images-medium-quality/2000-5.jpg)
 
 
 
@@ -381,7 +381,7 @@
 
 
 
-![](images-high-quality/2000-6.jpg)
+![](images-medium-quality/2000-6.jpg)
 
 
 
@@ -476,7 +476,7 @@
 
 
 
-![](images-high-quality/2001-1.jpg)
+![](images-medium-quality/2001-1.jpg)
 
 
 
@@ -551,7 +551,7 @@
 
 
 
-![](images-high-quality/2001-2.jpg)
+![](images-medium-quality/2001-2.jpg)
 
 
 
@@ -626,7 +626,7 @@
 
 
 
-![](images-high-quality/2001-3.jpg)
+![](images-medium-quality/2001-3.jpg)
 
 
 
@@ -701,7 +701,7 @@
 
 
 
-![](images-high-quality/2001-4.jpg)
+![](images-medium-quality/2001-4.jpg)
 
 
 
@@ -760,7 +760,7 @@
 
 
 
-![](images-high-quality/2001-5.jpg)
+![](images-medium-quality/2001-5.jpg)
 
 
 
@@ -867,7 +867,7 @@
 
 
 
-![](images-high-quality/2001-6.jpg)
+![](images-medium-quality/2001-6.jpg)
 
 
 
@@ -962,7 +962,7 @@
 
 
 
-![](images-high-quality/2002-1.jpg)
+![](images-medium-quality/2002-1.jpg)
 
 
 
@@ -1021,7 +1021,7 @@
 
 
 
-![](images-high-quality/2002-2.jpg)
+![](images-medium-quality/2002-2.jpg)
 
 
 
@@ -1144,7 +1144,7 @@
 
 
 
-![](images-high-quality/2002-3.jpg)
+![](images-medium-quality/2002-3.jpg)
 
 
 
@@ -1267,7 +1267,7 @@
 
 
 
-![](images-high-quality/2002-4.jpg)
+![](images-medium-quality/2002-4.jpg)
 
 
 
@@ -1390,7 +1390,7 @@
 
 
 
-![](images-high-quality/2002-5.jpg)
+![](images-medium-quality/2002-5.jpg)
 
 
 
@@ -1481,7 +1481,7 @@
 
 
 
-![](images-high-quality/2002-6.jpg)
+![](images-medium-quality/2002-6.jpg)
 
 
 
@@ -1560,7 +1560,7 @@
 
 
 
-![](images-high-quality/2003-1.jpg)
+![](images-medium-quality/2003-1.jpg)
 
 
 
@@ -1635,7 +1635,7 @@
 
 
 
-![](images-high-quality/2003-2.jpg)
+![](images-medium-quality/2003-2.jpg)
 
 
 
@@ -1742,7 +1742,7 @@
 
 
 
-![](images-high-quality/2003-3.jpg)
+![](images-medium-quality/2003-3.jpg)
 
 
 
@@ -1897,7 +1897,7 @@
 
 
 
-![](images-high-quality/2003-4.jpg)
+![](images-medium-quality/2003-4.jpg)
 
 
 
@@ -2004,7 +2004,7 @@
 
 
 
-![](images-high-quality/2003-5.jpg)
+![](images-medium-quality/2003-5.jpg)
 
 
 
@@ -2111,7 +2111,7 @@
 
 
 
-![](images-high-quality/2003-6.jpg)
+![](images-medium-quality/2003-6.jpg)
 
 
 
@@ -2206,7 +2206,7 @@
 
 
 
-![](images-high-quality/2004-1.jpg)
+![](images-medium-quality/2004-1.jpg)
 
 
 
@@ -2377,7 +2377,7 @@
 
 
 
-![](images-high-quality/2004-3.jpg)
+![](images-medium-quality/2004-3.jpg)
 
 
 
@@ -2516,7 +2516,7 @@
 
 
 
-![](images-high-quality/2004-4.jpg)
+![](images-medium-quality/2004-4.jpg)
 
 
 
@@ -2655,7 +2655,7 @@
 
 
 
-![](images-high-quality/2004-5.jpg)
+![](images-medium-quality/2004-5.jpg)
 
 
 
@@ -2810,7 +2810,7 @@
 
 
 
-![](images-high-quality/2004-6.jpg)
+![](images-medium-quality/2004-6.jpg)
 
 
 
@@ -2921,7 +2921,7 @@
 
 
 
-![](images-high-quality/2005-1.jpg)
+![](images-medium-quality/2005-1.jpg)
 
 
 
@@ -3060,7 +3060,7 @@
 
 
 
-![](images-high-quality/2005-2.jpg)
+![](images-medium-quality/2005-2.jpg)
 
 
 
@@ -3199,7 +3199,7 @@
 
 
 
-![](images-high-quality/2005-3.jpg)
+![](images-medium-quality/2005-3.jpg)
 
 
 
@@ -3354,7 +3354,7 @@
 
 
 
-![](images-high-quality/2005-4.jpg)
+![](images-medium-quality/2005-4.jpg)
 
 
 
@@ -3445,7 +3445,7 @@
 
 
 
-![](images-high-quality/2005-5.jpg)
+![](images-medium-quality/2005-5.jpg)
 
 
 
@@ -3552,7 +3552,7 @@
 
 
 
-![](images-high-quality/2005-6.jpg)
+![](images-medium-quality/2005-6.jpg)
 
 
 
@@ -3615,7 +3615,7 @@
 
 
 
-![](images-high-quality/2006-1.jpg)
+![](images-medium-quality/2006-1.jpg)
 
 
 
@@ -3738,7 +3738,7 @@
 
 
 
-![](images-high-quality/2006-2.jpg)
+![](images-medium-quality/2006-2.jpg)
 
 
 
@@ -3909,7 +3909,7 @@
 
 
 
-![](images-high-quality/2006-3.jpg)
+![](images-medium-quality/2006-3.jpg)
 
 
 
@@ -4016,7 +4016,7 @@
 
 
 
-![](images-high-quality/2006-4.jpg)
+![](images-medium-quality/2006-4.jpg)
 
 
 
@@ -4155,7 +4155,7 @@
 
 
 
-![](images-high-quality/2006-5.jpg)
+![](images-medium-quality/2006-5.jpg)
 
 
 
@@ -4246,7 +4246,7 @@
 
 
 
-![](images-high-quality/2006-6.jpg)
+![](images-medium-quality/2006-6.jpg)
 
 
 
@@ -4405,7 +4405,7 @@
 
 
 
-![](images-high-quality/2007-1.jpg)
+![](images-medium-quality/2007-1.jpg)
 
 
 
@@ -4496,7 +4496,7 @@
 
 
 
-![](images-high-quality/2007-2.jpg)
+![](images-medium-quality/2007-2.jpg)
 
 
 
@@ -4635,7 +4635,7 @@
 
 
 
-![](images-high-quality/2007-3.jpg)
+![](images-medium-quality/2007-3.jpg)
 
 
 
@@ -4742,7 +4742,7 @@
 
 
 
-![](images-high-quality/2007-4.jpg)
+![](images-medium-quality/2007-4.jpg)
 
 
 
@@ -4897,7 +4897,7 @@
 
 
 
-![](images-high-quality/2007-5.jpg)
+![](images-medium-quality/2007-5.jpg)
 
 
 
@@ -5084,7 +5084,7 @@
 
 
 
-![](images-high-quality/2007-6.jpg)
+![](images-medium-quality/2007-6.jpg)
 
 
 
@@ -5243,7 +5243,7 @@
 
 
 
-![](images-high-quality/2008-2.jpg)
+![](images-medium-quality/2008-2.jpg)
 
 
 
@@ -5350,7 +5350,7 @@
 
 
 
-![](images-high-quality/2008-3.jpg)
+![](images-medium-quality/2008-3.jpg)
 
 
 
@@ -5521,7 +5521,7 @@
 
 
 
-![](images-high-quality/2008-4.jpg)
+![](images-medium-quality/2008-4.jpg)
 
 
 
@@ -5708,7 +5708,7 @@
 
 
 
-![](images-high-quality/2008-5.jpg)
+![](images-medium-quality/2008-5.jpg)
 
 
 
@@ -5927,7 +5927,7 @@
 
 
 
-![](images-high-quality/2008-6.jpg)
+![](images-medium-quality/2008-6.jpg)
 
 
 
@@ -6086,7 +6086,7 @@
 
 
 
-![](images-high-quality/2009-1.jpg)
+![](images-medium-quality/2009-1.jpg)
 
 
 
@@ -6273,7 +6273,7 @@
 
 
 
-![](images-high-quality/2009-2.jpg)
+![](images-medium-quality/2009-2.jpg)
 
 
 
@@ -6444,7 +6444,7 @@
 
 
 
-![](images-high-quality/2009-4.jpg)
+![](images-medium-quality/2009-4.jpg)
 
 
 
@@ -6615,7 +6615,7 @@
 
 
 
-![](images-high-quality/2009-5.jpg)
+![](images-medium-quality/2009-5.jpg)
 
 
 
@@ -6722,7 +6722,7 @@
 
 
 
-![](images-high-quality/2009-6.jpg)
+![](images-medium-quality/2009-6.jpg)
 
 
 
