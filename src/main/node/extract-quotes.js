@@ -83,7 +83,7 @@ var run = function (id, startYear, endYear, dirImages) {
 
 run("quotes", 1984, 2018, "images");
 
-run("quotes1", 1984, 1999, "images-medium-quality");
+run("quotes1", 1984, 1999, "images");
 run("quotes2", 2000, 2009, "images-medium-quality");
 run("quotes3", 2010, 2018, "images-medium-quality");
 
