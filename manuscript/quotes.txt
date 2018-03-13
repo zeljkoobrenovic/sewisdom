@@ -48,7 +48,7 @@
   
 * * *
 
-| "Designing a computer system is very **different from designing an algorithm**: ... the requirement - is less precisely defined more complex, and more subject to change; the system has much more internal structure - hence, many internal interfaces; and the measure of success is much less clear. The designer usually finds himself flondering in a sea of possibilities, unclear about how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system." |
+| "**Designing a computer system** is very different from **designing an algorithm**: ... the requirement - is less precisely defined more complex, and more subject to change; the system has much more internal structure - hence, many internal interfaces; and the measure of success is much less clear. The designer usually finds himself flondering in a sea of possibilities, unclear about how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system." |
 
 
 * * *

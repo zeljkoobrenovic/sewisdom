@@ -16,7 +16,7 @@ var issues1984 = [
     "October"
 ]
 
-var run = function (id, startYear, endYear) {
+var run = function (id, startYear, endYear, dirImages) {
     fs.readFile('quotes.json', 'utf8', function (err, contents) {
         var quotes = JSON.parse(contents);
 
@@ -43,7 +43,7 @@ var run = function (id, startYear, endYear) {
 
             var cover = year + "-" + number;
             if (prevCover !== cover) {
-                text += "\n\n\n\n![](images/" + cover + ".jpg)\n\n\n\n\n{pagebreak}\n\n";
+                text += "\n\n\n\n![](" + dirImages + "/" + cover + ".jpg)\n\n\n\n\n{pagebreak}\n\n";
                 prevCover = cover;
             }
 
@@ -68,7 +68,7 @@ var run = function (id, startYear, endYear) {
                 quote += "IEEE Software, " + issues[q.number - 1] + " " + q.year + "." + footnoteId;
 
             quote += "*|\n\n";
-            quote += footnoteId + ": [DOI: " + q.doiLink.replace("http://doi.ieeecomputersociety.org/", "") +" ](" + q.doiLink + ")";
+            quote += footnoteId + ": [DOI: " + q.doiLink.replace("http://doi.ieeecomputersociety.org/", "") + " ](" + q.doiLink + ")";
 
             quote += "\n";
 
@@ -81,9 +81,9 @@ var run = function (id, startYear, endYear) {
     });
 }
 
-run("quotes", 1984, 2018);
+run("quotes", 1984, 2018, "images");
 
-run("quotes1", 1984, 1999);
-run("quotes2", 2000, 2009);
-run("quotes3", 2010, 2018);
+run("quotes1", 1984, 1999, "images-high-quality");
+run("quotes2", 2000, 2009, "images-high-quality");
+run("quotes3", 2010, 2018, "images-high-quality");
 

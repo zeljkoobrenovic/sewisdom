@@ -21934,7 +21934,7 @@
     "searchText": ""
   },
   {
-    "quote": "Designing a computer system is very <b>different from designing an algorithm</b>: ... the requirement - is less precisely defined more complex, and more subject to change; the system has much more internal structure - hence, many internal interfaces; and the measure of success is much less clear. The designer usually finds himself flondering in a sea of possibilities, unclear about how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system.",
+    "quote": "<b>Designing a computer system</b> is very different from <b>designing an algorithm</b>: ... the requirement - is less precisely defined more complex, and more subject to change; the system has much more internal structure - hence, many internal interfaces; and the measure of success is much less clear. The designer usually finds himself flondering in a sea of possibilities, unclear about how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system.",
     "title": "Hints for Computer System Design",
     "year": 1984,
     "number": 1,
