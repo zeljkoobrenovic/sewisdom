@@ -6,7 +6,7 @@
 
 
 
-![](images/1984-1.jpg)
+![](images-medium-quality/1984-1.jpg)
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-![](images/1984-2.jpg)
+![](images-medium-quality/1984-2.jpg)
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-![](images/1984-3.jpg)
+![](images-medium-quality/1984-3.jpg)
 
 
 
@@ -167,7 +167,7 @@
 
 
 
-![](images/1984-4.jpg)
+![](images-medium-quality/1984-4.jpg)
 
 
 
@@ -198,7 +198,7 @@
 
 
 
-![](images/1985-1.jpg)
+![](images-medium-quality/1985-1.jpg)
 
 
 
@@ -225,7 +225,7 @@
 
 
 
-![](images/1985-2.jpg)
+![](images-medium-quality/1985-2.jpg)
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-![](images/1985-3.jpg)
+![](images-medium-quality/1985-3.jpg)
 
 
 
@@ -295,7 +295,7 @@
 
 
 
-![](images/1985-4.jpg)
+![](images-medium-quality/1985-4.jpg)
 
 
 
@@ -322,7 +322,7 @@
 
 
 
-![](images/1985-5.jpg)
+![](images-medium-quality/1985-5.jpg)
 
 
 
@@ -381,7 +381,7 @@
 
 
 
-![](images/1985-6.jpg)
+![](images-medium-quality/1985-6.jpg)
 
 
 
@@ -412,7 +412,7 @@
 
 
 
-![](images/1986-1.jpg)
+![](images-medium-quality/1986-1.jpg)
 
 
 
@@ -455,7 +455,7 @@
 
 
 
-![](images/1986-2.jpg)
+![](images-medium-quality/1986-2.jpg)
 
 
 
@@ -498,7 +498,7 @@
 
 
 
-![](images/1986-3.jpg)
+![](images-medium-quality/1986-3.jpg)
 
 
 
@@ -557,7 +557,7 @@
 
 
 
-![](images/1986-4.jpg)
+![](images-medium-quality/1986-4.jpg)
 
 
 
@@ -600,7 +600,7 @@
 
 
 
-![](images/1986-5.jpg)
+![](images-medium-quality/1986-5.jpg)
 
 
 
@@ -643,7 +643,7 @@
 
 
 
-![](images/1986-6.jpg)
+![](images-medium-quality/1986-6.jpg)
 
 
 
@@ -690,7 +690,7 @@
 
 
 
-![](images/1987-1.jpg)
+![](images-medium-quality/1987-1.jpg)
 
 
 
@@ -781,7 +781,7 @@
 
 
 
-![](images/1987-2.jpg)
+![](images-medium-quality/1987-2.jpg)
 
 
 
@@ -824,7 +824,7 @@
 
 
 
-![](images/1987-3.jpg)
+![](images-medium-quality/1987-3.jpg)
 
 
 
@@ -899,7 +899,7 @@
 
 
 
-![](images/1987-4.jpg)
+![](images-medium-quality/1987-4.jpg)
 
 
 
@@ -942,7 +942,7 @@
 
 
 
-![](images/1987-5.jpg)
+![](images-medium-quality/1987-5.jpg)
 
 
 
@@ -1017,7 +1017,7 @@
 
 
 
-![](images/1987-6.jpg)
+![](images-medium-quality/1987-6.jpg)
 
 
 
@@ -1064,7 +1064,7 @@
 
 
 
-![](images/1988-1.jpg)
+![](images-medium-quality/1988-1.jpg)
 
 
 
@@ -1123,7 +1123,7 @@
 
 
 
-![](images/1988-2.jpg)
+![](images-medium-quality/1988-2.jpg)
 
 
 
@@ -1214,7 +1214,7 @@
 
 
 
-![](images/1988-3.jpg)
+![](images-medium-quality/1988-3.jpg)
 
 
 
@@ -1241,7 +1241,7 @@
 
 
 
-![](images/1988-4.jpg)
+![](images-medium-quality/1988-4.jpg)
 
 
 
@@ -1268,7 +1268,7 @@
 
 
 
-![](images/1988-5.jpg)
+![](images-medium-quality/1988-5.jpg)
 
 
 
@@ -1295,7 +1295,7 @@
 
 
 
-![](images/1988-6.jpg)
+![](images-medium-quality/1988-6.jpg)
 
 
 
@@ -1342,7 +1342,7 @@
 
 
 
-![](images/1989-1.jpg)
+![](images-medium-quality/1989-1.jpg)
 
 
 
@@ -1385,7 +1385,7 @@
 
 
 
-![](images/1989-2.jpg)
+![](images-medium-quality/1989-2.jpg)
 
 
 
@@ -1428,7 +1428,7 @@
 
 
 
-![](images/1989-3.jpg)
+![](images-medium-quality/1989-3.jpg)
 
 
 
@@ -1487,7 +1487,7 @@
 
 
 
-![](images/1989-4.jpg)
+![](images-medium-quality/1989-4.jpg)
 
 
 
@@ -1530,7 +1530,7 @@
 
 
 
-![](images/1989-5.jpg)
+![](images-medium-quality/1989-5.jpg)
 
 
 
@@ -1573,7 +1573,7 @@
 
 
 
-![](images/1989-6.jpg)
+![](images-medium-quality/1989-6.jpg)
 
 
 
@@ -1604,7 +1604,7 @@
 
 
 
-![](images/1990-1.jpg)
+![](images-medium-quality/1990-1.jpg)
 
 
 
@@ -1647,7 +1647,7 @@
 
 
 
-![](images/1990-2.jpg)
+![](images-medium-quality/1990-2.jpg)
 
 
 
@@ -1690,7 +1690,7 @@
 
 
 
-![](images/1990-3.jpg)
+![](images-medium-quality/1990-3.jpg)
 
 
 
@@ -1797,7 +1797,7 @@
 
 
 
-![](images/1990-4.jpg)
+![](images-medium-quality/1990-4.jpg)
 
 
 
@@ -1840,7 +1840,7 @@
 
 
 
-![](images/1990-5.jpg)
+![](images-medium-quality/1990-5.jpg)
 
 
 
@@ -1867,7 +1867,7 @@
 
 
 
-![](images/1990-6.jpg)
+![](images-medium-quality/1990-6.jpg)
 
 
 
@@ -1930,7 +1930,7 @@
 
 
 
-![](images/1991-1.jpg)
+![](images-medium-quality/1991-1.jpg)
 
 
 
@@ -1973,7 +1973,7 @@
 
 
 
-![](images/1991-2.jpg)
+![](images-medium-quality/1991-2.jpg)
 
 
 
@@ -2016,7 +2016,7 @@
 
 
 
-![](images/1991-3.jpg)
+![](images-medium-quality/1991-3.jpg)
 
 
 
@@ -2059,7 +2059,7 @@
 
 
 
-![](images/1991-4.jpg)
+![](images-medium-quality/1991-4.jpg)
 
 
 
@@ -2118,7 +2118,7 @@
 
 
 
-![](images/1991-5.jpg)
+![](images-medium-quality/1991-5.jpg)
 
 
 
@@ -2145,7 +2145,7 @@
 
 
 
-![](images/1991-6.jpg)
+![](images-medium-quality/1991-6.jpg)
 
 
 
@@ -2208,7 +2208,7 @@
 
 
 
-![](images/1992-1.jpg)
+![](images-medium-quality/1992-1.jpg)
 
 
 
@@ -2283,7 +2283,7 @@
 
 
 
-![](images/1992-2.jpg)
+![](images-medium-quality/1992-2.jpg)
 
 
 
@@ -2390,7 +2390,7 @@
 
 
 
-![](images/1992-3.jpg)
+![](images-medium-quality/1992-3.jpg)
 
 
 
@@ -2449,7 +2449,7 @@
 
 
 
-![](images/1992-4.jpg)
+![](images-medium-quality/1992-4.jpg)
 
 
 
@@ -2524,7 +2524,7 @@
 
 
 
-![](images/1992-5.jpg)
+![](images-medium-quality/1992-5.jpg)
 
 
 
@@ -2567,7 +2567,7 @@
 
 
 
-![](images/1992-6.jpg)
+![](images-medium-quality/1992-6.jpg)
 
 
 
@@ -2630,7 +2630,7 @@
 
 
 
-![](images/1993-1.jpg)
+![](images-medium-quality/1993-1.jpg)
 
 
 
@@ -2705,7 +2705,7 @@
 
 
 
-![](images/1993-2.jpg)
+![](images-medium-quality/1993-2.jpg)
 
 
 
@@ -2764,7 +2764,7 @@
 
 
 
-![](images/1993-3.jpg)
+![](images-medium-quality/1993-3.jpg)
 
 
 
@@ -2807,7 +2807,7 @@
 
 
 
-![](images/1993-4.jpg)
+![](images-medium-quality/1993-4.jpg)
 
 
 
@@ -2850,7 +2850,7 @@
 
 
 
-![](images/1993-5.jpg)
+![](images-medium-quality/1993-5.jpg)
 
 
 
@@ -2941,7 +2941,7 @@
 
 
 
-![](images/1993-6.jpg)
+![](images-medium-quality/1993-6.jpg)
 
 
 
@@ -2988,7 +2988,7 @@
 
 
 
-![](images/1994-1.jpg)
+![](images-medium-quality/1994-1.jpg)
 
 
 
@@ -3047,7 +3047,7 @@
 
 
 
-![](images/1994-2.jpg)
+![](images-medium-quality/1994-2.jpg)
 
 
 
@@ -3106,7 +3106,7 @@
 
 
 
-![](images/1994-3.jpg)
+![](images-medium-quality/1994-3.jpg)
 
 
 
@@ -3149,7 +3149,7 @@
 
 
 
-![](images/1994-4.jpg)
+![](images-medium-quality/1994-4.jpg)
 
 
 
@@ -3224,7 +3224,7 @@
 
 
 
-![](images/1994-5.jpg)
+![](images-medium-quality/1994-5.jpg)
 
 
 
@@ -3267,7 +3267,7 @@
 
 
 
-![](images/1994-6.jpg)
+![](images-medium-quality/1994-6.jpg)
 
 
 
@@ -3394,7 +3394,7 @@
 
 
 
-![](images/1995-1.jpg)
+![](images-medium-quality/1995-1.jpg)
 
 
 
@@ -3469,7 +3469,7 @@
 
 
 
-![](images/1995-2.jpg)
+![](images-medium-quality/1995-2.jpg)
 
 
 
@@ -3560,7 +3560,7 @@
 
 
 
-![](images/1995-3.jpg)
+![](images-medium-quality/1995-3.jpg)
 
 
 
@@ -3619,7 +3619,7 @@
 
 
 
-![](images/1995-4.jpg)
+![](images-medium-quality/1995-4.jpg)
 
 
 
@@ -3694,7 +3694,7 @@
 
 
 
-![](images/1995-5.jpg)
+![](images-medium-quality/1995-5.jpg)
 
 
 
@@ -3801,7 +3801,7 @@
 
 
 
-![](images/1995-6.jpg)
+![](images-medium-quality/1995-6.jpg)
 
 
 
@@ -3880,7 +3880,7 @@
 
 
 
-![](images/1996-1.jpg)
+![](images-medium-quality/1996-1.jpg)
 
 
 
@@ -3987,7 +3987,7 @@
 
 
 
-![](images/1996-2.jpg)
+![](images-medium-quality/1996-2.jpg)
 
 
 
@@ -4046,7 +4046,7 @@
 
 
 
-![](images/1996-3.jpg)
+![](images-medium-quality/1996-3.jpg)
 
 
 
@@ -4105,7 +4105,7 @@
 
 
 
-![](images/1996-4.jpg)
+![](images-medium-quality/1996-4.jpg)
 
 
 
@@ -4180,7 +4180,7 @@
 
 
 
-![](images/1996-5.jpg)
+![](images-medium-quality/1996-5.jpg)
 
 
 
@@ -4255,7 +4255,7 @@
 
 
 
-![](images/1996-6.jpg)
+![](images-medium-quality/1996-6.jpg)
 
 
 
@@ -4334,7 +4334,7 @@
 
 
 
-![](images/1997-1.jpg)
+![](images-medium-quality/1997-1.jpg)
 
 
 
@@ -4409,7 +4409,7 @@
 
 
 
-![](images/1997-2.jpg)
+![](images-medium-quality/1997-2.jpg)
 
 
 
@@ -4484,7 +4484,7 @@
 
 
 
-![](images/1997-3.jpg)
+![](images-medium-quality/1997-3.jpg)
 
 
 
@@ -4559,7 +4559,7 @@
 
 
 
-![](images/1997-4.jpg)
+![](images-medium-quality/1997-4.jpg)
 
 
 
@@ -4650,7 +4650,7 @@
 
 
 
-![](images/1997-5.jpg)
+![](images-medium-quality/1997-5.jpg)
 
 
 
@@ -4709,7 +4709,7 @@
 
 
 
-![](images/1997-6.jpg)
+![](images-medium-quality/1997-6.jpg)
 
 
 
@@ -4788,7 +4788,7 @@
 
 
 
-![](images/1998-1.jpg)
+![](images-medium-quality/1998-1.jpg)
 
 
 
@@ -4943,7 +4943,7 @@
 
 
 
-![](images/1998-2.jpg)
+![](images-medium-quality/1998-2.jpg)
 
 
 
@@ -5066,7 +5066,7 @@
 
 
 
-![](images/1998-3.jpg)
+![](images-medium-quality/1998-3.jpg)
 
 
 
@@ -5157,7 +5157,7 @@
 
 
 
-![](images/1998-4.jpg)
+![](images-medium-quality/1998-4.jpg)
 
 
 
@@ -5232,7 +5232,7 @@
 
 
 
-![](images/1998-5.jpg)
+![](images-medium-quality/1998-5.jpg)
 
 
 
@@ -5307,7 +5307,7 @@
 
 
 
-![](images/1998-6.jpg)
+![](images-medium-quality/1998-6.jpg)
 
 
 
@@ -5402,7 +5402,7 @@
 
 
 
-![](images/1999-1.jpg)
+![](images-medium-quality/1999-1.jpg)
 
 
 
@@ -5477,7 +5477,7 @@
 
 
 
-![](images/1999-2.jpg)
+![](images-medium-quality/1999-2.jpg)
 
 
 
@@ -5536,7 +5536,7 @@
 
 
 
-![](images/1999-3.jpg)
+![](images-medium-quality/1999-3.jpg)
 
 
 
@@ -5643,7 +5643,7 @@
 
 
 
-![](images/1999-4.jpg)
+![](images-medium-quality/1999-4.jpg)
 
 
 
@@ -5718,7 +5718,7 @@
 
 
 
-![](images/1999-5.jpg)
+![](images-medium-quality/1999-5.jpg)
 
 
 
@@ -5825,7 +5825,7 @@
 
 
 
-![](images/1999-6.jpg)
+![](images-medium-quality/1999-6.jpg)
 
 
 
