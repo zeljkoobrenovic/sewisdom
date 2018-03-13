@@ -7,7 +7,7 @@ var dirDest = '../../../manuscript/images-medium-quality/';
 fs.readdir(dirSrc, function(err, files) {
     files.forEach(function (file) {
         sharp(dirSrc + file)
-            .resize(undefined, 2000)
+            .resize(undefined, 1200)
             .toFile(dirDest + file, function (err) {
                 if (err) console.log(err);
             });
