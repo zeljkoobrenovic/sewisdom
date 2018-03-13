@@ -1,0 +1,5898 @@
+# 1984
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1984-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Many of the **challenges facing the software industry** today are a direct result of our **insatiable appetite** for new computer-based systems applications. Others confront us simply because we have not managed to successfully solve a large number of **problems that we ourselves created many years ago**." |
+
+
+* * *
+
+|*Bruce D. Shriver, **From the Editor-in-Chief**, IEEE Software, January 1984.[^foo1]*|
+
+[^foo1]: [DOI: 10.1109/MS.1984.233385 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.233385)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "There probably isn't a best way to build the system or even a major part of it. Much more important is to **avoid choosing a terrible way** and to **have a clear division of responsibilities** among the parts." |
+
+
+* * *
+
+|*Butler W. Lampson, **Hints for Computer System Design**, IEEE Software, January 1984.[^foo2]*|
+
+[^foo2]: [DOI: 10.1109/MS.1984.233391 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Designing a computer system** is very different from **designing an algorithm**: ... the requirement - is less precisely defined more complex, and more subject to change; the system has much more internal structure - hence, many internal interfaces; and the measure of success is much less clear. The designer usually finds himself flondering in a sea of possibilities, unclear about how one choice will limit his freedom to take other choices or affect the size and performance of the entire-system." |
+
+
+* * *
+
+|*Butler W. Lampson, **Hints for Computer System Design**, IEEE Software, January 1984.[^foo3]*|
+
+[^foo3]: [DOI: 10.1109/MS.1984.233391 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Booch offers a software design methodology, which he calls '**object-oriented design**' in contrast to earlier popular methods he designates as either **functional** or **data-oriented**. In contrast to suggestions that we either identify a program's principal function and describe it in the top box in a hierarchy chart or carefully identify the patterns of data and their flows, Booch suggests, 'Define the problem, develop an informal strategy; formalize the strategy.'" |
+
+
+* * *
+
+|*Peter G. Anderson, **Review of Grady Booch's book 'Software Engineering with Ada'**, IEEE Software, January 1984.[^foo4]*|
+
+[^foo4]: [DOI: 10.1109/MS.1984.233391 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.233391)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1984-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "One does not use structural engineering analysis to build a **sandcastle**. But neither does one choose the prize-winning builder of sandcastles as architect for **a tower block of offices** in a city." |
+
+
+* * *
+
+|*Sir Charles Antony Richard Hoare, **Programming: Sorcery or Science?**, IEEE Software, April 1984.[^foo5]*|
+
+[^foo5]: [DOI: 10.1109/MS.1984.234042 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "I believe that in our branch of engineering, above all others, the academic ideals of **rigor and elegance will pay the highest dividends** in practical terms of reducing costs, increasing performance, and in directing the great sources of computational power on the surface of a silicon chip to the use and convenience of man." |
+
+
+* * *
+
+|*Sir Charles Antony Richard Hoare, **Programming: Sorcery or Science?**, IEEE Software, April 1984.[^foo6]*|
+
+[^foo6]: [DOI: 10.1109/MS.1984.234042 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.234042)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1984-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The greater speed of  technical change means that **capital investment  must be recovered more quickly** and that enhancement and  evolution consume proportionately more resources than in a slowly changing  technology. This contributes to the fact that **maintenance and enhancement**  are the **dominant costs** in the  software life cycle today." |
+
+
+* * *
+
+|*Peter Wegner, **Capital-Intensive Software Technology**, IEEE Software, July 1984.[^foo7]*|
+
+[^foo7]: [DOI: 10.1109/MS.1984.234384 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Periods of **rapid technological change** require **more innovation** and **greater risks** than periods of stability." |
+
+
+* * *
+
+|*Peter Wegner, **Capital-Intensive Software Technology Conclusion**, IEEE Software, July 1984.[^foo8]*|
+
+[^foo8]: [DOI: 10.1109/MS.1984.234706 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.234706)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1984-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "An **abstraction is a simplified description**, or specification, of a system that **emphasizes** some of the system's  details or properties while **suppressing** others. A good abstraction is one that **emphasizes details that are significant** to the reader or user and suppresses details that are, at least for the moment immaterial or diversionary." |
+
+
+* * *
+
+|*Mary Shaw, **Abstraction Techniques in Modern Programming Languages**, IEEE Software, October 1984.[^foo9]*|
+
+[^foo9]: [DOI: 10.1109/MS.1984.234384 ](http://doi.ieeecomputersociety.org/10.1109/MS.1984.234384)
+ 
+ 
+{pagebreak}
+
+
+# 1985
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1985-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The use of **formal notation** does not, however, preclude that of **natural language**. In fact, mathematical specification  of a problem usually leads to a  better natural-language description. This is because formal notations naturally lead the specifier to **raise some questions** that might have remained unasked, and thus unanswered, in an informal approach." |
+
+
+* * *
+
+|*Bertrand Meyer, **On Formalism in Specifications**, IEEE Software, January 1985.[^foo10]*|
+
+[^foo10]: [DOI: 10.1109/MS.1985.229776 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.229776)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1985-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "In essence, **programming-in-the large** involves the two complementary activities of modularization and interface control. **Modularization** is the identification of the major system modules and the entities those modules contain, where entities are language elements that are given names, such as subprograms, data objects, and types. **Interface control** is the specification and control of the interactions among entities in different modules." |
+
+
+* * *
+
+|*Alexander L. Wolf, Lori A. Clarke, Jack C. Wileden, **Ada-Based support for programming-in-the-Large**, IEEE Software, March 1985.[^foo11]*|
+
+[^foo11]: [DOI: 10.1109/MS.1985.230352 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.230352)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Engineers may be able to design a **better interface** if they take into account the **control structures** underlying the **interface syntax**.The **syntactic**, **semantic**, and **protocol** aspects of the interface each have their **own 'complexity.'**." |
+
+
+* * *
+
+|*T.E. Lindquist, **Assessing the Usability of Human-Computer Interfaces**, IEEE Software, March 1985.[^foo12]*|
+
+[^foo12]: [DOI: 10.1109/MS.1985.230052 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.230052)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1985-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The **lack of a complete theoretical basis** for distributed computing systems need not inhibit the development of useful systems. Even without such a basis, many **technical advances have been made by individuals**, who then **share them with others**, who in turn accept useful concepts and add further innovations." |
+
+
+* * *
+
+|*Stephen F. Lundstrom, Duncan H. Lawrie, **Experiences with Distributed Systems**, IEEE Software, May 1985.[^foo13]*|
+
+[^foo13]: [DOI: 10.1109/MS.1985.230692 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.230692)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1985-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "System designers should provide for such practical issues as **deadlock** avoidance, **scheduling**, necessary and sufficient primitives to allow for **synchronization**, and the combination of **multiprogramming** (a single system dividing its time and resources among many jobs) and **multiprocessing** (multiple processing units operating on a single job)." |
+
+
+* * *
+
+|*Joanne L. Martin, **Operating Systems and Environments for Large-Scale Parallel Processors**, IEEE Software, July 1985.[^foo14]*|
+
+[^foo14]: [DOI: 10.1109/MS.1985.231051 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.231051)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1985-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Program **testing** consists of scattered collection of **rules of thumb**, **coverage** measures, and testing **philosophies**." |
+
+
+* * *
+
+|*William E. Howden, **The Theory and Practice of Foundation Testing**, IEEE Software, September 1985.[^foo15]*|
+
+[^foo15]: [DOI: 10.1109/MS.1985.231754 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Today we tend to go on for years, with tremendous effort to find that the system, which was not well understood to start with, does not work as anticipated. We **build systems like the Wright brothers** built airplanes-build the whole thing, push it off the cliff, let it crash, and start over again." |
+
+
+* * *
+
+|*William E. Howden, **The Theory and Practice of Foundation Testing**, IEEE Software, September 1985.[^foo16]*|
+
+[^foo16]: [DOI: 10.1109/MS.1985.231754 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.231754)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "When **programs rather than humans** create products, the issue of product ownership create **thorny legal problems** which the law has yet to address." |
+
+
+* * *
+
+|*Michael C. Gemignani, **Who Owns What Sofware Produces?**, IEEE Software, September 1985.[^foo17]*|
+
+[^foo17]: [DOI: https://doi.org/10.1109/MS.1985.231758 ](https://doi.org/10.1109/MS.1985.231758)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1985-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The SEI Software Engineering Institute has established its long-range goal: Transition **new software engineering technology** into **routine common practice** to achieve significant improvements in the ability of software developers and maintainers to produce and support predictably high quality systems." |
+
+
+* * *
+
+|*M.R. Barbacci, Mary Shaw, **The Software Engineering Institute: Bridging Practice and Potential**, IEEE Software, November 1985.[^foo18]*|
+
+[^foo18]: [DOI: 10.1109/MS.1985.232064 ](http://doi.ieeecomputersociety.org/10.1109/MS.1985.232064)
+ 
+ 
+{pagebreak}
+
+
+# 1986
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1986-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Multiparadigm systems** incorporating **two or more of the conventional program paradigms**. For example, the Loops system ... combines features of the Lisp, functional, rule-oriented, and object-oriented paradigms." |
+
+
+* * *
+
+|*Brent Hailpern, **Guest Editor's Introduction Multiparadigm Languages and Environments**, IEEE Software, January 1986.[^foo19]*|
+
+[^foo19]: [DOI: 10.1109/MS.1986.232426 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.232426)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **C++** programming language was designed to make the task of **programming more enjoyable for the serious programmer**." |
+
+
+* * *
+
+|*Bjarne Stroustrup, **Multiparadigm Research: A Survey of Nine Projects**, IEEE Software, January 1986.[^foo20]*|
+
+[^foo20]: [DOI: 10.1109/MS.1986.232757 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.232757)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1986-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Knowledge-based expert systems provide a programming methodology for **solving  ill-structured engineering problems**. ... these systems also provide a flexible software development methodology-by **separating the knowledge base** from the **inference mechanism** ..." |
+
+
+* * *
+
+|*Duvvuru Sriram, Michael D. Rychener, **Knowledge-Based Expert Systems for Engineering**, IEEE Software, March 1986.[^foo21]*|
+
+[^foo21]: [DOI: 10.1109/MS.1986.232780 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.232780)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Empirically comparing **structural test coverage metrics** reveals that test sets that satisfy one metric are likely to satisfy another metric as well." |
+
+
+* * *
+
+|*M.D. Weiser, J.D. Gannon, P.R. McMullin, **Comparison of Structural Test Coverage Metrics**, IEEE Software, March 1986.[^foo22]*|
+
+[^foo22]: [DOI: http://dx.doi.org/10.1109/MS.1985.230356 ](http://dx.doi.org/10.1109/MS.1985.230356)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1986-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "One of the major challenges facing project software system managers and maintainers in the 1980's is **how  to upgrade** large, complex, embedded system, written a decade or more ago in unstructured languages according to **designs that make modification difficult**." |
+
+
+* * *
+
+|*Robert N. Britcher, James J. Craig, **Using Modem Design Practices to Upgrade Aging Software Systems**, IEEE Software, May 1986.[^foo23]*|
+
+[^foo23]: [DOI: 10.1109/MS.1986.233407 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.233407)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Arguing about the definition of **software maintenance** seldom leads to maintenance advances..." |
+
+
+* * *
+
+|*Robert S. Arnold, Roger J. Martin, **Software Maintenance**, IEEE Software, May 1986.[^foo24]*|
+
+[^foo24]: [DOI: 10.1109/MS.1986.233403 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.233403)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**User interfaces** in the software environment are much **like spices in good recipes**; the right arrangement must be found or the food will not show its full flavor. Factors such as data availability and complexity and the size of the display must be carefully weighed and accounted for in the design of any software environment." |
+
+
+* * *
+
+|*Ben Shneiderman, Philip Shafer, Roland Simon, Linda Weldon, **Display Strategies for Program Browsing: Concepts and Experiment**, IEEE Software, May 1986.[^foo25]*|
+
+[^foo25]: [DOI: 10.1109/MS.1986.233405 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.233405)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1986-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Computer science consists of at least three worlds - software, hardware and **firmware**. The world of firmware, developed to reduce **the semantic gap between hardware and software**, has multiple levels and intricacies, symmetries and quasi-symmetriess." |
+
+
+* * *
+
+|*Henry Ayling, **Escher: The Image of the Artist**, IEEE Software, July 1986.[^foo26]*|
+
+[^foo26]: [DOI: 10.1109/MS.1986.233745 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.233745)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "We chose IEEE Software as our forum because **firmware engineering** involves transferring theory, principle, and technique **from software to firmware**, with appropriate adaptations." |
+
+
+* * *
+
+|*Subrata Dasgupta, Robert A. Mueller, **Firmware Engineering: The Interaction of Microprogramming and Software Technology**, IEEE Software, July 1986.[^foo27]*|
+
+[^foo27]: [DOI: 10.1109/MS.1986.233747 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.233747)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1986-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Windows** serve as the **conceptual framework** for the capture, development, organization, and highlighting of information - both textual and graphic. Attention to pure **aesthetics** is an important issue in making display interfaces understandable, memorable, and appealing to users. Consequently, window aesthetics are a factor in **user satisfaction**." |
+
+
+* * *
+
+|*Jason Gait, **Pretty Pane Tiling of Pretty Windows**, IEEE Software, September 1986.[^foo28]*|
+
+[^foo28]: [DOI: 10.1109/MS.1986.229469 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.229469)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "For every piece of business software sold, at least one illegal copy exists." |
+
+
+* * *
+
+|*Paul A. Suhler, Nadar Bagherzadeh, Miroslaw Malek, Neil Iscoe, **Software Authorization Systems**, IEEE Software, September 1986.[^foo29]*|
+
+[^foo29]: [DOI: 10.1109/MS.1986.234396 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.234396)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1986-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Modula-2** has been adopted as the foundation for a number of **experimental systems**. The insights gained from those experiments will prove valuable to both current **designers and future users of programming systems**, no matter what the language. " |
+
+
+* * *
+
+|*Robert P. Cook, **Modula-2 Experiments Will Help Future Language Designs**, IEEE Software, November 1986.[^foo30]*|
+
+[^foo30]: [DOI: 10.1109/MS.1986.234419 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.234419)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Dijkstra's proposal to prohibit the **GOTO** was greeted with controversy: '**You must be kidding!**'" |
+
+
+* * *
+
+|*Harlan D. Mills, **Structured Programming: Retrospect and Prospect**, IEEE Software, November 1986.[^foo31]*|
+
+[^foo31]: [DOI: 10.1109/MS.1986.229478 ](http://doi.ieeecomputersociety.org/10.1109/MS.1986.229478)
+ 
+ 
+{pagebreak}
+
+
+# 1987
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1987-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Reusing** and **reworking** software is not new; it has been done since the very beginnings of our industry in the early 1950s. Reuse means using an entity in a different context from that in it initially had been used. This is often called **'black-box' reuse**. When an entity is modified before it is used in the new setting, it is called 'rework' or **'white-box' reuse**." |
+
+
+* * *
+
+|*Bruce D. Shriver, **Editor in Chief Introduction Reuse Revisited**, IEEE Software, January 1987.[^foo32]*|
+
+[^foo32]: [DOI: 10.1109/MS.1987.229788 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.229788)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "To **reuse** a software component, you **first have to find it**." |
+
+
+* * *
+
+|*Ruber Prieto-Diaz, Peter Freeman, **Clasifying Software for Reusability**, IEEE Software, January 1987.[^foo33]*|
+
+[^foo33]: [DOI: 10.1109/MS.1987.229789 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.229789)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "There are two levels of **reuse** to consider: the reuse of **ideas and knowledge** and the reuse of particular **artifacts and components**." |
+
+
+* * *
+
+|*Ruber Prieto-Diaz, Peter Freeman, **Clasifying Software for Reusability**, IEEE Software, January 1987.[^foo34]*|
+
+[^foo34]: [DOI: 10.1109/MS.1987.229789 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.229789)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Visual programming languages** ... deal with objects that do not have an inherent visual representation. This includes traditional data types such as arrays, stacks, and queues and application data types such as forms, documents, and databases. ... both programming constructs and and the rules to combine these constructs should be presented visually." |
+
+
+* * *
+
+|*Shi-Kuo Chang, **Visual Languages: A Tutorial and Survey**, IEEE Software, January 1987.[^foo35]*|
+
+[^foo35]: [DOI: 10.1109/MS.1987.229792 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.229792)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**ABC** is being designed and implemented with an **integrated programming environment**. ... The main design objectives ... : **simplicity**, suitability for **interactive use**, and **availability of tools** for structured programming." |
+
+
+* * *
+
+|*Steven Pemberton, **An Alternative Simple Language and Environment for PCs**, IEEE Software, January 1987.[^foo36]*|
+
+[^foo36]: [DOI: 10.1109/MS.1987.229797 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.229797)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1987-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "New technology is changing the way we store documents. This experimental system features flexible **document retrieval**, a **distributed architecture**, and the capacity to store many very **large documents**." |
+
+
+* * *
+
+|*Simon Gibbs, Dennis Tsichritzis, Akis Fitas, Dimitri Konstantas, Yiannis Yeorgaroudakis, **Muse: A Multimedia File System**, IEEE Software, March 1987.[^foo37]*|
+
+[^foo37]: [DOI: 10.1109/MS.1987.230090 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.230090)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Simply being more organized will not make **the reuse problem** go away. The issues are technical, not managerial. The answers lie in **object-oriented design**." |
+
+
+* * *
+
+|*Bertrand Meyer, **Reusability: The Case for Object-Oriented Design**, IEEE Software, March 1987.[^foo38]*|
+
+[^foo38]: [DOI: 10.1109/MS.1987.230097 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.230097)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1987-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Testing Ada programs is easier with this **visual debugger** that graphically depicts what the program as doing - and how it is being done." |
+
+
+* * *
+
+|*Sadahiro Isoda, Yuji Ono, Takao Shimomura, **VIPS: A Visual Debugger**, IEEE Software, May 1987.[^foo39]*|
+
+[^foo39]: [DOI: 10.1109/MS.1987.230394 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.230394)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The term debugging was first applied to **a hardware bug** - **a moth** in the circuitry of Mark II" |
+
+
+* * *
+
+|*R.E. Seviora, **Knowledge-Based Program Debugging Systems**, IEEE Software, May 1987.[^foo40]*|
+
+[^foo40]: [DOI: 10.1109/MS.1987.230396 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.230396)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**No one likes to debug programs**, and there is no way to automate the task." |
+
+
+* * *
+
+|*R.E. Seviora, **Knowledge-Based Program Debugging Systems**, IEEE Software, May 1987.[^foo41]*|
+
+[^foo41]: [DOI: 10.1109/MS.1987.230396 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.230396)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Smalltalk promotes **fearless** programming." |
+
+
+* * *
+
+|*Jim Diederich, Jack Milton, **Experimental Prototyping in Smalltalk**, IEEE Software, May 1987.[^foo42]*|
+
+[^foo42]: [DOI: 10.1109/MS.1987.230707 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.230707)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1987-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "People are leery about buying a **used car** for many of the same reasons programmers are reluctant to **reuse** someone else's work." |
+
+
+* * *
+
+|*Will Tracz, **Reusability Comes of Age**, IEEE Software, July 1987.[^foo43]*|
+
+[^foo43]: [DOI: 10.1109/MS.1987.231056 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.231056)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "An experiment asked programmers untrained in reuse to **evaluate component reusability**. They did poorly." |
+
+
+* * *
+
+|*D.W. Embley, S.N. Woodfield, D.T. Scott, **Can Programmers Reuse Software?**, IEEE Software, July 1987.[^foo44]*|
+
+[^foo44]: [DOI: 10.1109/MS.1987.231064 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.231064)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1987-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Software quality can be engineered under **statistical quality control** and delivered with better quality." |
+
+
+* * *
+
+|*R.C. Linger, M. Dyer, H.D. Mills, **Cleanroom Software Engineering**, IEEE Software, September 1987.[^foo45]*|
+
+[^foo45]: [DOI: 10.1109/MS.1987.231413 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.231413)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "SQA will evolve into a broader software quality technology, shifting from a passive process to an active one, from **fault detection** to **fault avoidance**." |
+
+
+* * *
+
+|*F.S. LaMonica, J.P. Cavano, **Quality Assurance in Future Development Environments**, IEEE Software, September 1987.[^foo46]*|
+
+[^foo46]: [DOI: 10.1109/MS.1987.231415 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.231415)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "An effective way to improve software quality is to **set measurable goals** and then manage your projects to achieve those goals. Hewlett-Packard has developed some methods to do just that." |
+
+
+* * *
+
+|*R.B. Grady, **Measuring and Managing Software Maintenance**, IEEE Software, September 1987.[^foo47]*|
+
+[^foo47]: [DOI: 10.1109/MS.1987.231417 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.231417)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Maintenance** plays a vital role in **protecting quality** as a system evolves." |
+
+
+* * *
+
+|*J.J. Buck, J.S. Collofello, **Software Quality Assurance for Maintenance**, IEEE Software, September 1987.[^foo48]*|
+
+[^foo48]: [DOI: 10.1109/MS.1987.231418 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.231418)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1987-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "How do you keep teams of programmers informed of system changes without burying them in mail messages? Make the environment responsible for **propagating changes**." |
+
+
+* * *
+
+|*S.M. Kaplan, J. Micallef, G.E. Kaiser, **Multiuser, Distributed Language-Based Environments**, IEEE Software, November 1987.[^foo49]*|
+
+[^foo49]: [DOI: 10.1109/MS.1987.232092 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.232092)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A new generation of operating system, based on **extended databases**, will supplant the original phase-sequencing and current **pipelining program composition mechanisms**." |
+
+
+* * *
+
+|*R.M. Baizer, **Living in the Next-Generation Operating System**, IEEE Software, November 1987.[^foo50]*|
+
+[^foo50]: [DOI: 10.1109/MS.1987.232097 ](http://doi.ieeecomputersociety.org/10.1109/MS.1987.232097)
+ 
+ 
+{pagebreak}
+
+
+# 1988
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1988-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Parallel programming** challenges software professionals to rethink old approaches and difficult - often controversial - choices." |
+
+
+* * *
+
+|*Shreekant S. Thakkar, **Guest Editor's Introduction: Parallel Programming—Issues and Questions**, IEEE Software, January 1988.[^foo51]*|
+
+[^foo51]: [DOI: 10.1109/MS.1988.10003 ](http://doi.ieeecomputersociety.org/10.1109/MS.1988.10003)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Parafunctional programming** is based on the premise that the what (specification) and the how (implementation) are separately identifiable and maintainable system components." |
+
+
+* * *
+
+|*Paul Hudak, **Exploring Parafunctional Programming: Separating the What from the How**, IEEE Software, January 1988.[^foo52]*|
+
+[^foo52]: [DOI: 10.1109/52.1994 ](http://doi.ieeecomputersociety.org/10.1109/52.1994)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The IOGen **static-analysis tool** ... uses a technique based on symbolic execution and produces a set of I/O pairs that represent execution paths through a program." |
+
+
+* * *
+
+|*Joyce R. Jenkins, Timothy E. Lindquist, **Test-Case Generation with IOGen**, IEEE Software, January 1988.[^foo53]*|
+
+[^foo53]: [DOI: 10.1109/52.1996 ](http://doi.ieeecomputersociety.org/10.1109/52.1996)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1988-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Mote than a decade after its introduction, **CASE** is emerging as a real-world technology whose **promises** are being fulfilled." |
+
+
+* * *
+
+|*Elliot J. Chikofsky, **Guest Editor's Introduction: Software Technology People Can Really Use**, IEEE Software, March 1988.[^foo54]*|
+
+[^foo54]: [DOI: 10.1109/MS.1988.10019 ](http://doi.ieeecomputersociety.org/10.1109/MS.1988.10019)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Current computer-aided-software engineering (CASE) tools have several **inherent limitations** that reduce the productivity gains they can achieve ...  methodology constraints, administration difficulties, documentation inadequacies, and graphic-artist requirement." |
+
+
+* * *
+
+|*Charles F. Martin, **Second-Generation CASE Tools: A Challenge to Vendors**, IEEE Software, March 1988.[^foo55]*|
+
+[^foo55]: [DOI: 10.1109/52.2010 ](http://doi.ieeecomputersociety.org/10.1109/52.2010)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Today tools help systems analysts, so **why aren’t they widely used**? " |
+
+
+* * *
+
+|*Charles F. Martin, **Second-Generation CASE Tools: A Challenge to Vendors**, IEEE Software, March 1988.[^foo56]*|
+
+[^foo56]: [DOI: 10.1109/52.2010 ](http://doi.ieeecomputersociety.org/10.1109/52.2010)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A **software-process maturity framework** ... has been developed to provide the US Department of Defense with a means to characterize the capabilities of software-development organizations. This software-development process-maturity model reasonably represents the actual ways in which software-development organizations improve. It provides a framework for assessing these organizations and identifying the priority areas for immediate improvement. It also helps identify those places where advanced technology can be most valuable in improving the software-development process." |
+
+
+* * *
+
+|*Watts S. Humphrey, **Characterizing the Software Process: A Maturity Framework**, IEEE Software, March 1988.[^foo57]*|
+
+[^foo57]: [DOI: 10.1109/52.2014 ](http://doi.ieeecomputersociety.org/10.1109/52.2014)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "There are several applications where a **universal-relation interface** to an existing database-management system is essential. The most obvious example is **natural-language** interface - indeed, it is hard to see how a natural-language interface could reliably use anything else, since it is unreasonable to make the user talk in terms of the **database's logical structure**." |
+
+
+* * *
+
+|*Moshe Y. Vardi, **The Universal-Relation Data Model for Logical Independence**, IEEE Software, March 1988.[^foo58]*|
+
+[^foo58]: [DOI: 10.1109/52.2015 ](http://doi.ieeecomputersociety.org/10.1109/52.2015)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1988-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The meaning of the term '**object oriented**' is examined in the context of the general-purpose programming language C++. This choice is made partly to **introduce C++** and partly because C++ is one of the few languages that supports data abstraction, object-oriented programming, and traditional programming techniques. ... four paradigms are examined: **procedural**, **data hiding**, **data abstraction**, and **object-oriented** programming." |
+
+
+* * *
+
+|*Bjarne Stroustrup, **What Is Object-Oriented Programming?**, IEEE Software, May 1988.[^foo59]*|
+
+[^foo59]: [DOI: 10.1109/52.2020 ](http://doi.ieeecomputersociety.org/10.1109/52.2020)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1988-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Even though the code sizes were smaller with both fourth-generation tools, **Cobol was clearly superior** in performance." |
+
+
+* * *
+
+|*Paul J. Jalics, Santosh K. Misra, **Third-Generation Versus Fourth-Generation Software Development**, IEEE Software, July 1988.[^foo60]*|
+
+[^foo60]: [DOI: 10.1109/52.17797 ](http://doi.ieeecomputersociety.org/10.1109/52.17797)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1988-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Shared memory** requires carefully designed concurrency control, but the traditional approach, which is to embed the entire **allocate-release** implementation code in critical sections, is unsuitable for real-time applications because it results in excessively high response time." |
+
+
+* * *
+
+|*Ray Ford, **Concurrent Algorithms for Real-Time Memory Management**, IEEE Software, September 1988.[^foo61]*|
+
+[^foo61]: [DOI: 10.1109/52.7940 ](http://doi.ieeecomputersociety.org/10.1109/52.7940)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1988-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Expert systems** attempt to clone an expert’s problem-solving behavior in a particular knowledge-intensive domain. An expert’s domain knowledge encompasses both the **facts** that apply to a particular area and the **knowledge of how** and when to use these facts to solve a problem in that domain. " |
+
+
+* * *
+
+|*Murat M. Tanik, Raymond T. Yeh, **Guest Editors' Introduction: Expert Systems**, IEEE Software, November 1988.[^foo62]*|
+
+[^foo62]: [DOI: 10.1109/MS.1988.10052 ](http://doi.ieeecomputersociety.org/10.1109/MS.1988.10052)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "It is far better to succeed by design than by default or chance. **Usability testing** tips the balance in favor of success and **reduces the risks** associated with launching a new system." |
+
+
+* * *
+
+|*Kathleen Potosnak, **Recipe for a Usability Test**, IEEE Software, November 1988.[^foo63]*|
+
+[^foo63]: [DOI: 10.1109/MS.1988.10054 ](http://doi.ieeecomputersociety.org/10.1109/MS.1988.10054)
+ 
+ 
+{pagebreak}
+
+
+# 1989
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1989-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "An **interactive system** - one with a human-computer interface - is not judged solely on its ability to compute. It is also judged on its **ability to communicate**. In fact, if users cannot communicate effectively with an interactive system, its computational ability may be  inaccessible. " |
+
+
+* * *
+
+|*Deborah Hix, **Guest Editor's Introduction: User Interfaces—Opening a Window on the Computer**, IEEE Software, January 1989.[^foo64]*|
+
+[^foo64]: [DOI: 10.1109/MS.1989.10004 ](http://doi.ieeecomputersociety.org/10.1109/MS.1989.10004)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "An overview is given of **user-interface development systems** (UIDS). ... The three types are **language-based**, **graphical**, and **automatic creation interfaces**." |
+
+
+* * *
+
+|*Brad A. Myers, **User-Interface Tools: Introduction and Survey**, IEEE Software, January 1989.[^foo65]*|
+
+[^foo65]: [DOI: 10.1109/52.16898 ](http://doi.ieeecomputersociety.org/10.1109/52.16898)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1989-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Japan's Sigma** (Software Industrialized Generator and Maintenance Aids) ... consists of the Sigma Center, Sigma network, and Sigma user sites. The Sigma Center will help users who are constructing development environments of programs using those environments. It will provide database services, demonstration services, and part of the network service." |
+
+
+* * *
+
+|*Noboru Akima, Fusatake Ooi, **Industrializing Software Development: A Japanese Approach**, IEEE Software, March 1989.[^foo66]*|
+
+[^foo66]: [DOI: 10.1109/52.23125 ](http://doi.ieeecomputersociety.org/10.1109/52.23125)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "With strong government backing and direction, **Singapore** seeks to develop information technology as a growth industry and use it to promote the nation's global competitiveness." |
+
+
+* * *
+
+|*Tahn Joo Chin, Kai Yuen Wang, **Software Technology Development in Singapore**, IEEE Software, March 1989.[^foo67]*|
+
+[^foo67]: [DOI: 10.1109/52.23132 ](http://doi.ieeecomputersociety.org/10.1109/52.23132)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1989-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Properly applied  throughout the life cycle, **verification and validation** can result in higher quality, more reliable programms." |
+
+
+* * *
+
+|*Dolores R. Wallace, Roger U. Fujii, **Software Verification and Validation: An Overview**, IEEE Software, May 1989.[^foo68]*|
+
+[^foo68]: [DOI: 10.1109/52.28119 ](http://doi.ieeecomputersociety.org/10.1109/52.28119)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**System testing** becomess guesswork - unless you set it up to apply **statistical analysis**. Then you can focus attention on the software’s use instead of its structure." |
+
+
+* * *
+
+|*A. Frank Ackerman, John D. Musa, **Quantifying Software Validation: When to Stop Testing?**, IEEE Software, May 1989.[^foo69]*|
+
+[^foo69]: [DOI: 10.1109/52.28120 ](http://doi.ieeecomputersociety.org/10.1109/52.28120)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Inspections** can detect and eliminate faults **more cheaply than testing**." |
+
+
+* * *
+
+|*A. Frank Ackerman, Lynne S. Buchwald, Frank H. Lewski, **Software Inspections: An Effective Verification Process**, IEEE Software, May 1989.[^foo70]*|
+
+[^foo70]: [DOI: 10.1109/52.28121 ](http://doi.ieeecomputersociety.org/10.1109/52.28121)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1989-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The commercial availability of these machines poses a challenge to the software industry. What is the best way to **harness the power**?" |
+
+
+* * *
+
+|*Shreekant Thakkar, **Guest Editor's Introduction: Parallel Programming—Harnessing the Hardware**, IEEE Software, July 1989.[^foo71]*|
+
+[^foo71]: [DOI: 10.1109/MS.1989.10037 ](http://doi.ieeecomputersociety.org/10.1109/MS.1989.10037)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A strong common theme among the managers interviewed was the person’s ability to **communicate** with both peers and managers … Most of the managers are looking for someone who will be **a good team player** - someone who can work for the good of the group and apply his skills and talents to **assist collective goals**. … I look for someone I can motivate and who **wants to be motivated**..." |
+
+
+* * *
+
+|*Elliot Chikofsky, **Looking For the Best Software Engineers**, IEEE Software, July 1989.[^foo72]*|
+
+[^foo72]: [DOI: https://doi.ieeecomputersociety.org/10.1109/52.31661 ](https://doi.ieeecomputersociety.org/10.1109/52.31661)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1989-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Multiparadigm programming** makes it possible to match the paradigm to the problem." |
+
+
+* * *
+
+|*Pamela Zave, **A Compositional Approach to Multiparadigm Programming**, IEEE Software, September 1989.[^foo73]*|
+
+[^foo73]: [DOI: 10.1109/52.35586 ](http://doi.ieeecomputersociety.org/10.1109/52.35586)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The language-independent **Law of Demeter** ... encodes the ideas of **encapsulation and modularity** in an easy-to-follow form for object-oriented programmers ... The law was developed during the design and implementation of **the Demeter system**, which provides a high-level interface to class-based, object-oriented systems." |
+
+
+* * *
+
+|*Ian M. Holland, Karl J. Lieberherr, **Assuring Good Style for Object-Oriented Programs**, IEEE Software, September 1989.[^foo74]*|
+
+[^foo74]: [DOI: 10.1109/52.35588 ](http://doi.ieeecomputersociety.org/10.1109/52.35588)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1989-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The European Strategic Program for Research and Information Technology **ESPRIT** has had a profound effect on industrial technology in Europe." |
+
+
+* * *
+
+|*Annie Kuntzmann-Combelles, **Guest Editor's Introduction: ESPRIT—Key Results of the First Phase**, IEEE Software, November 1989.[^foo75]*|
+
+[^foo75]: [DOI: 10.1109/MS.1989.10064 ](http://doi.ieeecomputersociety.org/10.1109/MS.1989.10064)
+ 
+ 
+{pagebreak}
+
+
+# 1990
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1990-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Reverse engineering** is the process of analyzing a subject system to identify the system’s components and their interrelationships and create representations of the system in another form or at a higher level of abstraction." |
+
+
+* * *
+
+|*Elliot J. Chikofsky, James H. Cross II, **Reverse Engineering and Design Recovery: A Taxonomy**, IEEE Software, January 1990.[^foo76]*|
+
+[^foo76]: [DOI: 10.1109/52.43044 ](http://doi.ieeecomputersociety.org/10.1109/52.43044)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Restructuring** is the transformation from one representation form to another at the same relative abstraction level, while preserving the subject system’s external behavior (functionality and semantics). " |
+
+
+* * *
+
+|*Elliot J. Chikofsky, James H. Cross II, **Reverse Engineering and Design Recovery: A Taxonomy**, IEEE Software, January 1990.[^foo77]*|
+
+[^foo77]: [DOI: 10.1109/52.43044 ](http://doi.ieeecomputersociety.org/10.1109/52.43044)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1990-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "You can't control what you can't measure. That fundamental reality underlies the importance of **software metrics**, despite the **controversy** that has surrounded them since **Maurice Halstead** put forth his idea of software science. Sketpics claim metrics are useless and expensive exercise in pointless data collection, while proponents argue they are valuable management and engineering tools." |
+
+
+* * *
+
+|*Peter B. Dyson, Harlan D. Mills, **Guest Editors' Introduction: Using Metrics to Quantify Development**, IEEE Software, March 1990.[^foo78]*|
+
+[^foo78]: [DOI: 10.1109/MS.1990.10016 ](http://doi.ieeecomputersociety.org/10.1109/MS.1990.10016)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Measurement** must be applied in individual experiments or case studies; ... measurement can help continuously improve an organization's state of the practice; ... measurement requires automated support." |
+
+
+* * *
+
+|*H. Dieter Rombach, **Design Measurement: Some Lessons Learned**, IEEE Software, March 1990.[^foo79]*|
+
+[^foo79]: [DOI: 10.1109/52.50770 ](http://doi.ieeecomputersociety.org/10.1109/52.50770)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1990-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Practitioners** drift one way, **purists** the other. The purists must compromise." |
+
+
+* * *
+
+|*Carl Chang, **Let's Stop the Bipolar Drift**, IEEE Software, May 1990.[^foo80]*|
+
+[^foo80]: [DOI: 10.1109/MS.1990.10029 ](http://doi.ieeecomputersociety.org/10.1109/MS.1990.10029)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Tools** are divided into vertical and horizontal architectures. **Vertical tools** support specific activities in a single life-cycle phase, such as analysis, design, or testing. **Horizontal tools** support activities across the entire life cycle, such as project management and cost estimation." |
+
+
+* * *
+
+|*Paul W. Oman, Dennis B. Smith, **Software Tools in Context**, IEEE Software, May 1990.[^foo81]*|
+
+[^foo81]: [DOI: 10.1109/52.55222 ](http://doi.ieeecomputersociety.org/10.1109/52.55222)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Performance tools** are a way of making systematic the work needed to carry out performance studies so that several studies can be carried out more easily and be compared in a consistent way." |
+
+
+* * *
+
+|*Kathleen D. Nichols, **Performance Tools**, IEEE Software, May 1990.[^foo82]*|
+
+[^foo82]: [DOI: 10.1109/52.55223 ](http://doi.ieeecomputersociety.org/10.1109/52.55223)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Three approaches to **user-interface development**: **tool kits**, **user-interface management systems** (UIMS), and interactive **design tools**." |
+
+
+* * *
+
+|*Ed Lee, **User-Interface Development Tools**, IEEE Software, May 1990.[^foo83]*|
+
+[^foo83]: [DOI: 10.1109/52.55225 ](http://doi.ieeecomputersociety.org/10.1109/52.55225)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Some **testing tools** simulate the final execution environment as a way of expediting test execution, others automate the development of test plans, and still others collect performance data during execution." |
+
+
+* * *
+
+|*Mike Lutz, **Testing Tools**, IEEE Software, May 1990.[^foo84]*|
+
+[^foo84]: [DOI: 10.1109/52.55228 ](http://doi.ieeecomputersociety.org/10.1109/52.55228)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Code generators** ... take a programmer's inputs in the form of some abstraction, design, or direct interaction with the system and write out a source program that implements the details of the application..." |
+
+
+* * *
+
+|*Ted Lewis, **Code Generators**, IEEE Software, May 1990.[^foo85]*|
+
+[^foo85]: [DOI: 10.1109/52.55230 ](http://doi.ieeecomputersociety.org/10.1109/52.55230)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1990-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "An environment for **creating user interfaces for embedded systems**, called the graphical specification system (GSS) ... combines graphical and minimal low-level textual specification with a prototyping capability for rapid user-interface design and evaluation." |
+
+
+* * *
+
+|*Sallie Sheppard, Andrew Harbert, William Lively, **A Graphical Specification System for User-Interface Design**, IEEE Software, July 1990.[^foo86]*|
+
+[^foo86]: [DOI: 10.1109/52.56446 ](http://doi.ieeecomputersociety.org/10.1109/52.56446)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The interpretive frame system (IFS), a tool for building application systems ... separates high-level design and user-interface programming from domain-specific programming." |
+
+
+* * *
+
+|*Kiem-Phong Vo, **IFS: A Tool to Build Application Systems**, IEEE Software, July 1990.[^foo87]*|
+
+[^foo87]: [DOI: 10.1109/52.56448 ](http://doi.ieeecomputersociety.org/10.1109/52.56448)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1990-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Seven widely held conceptions about formal methods are challenged. These beliefs are variants of the following: formal methods can **guarantee** that software is perfect; they work by **proving** that the programs are correct; only highly critical systems **benefit** from their use; they involve **complex mathematics**; they **increase the cost** of development; they are **incomprehensible** to clients; and **nobody uses them** for real projects." |
+
+
+* * *
+
+|*Anthony Hall, **Seven Myths of Formal Methods**, IEEE Software, September 1990.[^foo88]*|
+
+[^foo88]: [DOI: 10.1109/52.57887 ](http://doi.ieeecomputersociety.org/10.1109/52.57887)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1990-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Five basic steps that the **software engineering profession** must take to become a true engineering discipline ... are: understanding the **nature of expertise**, recognizing different ways to **get information**, encouraging **routine practice**, expecting professional **specializations**, and improving the **coupling between science and commercial practice**." |
+
+
+* * *
+
+|*Mary Shaw, **Prospects for an Engineering Discipline of Software**, IEEE Software, November 1990.[^foo89]*|
+
+[^foo89]: [DOI: 10.1109/52.60586 ](http://doi.ieeecomputersociety.org/10.1109/52.60586)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Cleanroom engineering** achieves intellectual control by applying rigorous, mathematics-based engineering practices, establishes an **errors-are-unacceptable attitude** and a **team responsibility for quality**, delegates development and testing responsibilities to separate teams, and certifies the software's mean time to failure through the application of statistical quality-control methods." |
+
+
+* * *
+
+|*Harlan D. Mills, Richard H. Cobb, **Engineering Software Under Statistical Quality Control**, IEEE Software, November 1990.[^foo90]*|
+
+[^foo90]: [DOI: 10.1109/52.60601 ](http://doi.ieeecomputersociety.org/10.1109/52.60601)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Schools** represent a challenge for the software industry. Although **diverting corporate resources to schools** may appear to be folly in the short run, in the long run it is a strategy for survival. Programmers and their organizations should devote their time and services to schools at the primary and secondary levels." |
+
+
+* * *
+
+|*Tom DeMarco, **Making a Difference in the Schools**, IEEE Software, November 1990.[^foo91]*|
+
+[^foo91]: [DOI: 10.1109/52.60592 ](http://doi.ieeecomputersociety.org/10.1109/52.60592)
+ 
+ 
+{pagebreak}
+
+
+# 1991
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1991-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Quantitative results based on a 1988 study of inspection of 2.5 million lines of high-level code at Bell-Northern Research ... confirm that **code inspection** is still one of the most efficient ways to remove software defects." |
+
+
+* * *
+
+|*Glen W. Russell, **Experience With Inspection in Ultralarge-Scale Development**, IEEE Software, January 1991.[^foo92]*|
+
+[^foo92]: [DOI: 10.1109/52.62929 ](http://doi.ieeecomputersociety.org/10.1109/52.62929)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The emerging discipline of **software risk management** is ... defined as an attempt to formalize the risk-oriented correlates of success into a readily applicable set of principles and practices. Its objectives are to identify, address, and eliminate risk items before they become either threats to successful software operation or major sources of software rework." |
+
+
+* * *
+
+|*Barry W. Boehm, **Software Risk Management: Principles and Practices**, IEEE Software, January 1991.[^foo93]*|
+
+[^foo93]: [DOI: 10.1109/52.62930 ](http://doi.ieeecomputersociety.org/10.1109/52.62930)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1991-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "A model that patterns **software manufacturing** after **hardware manufacturing** ... introduces a **testing** and **analysis station** between each development phase. At each station, the incoming product is tested and failure data are analyzed and compared with the quality criteria used. The decision is then made whether to proceed to the next phase or repair the software." |
+
+
+* * *
+
+|*Ytzhak Levendel, **Improving Quality With a Manufacturing Process**, IEEE Software, March 1991.[^foo94]*|
+
+[^foo94]: [DOI: 10.1109/52.73745 ](http://doi.ieeecomputersociety.org/10.1109/52.73745)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The testing and quality assurance of the **Motif 1.0** graphical user-interface software are described. The testing goals, which fell into three general categories (code coverage, defect-density, and defect-arrival rate), and a deliverable formal test suite are examined. The three phases of the testing process-evaluation, test development, and regression testing-and the tools used in testing are discussed." |
+
+
+* * *
+
+|*Paul R. Ritter, Jason Su, **Experience in Testing the Motif Interface**, IEEE Software, March 1991.[^foo95]*|
+
+[^foo95]: [DOI: 10.1109/52.73746 ](http://doi.ieeecomputersociety.org/10.1109/52.73746)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1991-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Our **natural limitations** in reasoning power, memory, and communication are both the **reasons we debug** and why the activity of debugging itself can be so difficult. The debuggers ... are **visibility tools**, making hidden information available to programmers." |
+
+
+* * *
+
+|*Thomas G. Moher, Paul R. Wilson, **Guest Editors' Introduction: Offsetting Human Limits with Debugging Technology**, IEEE Software, May 1991.[^foo96]*|
+
+[^foo96]: [DOI: 10.1109/MS.1991.10025 ](http://doi.ieeecomputersociety.org/10.1109/MS.1991.10025)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Programmers have no clear idea bow to systematically debug a program, which makes it difficult to share and evaluate methods ... Debugging tools must support each stage in the debugging process: hypothesis verification, hypothesis-set modification, and hypothesis selection." |
+
+
+* * *
+
+|*Jingde Cheng, Keijiro Araki, Zengo Furukawa, **A General Framework for Debugging**, IEEE Software, May 1991.[^foo97]*|
+
+[^foo97]: [DOI: 10.1109/52.88939 ](http://doi.ieeecomputersociety.org/10.1109/52.88939)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1991-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "In 1987 and 1990, the Software Engineering Institute conducted process assessments of the Software Engineering Division (SED) of Hughes Aircraft in Fullerton, CA." |
+
+
+* * *
+
+|*Watts S. Humphrey, Ronald R. Willis, Terry R. Snyder, **Software Process Improvement at Hughes Aircraft**, IEEE Software, July 1991.[^foo98]*|
+
+[^foo98]: [DOI: 10.1109/52.300031 ](http://doi.ieeecomputersociety.org/10.1109/52.300031)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The methods used by the Software Engineering Institute (SEI's) **Software Capability Evaluation program (SCE)** ... is so **seriously and fundamentally flawed**  that it should be abandoned rather than modified or updated. " |
+
+
+* * *
+
+|*Clement McGowan, Terry B. Bollinger, **A Critical Look at Software Capability Evaluations**, IEEE Software, July 1991.[^foo99]*|
+
+[^foo99]: [DOI: 10.1109/52.300034 ](http://doi.ieeecomputersociety.org/10.1109/52.300034)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**The article** by T. Bollinger and C. McGowan, entitled 'A critical look at software capability evaluation', see ibid., p.25-41 (1991), **contains a serious flaw**. ... common misconceptions about the SEI ... fall into six categories: SCE's purpose ...; how the SCE method works in practice; the statistical methods used to determine levels; the ongoing process of refining the method; the maturity framework; and the coverage of technology issues." |
+
+
+* * *
+
+|*Watts S. Humphrey, Bill Curtis, **Comments on 'A Critical Look'**, IEEE Software, July 1991.[^foo100]*|
+
+[^foo100]: [DOI: 10.1109/52.300033 ](http://doi.ieeecomputersociety.org/10.1109/52.300033)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1991-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "In a nutshel **performance analysis** is the measuring, modeling, and tuning of software's time, space, efficiency, and accuracy." |
+
+
+* * *
+
+|*Kathleen Nichols, Paul W. Oman, **Guest Editors' Introduction: Navigating Complexity to Achieve High Performance**, IEEE Software, September 1991.[^foo101]*|
+
+[^foo101]: [DOI: 10.1109/MS.1991.10056 ](http://doi.ieeecomputersociety.org/10.1109/MS.1991.10056)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1991-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Process-management systems often focus on details at the expense of the big picture. The Cosmos model makes long-term objectives explicit, so managers can have both views. Cosmos ... combines the best of existing models by incorporating three perspectives: activity, communication, and infrastructure. Cosmos is designed to manage a large software system from beginning to end." |
+
+
+* * *
+
+|*Raymond T. Yeh, David A. Naumann, John T. LeBaron, George E. Sumrall, William S. Gilmore, Roland T. Mittermeir, Reinhard A. Schlemmer, **A Commonsense Management Model**, IEEE Software, November 1991.[^foo102]*|
+
+[^foo102]: [DOI: 10.1109/52.103574 ](http://doi.ieeecomputersociety.org/10.1109/52.103574)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "New computers are supplying the **massive power** that **vision applications** require. How to program this hardware efficiently and naturally is the challenge facing the **imaging community**." |
+
+
+* * *
+
+|*Virginio Cantoni, Stefano Levialdi, **Guest Editors' Introduction: Languages and Environments for Vision Applications**, IEEE Software, November 1991.[^foo103]*|
+
+[^foo103]: [DOI: 10.1109/MS.1991.10062 ](http://doi.ieeecomputersociety.org/10.1109/MS.1991.10062)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "With advances in **high-level parallel programming**, you can apply known techniques to computer-vision applications, rather than use special computer vision language." |
+
+
+* * *
+
+|*Anthony P. Reeves, **Parallel Programming for Computer Vision**, IEEE Software, November 1991.[^foo104]*|
+
+[^foo104]: [DOI: 10.1109/52.103577 ](http://doi.ieeecomputersociety.org/10.1109/52.103577)
+ 
+ 
+{pagebreak}
+
+
+# 1992
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1992-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Some well-established software fields combining to forge the new discipline of **protocol engineering**, which seeks to ease the development of today's communication software." |
+
+
+* * *
+
+|*Ming T. Liu, Fuchun Joseph Lin, **Guest Editors' Introduction: The Rise of Protocol Engineering**, IEEE Software, January 1992.[^foo105]*|
+
+[^foo105]: [DOI: 10.1109/MS.1992.10000 ](http://doi.ieeecomputersociety.org/10.1109/MS.1992.10000)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "New **formal methods** now exist to design and validate even complex protocols. These methods are mature enough to be used by everyone. ... A formal method is considered to be one that has the capability of rendering **correctness proofs**." |
+
+
+* * *
+
+|*Gerard J. Holzman, **Protocol Design: Redefining the State of the Art**, IEEE Software, January 1992.[^foo106]*|
+
+[^foo106]: [DOI: 10.1109/52.108773 ](http://doi.ieeecomputersociety.org/10.1109/52.108773)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "To succesfully validate a very large protocol, you need three  ingredients: **formal modeling**, decomposition and abstraction, and **reachability analysis**." |
+
+
+* * *
+
+|*Ming T. Liu, Fuchun Joseph Lin, **Protocol Validation for Large-Scale Applications**, IEEE Software, January 1992.[^foo107]*|
+
+[^foo107]: [DOI: 10.1109/52.108776 ](http://doi.ieeecomputersociety.org/10.1109/52.108776)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A **knowledge-based design support system**, called KDSS ... helps designers inexperienced in communication system design easily create advanced systems like **intelligent networks**, and large-scale distributed computing systems." |
+
+
+* * *
+
+|*Norio Shiratori, Kenji Sugawara, Kaoru Takahashi, Tetsuo Kinoshita, **Using Artificial Intelligence in Communication System Design**, IEEE Software, January 1992.[^foo108]*|
+
+[^foo108]: [DOI: 10.1109/52.108779 ](http://doi.ieeecomputersociety.org/10.1109/52.108779)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1992-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The focus of **CASE research and development** has shifted from making sure each tool works to making sure all tools can work together. Major vendors are striving to balance comprehensiveness and compatibility." |
+
+
+* * *
+
+|*Ronald J. Norman, Minder Chen, **Guest Editors' Introduction: Working Together to Integrate CASE**, IEEE Software, March 1992.[^foo109]*|
+
+[^foo109]: [DOI: 10.1109/MS.1992.10026 ](http://doi.ieeecomputersociety.org/10.1109/MS.1992.10026)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The reference model permit **three forms of integration**: **data integration**, **control integration**, and **presentation integration**. ... The organizational framework divides systems development and management into **three activity levels**: **IS infrastructure planning and design** is undertaken at the enterprise level, **systems project management and decisions** are made at the project level, and **software-development processes** are carried out at the individual and team level. " |
+
+
+* * *
+
+|*Ronald J. Norman, Minder Chen, **A Framework for Integrated CASE**, IEEE Software, March 1992.[^foo110]*|
+
+[^foo110]: [DOI: 10.1109/52.120597 ](http://doi.ieeecomputersociety.org/10.1109/52.120597)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Current work on **integrated project support environments (IPSEs)** is based on an inappropriate view of integration,  and ... IPSE developers should create semantically rich infrastructures or produce well-integrated tool sets rather than open repositories or infrastructures." |
+
+
+* * *
+
+|*John A. McDermid, Alan W. Brown, **Learning From IPSE's Mistakes**, IEEE Software, March 1992.[^foo111]*|
+
+[^foo111]: [DOI: 10.1109/52.120598 ](http://doi.ieeecomputersociety.org/10.1109/52.120598)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Tool integration** is not a property of a single tool, but of its relationships with other elements in the environment, chiefly other tools, a platform, and a process. Tool integration is about the extent to which tools agree. The subject of these agreements may include **data format**, **user-interface conventions**, use of **common functions** ..." |
+
+
+* * *
+
+|*Brian A. Nejmeh, Ian Thomas, **Definitions of Tool Integration for Environments**, IEEE Software, March 1992.[^foo112]*|
+
+[^foo112]: [DOI: 10.1109/52.120599 ](http://doi.ieeecomputersociety.org/10.1109/52.120599)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **software factory** concept ... symbolizes a desired paradigm shift from labor-intensive software production to a more **capital-intensive style** in which substantial **investments** can be made at an acceptable **risk level** ..." |
+
+
+* * *
+
+|*Christer Fernström, Kjell-Håken Närfelt, Lennart Ohlsson, **Software Factory Principles, Architecture, and Experiments**, IEEE Software, March 1992.[^foo113]*|
+
+[^foo113]: [DOI: 10.1109/52.120600 ](http://doi.ieeecomputersociety.org/10.1109/52.120600)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "HyperCASE integrates tools by combining a **hypertext-based user interface** with a common knowledge-based document repository." |
+
+
+* * *
+
+|*Karl Reed, Jacob L. Cybulski, **A Hypertext Based Software-Engineering Environment**, IEEE Software, March 1992.[^foo114]*|
+
+[^foo114]: [DOI: 10.1109/52.120603 ](http://doi.ieeecomputersociety.org/10.1109/52.120603)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1992-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The industry has made great strides in making **more development tools** available. It’s now time to find ways to consistently, objectively **evaluate** a tool’s **utility and appropriateness**." |
+
+
+* * *
+
+|*Elliot J. Chikofsky, David E. Martin, Hugh Chang, **Assessing the State of Tools Assessment**, IEEE Software, May 1992.[^foo115]*|
+
+[^foo115]: [DOI: 10.1109/MS.1992.10039 ](http://doi.ieeecomputersociety.org/10.1109/MS.1992.10039)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Organizations buy integrated CASE tools only to **leave them on the shelf** because they misinterpret the learning curve and its effect on productivity." |
+
+
+* * *
+
+|*Chris F. Kemerer, **How the Learning Curve Affects CASE Tool Adoption**, IEEE Software, May 1992.[^foo116]*|
+
+[^foo116]: [DOI: 10.1109/52.136161 ](http://doi.ieeecomputersociety.org/10.1109/52.136161)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Six categories of questions ... determine how well a tool does what it was intended to do. The questionnaire comprises 140 questions divided into the categories: **ease of use**, **power**, **robustness**, **functionality**, **ease of insertion**, and **quality of support**." |
+
+
+* * *
+
+|*Vicky Mosley, **How to Assess Tools Efficiently and Quantitatively**, IEEE Software, May 1992.[^foo117]*|
+
+[^foo117]: [DOI: 10.1109/52.136163 ](http://doi.ieeecomputersociety.org/10.1109/52.136163)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1992-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Most developers either aren‘t familiar with **reliability models** or don‘t know bow to select and apply them. But the need for accurate predictions is acute, focusing attention on this comparatively young field. " |
+
+
+* * *
+
+|*Pradip K. Srimani, Yashwant K. Malaiya, **Guest Editors' Introduction: Steps to Practical Reliability Measurement**, IEEE Software, July 1992.[^foo118]*|
+
+[^foo118]: [DOI: 10.1109/MS.1992.10044 ](http://doi.ieeecomputersociety.org/10.1109/MS.1992.10044)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Reliability** is a probability of **failure-free operation** for a specified time in a specified environment for a specified purpose." |
+
+
+* * *
+
+|*Krishna M. Kavi, Robert C. Tausworth, William W. Everett, Frederick T. Sheldon, Ralph Brettschneider, James T. Yu, **Reliability Measurement: From Theory to Practice**, IEEE Software, July 1992.[^foo119]*|
+
+[^foo119]: [DOI: 10.1109/52.143095 ](http://doi.ieeecomputersociety.org/10.1109/52.143095)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Reliability** is the **statistical study of failures**, which occur because of some defect in the program. The failure is evident, but you don’t know what mistake is responsible or what you can do to make the failure disappear. **Reliability models** are supposed to tell you what **confidence** you can have in the **program’s correctness**. " |
+
+
+* * *
+
+|*Dick Hamlet, **Are We Testing for True Reliability?**, IEEE Software, July 1992.[^foo120]*|
+
+[^foo120]: [DOI: 10.1109/52.143097 ](http://doi.ieeecomputersociety.org/10.1109/52.143097)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Three separate but related functions comprise an **integrated reliability program**: **prediction**, **control**, and **assessment**." |
+
+
+* * *
+
+|*Ted W. Keller, Norman F. Schneidewind, **Applying Reliability Models to the Space Shuttle**, IEEE Software, July 1992.[^foo121]*|
+
+[^foo121]: [DOI: 10.1109/52.143099 ](http://doi.ieeecomputersociety.org/10.1109/52.143099)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1992-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "In the future, **most consumer products** will **rely on embedded real-time computers**. To produce more robust applications, development techniques must keep pace with ever-changing requirements." |
+
+
+* * *
+
+|*Kwei-Jay Lin, Emmett J. Burke, **Guest Editors' Introduction: Coming to Grips with Real-Time Realities**, IEEE Software, September 1992.[^foo122]*|
+
+[^foo122]: [DOI: 10.1109/MS.1992.10059 ](http://doi.ieeecomputersociety.org/10.1109/MS.1992.10059)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The problem of **ensuring timing correctness** in **dynamic real-time systems** has three aspects: **resource requirements**, **resource availability**, and **guarantees**." |
+
+
+* * *
+
+|*Swaminathan Natarajan, Wei Zhao, **Issues in Building Dynamic Real-Time Systems**, IEEE Software, September 1992.[^foo123]*|
+
+[^foo123]: [DOI: 10.1109/52.156893 ](http://doi.ieeecomputersociety.org/10.1109/52.156893)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1992-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Much of a HyperNews interface can be designed without writing any code at all. With **direct manipulation**, a user can design a graphical user interface simply by **creating**, **moving**, and **resizing** objects on the screen. Experimentation with different interface styles is possible ..." |
+
+
+* * *
+
+|*Jim Rudolf, Cathy Waite, **Completing the Job Interface Design**, IEEE Software, November 1992.[^foo124]*|
+
+[^foo124]: [DOI: 10.1109/52.168854 ](http://doi.ieeecomputersociety.org/10.1109/52.168854)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The Interaction Management Network (IMN) ... captures the essential structure of any interface from **task-oriented specification** to **object-oriented implementation** is presented. IMN is essentially a **task-oriented specification scheme** based on a semantic network." |
+
+
+* * *
+
+|*Raimund K. Ege, Christian Stary, **Designing Maintainable, Reusable Interfaces**, IEEE Software, November 1992.[^foo125]*|
+
+[^foo125]: [DOI: 10.1109/52.168855 ](http://doi.ieeecomputersociety.org/10.1109/52.168855)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Fourteen **concurrent object-oriented languages** are compared in terms of how they deal with **communication**, **synchronization**, **process management**, **inheritance**, and **implementation trade-offs**.  ... The languages discussed are **Actors**, **Abd/1**, **Abd/R**, **Argus**, **COOL**, **Concurrent Smalltalk**, **Eiffel**, **Emerald**, **ES-Kit C++**, **Hybrid**, **Nexus**, **Parmacs**, **POOL-T**, and **Presto**." |
+
+
+* * *
+
+|*Krishna Kavi, Steve Hufnagel, Barbara B. Wyatt, **Parallelism in Object-Oriented Languages: A Survey**, IEEE Software, November 1992.[^foo126]*|
+
+[^foo126]: [DOI: 10.1109/52.168859 ](http://doi.ieeecomputersociety.org/10.1109/52.168859)
+ 
+ 
+{pagebreak}
+
+
+# 1993
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1993-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Will **object orientation** be the dominant paradigm in the near future? If it is to be widely used, it must overcome many legacies, especially the fact that most developers do not **think in terms of objects**." |
+
+
+* * *
+
+|*Annie Kuntzmann-Combelles, Wojtek Kozaczynski, **What it Takes to Make OO Work**, IEEE Software, January 1993.[^foo127]*|
+
+[^foo127]: [DOI: 10.1109/MS.1993.10005 ](http://doi.ieeecomputersociety.org/10.1109/MS.1993.10005)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The wide **acceptance of the object-oriented approach** is unprecedented in computer technoLogy. Judging from the the experience the last 25 year, developers who adopt this platform stand to  reap generous rewards." |
+
+
+* * *
+
+|*Ivar Jacobson, **Is Object Technology Software's Industrial Platform?**, IEEE Software, January 1993.[^foo128]*|
+
+[^foo128]: [DOI: 10.1109/52.207218 ](http://doi.ieeecomputersociety.org/10.1109/52.207218)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "For better or worse, the **real language winner today is C++**." |
+
+
+* * *
+
+|*Ivar Jacobson, **Is Object Technology Software's Industrial Platform?**, IEEE Software, January 1993.[^foo129]*|
+
+[^foo129]: [DOI: 10.1109/52.207218 ](http://doi.ieeecomputersociety.org/10.1109/52.207218)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Object orientation** facilitates change but makes programs harder for maintainers to understand. ... The appearance and organization of OO object-oriented code **may startle may programmers**." |
+
+
+* * *
+
+|*Paul Matthews, Norman Wilde, Ross Huitt, **Maintaining Object-Oriented Software**, IEEE Software, January 1993.[^foo130]*|
+
+[^foo130]: [DOI: 10.1109/52.207232 ](http://doi.ieeecomputersociety.org/10.1109/52.207232)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1993-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "An **operational profile** describes how users employ a system ... The operational profile is a **quantitative characterization** of **how a system will be used** that shows how to increase productivity and reliability and speed development by allocating development resources to function on the basis of use. Using an operational profile to **guide testing** ensures ... the most-used operations will have received the most testing ..." |
+
+
+* * *
+
+|*John D. Musa, **Operational Profiles in Software-Reliability Engineering**, IEEE Software, March 1993.[^foo131]*|
+
+[^foo131]: [DOI: 10.1109/52.199724 ](http://doi.ieeecomputersociety.org/10.1109/52.199724)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Determining the consequences of a stop-test decision ... combines software reliability engineering and economic analysis ... The approach ... **quantify the economic consequences** associated with **terminating testing** ..." |
+
+
+* * *
+
+|*Willa Ehrlich, Jar Wu, Bala Prasanna, John Stampfel, **Determining the Cost of a Stop-Test Decision**, IEEE Software, March 1993.[^foo132]*|
+
+[^foo132]: [DOI: 10.1109/52.199726 ](http://doi.ieeecomputersociety.org/10.1109/52.199726)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**The Shlaer-Mellor object-oriented analysis method** provides a structured means of identifying objects within a system by analyzing abstract data types and uses these objects as a basis for building three formal models: **information**, **state**, and **process**." |
+
+
+* * *
+
+|*Mark A. Roberts, Jerry R. Klatt, Mohamed E. Fayad, Louis J. Hawn, **Using the Shlaer-Mellor Object-Oriented Analysis Method**, IEEE Software, March 1993.[^foo133]*|
+
+[^foo133]: [DOI: 10.1109/52.199729 ](http://doi.ieeecomputersociety.org/10.1109/52.199729)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1993-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "One idea that holds great promise in increasing software productivity is the **automatic synthesis of software** from higher level specifications and reusable components." |
+
+
+* * *
+
+|*Tom Cain, Elaine Kant, Dorothy Setliff, **Practical Software Synthesis**, IEEE Software, May 1993.[^foo134]*|
+
+[^foo134]: [DOI: 10.1109/MS.1993.10027 ](http://doi.ieeecomputersociety.org/10.1109/MS.1993.10027)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A **model-based**,  automatic software synthesis environment ... automatically generates a macro-dataflow computation from declarative models. Central to the approach is the Multigraph Architecture, which provides the framework for model-based synthesis in real-time, parallel-computing environments." |
+
+
+* * *
+
+|*Ted Bapty, Ben Abbott, Gabor Karsai, Janos Sztipanovits, Csaba Biegl, **Model-Based Software Synthesis**, IEEE Software, May 1993.[^foo135]*|
+
+[^foo135]: [DOI: 10.1109/52.210602 ](http://doi.ieeecomputersociety.org/10.1109/52.210602)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1993-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Competitive pressure is pushing and pulling the field to a new level of industrialization. Developers know they **must stop improvising** and instill some discipline in to their process" |
+
+
+* * *
+
+|*Robert Lai, **The Move to Mature Processes**, IEEE Software, July 1993.[^foo136]*|
+
+[^foo136]: [DOI: 10.1109/MS.1993.10038 ](http://doi.ieeecomputersociety.org/10.1109/MS.1993.10038)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **CMM capability maturity model** was designed to help developers select **process-improvement strategies** by determining their current process maturity and identifying the issues most critical to improving their software quality and process. ... The current version of the CMM is the result of the feedback from that workshop and ongoing feedback from the software  community." |
+
+
+* * *
+
+|*Mark C. Paulk, Charles V. Weber, Mary Beth Chrissis, Bill Curtis, **Capability Maturity Model, Version 1.1**, IEEE Software, July 1993.[^foo137]*|
+
+[^foo137]: [DOI: 10.1109/52.219617 ](http://doi.ieeecomputersociety.org/10.1109/52.219617)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1993-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "We are so **used to the notion** that **quality must take a back seat to productivity** that we continue to put up with practices that we know will produce software of lesser quality." |
+
+
+* * *
+
+|*Pei Hsia, **Learning to Put Lessons Into Practice**, IEEE Software, September 1993.[^foo138]*|
+
+[^foo138]: [DOI: 10.1109/MS.1993.10046 ](http://doi.ieeecomputersociety.org/10.1109/MS.1993.10046)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Following good software-engineering practices** is almost **a moral issue**; we need a belief system." |
+
+
+* * *
+
+|*Pei Hsia, **Learning to Put Lessons Into Practice**, IEEE Software, September 1993.[^foo139]*|
+
+[^foo139]: [DOI: 10.1109/MS.1993.10046 ](http://doi.ieeecomputersociety.org/10.1109/MS.1993.10046)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Most software engineering research has been following a **research-then-transer** methodology, with mixed results ... In the **industry-as-laboratory** approach ... researchers identify problems through **close involvement with industrial projects** and create and evaluate solutions in an almost **indivisible research activity**. This approach emphasizes what people actually do or can do in practice, rather than what is possible in principle." |
+
+
+* * *
+
+|*Colin Potts, **Software-Engineering Research Revisited**, IEEE Software, September 1993.[^foo140]*|
+
+[^foo140]: [DOI: 10.1109/52.232392 ](http://doi.ieeecomputersociety.org/10.1109/52.232392)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Software engineering** most resembles a **dynamically overloaded queue or rush-hour traffic jam**." |
+
+
+* * *
+
+|*Neil C. Olsen, **The Software Rush Hour**, IEEE Software, September 1993.[^foo141]*|
+
+[^foo141]: [DOI: 10.1109/52.232394 ](http://doi.ieeecomputersociety.org/10.1109/52.232394)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Five problems ... can contribute to a software project's failure ... : **inadequate system engineering** during the proposal and during front-end development; **inadequate tracing**, tracking, and management of system and software requirements; **improper sizing** of the target hardware; selection of design, production, and integration and test **methodologies that are inappropriate** to a large software development; and **failure to provide a metrics program** that would let managers track the progress of software production and test." |
+
+
+* * *
+
+|*David R. Lindstrom, **Five Ways to Destroy a Development Project**, IEEE Software, September 1993.[^foo142]*|
+
+[^foo142]: [DOI: 10.1109/52.232400 ](http://doi.ieeecomputersociety.org/10.1109/52.232400)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1993-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Europe** has **spent billions** in public and private funds on developing its **information-technology industry**. This effort has certainly made the EC a stronger global competitor; but the question remains: **Is it strong enough**?" |
+
+
+* * *
+
+|*Luqi null, Annie Kuntzmann-Combelles, **Guest Editors' Introduction: Advancing Europe's Fortunes**, IEEE Software, November 1993.[^foo143]*|
+
+[^foo143]: [DOI: 10.1109/MS.1993.10067 ](http://doi.ieeecomputersociety.org/10.1109/MS.1993.10067)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A big problem in technology transfer is that **no one believes in the product**. By using a system of **hypotheses and experiments**, technology providers can begin to offer **real benefits instead of hype**." |
+
+
+* * *
+
+|*Heinz Saria, Christophe Debou, Norbert Fuchs, **Selling Believable Technology**, IEEE Software, November 1993.[^foo144]*|
+
+[^foo144]: [DOI: 10.1109/52.241961 ](http://doi.ieeecomputersociety.org/10.1109/52.241961)
+ 
+ 
+{pagebreak}
+
+
+# 1994
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1994-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Safety-critical software** must perform as desired and **should never fail**. The need for dependability stems from the fact that the **consequences of failure are extremely high**, usually a **threat to human life**. To write such systems, most now agree that we must adopt rigorous techniques, rooted in mathematics." |
+
+
+* * *
+
+|*Bev Littlewood, John Knight, **Guest Editors' Introduction: Critical Task of Writing Dependable Software**, IEEE Software, January 1994.[^foo145]*|
+
+[^foo145]: [DOI: 10.1109/52.251196 ](http://doi.ieeecomputersociety.org/10.1109/52.251196)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Although there are indisputable benefits to society from the **introduction of computers into everyday life**, some applications are inherently **risky**." |
+
+
+* * *
+
+|*Dan Craigen, Ted Ralston, Susan Gerhart, **Experience with Formal Methods in Critical Systems**, IEEE Software, January 1994.[^foo146]*|
+
+[^foo146]: [DOI: 10.1109/52.251198 ](http://doi.ieeecomputersociety.org/10.1109/52.251198)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Darlington is a **four-reactor nuclear plant** east of Toronto. ... Each reactor has two independent shutdown systems: SDS1 drops neutron-absorbing rods into the core, while SDS2 injects liquid poison into the moderator. Both are safety-critical and require high levels of confidence. In 1982, Ontario Hydro, with the concurrence of the Atomic Energy Control Board of Canada (AECB), had decided to **fully implement the shutdown systems' decision-making logic on computers**. This was to be the first Canadian instance of such a system, so there were questions about what procedures to follow, both in developing and licensing the system." |
+
+
+* * *
+
+|*Dan Craigen, Susan Gerhart, Ted Ralston, **Case Study: Darlington Nuclear Generating Station**, IEEE Software, January 1994.[^foo147]*|
+
+[^foo147]: [DOI: 10.1109/52.251201 ](http://doi.ieeecomputersociety.org/10.1109/52.251201)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1994-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Developers have plenty of reasons to avoid investing in requirements engineering: It is **next to impossible to capture user needs** completely, and needs are constantly evolving. The gap between software research and practice is no more evident than in the field of requirements engineering. Requirement engineering has a fairly **narrow goal** - **determine a need and define the external behavior of a solution** - but the range of research into requirements is enormous." |
+
+
+* * *
+
+|*Pei Hsia, Alan M. Davis, **Guest Editors' Introduction: Giving Voice to Requirements Engineering**, IEEE Software, March 1994.[^foo148]*|
+
+[^foo148]: [DOI: 10.1109/52.268949 ](http://doi.ieeecomputersociety.org/10.1109/52.268949)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The author examines two widely held beliefs: requirements describe a **system's 'what, not its 'how'**. Requirements must be **represented as abstractions**." |
+
+
+* * *
+
+|*Jawed Siddiqi, **Challenging Universal Truths of Requirements Engineering**, IEEE Software, March 1994.[^foo149]*|
+
+[^foo149]: [DOI: 10.1109/52.268951 ](http://doi.ieeecomputersociety.org/10.1109/52.268951)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Scenarios** offer promise as a way to tame requirements analysis, but progress has been impeded by the lack of a systematic way to analyze, generate, and validate them." |
+
+
+* * *
+
+|*Jayarajan Samuel, Pei Hsia, David Kung, Jerry Gao, Cris Chen, Yasafumi Toyoshima, **Formal Approach to Scenario Analysis**, IEEE Software, March 1994.[^foo150]*|
+
+[^foo150]: [DOI: 10.1109/52.268953 ](http://doi.ieeecomputersociety.org/10.1109/52.268953)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1994-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Database technology** is exploding, as the hierarchical and relational models give way to **object-oriented, distributed heterogeneous**, and other kinds of specialized models. Designers, programmers, and users need new tools." |
+
+
+* * *
+
+|*Clement Yu, Weiyi Meng, **Confronting Database Complexities**, IEEE Software, May 1994.[^foo151]*|
+
+[^foo151]: [DOI: 10.1109/52.281712 ](http://doi.ieeecomputersociety.org/10.1109/52.281712)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Retrieval speed and precision ultimately determine the success of any database system. ... Much work remains to help users retrieve information with ease and efficiency from a heterogeneous environment in which **relational**, **object-oriented**, **textual**, and **pictorial databases** coexist." |
+
+
+* * *
+
+|*Weiyi Meng, Clement Yu, **Progress in Database Search Strategies**, IEEE Software, May 1994.[^foo152]*|
+
+[^foo152]: [DOI: 10.1109/52.281713 ](http://doi.ieeecomputersociety.org/10.1109/52.281713)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1994-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Used together, the two relatively young concepts of **measurement and process improvement are more than the sum of their parts**. Careful measurement helps you draw an objective process model. Thoughtful application of improvement techniques improves your ability to measure quality. Leveraging one with the other can take your organization to new heights." |
+
+
+* * *
+
+|*Shari Lawrence Pfleeger, Hans Dieter Rombach, **Measurement Based Process Improvement**, IEEE Software, July 1994.[^foo153]*|
+
+[^foo153]: [DOI: 10.1109/52.300077 ](http://doi.ieeecomputersociety.org/10.1109/52.300077)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "There are two approaches to process improvement. The **top-down approach** compares an organization's process with some generally accepted standard process. ... The **bottom-up approach** assumes that process change must be driven by an organization's goals, characteristics, product attributes, and experiences." |
+
+
+* * *
+
+|*Frank McGarry, Martyn Thomas, **Top-Down vs. Bottom-Up Process Improvement**, IEEE Software, July 1994.[^foo154]*|
+
+[^foo154]: [DOI: 10.1109/52.300121 ](http://doi.ieeecomputersociety.org/10.1109/52.300121)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "In their efforts to determine how technology affects the software development process, **researchers often overlook organizational and social issues**." |
+
+
+* * *
+
+|*Nancy A. Staudenmayer, Dewayne E. Perry, Lawrence G. Votta, **People, Organizations, and Process Improvement**, IEEE Software, July 1994.[^foo155]*|
+
+[^foo155]: [DOI: 10.1109/52.300082 ](http://doi.ieeecomputersociety.org/10.1109/52.300082)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "For 25 years, software researchers have proposed improving software development and maintenance with new practices whose **effectiveness is rarely, if ever, backed up by hard evidence**. We suggest several ways to address the problem, and we challenge the community to **invest in being more scientific**." |
+
+
+* * *
+
+|*Robert L. Glass, Shari Lawrence Pfleeger, Norman Fenton, **Science and Substance: A Challenge to Software Engineers**, IEEE Software, July 1994.[^foo156]*|
+
+[^foo156]: [DOI: 10.1109/52.300094 ](http://doi.ieeecomputersociety.org/10.1109/52.300094)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1994-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Systematic software reuse** is a paradigm shift in software engineering from building single systems to **building families of related systems**. The goal of software reuse research is to discover systematic procedures for engineering new systems from existing assets. Implementing systematic reuse is risky. Not doing it is also risky." |
+
+
+* * *
+
+|*William B. Frakes, Sadahiro Isoda, **Success Factors of Systematic Reuse**, IEEE Software, September 1994.[^foo157]*|
+
+[^foo157]: [DOI: 10.1109/52.311045 ](http://doi.ieeecomputersociety.org/10.1109/52.311045)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Reuse is **not just a technical issue**. Hewlett-Packard studied why people sometimes **resist reuse** and which organizational models appear to encourage reuse more than others. ... successful reuse programs must be **integrated within the culture** of a company's existing organizational structure. One crucial organizational factor is the **relationship between producers and consumers** of reuse components and services." |
+
+
+* * *
+
+|*Danielle Fafchamps, **Organizational Factors and Reuse**, IEEE Software, September 1994.[^foo158]*|
+
+[^foo158]: [DOI: 10.1109/52.311049 ](http://doi.ieeecomputersociety.org/10.1109/52.311049)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1994-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The worldwide software industry is poised for change well into the next century. How well each developer; researcher, or country fares may depend on how clear its **visions of the future** are." |
+
+
+* * *
+
+|*Jawed Siddiqi, Mikio Aoyama, William W. Everett, **Software Beyond 2001: A Global Vision**, IEEE Software, November 1994.[^foo159]*|
+
+[^foo159]: [DOI: 10.1109/52.329394 ](http://doi.ieeecomputersociety.org/10.1109/52.329394)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Many **developing countries** are now **entering the commercial software domain**, and this trend should accelerate in the twenty-first century." |
+
+
+* * *
+
+|*Capers Jones, **Globalization of Software Supply and Demand**, IEEE Software, November 1994.[^foo160]*|
+
+[^foo160]: [DOI: 10.1109/52.329397 ](http://doi.ieeecomputersociety.org/10.1109/52.329397)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Who wants to **try new techniques** when there are **madman prowling for someone to blame or ax**?" |
+
+
+* * *
+
+|*Tom DeMarco, Sheila Brady, **Management-Aided Software Engineering**, IEEE Software, November 1994.[^foo161]*|
+
+[^foo161]: [DOI: 10.1109/52.329398 ](http://doi.ieeecomputersociety.org/10.1109/52.329398)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Iincreasing connectivity** and **consumer demands** will power an unprecedented **growth in software's volume and complexity** ... the flexibility and robustness of **an object-oriented approach** can best meet these future challenges." |
+
+
+* * *
+
+|*Grady Booch, **Coming of Age in an Object-Oriented World**, IEEE Software, November 1994.[^foo162]*|
+
+[^foo162]: [DOI: 10.1109/52.329399 ](http://doi.ieeecomputersociety.org/10.1109/52.329399)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The twentieth century was a **time of ignorance**, but also the **dawn of golden age of practice**." |
+
+
+* * *
+
+|*Robert L. Glass, **The Software-Research Crisis**, IEEE Software, November 1994.[^foo163]*|
+
+[^foo163]: [DOI: 10.1109/52.329400 ](http://doi.ieeecomputersociety.org/10.1109/52.329400)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The large aspiration to place the whole of **software development** alongside the **established branches** as one more branch of engineering is **misconceived**. ... Our aspiration should be to **develop specialized branches of software** engineering, each meriting its own place alongside the specialized established branches." |
+
+
+* * *
+
+|*Michael Jackson, **Problems, Methods and Specialization**, IEEE Software, November 1994.[^foo164]*|
+
+[^foo164]: [DOI: 10.1109/52.329402 ](http://doi.ieeecomputersociety.org/10.1109/52.329402)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "For data in which there is a **known relationship among variables**, the dynamic queries interface is useful for training and **education by exploration**. For situations in which there are understood correlations, but their complexity makes it difficult for nonexperts to follow, dynamic queries can allow a wider range of people to explore the interactions (among health and demographic variables, a table of elements, and economic or market data, for example)." |
+
+
+* * *
+
+|*Ben Schneiderman, **Dynamic Queries for Visual Information Seeking**, IEEE Software, November 1994.[^foo165]*|
+
+[^foo165]: [DOI: 10.1109/52.329404 ](http://doi.ieeecomputersociety.org/10.1109/52.329404)
+ 
+ 
+{pagebreak}
+
+
+# 1995
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1995-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Legacy software** was written years ago using outdated techniques, yet it continues to do useful work. Migrating and updating this **baggage from our past** has technical and nontechnical challenges, ranging from justifying the expense to dealing with offshore contractors to using program-understanding and visualization techniques." |
+
+
+* * *
+
+|*Keith Bennett, **Legacy Systems: Coping with Success**, IEEE Software, January 1995.[^foo166]*|
+
+[^foo166]: [DOI: 10.1109/52.363157 ](http://doi.ieeecomputersociety.org/10.1109/52.363157)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "As the manager of a small software-reengineering company, I am continually confronted with the task of **justifying reengineering**. ... they **technical issues may be irrelevant** if you are not able to **make a business case** for solving them." |
+
+
+* * *
+
+|*Harry M. Sneed, **Planning the Reengineering of Legacy Systems**, IEEE Software, January 1995.[^foo167]*|
+
+[^foo167]: [DOI: 10.1109/52.363168 ](http://doi.ieeecomputersociety.org/10.1109/52.363168)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Opinions on **rapid prototyping** as a practical development tool vary widely, with conventional wisdom seeing it more as a research topic than a workable method. The authors counter this notion with results from 39 case studies, most of which have used this approach successfully." |
+
+
+* * *
+
+|*James M. Bieman, V. Scott Gordon, **Rapid Prototyping: Lessons Learned**, IEEE Software, January 1995.[^foo168]*|
+
+[^foo168]: [DOI: 10.1109/52.363162 ](http://doi.ieeecomputersociety.org/10.1109/52.363162)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Usability engineering** isn’t just for the multimillion dollar companies with massive internal test labs. Jakob Nielsen, a distinguished engineer at SunSoft, relates how he and another designer (yes, a two-person project) employed low-cost, easily accessible techniques to perform several useful studies. The techniques, detailed in his recent book Usability Engineering (AP Professional, 1994), are virtually free of complex statistical methods, **relying instead on simple observation and interpretation**." |
+
+
+* * *
+
+|*Bill Curtis, Jakob Nielsen, **Applying Discount Usability Engineering**, IEEE Software, January 1995.[^foo169]*|
+
+[^foo169]: [DOI: 10.1109/52.363161 ](http://doi.ieeecomputersociety.org/10.1109/52.363161)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1995-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Tools** are not the driving force of software technology they used to be. But this does not mean they have become less important; on the contrary, a full set of supporting tools for each development phase is now a basic requirement. It does mean **other things are now as important as tools**..." |
+
+
+* * *
+
+|*Pertti Lounama, **The Future Belongs to the Specialized Tool**, IEEE Software, March 1995.[^foo170]*|
+
+[^foo170]: [DOI: 10.1109/MS.1995.10010 ](http://doi.ieeecomputersociety.org/10.1109/MS.1995.10010)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Computer technology is **exploding**. Friendly interfaces, a full range of media, and unlimited connectivity are pushing technology ever deeper into the fabric of society. How can developers incorporate all this new technology into their applications? Today's development environments are taking advantage of emerging integration standards to offer specialized tools." |
+
+
+* * *
+
+|*David Sharon, Rodney Bell, **Tools to Engineer New Technologies into Applications**, IEEE Software, March 1995.[^foo171]*|
+
+[^foo171]: [DOI: 10.1109/52.368255 ](http://doi.ieeecomputersociety.org/10.1109/52.368255)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Point: Alan Chmura — Proper use of **CASE tools can and does significantly improve developer productivity** and yield high-quality systems. ... Counterpoint: Henry David Crockett — As they are currently applied, **CASE tools seldom improve productivity or quality**. ... Many IS managers assume that CASE is a software solution to all development problems." |
+
+
+* * *
+
+|*Alan Chmura, Henry David Crockett, **Point Counterpoint: What's the Proper Role for CASE Tools?**, IEEE Software, March 1995.[^foo172]*|
+
+[^foo172]: [DOI: 10.1109/52.368258 ](http://doi.ieeecomputersociety.org/10.1109/52.368258)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "In many applications users must **browse large images**. Building on user **familiarity with one-dimensional scroll bars**, many designers simply use **two one-dimensional scroll bars** when the application requires independent control over the horizontal and vertical directions, **as in panning a map**. ... in many cases this solution is inadequate." |
+
+
+* * *
+
+|*Ben Shneiderman, Catherine Plaisant, David Carr, **Image-Browser Taxonomy and Guidelines for Designers**, IEEE Software, March 1995.[^foo173]*|
+
+[^foo173]: [DOI: 10.1109/52.368260 ](http://doi.ieeecomputersociety.org/10.1109/52.368260)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Sound** can potentially **reveal patterns and anomalies in data** that are difficult to perceive visually. Moreover, **psychological studies** show that some types of data are more quickly assimilated when presented with sound; **an audio alarm** is the classic example." |
+
+
+* * *
+
+|*Daniel A. Reed, Tara M. Madhyastha, **Data Sonification: Do You See What I Hear?**, IEEE Software, March 1995.[^foo174]*|
+
+[^foo174]: [DOI: 10.1109/52.368264 ](http://doi.ieeecomputersociety.org/10.1109/52.368264)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1995-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Not a day goes by that the **general public** does not come into **contact with a real-time system**. As their numbers and importance grow, so do the **implications** for software **developers**." |
+
+
+* * *
+
+|*William W. Everett, Shinichi Honiden, **Guest Editors' Introduction: Reliability and Safety of Real-Time Systems**, IEEE Software, May 1995.[^foo175]*|
+
+[^foo175]: [DOI: 10.1109/52.382177 ](http://doi.ieeecomputersociety.org/10.1109/52.382177)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Software verification** is often the last defense against disasters caused by faulty software development. When lives and fortunes depend on software, **software quality** and its verification demand increased attention. ... How do you **assess** that critical automated systems are acceptably **safe and reliable**?" |
+
+
+* * *
+
+|*Keith W. Miller, Jeffrey M. Voas, **Software Testability: The New Verification**, IEEE Software, May 1995.[^foo176]*|
+
+[^foo176]: [DOI: 10.1109/52.382180 ](http://doi.ieeecomputersociety.org/10.1109/52.382180)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**The best prototype** for designing your new user interface is **your old user interface**. **The second-best prototype** is a **competing product**. Your competitors have invested significant resources in designing and implementing what they believe to be good user interfaces. You should take advantage of those investments. " |
+
+
+* * *
+
+|*Jakob Nielsen, **A Home-Page Overhaul Using Other Web Sites**, IEEE Software, May 1995.[^foo177]*|
+
+[^foo177]: [DOI: 10.1109/52.382190 ](http://doi.ieeecomputersociety.org/10.1109/52.382190)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1995-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "There is an **enormous disconnection** between what **academicians and consultants** think will revolutionize development and **what actually works in the trenches**. We have much to learn about what really works, what works a little, and what doesn't work at all. **Debating issues** over time can help us **accumulate knowledge** and **reach a consensus** on the most promising solutions." |
+
+
+* * *
+
+|*Stephen J. Andriole, **Debatable Development: What Should We Believe?**, IEEE Software, July 1995.[^foo178]*|
+
+[^foo178]: [DOI: 10.1109/MS.1995.10034 ](http://doi.ieeecomputersociety.org/10.1109/MS.1995.10034)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Systems analysis** is the study of a system for the purpose of **understanding and documenting** its **essential characteristics**. Analysis is **neither design nor implementation**. Analysis focuses on real-world problems, whereas design and implementation focus on computerized solutions." |
+
+
+* * *
+
+|*Robert B. Jackson, David W. Embley, Scott N. Woodfield, **OO Systems Analysis: Is It or Isn't It?**, IEEE Software, July 1995.[^foo179]*|
+
+[^foo179]: [DOI: 10.1109/52.391825 ](http://doi.ieeecomputersociety.org/10.1109/52.391825)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Many **nonformalists** seem to believe that formal methods are **merely an academic exercise** -- a form of **mental masturbation** that has no relation to real-world problems. ... We address and dispel seven new myths about formal methods ..." |
+
+
+* * *
+
+|*Jonathan P. Bowen, Michael G. Hinchey, **Seven More Myths of Formal Methods**, IEEE Software, July 1995.[^foo180]*|
+
+[^foo180]: [DOI: 10.1109/52.391826 ](http://doi.ieeecomputersociety.org/10.1109/52.391826)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "We redesigned the Sun home page after observing users ... One change we made shows the **benefits of this type of testing**: We discovered early on that users didn’t recognize the “What’s New at Sun” button as a link, and ... we redesigned the button immediately ... use of the 'What's New at Sun' button **increased by 416 percent** ... **small interface changes** can lead to **dramatic changes in user behavior**! " |
+
+
+* * *
+
+|*Jakob Nielsen, **Using Paper Prototypes In Home-page Design**, IEEE Software, July 1995.[^foo181]*|
+
+[^foo181]: [DOI: 10.1109/52.391840 ](http://doi.ieeecomputersociety.org/10.1109/52.391840)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1995-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "In our haste to **speed development**, we should consider if we are sprinting in the right direction. Is faster time-to-market equally important to every developer? Does a **faster cycle time** necessarily guarantee success? And how does the answer change from one year to the next?" |
+
+
+* * *
+
+|*David N. Card, **Guest Editor's Introduction: The RAD Fad--Is Timing Really Everything?**, IEEE Software, September 1995.[^foo182]*|
+
+[^foo182]: [DOI: 10.1109/MS.1995.10045 ](http://doi.ieeecomputersociety.org/10.1109/MS.1995.10045)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "To be successful with RAD (**rapid application development**), we can no longer look just at the software product in isolation. A RAD development process demands that we expand our view to **encompass users** and their work environments-and if we do it right, everyone benefits. But given all the risks, would you stake **mission-critical projects on RAD**? If it is not mission-critical, then why bother at all?" |
+
+
+* * *
+
+|*Erran Carmel, John P. Reilly, **Point-Counterpoint: Does RAD Live Up to the Hype?**, IEEE Software, September 1995.[^foo183]*|
+
+[^foo183]: [DOI: 10.1109/52.406752 ](http://doi.ieeecomputersociety.org/10.1109/52.406752)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Earl Wheeler told me ...: 'The key thrust ... was delegating power down. It was likemagic! **Improved quality**, **productivity**, **morale**. We have **small teams**, with **no central control**. The **teams own the process**, but they have to haveone. They have many different processes. They **own the schedule**, but they **feel the pressure** of the market. This pressure causes them to reach for tools on their own'." |
+
+
+* * *
+
+|*Frederick P. Brooks Jr., **The Mythical Man-Month: After 20 Years**, IEEE Software, September 1995.[^foo184]*|
+
+[^foo184]: [DOI: 10.1109/MS.1995.10041 ](http://doi.ieeecomputersociety.org/10.1109/MS.1995.10041)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **Mythical Man-Month** is **only incidentally about software** but **primarily about how people in teams make things**.There is surely some truth in this; in the preface to the 1975 edition I said that managing a software project is more like other management than most programmers initially believe. I still believe that to be true. Human history is a drama in which the stories stay the same, the scripts of those stories change slowly with evolving cultures, and the stage settings change all the time. So it is that we see our twentieth-century selves mirrored in Shakespeare, Homer,and the Bible." |
+
+
+* * *
+
+|*Frederick P. Brooks Jr., **The Mythical Man-Month: After 20 Years**, IEEE Software, September 1995.[^foo185]*|
+
+[^foo185]: [DOI: 10.1109/MS.1995.10041 ](http://doi.ieeecomputersociety.org/10.1109/MS.1995.10041)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "At **Hitachi Software**, we organize software projects in a way that retains high-quality software and improves scheduling. We do this by **forcing 'necessary' conflicts** among independent groups within the larger software-development team. We believe that by creating **a competitive atmosphere** between **the design and quality-assurance departments**, engineers on both teams are motivated to be quality sensitive." |
+
+
+* * *
+
+|*Akira K. Onoma, Tsuneo Yamaura, **Practical Steps Toward Quality Development**, IEEE Software, September 1995.[^foo186]*|
+
+[^foo186]: [DOI: 10.1109/52.406760 ](http://doi.ieeecomputersociety.org/10.1109/52.406760)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "What are the three most important things to remember when you buy a house? Most real estate agents have a simple answer: **location**, **location**, **location**. And what are the three most important things to remember when attempting software-process improvement? My answer: **people**, **people**, **people**." |
+
+
+* * *
+
+|*Watts S. Humphrey, **Making Process Improvement Personal**, IEEE Software, September 1995.[^foo187]*|
+
+[^foo187]: [DOI: 10.1109/52.406762 ](http://doi.ieeecomputersociety.org/10.1109/52.406762)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1995-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "There is undoubtedly a large measure of **art involved in software design**. But **artistic expression** in the absence of rules results in **chaotic design**. To produce open systems, we must agree on some **well-defined rules** to govern interaction among systems and subsystems." |
+
+
+* * *
+
+|*Maarten Boasson, **The Artistry of Software Architecture**, IEEE Software, November 1995.[^foo188]*|
+
+[^foo188]: [DOI: 10.1109/MS.1995.10051 ](http://doi.ieeecomputersociety.org/10.1109/MS.1995.10051)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Most of the **designs** appeal to **multiple styles**, but they generally fall into four main groups: **object-oriented** architectures, including information hiding; **state-based** architectures; **feedback-control** architectures; and architectures that emphasize the system's **real-time** properties." |
+
+
+* * *
+
+|*Mary Shaw, **Comparing Architectural Design Styles**, IEEE Software, November 1995.[^foo189]*|
+
+[^foo189]: [DOI: 10.1109/52.469758 ](http://doi.ieeecomputersociety.org/10.1109/52.469758)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**The 4+1 View Model** describes software architecture using **five concurrent views** ... : The **logical view** describes the design's object model, the **process view** describes the design's concurrency and synchronization aspects; the **physical view** describes the mapping of the software onto the hardware and shows the system's distributed aspects, and the **development view** describes the software's static organization in the development environment. Software designers can organize the description of their **architectural decisions** around these four views and then illustrate them with a few selected use cases, or **scenarios**, which constitute **a fifth view**. " |
+
+
+* * *
+
+|*Philippe Kruchten, **The 4+1 View Model of Architecture**, IEEE Software, November 1995.[^foo190]*|
+
+[^foo190]: [DOI: 10.1109/52.469759 ](http://doi.ieeecomputersociety.org/10.1109/52.469759)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "I get uncontrollable giggles when people tell me their organizations are '**lean and mean**.' They say it in the most ponderous tones. They wrinkle their brows earnestly and look me right in the eye. 'We're **lean and mean** here,' they say. They say this even though they **themselves are overweight and rather sweet**. And that's only the first of the contradictions." |
+
+
+* * *
+
+|*Tom DeMarco, **What 'Lean and Mean' Really Means**, IEEE Software, November 1995.[^foo191]*|
+
+[^foo191]: [DOI: 10.1109/52.469767 ](http://doi.ieeecomputersociety.org/10.1109/52.469767)
+ 
+ 
+{pagebreak}
+
+
+# 1996
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1996-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The **consequences of Moore's Law** for IEEE Software are significant. In short, in the coming decades, we will see technological and market niches that constantly form, shift, merge, split, and disappear. **Computers** will **permeate most of our buildings** (homes and offices), **cars**, **wallets**, **watches**, maps, and credit cards. Existing devices (faxes, phones, PCs, TVs, GPSs, pagers, PDAs, and the like) will merge into forms that are specialized to particular uses (the so-called 'convergence revolution')." |
+
+
+* * *
+
+|*Ted J. Biggerstaff, **Moore's Law: Change or Die**, IEEE Software, January 1996.[^foo192]*|
+
+[^foo192]: [DOI: 10.1109/MS.1996.476277 ](http://doi.ieeecomputersociety.org/10.1109/MS.1996.476277)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "If you are a software developer, manager, or maintainer, quality is often on your mind. But **what do you really mean by software quality**? Is your definition adequate? Is the software you produce better or worse than you would like it to be?" |
+
+
+* * *
+
+|*Shari Lawrence Pfleeger, Barbara Kitchenham, **Software Quality: The Elusive Target**, IEEE Software, January 1996.[^foo193]*|
+
+[^foo193]: [DOI: 10.1109/52.476281 ](http://doi.ieeecomputersociety.org/10.1109/52.476281)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Discussions of **software quality** typically **focus on** the development **process** or the characteristics of the software **product**. The third level of quality - **the outcome** of software development - is usually neglected, although this is perhaps of greatest interest to business management. **Outcome** depends on how the product is used and determines **the business value** obtained from the development project." |
+
+
+* * *
+
+|*Pamela Simmons, **Quality Outcomes: Determining Business Value**, IEEE Software, January 1996.[^foo194]*|
+
+[^foo194]: [DOI: 10.1109/52.476283 ](http://doi.ieeecomputersociety.org/10.1109/52.476283)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Today the dominant modus operandi for software development is **heavily process-oriented** ... the **emphasis on process** ... comes at the expense of ... using adequate **product quality models**. The fundamental axiom of software product quality is: ... tangible **internal** **characteristics** ... determine its external quality attributes. ... A **product quality model** ... must ... identify the tangible (measurable and/or assessable) **internal** product **characteristics** that have the most significant effect on external quality attributes. " |
+
+
+* * *
+
+|*R. Geoff Dromey, **Cornering the Chimera**, IEEE Software, January 1996.[^foo195]*|
+
+[^foo195]: [DOI: 10.1109/52.476284 ](http://doi.ieeecomputersociety.org/10.1109/52.476284)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "In 1991, **Philips' CEO** named a **Software Process Improvement task force** to focus on the increasing importance of software ... In addition to improving its processes, the organization improved its requirements-and-design engineering architecture and its **inspections**, and it **introduced metrics**." |
+
+
+* * *
+
+|*Hans Aerts, Jan Rooijmans, Michiel Van Genuchten, **Software Quality in Consumer Electronics Products**, IEEE Software, January 1996.[^foo196]*|
+
+[^foo196]: [DOI: 10.1109/52.476286 ](http://doi.ieeecomputersociety.org/10.1109/52.476286)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **need to be beautiful** and produce more elaborate and **polished designs** changes our traditionally restrained and functionality-oriented design focus." |
+
+
+* * *
+
+|*Jakob Nielsen, **The Importance of Being Beautiful**, IEEE Software, January 1996.[^foo197]*|
+
+[^foo197]: [DOI: 10.1109/52.476290 ](http://doi.ieeecomputersociety.org/10.1109/52.476290)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1996-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Developments in **requirements engineering**, as in system development, have come in waves. The next wave of requirements techniques and tools should account for the problem and development **context**, accommodate **incompleteness**, and recognize and exploit the **non-absolute nature of user needs**." |
+
+
+* * *
+
+|*Jawed Siddiqi, M. Chandra Shekaran, **Requirements Engineering: The Emerging Wisdom**, IEEE Software, March 1996.[^foo198]*|
+
+[^foo198]: [DOI: 10.1109/MS.1996.506458 ](http://doi.ieeecomputersociety.org/10.1109/MS.1996.506458)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "To find the **right balance** of **quality-attribute requirements**, you must **identify the conflicts** among desired quality attributes and **work out a balance** of attribute satisfaction." |
+
+
+* * *
+
+|*Hoh In, Barry Boehm, **Identifying Quality-Requirement Conflicts**, IEEE Software, March 1996.[^foo199]*|
+
+[^foo199]: [DOI: 10.1109/52.506460 ](http://doi.ieeecomputersociety.org/10.1109/52.506460)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A **lack of solid historical data** makes project managers, executives, and clients **blind to the realities** of software development." |
+
+
+* * *
+
+|*Capers Jones, **Our Worst Current Development Practices**, IEEE Software, March 1996.[^foo200]*|
+
+[^foo200]: [DOI: 10.1109/52.506467 ](http://doi.ieeecomputersociety.org/10.1109/52.506467)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1996-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Software engineering is a young profession. We still have much to learn from each other. Past experience suggests that an **incremental delivery model** would **reduce risk** and **improve project management**." |
+
+
+* * *
+
+|*Pei Hsia, **Making Software Development Visible**, IEEE Software, May 1996.[^foo201]*|
+
+[^foo201]: [DOI: 10.1109/MS.1996.493016 ](http://doi.ieeecomputersociety.org/10.1109/MS.1996.493016)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "If you’re **building a relatively complex system** involving multiple computers and multiple users, and if the system entails significant innovation - such as new technology or expanded scale - something will **inevitably go wrong**. Realizing this might encourage you to use both design and user-interface prototypes?,’and the spiral model of development so that you can look ahead and assess risks as you go." |
+
+
+* * *
+
+|*Karen Mackey, **Why Bad Things Happen to Good Projects**, IEEE Software, May 1996.[^foo202]*|
+
+[^foo202]: [DOI: 10.1109/52.493017 ](http://doi.ieeecomputersociety.org/10.1109/52.493017)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Product-line development** seeks to achieve reuse across a domain, or family, of systems. Product-line development separates the software-development process into two separate life cycles: **domain engineering**, which aims to create reusable assets, and **application engineering**, which fields systems using those assets. ... We learned that product-line development demands **careful strategic planning**, a **mature** development **process**, and the ability to overcome **organizational resistance**." |
+
+
+* * *
+
+|*Lynn D. Stuckey Jr., David C. Gross, Randall R. Macala, **Managing Domain-Specific, Product-Line Development**, IEEE Software, May 1996.[^foo203]*|
+
+[^foo203]: [DOI: 10.1109/52.493021 ](http://doi.ieeecomputersociety.org/10.1109/52.493021)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1996-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Thirty years ago**, as the software industry was first gathering steam, most software projects were **run by people** with **no software experience**. Today this is **no longer true**. ... Yet few would **argue** that the quality of software project management **has improved** in the same period." |
+
+
+* * *
+
+|*Ann Miller, Tom DeMarco, **Managing Large Software Projects**, IEEE Software, July 1996.[^foo204]*|
+
+[^foo204]: [DOI: 10.1109/MS.1996.526827 ](http://doi.ieeecomputersociety.org/10.1109/MS.1996.526827)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Organizations have invested in **dozens of technological innovations** such as **fourth-generation** languages, **CASE** products, **object-oriented** analysis and programming, and software **reuse**. Yet productivity tools simply **aren't delivering increased productivity** even when a project is managed 'by the book.' ... the software development environment is **a complex social system** that causes such practices to have unintended consequences." |
+
+
+* * *
+
+|*Tarek K. Abdel-Hamid, **The Slippery Path to Productivity Improvement**, IEEE Software, July 1996.[^foo205]*|
+
+[^foo205]: [DOI: 10.1109/52.526831 ](http://doi.ieeecomputersociety.org/10.1109/52.526831)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The most important lesson we have learned is to **follow up with suppliers** so that they **know** the **importance we place** on **quality** and process improvement." |
+
+
+* * *
+
+|*Jim Nielsen, Ann Miller, **Selecting Software Subcontractors**, IEEE Software, July 1996.[^foo206]*|
+
+[^foo206]: [DOI: 10.1109/52.526837 ](http://doi.ieeecomputersociety.org/10.1109/52.526837)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Only through **experimentation** can **true learning**, and hence progress, take place. However, it should be remembered that one **definition of insanity** is when a person, failing at a task, **tries the same thing** over and over again, **expecting a different result**." |
+
+
+* * *
+
+|*Robert N. Charette, **Large-Scale Project Management Is Risk Management**, IEEE Software, July 1996.[^foo207]*|
+
+[^foo207]: [DOI: 10.1109/52.526838 ](http://doi.ieeecomputersociety.org/10.1109/52.526838)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1996-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Software tools** and new **software methodologies** can together play a key role in achieving a higher level of **software quality and productivity**. Software quality can be greatly improved by selecting a **correct development tool** ... Selecting an **inappropriate tool**, on the other hand, can actually hinder software development." |
+
+
+* * *
+
+|*Ez Nahouraii, Krishna Kavi, **Guest Editors' Introduction: Software Tools Assessment**, IEEE Software, September 1996.[^foo208]*|
+
+[^foo208]: [DOI: 10.1109/MS.1996.536455 ](http://doi.ieeecomputersociety.org/10.1109/MS.1996.536455)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Because we don't know **how to analyze a tool's impact** on specific projects, we generally adopt them based on an **intuitive understanding** of their expected impact. In many cases, the actual **results** of this practice are **disappointing**. The problem is aggravated because tool adoption often brings considerable costs." |
+
+
+* * *
+
+|*John Henshaw, Ingrid Janssen, Nazim H. Madhavji, Tilmann Bruckhaus, **The Impact of Tools on Software Productivity**, IEEE Software, September 1996.[^foo209]*|
+
+[^foo209]: [DOI: 10.1109/52.536456 ](http://doi.ieeecomputersociety.org/10.1109/52.536456)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The organization attempts to understand and balance **competing concerns** regarding the **new technology**. These concerns include **acquisition costs**, the technology's effect on quality and **time to market**, and the **training** and **support** services it will require. " |
+
+
+* * *
+
+|*Alan W. Brown, Kurt C. Wallnau, **A Framework for Evaluating Software Technology**, IEEE Software, September 1996.[^foo210]*|
+
+[^foo210]: [DOI: 10.1109/52.536457 ](http://doi.ieeecomputersociety.org/10.1109/52.536457)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Migrating legacy systems** and developing new systems for **client/server environments** has dominated the software development **tool market in the '90s**." |
+
+
+* * *
+
+|*Alan Chmura, David Sharon, **Tools Fair: Untangling the Web with Web and Client/Server Development Tools**, IEEE Software, September 1996.[^foo211]*|
+
+[^foo211]: [DOI: 10.1109/52.536460 ](http://doi.ieeecomputersociety.org/10.1109/52.536460)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1996-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Quantitative data** makes sense when you are trying to decide between **two or more alternatives**." |
+
+
+* * *
+
+|*Jakob Nielsen, **Usability Metrics: Tracking Interface Improvements**, IEEE Software, November 1996.[^foo212]*|
+
+[^foo212]: [DOI: 10.1109/MS.1996.10031 ](http://doi.ieeecomputersociety.org/10.1109/MS.1996.10031)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Despite rapid changes in computing and software development, some **fundamental ideas have remained constant**. ... Eight such concepts together constitute a viable **foundation** for a **software engineering discipline**: **abstraction**, analysis and design **methods and notations**, user interface **prototyping**, **modularity** and architecture, software **life cycle** and **process**, **reuse**, **metrics**, and **automated support**." |
+
+
+* * *
+
+|*Anthony I. Wasserman, **Toward a Discipline of Software Engineering**, IEEE Software, November 1996.[^foo213]*|
+
+[^foo213]: [DOI: 10.1109/52.542291 ](http://doi.ieeecomputersociety.org/10.1109/52.542291)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Working in and **designing for other cultures** can lead to **communication breakdowns**." |
+
+
+* * *
+
+|*Kumiyo Nakakoji, **Beyond Language Translation: Crossing the Cultural Divide**, IEEE Software, November 1996.[^foo214]*|
+
+[^foo214]: [DOI: 10.1109/52.542293 ](http://doi.ieeecomputersociety.org/10.1109/52.542293)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "It's difficult to determine event order in **distributed systems** because of the **problem of observability**." |
+
+
+* * *
+
+|*Colin Fidge, **Fundamentals of Distributed System Observation**, IEEE Software, November 1996.[^foo215]*|
+
+[^foo215]: [DOI: 10.1109/52.542297 ](http://doi.ieeecomputersociety.org/10.1109/52.542297)
+ 
+ 
+{pagebreak}
+
+
+# 1997
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1997-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Security demands a rigor** like that of other computing areas that require high quality ... In security, the **universe** is **by definition hostile**: a malicious agent actively seeks to cause a failure." |
+
+
+* * *
+
+|*Charles P. Pfleeger, **The Fundamentals of Information Security**, IEEE Software, January 1997.[^foo216]*|
+
+[^foo216]: [DOI: 10.1109/52.566419 ](http://doi.ieeecomputersociety.org/10.1109/52.566419)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Objects**, **patterns**, and **architectures** have much in common. Each holds the **promise** of solving chronic software development problems: high **development costs**, even higher **maintenance costs**, low levels of **reuse**, unbelievable—and unrealized—**schedules**, and so on. " |
+
+
+* * *
+
+|*Stephen J. Mellor, Ralph Johnson, **Why Explore Object Methods, Patterns, and Architectures?**, IEEE Software, January 1997.[^foo217]*|
+
+[^foo217]: [DOI: 10.1109/MS.1997.566424 ](http://doi.ieeecomputersociety.org/10.1109/MS.1997.566424)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Patterns** have given us a **vocabulary** to talk about **structures larger than modules, procedures, or objects**—structures that outstrip the vocabularies of the proven object design methods that have served us for the past decade." |
+
+
+* * *
+
+|*James O. Coplien, **Idioms and Patterns as Architectural Literature**, IEEE Software, January 1997.[^foo218]*|
+
+[^foo218]: [DOI: 10.1109/52.566426 ](http://doi.ieeecomputersociety.org/10.1109/52.566426)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "In the software development context, **a pattern** is an **important and recurring** system construct and a **pattern language** is a system of patterns **organized in a structure** that guides the patterns' application." |
+
+
+* * *
+
+|*Ward Cunningham, Norman L. Kerth, **Using Patterns to Improve Our Architectural Vision**, IEEE Software, January 1997.[^foo219]*|
+
+[^foo219]: [DOI: 10.1109/52.566428 ](http://doi.ieeecomputersociety.org/10.1109/52.566428)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1997-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The goals of consistent design can be clarified by a look at early **user interface design for automobiles**. Early automobile designers offered their own distinct designs for a profusion of controls. Some designs, such as a brake that was too far from the gas pedal, were dangerous. There was also a consistency issue. If your brake was to the left of the gas pedal and your neighbor's car had the reverse design, it might be risky to trade cars. Achieving good design and appropriate consistency in automobiles took half a century. Let's hope we can make the transition faster for Web-search user interfaces." |
+
+
+* * *
+
+|*Ben Shneiderman, **A Framework for Search Interfaces**, IEEE Software, March 1997.[^foo220]*|
+
+[^foo220]: [DOI: 10.1109/52.582969 ](http://doi.ieeecomputersociety.org/10.1109/52.582969)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "As in most other sciences, we are moving along **a measurement continuum**; just as temperature measurement began as an **index finger in the water** (and a scale of not hot enough, hot enough, and too hot) and **grew to sophisticated scales**, tools, and techniques, so too is **software measurement maturing** and leading to a more sophisticated understanding of better ways to produce better products." |
+
+
+* * *
+
+|*Shari Lawrence Pfleeger, **Assessing Measurement**, IEEE Software, March 1997.[^foo221]*|
+
+[^foo221]: [DOI: 10.1109/52.582970 ](http://doi.ieeecomputersociety.org/10.1109/52.582970)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The most **successful measurement programs** are ones in which **researchers**, **practitioner**, and **customer** work **hand in hand** to meet goals and solve problems. But **such collaboration is rare**." |
+
+
+* * *
+
+|*Ross Jeffery, Bill Curtis, Barbara Kitchenham, Shari Lawrence Pfleeger, **Status Report on Software Measurement**, IEEE Software, March 1997.[^foo222]*|
+
+[^foo222]: [DOI: 10.1109/52.582973 ](http://doi.ieeecomputersociety.org/10.1109/52.582973)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The more **integral** software **measurement** is to the company's underlying **business strategy**, the more likely it is to succeed." |
+
+
+* * *
+
+|*Raymond J. Offen, Ross Jeffery, **Establishing Software Measurement Programs**, IEEE Software, March 1997.[^foo223]*|
+
+[^foo223]: [DOI: 10.1109/52.582974 ](http://doi.ieeecomputersociety.org/10.1109/52.582974)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1997-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Our culture has evolved such that **owning up to risks** is often **confused with defeatism**. Thus, a manager faced with a nearly impossible schedule may deliberately **ignore risks** to project a confident, **'can-do' attitude**." |
+
+
+* * *
+
+|*Tom DeMarco, Barry W. Boehm, **Software Risk Management**, IEEE Software, May 1997.[^foo224]*|
+
+[^foo224]: [DOI: 10.1109/MS.1997.589225 ](http://doi.ieeecomputersociety.org/10.1109/MS.1997.589225)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Risk management in maintenance** differs in major ways from risk management in development. Risk opportunities are **more frequent**, risks come from **more diverse** sources, and projects have **less freedom to act** on them." |
+
+
+* * *
+
+|*Kevin Macg. Adams, Robert N. Charette, Mary B. White, **Managing Risk in Software Maintenance**, IEEE Software, May 1997.[^foo225]*|
+
+[^foo225]: [DOI: 10.1109/52.589232 ](http://doi.ieeecomputersociety.org/10.1109/52.589232)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Incorporating **hard data** into **risk estimates** can help make them **more accurate**." |
+
+
+* * *
+
+|*Kari Känsälä, **Integrating Risk Assessment with Cost Estimation**, IEEE Software, May 1997.[^foo226]*|
+
+[^foo226]: [DOI: 10.1109/52.589236 ](http://doi.ieeecomputersociety.org/10.1109/52.589236)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "There are approximately **670 working days** between now and **January 1, 2000**. Is that enough time to fix the date fields in your programs?" |
+
+
+* * *
+
+|*John Charles, Capers Jones, **Interview with Capers Jones: Slow Response to Year 2000 Problem**, IEEE Software, May 1997.[^foo227]*|
+
+[^foo227]: [DOI: 10.1109/MS.1997.10009 ](http://doi.ieeecomputersociety.org/10.1109/MS.1997.10009)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1997-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "There's something desperately wrong with the **quality of the quantities** we've been using." |
+
+
+* * *
+
+|*Robert L. Glass, **Telling Good Numbers from Bad Ones**, IEEE Software, July 1997.[^foo228]*|
+
+[^foo228]: [DOI: 10.1109/MS.1997.595876 ](http://doi.ieeecomputersociety.org/10.1109/MS.1997.595876)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Users** should be **involved in the design** process to improve the mapping of their goals to the design. Now that prototypes are being introduced ... users should be **tested** using them **in realistic ways** and situations. The results of such testing should then be **fed back** into the process, along with other lessons from the prototyping activity, to **modify design**. " |
+
+
+* * *
+
+|*Andrew Sears, Arnold M. Lund, **Creating Effective User Interfaces**, IEEE Software, July 1997.[^foo229]*|
+
+[^foo229]: [DOI: 10.1109/MS.1997.595887 ](http://doi.ieeecomputersociety.org/10.1109/MS.1997.595887)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The true choice is not between **discount** and **deluxe** **usability engineering**. If that were the choice, I would agree that the **deluxe** approach would bring better results. The true choice, however, is between **doing something** and **doing nothing**. Perfection is not an option. My choice is to do something!" |
+
+
+* * *
+
+|*Jakob Nielsen, **Something Is Better than Nothing**, IEEE Software, July 1997.[^foo230]*|
+
+[^foo230]: [DOI: 10.1109/MS.1997.595892 ](http://doi.ieeecomputersociety.org/10.1109/MS.1997.595892)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**A checklist** for **choosing a tool** that fits your needs: **usability**, **functionality**, **flexibility**, **portability**, **support**, and **cost** are all part of the picture." |
+
+
+* * *
+
+|*Laura A. Valaer, Robert G. Babb II, **Choosing a User Interface Development Tool**, IEEE Software, July 1997.[^foo231]*|
+
+[^foo231]: [DOI: 10.1109/52.595896 ](http://doi.ieeecomputersociety.org/10.1109/52.595896)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Discussions with users** must be **carefully planned** ... Identifying ourselves and gaining their confidence was of utmost importance ... **Learning** the **work culture** and adapting to it go a long way toward **winning support**. " |
+
+
+* * *
+
+|*Ben Shneiderman, Catherine Plaisant, Anne Rose, Ajit J. Vanniamparampil, **Low-Effort, High-Payoff User Interface Reengineering**, IEEE Software, July 1997.[^foo232]*|
+
+[^foo232]: [DOI: 10.1109/52.595958 ](http://doi.ieeecomputersociety.org/10.1109/52.595958)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1997-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Too often we **fail to see a new problem** clearly because we color our perception of it with recollections of similar problems we've solved in the past. We also **inject fragments of those past solutions** into our **thinking**, further obscuring the current problem." |
+
+
+* * *
+
+|*Carlo Pescio, **When Past Solutions Cause Future Problems**, IEEE Software, September 1997.[^foo233]*|
+
+[^foo233]: [DOI: 10.1109/52.605925 ](http://doi.ieeecomputersociety.org/10.1109/52.605925)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "All this **personal connectivity** has a **price**: at times, people deal electronically with people they **do not know**, **cannot name**, and certainly have **no basis to trust**." |
+
+
+* * *
+
+|*Charles P. Pfleeger, Deborah M. Cooper, **Security and Privacy: Promising Advances**, IEEE Software, September 1997.[^foo234]*|
+
+[^foo234]: [DOI: 10.1109/52.605928 ](http://doi.ieeecomputersociety.org/10.1109/52.605928)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Computer use leaves **trails of activity** that can reveal **signatures** of **misuse** as well as of **legitimate activity**. Depending on the audit method used, one can record a user's **keystrokes**, the system **resources used**, or the **system calls** made by some collection of processes." |
+
+
+* * *
+
+|*Steven A. Hofmeyr, Andrew P. Kosoresow, **Intrusion Detection via System Call Traces**, IEEE Software, September 1997.[^foo235]*|
+
+[^foo235]: [DOI: 10.1109/52.605929 ](http://doi.ieeecomputersociety.org/10.1109/52.605929)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1997-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Before software development can become a true engineering discipline, its **practitioners** must be **well schooled** in computer **science**, discrete **mathematics**, and a subject too rarely addressed in most university courses today: engineering **economy**." |
+
+
+* * *
+
+|*Steve Tockey, **A Missing Link in Software Engineering**, IEEE Software, November 1997.[^foo236]*|
+
+[^foo236]: [DOI: 10.1109/52.636594 ](http://doi.ieeecomputersociety.org/10.1109/52.636594)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Most software engineering **graduates** begin their careers lacking an **appreciation of real-world** conditions." |
+
+
+* * *
+
+|*Ray Dawson, Ron Newsham, **Introducing Software Engineers to the Real World**, IEEE Software, November 1997.[^foo237]*|
+
+[^foo237]: [DOI: 10.1109/52.636640 ](http://doi.ieeecomputersociety.org/10.1109/52.636640)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "When it comes to software engineering education, there is **a gap** between what **industry needs** and what **universities offer**." |
+
+
+* * *
+
+|*Nancy R. Mead, Neal Coulter, Kathy Beckman, Soheil Khajenoori, **Collaborations: Closing the Industry-Academia Gap**, IEEE Software, November 1997.[^foo238]*|
+
+[^foo238]: [DOI: 10.1109/52.636668 ](http://doi.ieeecomputersociety.org/10.1109/52.636668)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Complexity** is not completely essential; it is feasible to **reduce** and to **manage complexity**. " |
+
+
+* * *
+
+|*Christof Ebert, **The Road to Maturity: Navigating Between Craft and Science**, IEEE Software, November 1997.[^foo239]*|
+
+[^foo239]: [DOI: 10.1109/52.636674 ](http://doi.ieeecomputersociety.org/10.1109/52.636674)
+ 
+ 
+{pagebreak}
+
+
+# 1998
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1998-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Our canonical example was **the thermostat on the wall**. ... There's **nothing about** the **Web**, or desktop, or Windows vs. Sun that had anything to do with the **initial design of Java**." |
+
+
+* * *
+
+|*Patrick Naughton, **Basic to Java: Assembling a Career**, IEEE Software, January 1998.[^foo240]*|
+
+[^foo240]: [DOI: 10.1109/MS.1998.646824 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646824)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "We ended up **merging NeWS and X**, which **was just torture**. I was constantly agitating for mercy; I wanted them to just shoot us. " |
+
+
+* * *
+
+|*Patrick Naughton, **Basic to Java: Assembling a Career**, IEEE Software, January 1998.[^foo241]*|
+
+[^foo241]: [DOI: 10.1109/MS.1998.646824 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646824)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The likely future of the software industry is this: it will be either **the best of times** or the **worst of times**-**or both**. ... **Year 2000 crisis** may plunge us all into several years of decidedly **unpleasant times**." |
+
+
+* * *
+
+|*Ed Yourdon, **A Tale of Two Futures**, IEEE Software, January 1998.[^foo242]*|
+
+[^foo242]: [DOI: 10.1109/52.646826 ](http://doi.ieeecomputersociety.org/10.1109/52.646826)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "I like to tell people that my **head** is **in** software's **academic world**, but that my **heart** is **in** its **practice**." |
+
+
+* * *
+
+|*Robert L. Glass, **In Praise of Practice**, IEEE Software, January 1998.[^foo243]*|
+
+[^foo243]: [DOI: 10.1109/MS.1998.10007 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10007)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Modesty** **prevents** me from using the **adjectives** most commonly applied by developers toiling under such circumstances." |
+
+
+* * *
+
+|*Grady Booch, **Leaving Kansas**, IEEE Software, January 1998.[^foo244]*|
+
+[^foo244]: [DOI: 10.1109/MS.1998.646876 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646876)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "For software developers at **established organizations**, caught in the cross-fire of the **language wars**, the **operating system wars**, the **platform wars**, the **middleware wars**, and the **browser wars**, laboring to push yet another release out the door under compressed schedules, weighed down by the **millstone of legacy code**, and torn asunder by the ravages of ill-conceived and ever-changing requirements, then the **future looks grim** - to put it mildly. " |
+
+
+* * *
+
+|*Grady Booch, **Leaving Kansas**, IEEE Software, January 1998.[^foo245]*|
+
+[^foo245]: [DOI: 10.1109/MS.1998.646876 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646876)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "We might be expected to become **serious software engineers**. We won't, of course. " |
+
+
+* * *
+
+|*Michael Jackson, **Will There Ever Be Software Engineering?**, IEEE Software, January 1998.[^foo246]*|
+
+[^foo246]: [DOI: 10.1109/MS.1998.646877 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646877)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **software development** and **maintenance processes**, which I prefer to unify and call **software evolution**, **are key** to managing computerization. In my view it is key to our survival in this computer age." |
+
+
+* * *
+
+|*M.m. Lehman, **Software's Future: Managing Evolution**, IEEE Software, January 1998.[^foo247]*|
+
+[^foo247]: [DOI: 10.1109/MS.1998.646878 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646878)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "History does suggest that our **early expectations** about the **problem-solving potential** of **unbridled technology** should be relatively **low**." |
+
+
+* * *
+
+|*Steve Andriole, **Software: The Good, the Bad, and the Real**, IEEE Software, January 1998.[^foo248]*|
+
+[^foo248]: [DOI: 10.1109/MS.1998.646879 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.646879)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1998-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "You could ... say that the **main business** of **everyone on earth** is to **help everyone else** — including ourselves — get **enlightened** because the technology is getting more and more dangerous. " |
+
+
+* * *
+
+|*Alan Kay, **Alan Kay: Inventing the Future**, IEEE Software, March 1998.[^foo249]*|
+
+[^foo249]: [DOI: 10.1109/MS.1998.10013 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Most things printed in the **first 100 years of the printing** press and most of the stuff printed now is **crap**. But because of luck and the bell curve of life, you can still get decently educated by reading just a few thousand books." |
+
+
+* * *
+
+|*Alan Kay, **Alan Kay: Inventing the Future**, IEEE Software, March 1998.[^foo250]*|
+
+[^foo250]: [DOI: 10.1109/MS.1998.10013 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The first microprocessors were **incredibly slow**. You had to **understand Moore's law**, what was going to happen. And you had to **have imagination**." |
+
+
+* * *
+
+|*Alan Kay, **Alan Kay: Inventing the Future**, IEEE Software, March 1998.[^foo251]*|
+
+[^foo251]: [DOI: 10.1109/MS.1998.10013 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A lot of thinking is like **case law**: 'Has somebody **rich and famous** done this? If so, maybe I should **pay attention** to it.'" |
+
+
+* * *
+
+|*Alan Kay, **Alan Kay: Inventing the Future**, IEEE Software, March 1998.[^foo252]*|
+
+[^foo252]: [DOI: 10.1109/MS.1998.10013 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10013)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Slowly, we are bridging the gap between **requirements engineering** research and practice. The gap is still large, but we have a few more **practice-validated methods** and tools in our pockets, and the bridge building continues." |
+
+
+* * *
+
+|*Daniel M. Berry, Brian Lawrence, **Guest Editors' Introduction: Requirements Engineering**, IEEE Software, March 1998.[^foo253]*|
+
+[^foo253]: [DOI: 10.1109/MS.1998.663780 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.663780)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Something is **seriously wrong** with **reuse**. If there is a motherpie-and-applehood topic in software engineering, **reuse** is it. Everyone believes in it; everyone thinks we should be doing more of it. So do I. ... 'Why hasn't that potential already been achieved?' ... I think reuse hasn't succeeded to the extent we would like because **there aren't that many software components** that **can be reused**." |
+
+
+* * *
+
+|*Robert L. Glass, **Reuse: What's Wrong with This Picture?**, IEEE Software, March 1998.[^foo254]*|
+
+[^foo254]: [DOI: 10.1109/52.663785 ](http://doi.ieeecomputersociety.org/10.1109/52.663785)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Some software designers have recently turned to **building architecture for inspiration** in their efforts to improve professional practice. An attempt to apply **the studio method** of architectural training to **software design education** ... reveals much about education and practice in both professions. Studio courses **provoke creative reflection** on how to improve current training practices and could provide a new way to develop software design expertise." |
+
+
+* * *
+
+|*Sarah Kuhn, **The Software Design Studio: An Exploration**, IEEE Software, March 1998.[^foo255]*|
+
+[^foo255]: [DOI: 10.1109/52.663788 ](http://doi.ieeecomputersociety.org/10.1109/52.663788)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1998-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Web technology** can offer a relatively painless way to **extend the life of legacy systems**, which are, by definition, both **fragile and valuable**. The Web can give aging applications a **modern graphical interface**, deliver them to employees' desktops regardless of platform, and grant access to databases distributed across the enterprise." |
+
+
+* * *
+
+|*Ellis Horowitz, **Guest Editor's Introduction: Migrating Software to the World Wide Web**, IEEE Software, May 1998.[^foo256]*|
+
+[^foo256]: [DOI: 10.1109/MS.1998.676714 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.676714)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Geographic information systems** store a wealth of information for diverse applications, and users must often access GISs from various vendors and residing on varying platforms. ... a **spatial query mechanism** for GISs that is distributed and open, giving users access to many different GISs across the Internet." |
+
+
+* * *
+
+|*Serena Coetzee, Judith Bishop, **A New Way to Query GISs on the Web**, IEEE Software, May 1998.[^foo257]*|
+
+[^foo257]: [DOI: 10.1109/52.676719 ](http://doi.ieeecomputersociety.org/10.1109/52.676719)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Object-orientation (OO) does not match the way we normally think. ... however, that this is **true of programming in any language** using any paradigm." |
+
+
+* * *
+
+|*Richard Wiener, **Watch Your Language!**, IEEE Software, May 1998.[^foo258]*|
+
+[^foo258]: [DOI: 10.1109/52.676738 ](http://doi.ieeecomputersociety.org/10.1109/52.676738)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "When the authors asked users to **test an API early** in the development life cycle, the **users' questions** about how the API works and in what contexts turned out to be **extremely helpful**. **Iterative API design** and testing, along with **feedback from real users**, contribute to cleaner design and a more helpful reference manual." |
+
+
+* * *
+
+|*Clay I. Spinuzzi, Samuel G. McLellan, Alvin W. Roesler, Joseph T. Tempest, **Building More Usable APIs**, IEEE Software, May 1998.[^foo259]*|
+
+[^foo259]: [DOI: 10.1109/52.676963 ](http://doi.ieeecomputersociety.org/10.1109/52.676963)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**McDonald's** produces **hamburgers** that perfectly **match user requirements** and **satisfy expectations** for affordability and timely arrival. **But quality dining**? No one, not even McDonald's, claims that." |
+
+
+* * *
+
+|*Robert L. Glass, **Defining Quality Intuitively**, IEEE Software, May 1998.[^foo260]*|
+
+[^foo260]: [DOI: 10.1109/52.676973 ](http://doi.ieeecomputersociety.org/10.1109/52.676973)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1998-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Legacy software systems** represent a **significant investment** but often become difficult to maintain as they age. Not only does **technology evolve** beyond them, but **business needs change** and may require adding or modifying functions. " |
+
+
+* * *
+
+|*Christof Ebert, Norman F. Schneidewind, **Guest Editors' Introduction: Preserve or Redesign Legacy Systems?**, IEEE Software, July 1998.[^foo261]*|
+
+[^foo261]: [DOI: 10.1109/MS.1998.687937 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.687937)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Rebuilding a legacy system** has some parallels to the **restoration of a work of art** ... The restoration involved far **more than updating the code**: the development team also had to **understand the existing** architecture, **add new** functionality, and develop a long-term hardware migration plan." |
+
+
+* * *
+
+|*Jim White, Spencer Rugaber, **Restoring a Legacy: Lessons Learned**, IEEE Software, July 1998.[^foo262]*|
+
+[^foo262]: [DOI: 10.1109/52.687941 ](http://doi.ieeecomputersociety.org/10.1109/52.687941)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Drawing on extensive data from the **NASA Space Shuttle**'s guidance software, Schneidewind ... provides **several formulas** for **tracking maintenance stability** defined as increasing functionality with decreasing failures ..." |
+
+
+* * *
+
+|*Norman F. Schneidewind, **How To Evaluate Legacy System Maintenance**, IEEE Software, July 1998.[^foo263]*|
+
+[^foo263]: [DOI: 10.1109/52.687942 ](http://doi.ieeecomputersociety.org/10.1109/52.687942)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "If this decade's mantra is '**show me the money**,' those of us in software will **find it in maintenance**. Life-cycle data shows that maintenance is where we spend the biggest chunk of practitioner **time and money**." |
+
+
+* * *
+
+|*Robert L. Glass, **Maintenance: Less Is Not More**, IEEE Software, July 1998.[^foo264]*|
+
+[^foo264]: [DOI: 10.1109/52.687948 ](http://doi.ieeecomputersociety.org/10.1109/52.687948)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1998-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The **rate of change** in the software world is such that shortly after the ink dries on this issue, we can only hope to have captured a snapshot of a rapidly maturing domain." |
+
+
+* * *
+
+|*Grady Booch, Wojtek Kozaczynski, **Guest Editors' Introduction: Component-Based Software Engineering**, IEEE Software, September 1998.[^foo265]*|
+
+[^foo265]: [DOI: 10.1109/MS.1998.714621 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.714621)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "A **component-based system** requires an **infrastructure for communication and collaboration**. ... examines the **Microsoft MTS** and **OMG Corba** infrastructure technologies. ... comparing how Microsoft's MTS and **Sun's Enterprise JavaBeans** handle transactions and component state." |
+
+
+* * *
+
+|*Alan W. Brown, Kurt C. Wallnau, **The Current State of CBSE**, IEEE Software, September 1998.[^foo266]*|
+
+[^foo266]: [DOI: 10.1109/52.714622 ](http://doi.ieeecomputersociety.org/10.1109/52.714622)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The need to closely examine a problematic aspect of component reuse: the necessity and potential **expense** of **validating components** in their new environments." |
+
+
+* * *
+
+|*Elaine J. Weyuker, **Testing Component-Based Software: A Cautionary Tale**, IEEE Software, September 1998.[^foo267]*|
+
+[^foo267]: [DOI: 10.1109/52.714817 ](http://doi.ieeecomputersociety.org/10.1109/52.714817)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Ellen Ullman, describing her first **Linux** installation, wrote 'I exaggerate only a little if I say that **Linux** is a **reassertion of our dignity** as humans working with mere machine; a **return**, quite literally, **to the source**.'" |
+
+
+* * *
+
+|*James Sanders, **Linux, Open Source, and Software's Future**, IEEE Software, September 1998.[^foo268]*|
+
+[^foo268]: [DOI: 10.1109/52.714831 ](http://doi.ieeecomputersociety.org/10.1109/52.714831)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1998-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "This issue is dedicated to **Alan Davis**, our dear **colleague**, **thinker**, **doer**, **leader**, sometimes **dreamer**, and a congenial friend always." |
+
+
+* * *
+
+|*Maarten Boasson, Carl K. Chang, Tomoo Matsubara, **Guest Editors' Introduction: Setting the Standard**, IEEE Software, November 1998.[^foo269]*|
+
+[^foo269]: [DOI: 10.1109/MS.1998.10037 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10037)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The ultimate **survival** of the **Java Virtual Machine** is much less certain. Java's inventors at Sun Microsystems have presented their creation as a single inseparable concept that encompasses a **language**, a rich class **library**, and a software distribution standard based on **a virtual machine**. These three parts are **not nearly as inseparable** as Sun claims. " |
+
+
+* * *
+
+|*Michael Franz, **The Java Virtual Machine: A Passing Fad?**, IEEE Software, November 1998.[^foo270]*|
+
+[^foo270]: [DOI: 10.1109/52.730834 ](http://doi.ieeecomputersociety.org/10.1109/52.730834)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "At **Hitachi Software**, our software has attained such **high quality** that **only 0.02 percent of all bugs** in a software program emerge at the **user's site**. ... We **do not use sophisticated** tools or state-of-the-art methodology — **we simply test** programs and fix the bugs detected." |
+
+
+* * *
+
+|*Tsuneo Yamaura, **How to Design Practical Test Cases**, IEEE Software, November 1998.[^foo271]*|
+
+[^foo271]: [DOI: 10.1109/52.730835 ](http://doi.ieeecomputersociety.org/10.1109/52.730835)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "There is probably no hope of changing the view that **Wall Street** takes of treating investment in **people as an expense**. But companies that play this game will **suffer in the long run**. The converse is also true: Companies that manage their investment sensibly will prosper in the long run. Companies of knowledge workers have to realize that it is their **investment in human capital that matters most**. The good ones already do." |
+
+
+* * *
+
+|*Timothy Lister, Tom DeMarco, **Human Capital**, IEEE Software, November 1998.[^foo272]*|
+
+[^foo272]: [DOI: 10.1109/52.730859 ](http://doi.ieeecomputersociety.org/10.1109/52.730859)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Adler differentiates between **four levels of reading**. **Elementary reading** ... recognize individual words on a page. **Inspectional reading** is ... trying to get the most out of a book or article within a **given amount of time**. **Analytical reading** is ... by trying to get the most out of a book or article with **an unlimited amount of time**. **Syntopical reading** ... involves **reading sets of books or articles** on a common topic in a way that enables you to extract information that might or might not be present in any of the individual materials studied." |
+
+
+* * *
+
+|*Steve McConnell, **How To Read a Technical Article**, IEEE Software, November 1998.[^foo273]*|
+
+[^foo273]: [DOI: 10.1109/MS.1998.10035 ](http://doi.ieeecomputersociety.org/10.1109/MS.1998.10035)
+ 
+ 
+{pagebreak}
+
+
+# 1999
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1999-1.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "**Linux** is a free, open-source operating system that **looks like Unix**, except that it runs on PCs as well as other platforms. Linux was created by **Linus Torvalds** in **1991**. Today, Linux is cooperatively improved by Torvalds and **thousands of volunteers** from around the world using open-source development methods." |
+
+
+* * *
+
+|*Terry Bollinger, Peter Beckman, **Guest Editors' Introduction: Linux on the Move**, IEEE Software, January 1999.[^foo274]*|
+
+[^foo274]: [DOI: 10.1109/MS.1999.744564 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.744564)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Far from simply producing freeware clones of existing technologies, **Linux and the open-source** world now turn out **some of the best software** at any price." |
+
+
+* * *
+
+|*Evan Leibovitch, **The Business Case for Linux**, IEEE Software, January 1999.[^foo275]*|
+
+[^foo275]: [DOI: 10.1109/52.744567 ](http://doi.ieeecomputersociety.org/10.1109/52.744567)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Linux** has been a boon to **computing** in the **developing world**. In **Pakistan**, we have used Linux productively in both academia and industry." |
+
+
+* * *
+
+|*Rafeeq ur Rehman, Shahid H. Bokhari, **Linux and the Developing World**, IEEE Software, January 1999.[^foo276]*|
+
+[^foo276]: [DOI: 10.1109/52.744570 ](http://doi.ieeecomputersociety.org/10.1109/52.744570)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "How much is the **Year 2000 problem** going to cost you? How long is it going to take you to get ready? Can you make it in time?" |
+
+
+* * *
+
+|*Ware Myers, Lawrence H. Putnam, **Year 2000 Work Comes Down to the Wire**, IEEE Software, January 1999.[^foo277]*|
+
+[^foo277]: [DOI: 10.1109/52.744575 ](http://doi.ieeecomputersociety.org/10.1109/52.744575)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1999-2.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The key to **successful measurement programs** is to make the **metrics meaningful** and **tailor them** to the organization—however small it might be." |
+
+
+* * *
+
+|*Karlheinz Kautz, **Making Sense of Measurement for Small Organizations**, IEEE Software, March 1999.[^foo278]*|
+
+[^foo278]: [DOI: 10.1109/52.754047 ](http://doi.ieeecomputersociety.org/10.1109/52.754047)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "An organized, comprehensive **metrics program** can **bring order to the chaos** of small-project management and form the foundation for a concerted process improvement effort." |
+
+
+* * *
+
+|*Ross Grable, Dale Divis, Casey Pogue, Jacquelyn Jernigan, **Metrics for Small Projects: Experiences at the SED**, IEEE Software, March 1999.[^foo279]*|
+
+[^foo279]: [DOI: 10.1109/52.754048 ](http://doi.ieeecomputersociety.org/10.1109/52.754048)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Design** is one of the most elusive yet fascinating topics in the software field. It is elusive because, no matter how thoroughly **academics** try to shape it into a teachable, testable, fact-based topic, **it just doesn't fit**. It is fascinating because design holds the **key to the success** of most software projects." |
+
+
+* * *
+
+|*Robert L. Glass, **On Design**, IEEE Software, March 1999.[^foo280]*|
+
+[^foo280]: [DOI: 10.1109/MS.1999.754066 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.754066)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1999-3.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Everyone who ever taught project management seems to have **a favorite disaster story**, whether it's the new **Denver airport** baggage handling system, the **London Stock Exchange**, or the **French Railways**. ... we must also consider a wider viewpoint: **success** requires **much more than good engineering**." |
+
+
+* * *
+
+|*Andrew J. Bytheway, **Guest Editor's Introduction: Successful Software Projects and How to Achieve Them**, IEEE Software, May 1999.[^foo281]*|
+
+[^foo281]: [DOI: 10.1109/MS.1999.765781 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.765781)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "You **cannot go back** and **add quality**. By the time you figure out you have a quality problem, it is probably **too late to fix it**." |
+
+
+* * *
+
+|*John S. Reel, **Critical Success Factors In Software Projects**, IEEE Software, May 1999.[^foo282]*|
+
+[^foo282]: [DOI: 10.1109/52.765782 ](http://doi.ieeecomputersociety.org/10.1109/52.765782)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The world has become used to having just about **every object, from cars to toasters**, equipped with computers. The hardware chip density has for many years followed Moore's law of doubling in capacity every 18 months, and experts agree that there is no end in sight to this trend. The increase in hardware power will continue largely independent of advances in software technology. As hardware performance increases, so will the demand to feed this hardware with software." |
+
+
+* * *
+
+|*Wolfgang Strigel, **Guest Editor's Introduction: What's the Problem: Labor Shortage or Industry Practices?**, IEEE Software, May 1999.[^foo283]*|
+
+[^foo283]: [DOI: 10.1109/MS.1999.765787 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.765787)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Estimates of **unfilled software engineering**, management, and support jobs in the **US** range from **100,000 to more than 300,000**. Projects addressing **Y2K repairs** and euro currency conversion could push the total shortfall to **600,000 jobs**." |
+
+
+* * *
+
+|*Capers Jones, **The Euro, Y2K, and the US Software Labor Shortage**, IEEE Software, May 1999.[^foo284]*|
+
+[^foo284]: [DOI: 10.1109/52.765788 ](http://doi.ieeecomputersociety.org/10.1109/52.765788)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The worldwide demand for software services is increasing at a rate faster than the current output of qualified software engineers. **India** is poised to meet this demand with a **growing pool** of educated, trained **software professionals**." |
+
+
+* * *
+
+|*Subroto Bagchi, **India's Software Industry: The People Dimension**, IEEE Software, May 1999.[^foo285]*|
+
+[^foo285]: [DOI: 10.1109/52.765789 ](http://doi.ieeecomputersociety.org/10.1109/52.765789)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "First and foremost the **Unified Process** is a software development process ... the set of activities needed to **transform a user's requirements** into a **software system**. However, the **Unified Process** is ... it is **a generic process framework** that **can be specialized** for a very large class of ... systems, ... application areas, ... organizations, ... competence levels, and ... project sizes." |
+
+
+* * *
+
+|*Grady Booch, Ivar Jacobson, James Rumbaugh, **The Unified Process**, IEEE Software, May 1999.[^foo286]*|
+
+[^foo286]: [DOI: 10.1109/MS.1999.10013 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.10013)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1999-4.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "Software development is increasingly an 'acquire and glue' process. How do you know when you can trust a COTS component to do what you expect it to in your system? **Software certification** is one viable answer. If our industry doesn't act soon to police itself, **governments might step in** to fill that void." |
+
+
+* * *
+
+|*Jeffrey Voas, **Guest Editor's Introduction: Certification-Reducing the Hidden Costs of Poor Quality**, IEEE Software, July 1999.[^foo287]*|
+
+[^foo287]: [DOI: 10.1109/MS.1999.776944 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.776944)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Designers, researchers, and developers are already using **virtual environments** in many ways and in many domains. The technology has matured enough that VEs are beginning to be used to **certify the systems they simulate**." |
+
+
+* * *
+
+|*Robyn R. Lutz, Carolina Cruz-Neira, **Using Immersive Virtual Environments for Certification**, IEEE Software, July 1999.[^foo288]*|
+
+[^foo288]: [DOI: 10.1109/52.776945 ](http://doi.ieeecomputersociety.org/10.1109/52.776945)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **general-purpose computing** environment that characterizes the PC and Internet was **not designed for privacy** or integrity." |
+
+
+* * *
+
+|*John Michener, **System Insecurity in the Internet Age**, IEEE Software, July 1999.[^foo289]*|
+
+[^foo289]: [DOI: 10.1109/52.776951 ](http://doi.ieeecomputersociety.org/10.1109/52.776951)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "One of the strangest stories in the software world centers around the programming language **Cobol**. Academics have **reviled it** for decades; its **demise** has been **predicted** since the 1960s; industry gurus have suggested that programmers who know only Cobol are **committing career suicide**. ... Yet **the giant** lumbers on." |
+
+
+* * *
+
+|*Robert L. Glass, **Cobol: A Historic Past, A Vital Future?**, IEEE Software, July 1999.[^foo290]*|
+
+[^foo290]: [DOI: 10.1109/52.776965 ](http://doi.ieeecomputersociety.org/10.1109/52.776965)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1999-5.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "The very idea that **software reuse** is a legitimate **research discipline** is **a paradox**: in all other engineering disciplines, reuse is an **integral part of good engineering** design — so integral that it is not even noteworthy. " |
+
+
+* * *
+
+|*Ali Mili, Hafedh Mili, Sherif Yacoub, Edward Addy, **Toward an Engineering Discipline of Software Reuse**, IEEE Software, September 1999.[^foo291]*|
+
+[^foo291]: [DOI: 10.1109/52.795098 ](http://doi.ieeecomputersociety.org/10.1109/52.795098)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The ability to **use Linux in personal-computer platforms**, plus the ready availability of Linux source code, makes the PC-based Linux workstation an ideal platform for **ATM multimedia development**. " |
+
+
+* * *
+
+|*Richard L. Klevans, Steven A. Wright, Ze Zhang, Thomas C. Jepsen, **Linux Update: An Experimental ATM Network**, IEEE Software, September 1999.[^foo292]*|
+
+[^foo292]: [DOI: 10.1109/52.795099 ](http://doi.ieeecomputersociety.org/10.1109/52.795099)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**Architecture** is not so much **about the software**, but about the people who write the software. The **core principles** of architecture, such as coupling and cohesion, **aren't about the cod**e. The **code doesn't 'care'** about how cohesive or decoupled it **is**; if anything, tightly coupled software lacks some of the performance snags found in more modular systems. But **people do care** about their **coupling to other team members**. " |
+
+
+* * *
+
+|*James O. Coplien, **Guest Editor's Introduction: Reevaluating the Architectural Metaphor-Toward Piecemeal Growth**, IEEE Software, September 1999.[^foo293]*|
+
+[^foo293]: [DOI: 10.1109/MS.1999.795100 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.795100)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "Geographically **distributed** development **teams** face extraordinary communication and coordination problems. ... common but unanticipated events can stretch project communication to the breaking point. Project **schedules can fall apart**, particularly during integration." |
+
+
+* * *
+
+|*James D. Herbsleb, Rebecca E. Grinter, **Architectures, Coordination, and Distance: Conway's Law and Beyond**, IEEE Software, September 1999.[^foo294]*|
+
+[^foo294]: [DOI: 10.1109/52.795103 ](http://doi.ieeecomputersociety.org/10.1109/52.795103)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "What I am proposing ... is a **view of programming** as the **natural, genetic infrastructure** of a living world which you/we are capable of creating, managing, making available, and which could then have the result that a **living structure** in our **towns**, **houses**, **work** places, cities, becomes an attainable thing. That would be remarkable. It would turn the world around, and make **living structure** the norm once again, throughout society, and make the world worth living in again." |
+
+
+* * *
+
+|*Christopher Alexander, **The Origins of Pattern Theory: The Future of the Theory, and the Generation of a Living World**, IEEE Software, September 1999.[^foo295]*|
+
+[^foo295]: [DOI: 10.1109/52.795104 ](http://doi.ieeecomputersociety.org/10.1109/52.795104)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "This is a pretty **strange situation** I find myself in. I hope you sympathize with me. I'm addressing a room full of people, a whole football field full of people. I don't know hardly anything about what all of you do. So—**please be nice to me**.What is the connection between what I am doing in the field of architecture and what you are doing in computer science and trying to do in the new field of software design? " |
+
+
+* * *
+
+|*Christopher Alexander, **The Origins of Pattern Theory: The Future of the Theory, and the Generation of a Living World**, IEEE Software, September 1999.[^foo296]*|
+
+[^foo296]: [DOI: 10.1109/52.795104 ](http://doi.ieeecomputersociety.org/10.1109/52.795104)
+ 
+ 
+{pagebreak}
+
+
+
+
+
+
+![](images-high-quality/1999-6.jpg)
+
+
+
+
+{pagebreak}
+
+  
+* * *
+
+| "For many **programmers**, software development consists of **hacking**. As we mature, it is time to follow the example of other professional disciplines, to **put the engineering in software engineering**." |
+
+
+* * *
+
+|*Steve McConnell, Leonard Tripp, **Guest Editors' Introduction: Professional Software Engineering-Fact or Fiction?**, IEEE Software, November 1999.[^foo297]*|
+
+[^foo297]: [DOI: 10.1109/MS.1999.805468 ](http://doi.ieeecomputersociety.org/10.1109/MS.1999.805468)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "**'Software Engineering' programs** have become a source of contention in many **universities**. Computer Science departments, many of which have used that phrase to describe individual courses for decades, claim SE as part of their discipline. Yet some engineering faculties claim it as a new specialty among the engineering disciplines. ... We need SE programs that **follow the traditional engineering approach** to professional education." |
+
+
+* * *
+
+|*David Lorge Parnas, **Software Engineering Programs Are Not Computer Science Programs**, IEEE Software, November 1999.[^foo298]*|
+
+[^foo298]: [DOI: 10.1109/52.805469 ](http://doi.ieeecomputersociety.org/10.1109/52.805469)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "The **IEEE Computer Society** and the **Association for Computing Machinery** are working on a joint project to develop a guide to **the Software Engineering Body of Knowledge (SWEBOK)**. Articulating a body of knowledge is an essential step toward developing a profession because it represents a broad consensus regarding the contents of the discipline. " |
+
+
+* * *
+
+|*Alain Abran, James W. Moore, Robert Dupuis, Pierre Bourque, Leonard Tripp, **The Guide to the Software Engineering Body of Knowledge**, IEEE Software, November 1999.[^foo299]*|
+
+[^foo299]: [DOI: 10.1109/52.805471 ](http://doi.ieeecomputersociety.org/10.1109/52.805471)
+ 
+ 
+{pagebreak}
+
+
+  
+* * *
+
+| "In June **1998**, the **Texas Board of Professional Engineers** established **software engineering** as a recognized engineering discipline and established **licensing criteria** specifically suited to software engineers." |
+
+
+* * *
+
+|*John R. Speed, **What Do You Mean I Can't Call Myself a Software Engineer?**, IEEE Software, November 1999.[^foo300]*|
+
+[^foo300]: [DOI: 10.1109/52.805472 ](http://doi.ieeecomputersociety.org/10.1109/52.805472)
+ 
+ 
+{pagebreak}
+
+
