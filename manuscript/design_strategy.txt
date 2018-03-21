@@ -1,3 +1,5 @@
+# Design Strategy
+
  
 Software designers and managers can find it challenging to agree on the "sweet spots" of their system that warrant their best design efforts. Most projects are short on time, budget, and resources. How can you stay ahead of the design curve, and where should you focus your design energies to gain the most leverage?
 

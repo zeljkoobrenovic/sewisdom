@@ -1,3 +1,5 @@
+# Designing with an Agile Attitude
+
  
 Good software designers share many traits, habits, practices, and values, whether they work on agile teams or not. Many designers value design simplicity, communication, teamwork, and responsiveness to stakeholder needs. So what distinguishes agile design from other design processes? Do successful designers working on agile projects need radically different techniques and skills?
 

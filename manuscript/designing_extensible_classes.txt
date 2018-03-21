@@ -1,3 +1,5 @@
+# Designing Extensible Classes
+
  
 I know a designer who doesn't appreciate his colleagues' long-winded debates about correct use of interfaces and inheritance. Enough debate and hair splitting! He seeks design rules that guarantee well-formed class hierarchies, appropriate interfaces, and easily extensible classes. Unfortunately, the detailed design of extensible class hierarchies is filled with nuanced reasoning.
 

@@ -1,3 +1,5 @@
+# Designing Then and Now
+
  
 Twenty-five years ago I was programming in 8086 assembly language for a low-cost graphics terminal. Our team followed structured-design practices. We developed module decomposition diagrams and printed them on an ozalid printer. Our software blueprints really were blue! We wrote functional specifications and defined the subroutine call structure before implementing any code. We wrote and debugged our coding sitting in a common work area. We held code reviews and shared effective coding practices.
 

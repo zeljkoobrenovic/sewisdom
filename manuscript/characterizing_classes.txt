@@ -1,3 +1,5 @@
+# Characterizing classes
+
  
 There are many ways to understand the nature of a class, but I start by looking at its name. **Aptronyms** are names that match a person's occupation—Joe Strong is a weight lifter; Suzie Snow is a ski instructor. Because I look at a class's name to suggest its role in a design, I expect class names to be aptronyms. For example, in Java, a StringTokenizer picks apart segments of a string, and the ClassLoader loads classes. But names aren't always illuminating. So I also scan a class for intention-revealing method names that suggest the class's behavior. Of course, the definitive source is always the code, but I shouldn't have to pore over details just to get the gist of a class. 
 

@@ -1,3 +1,5 @@
+# Explaining Your Design
+
  
 Have you ever tried to explain some aspect of your design and not known where to start? Perhaps you had to present how you solved a problem or justify your chosen design among several alternatives, and you weren't sure how to highlight key design aspects critical in achieving a certain requirement. Or maybe you weren't sure how to explain parts of your design that didn't seem to make sense yet were required.
 

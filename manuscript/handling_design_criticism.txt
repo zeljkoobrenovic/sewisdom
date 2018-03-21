@@ -1,3 +1,5 @@
+# Handling Design Criticism
+
  
 Design reviews are an essential part of any design process. However, taking the criticism that comes from such reviews can be hard. The word criticism even has a slightly negative connotation in our culture. But design criticism is invaluable, and effectively giving and receiving it are skills that every software designer needs to master.
 

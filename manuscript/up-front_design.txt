@@ -1,3 +1,5 @@
+# Up-front Design
+
  
 There can be significant benefits in thinking through a design until you get it "right enough" before launching into a major development effort. When is upfront design essential, and how can we do it more effectively? No one likes wasting time on pencil-and-paper design exercises that bear no fruit.
 

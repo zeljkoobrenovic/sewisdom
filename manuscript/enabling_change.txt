@@ -1,3 +1,5 @@
+# Enabling Change
+
  
 Handling a requirements change or implementing new functionality can be an opportunity to leverage increased understanding to improve your design. But, more often than not, designs don't improve, so aging software systems become increasingly difficult to change. What can we do so that the quality of a significant code base won't degrade and turn into a cluttered, crufty (unpleasantly built-up) relic riddled with unnecessary design complexity?
 

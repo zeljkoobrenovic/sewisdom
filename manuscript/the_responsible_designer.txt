@@ -1,3 +1,5 @@
+# The Responsible Designer
+
  
 Successful software systems often live far longer than their original designers anticipated. And over their lifetime, most of those systems evolve. Developers who make modifications, fix bugs, and add new features to long-lived systems have an easier time of it if they keep the code base habitable ("Creating Sustainable Designs," Rebecca Wirfs-Brock, **IEEE Software**, May/June 2009) and preserve design integrity. But even so, maintenance can be painful when new requirements invalidate initial design assumptions. Given that we can't anticipate the design impact of every future requirement, is it enough to keep our code clean and our designs well factored? Or should we be doing something more?
 

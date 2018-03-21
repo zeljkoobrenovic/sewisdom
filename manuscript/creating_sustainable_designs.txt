@@ -1,3 +1,5 @@
+# Creating Sustainable Designs
+
  
 We value code that's comfortable—where everything fits neatly in place, contributing to its familiarity and ease of understanding. Richard Gabriel, in **Patterns of Software** (Oxford Univ. Press, 1996), describes software where "developers can feel at home, [and] place their hands on any item without having to think deeply about where it is." He calls such software **habitable**. So how should we go about creating habitable software? Should we just place our trust in really good software developers, or are there specific design qualities and practices that we should be paying more attention to?
 

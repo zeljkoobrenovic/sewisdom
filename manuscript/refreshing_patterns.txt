@@ -1,3 +1,5 @@
+# Refreshing patterns
+
  
 When the published form of a pattern seems dated due to new language features or new experiences, it needs refreshing. Unfortunately, just as in spoken languages, once standard definitions are widely circulated in print, it becomes much harder to update them.
 

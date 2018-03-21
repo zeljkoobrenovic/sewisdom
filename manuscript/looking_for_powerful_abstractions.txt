@@ -1,3 +1,5 @@
+# Looking for powerful abstractions
+
  
 Betty Edwards, in **Drawing on the Artist Within **(Fireside Press, 1987), poses this thought experiment: Imagine we believed that only those endowed with an innate gift could learn to read. Teachers would think the best way to instruct would be to expose a child to lots of reading materials and then wait to see what happens. Fear of stifling creativity would dampen attempts to guide new readers. If a child asked how to read something, the teacher would say, "Try whatever you think works. Enjoy it and explore. Reading is fun!" Perhaps one or two in any class would possess that rare reading talent and spontaneously learn to read.
 

@@ -1,3 +1,5 @@
+# Toward Design Simplicity
+
  
 When designing I tend to go with the flow. I don't think deeply about why I'm making any particular decision. I'm an intuitive designer. I do have a set of principles that drive my decision making. But I don't ponder what principle to apply at each moment or worry about violating any specific principle when I do make a decision. My design process is fluid, dynamic, and somewhat messy. I'm comfortable with tossing out partial solutions when better ideas come along. Rework and revision seem natural and necessary.
 

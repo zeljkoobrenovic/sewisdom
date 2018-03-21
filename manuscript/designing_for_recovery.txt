@@ -1,3 +1,5 @@
+# Designing for recovery
+
  
 When things go right, software hums along like well-oiled machinery—receive an event, twiddle with inputs, send a flurry of messages, change the system state, interact with the environment or users, then wait for the next chunk of work. Smooth. Mechanical. Predictable. But what happens when something goes wrong? How should you design your software to detect, react, and recover from exceptional conditions?
 

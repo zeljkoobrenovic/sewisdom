@@ -1,3 +1,5 @@
+# Valuing Design Repair
+
  
 One of my favorite activities in any of the architecture or design courses I teach is to discuss antipatterns—design ideas hatched with good intentions that prove problematic over time. The few books on antipatterns focus primarily on introducing problems and straightforward solutions, which makes them hard to distinguish from better-known books that present design or programming guidelines or refactoring advice.
 

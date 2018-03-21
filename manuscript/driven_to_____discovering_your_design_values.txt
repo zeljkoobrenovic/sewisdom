@@ -1,3 +1,5 @@
+# Driven to ... Discovering Your Design Values
+
  
 Today we have design or development approaches that are, for example, responsibility driven (RDD), test driven (TDD), behavior driven (BDD), domain driven (DDD), and model driven (MDD). Not all thought leaders in software development have been "driven"—Bertrand Meyer, for example, invented Design by Contract. But whether "driven" or not, these approaches all emphasize a core set of values and principles around which practices, techniques, and tools have emerged. A thoughtful designer should be able to pick and choose among practices without losing their essence. But not all practices are congruent. After stewing in this alphabet soup for years, I'm keen on exposing the common and complementary threads that are interwoven among various design practices.
 

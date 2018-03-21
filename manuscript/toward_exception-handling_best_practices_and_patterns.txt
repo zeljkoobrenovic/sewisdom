@@ -1,3 +1,5 @@
+# Toward Exception-Handling Best Practices and Patterns
+
  
 Poor exception-handling implementations can thwart even the best design. It's high time we recognize exception handling's importance to an implementation's overall quality. I'm not comfortable relegating exception handling to a minor programming detail. Agreeing on a reasonable exception-handling style for your application and following a consistent set of exception-handling practices is crucial to implementing software that's easy to comprehend, evolve, and refactor. The longer you avoid exceptions, the harder it is to wedge cleanly designed exception-handling code into working software.
 

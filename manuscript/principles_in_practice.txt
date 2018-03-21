@@ -1,3 +1,5 @@
+# Principles in Practice
+
  
 On what do you base your design decisions—established conventions, past experience, or principles? Most software designers are pragmatic: if an approach suits the problem at hand, we use it. Standards and conventions come and go and change. When our team adopts them, we try to follow them. Although committed to design quality, we can't always articulate guiding principles that underlie what we accept as good practice. We aren't die-hard fanatics who live or die by a rigid set of principles. Yet we'd like to know reasonable design heuristics and when to apply them.
 

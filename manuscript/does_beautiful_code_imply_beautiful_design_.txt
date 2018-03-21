@@ -1,3 +1,5 @@
+# Does Beautiful Code Imply Beautiful Design?
+
  
 In the short piece, "Treating Code as an Essay," Yukijiro Matsumoto, chief designer of the Ruby programming language, compares writing programs to writing essays:
 

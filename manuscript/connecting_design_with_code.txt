@@ -1,3 +1,5 @@
+# Connecting Design with Code
+
  
 Jon Bentley wrote his thesis on divide-and-conquer algorithms and came to greatly admire C.A.R. Hoare's original quicksort algorithm. Yet for years, Bentley "tiptoed around its innermost loop" because he didn't understand it ( **Beautiful Code**, O'Reilly, 2007). It was only after he implemented his own quicksort based on an elegant partitioning scheme for **Programming Pearls** (Addison-Wesley, 1999) that he truly understood the reason for that inner loop. He also trimmed the original bulkier algorithm to a mere dozen tight lines of code.
 
