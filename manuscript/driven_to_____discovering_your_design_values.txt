@@ -1,0 +1,88 @@
+ 
+Today we have design or development approaches that are, for example, responsibility driven (RDD), test driven (TDD), behavior driven (BDD), domain driven (DDD), and model driven (MDD). Not all thought leaders in software development have been "driven"—Bertrand Meyer, for example, invented Design by Contract. But whether "driven" or not, these approaches all emphasize a core set of values and principles around which practices, techniques, and tools have emerged. A thoughtful designer should be able to pick and choose among practices without losing their essence. But not all practices are congruent. After stewing in this alphabet soup for years, I'm keen on exposing the common and complementary threads that are interwoven among various design practices.
+
+ 
+
+ 
+## Responsibility-driven design
+
+ 
+So how can you integrate various practices without watering them down or muddling your thinking with too many considerations? It's certainly easy if you have one belief system with one small set of coherent values and practices that guide your work. In 1989, Brian Wilkerson and I authored the paper "Object-Oriented Design: A Responsibility-Driven Approach." <sup><a href="https://www.computer.org/csdl/mags/so/2007/01/s1009.html#bibs10091">1</a></sup> For better or worse, we started the trend of tagging design approaches as "driven." To make our point, we oversimplistically divided object design approaches into two camps: those that focus first on structure and those that focus first on action (or responsibilities or behaviors). We argued that designers who first focus only on an object's structure fail to maximize encapsulation. Thinking too early about structure makes it too easy for implementation details to bleed into class interfaces.
+
+ 
+We contrasted two approaches for designing a <span class="monospace">RasterImage</span> class that represented a rectangular grid of pixels. (We wrote this paper when raster technology was new, and at the time we both worked at Tektronix, a leading provider of graphics workstations.) With a data-first approach, we started defining our <span class="monospace">RasterImage</span> class by declaring the image data structure and then adding methods to retrieve and set the image and query its dimensions. Voila!—a class where form and function were inextricably intertwined. The pixel grid data structure wasn't considered a private implementation detail. Next, we demonstrated how a designer could think differently about the problem by asking, "What actions could this object be responsible for?" and "What information should it share with others?" This led us to first define operations for our <span class="monospace">RasterImage</span> class to scale and rotate the image and access pixel values. The internal image representation, which we didn't specify until after we'd defined the interface, was considered a private detail.
+
+ 
+By consciously assigning most objects action-oriented responsibilities, you can design even seemingly data-centric objects to perform some actions as well as encapsulate structural details. Hiding that structure makes those details easier to change. To us it seemed that the order in which a designer considers things profoundly affects the resulting design—even for a class as straightforward as <span class="monospace">RasterImage</span>. To quote Samuel Alexander, the philosopher, "An object is not first imagined or thought about and then expected … but in being actively expected it is imagined as future and in being willed it is thought."
+
+ 
+Since those early days I've added the notion of role stereotypes, <sup><a href="https://www.computer.org/csdl/mags/so/2007/01/s1009.html#bibs10092">2</a></sup> acknowledging that not all objects are active. Information holders—objects with responsibility for maintaining data—have a place in a design, too. But encapsulating their private details is important.
+
+ 
+
+ 
+## Test-driven design
+
+ 
+RDD evolved in the highly interactive world of Smalltalk development, where developers routinely designed a little, coded a little, and tested a little in short cycles. The delightful tension of cycling between imagining what an object might do, building it, and then refining your ideas and cycling through your design again can lead to deep insights. This has led agile-programming thought leaders to promote test-driven development practices. Test-driven design emphasizes deciding on an interface and then writing code to test that interface, before implementing code to make the interface pass the test.
+
+ 
+In **Test-Driven Development by Example**, Martin Fowler claims that TDD "gives you this sense of keeping just one ball in the air at once, so you can concentrate on that ball properly and do a really good job with it." <sup><a href="https://www.computer.org/csdl/mags/so/2007/01/s1009.html#bibs10093">3</a></sup> With a design-test-code-reflect-refactor rhythm, good code emerges alongside well-designed interfaces.
+
+ 
+Linda Crispin explains that TDD isn't really about testing. <sup><a href="https://www.computer.org/csdl/mags/so/2007/01/s1009.html#bibs10094">4</a></sup> Instead, it's a practice that gets you thinking about as many aspects of a feature as you can before you code it. With frameworks such as Fit and Fitnesse, TDD has extended beyond its initial focus on just developers to enable nontechnical people to write concrete examples of inputs and expected results in tabular form. Programmers write test fixtures that use these behavioral specifications to test the code.
+
+ 
+As TDD practices have grown, new variants of them, along with newer testing frameworks, have emerged. Users of jMock use **mocks** that mimic unimplemented behaviors to drive out an appropriate distribution of responsibilities among collaborators. <sup><a href="https://www.computer.org/csdl/mags/so/2007/01/s1009.html#bibs10095">5</a></sup> They don't think that it's just about testing, either. Mocking lets you incrementally design and build software, hypothesizing and refining your ideas as you go.
+
+ 
+
+ 
+## Behavior-driven design
+
+ 
+BDD is another subtle refinement of TDD. BDD proponents firmly believe that how you talk about what you're doing influences how you work. The focus is on writing small behavior specifications to drive out the appropriate design. As Dave Astels puts it, "A major difference is vocabulary. Instead of subclassing <span class="monospace">TestCase</span> [as you would do using an xUnit framework], you subclass <span class="monospace">Context</span>. Instead of writing methods that start with <span class="monospace">test</span>, you start them with <span class="monospace">should</span>." <sup><a href="https://www.computer.org/csdl/mags/so/2007/01/s1009.html#bibs10096">6</a></sup> Testing, to BDD proponents, connotes verifying code after it's built. Instead, they want to encourage incremental design by writing small specifications, then implementing code that works according to spec.
+
+ 
+
+ 
+## Design by Contract
+
+ 
+In contrast, Design by Contract (DbC) has roots in formal specifications. To specify how they expect system elements to interact, designers write contracts specifying what must be true before a module can begin (preconditions), what must be preserved during its execution (invariants), and what it guarantees to be true after it completes (postconditions). You could specify contracts for components, services, or even individual methods. However, in practice, most contracts are written at the method level because existing programming languages and tools support work at that level. Writing contracts is easier if the languages and tools you use support them and you have good examples to emulate. The Eiffel language integrates contract support into the language and runtime environment; most other object-oriented languages don't.
+
+ 
+Before looking at Contract4J, a DbC tool for Java, I thought that specifying contracts for languages without built-in support would be clunky. However, using aspect technology, Contract4J automatically weaves aspect-specific contract tests, which are specified in method comments, into your running code. Contracts specified this way leave method code uncluttered with assertion statements and leave a nice documentation trail of how methods should be invoked.
+
+ 
+If you choose to, you could apply TDD practices to understand your classes' behaviors and then add contracts to methods whose behaviors you want verified at runtime. But I suspect these two communities differ considerably in their thinking. Some TDD proponents want to discourage after-the-fact verification, which to them seems antithetical to designing for quality. But adding contracts does tighten up how you use classes, theoretically making it easier to catch errors before they propagate.
+
+ 
+When you change your design, sometimes contracts will naturally change, too. But once your design ideas settle down, you can finalize or add contractual details. But does every method warrant a contract? Probably not. Methods that don't cause side effects probably don't need contracts. But I know I'd certainly find it easier to use class libraries if contract specifications were part of their documentation even if they weren't validated at runtime.
+
+ 
+
+ 
+## Domain-driven design
+
+ 
+What about incorporating DDD ideas into your design practice? According to Eric Evans, DDD isn't a technology or methodology but "a way of thinking and a set of priorities, aimed at accelerating software projects that have to deal with complicated domains" ( <span style="color:blue"><a href="http://www.domainlanguage.com/" target="_blank">www.domainlanguage.com/</a></span> ddd/index.html). A central activity in DDD is searching for the language that experts use to talk about the problem and then literally reflecting that language in classes and services in a domain layer. Eric believes that, "If developers don't realize that changing code changes the model, then their refactoring will weaken the model rather than strengthen it." Creating a domain model is intricately tied to expressing it in working code. Domain-driven design is an active, ongoing process of expressing this domain language in code.
+
+ 
+
+ 
+## Model-driven design
+
+ 
+In contrast, adherents of MDD (some call it **model-driven engineering** to avoid the Object Management Group trademarked term) first develop a platform-independent model of their system (usually in UML or a domain-specific language) before translation tools transform the model into platform-specific code. MDD practitioners strive to clearly represent system concepts and behaviors with the goal of producing an abstract model, not working code (the translation tools do that for them). This view of model building followed by transformation probably causes the great divide between MDD practitioners and other design schools—even though they share many common design values. After recently listening to and talking with several well-known MDD proponents who were discussing what constitutes well-designed classes, methods, and components, I found myself nodding in agreement with many of their design guidelines.
+
+ 
+
+ 
+## Conclusion
+
+ 
+How you design should be based on your principles and values. Although a big division exists between those who believe the act of coding is what validates the design and those who don't, you can learn many things about good design from each. My mantra has always been, "Be open to new ideas and techniques that make me a better designer." I side with Canadian politician Dan Miller, who proclaims, "You know, we have our differences, everybody does, honest, real differences, but I do believe strongly that we as neighbors are drawn together far more than we're driven apart."
+
+ 
+
